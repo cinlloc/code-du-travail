@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-07-23
+Version Consolidée au 1980-08-06
 ## Contenu: 
   - [Partie législative ancienne](#1)
     - [Livre Ier : Conventions relatives au travail](#2)
@@ -103966,6 +103966,28 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code du travail - art. D3141-2 (VT)
+
+
+###### Article D223-3
+
+Les préfets fixent dans leur départements, selon les régions ou groupes de localités, par arrêté pris sur proposition du
+directeur départemental du travail, la valeur des avantages et prestations en nature mentionnés à l'article L. 223-13. Pour
+les professions agricoles, ces arrêtés sont pris sur proposition du chef du service départemental du travail et de la
+protection sociale agricoles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L223-13
 
 
 ###### Article D223-4
