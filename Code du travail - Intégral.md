@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-03-30
+Version Consolidée au 1977-03-31
 ## Contenu: 
   - [Partie législative ancienne](#1)
     - [Livre Ier : Conventions relatives au travail](#2)
@@ -54540,6 +54540,30 @@ _Abrogé par_:
   - Décret n°88-972 du 11 octobre 1988 - art. 10 () JORF 13 octobre 1988
 
 
+###### Article R119-47
+
+L'alinéa 4 de l'article R. 119-36 entrera en vigueur le 1er Juillet 1978.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+  - Décret n°72-1208 du 27 décembre 1972 - art. 17 ()
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°88-972 du 11 octobre 1988 - art. 10 () JORF 13 octobre 1988
+
+_Cité par_:
+
+  - Code du travail - art. R119-36 (M)
+
+
 ##### D - Inspection de l'apprentissage<a id=570></a>
 
 ##### Dispositions générales.<a id=571></a>
@@ -79855,12 +79879,18 @@ _Anciens textes_:
 Les allocations d'aide publique ne sont attribuées aux demandeurs d'emploi qu'à l'expiration d'un délai de carence de trois
 jours.
 
-Le point de départ de ce délai est le jour de la rupture du contrat de travail ou de l'expiration du délai-congé.
+Le point de départ de ce délai est le jour de la rupture du contrat de travail ou de l'expiration du délai congé ou, en ce
+qui concerne les détenus libérés, de la libération.
 
-Le délai de carence n'est pas appliqué s'il s'agit d'admettre à nouveau au bénéfice de l'aide publique un allocataire ayant
-involontairement perdu son emploi moins de trois mois après l'avoir obtenu.
+Le délai de carence n'est pas appliqué dans les cas prévus aux 2. et 3. de l'article R. 351-1 ou s'il s'agit d'admettre à
+nouveau au bénéfice de l'aide publique un allocataire ayant involontairement perdu son emploi moins de trois mois après
+l'avoir obtenu.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
 
 _Cité par_:
 
@@ -79873,10 +79903,6 @@ _Anciens textes_:
 
   - Décret n°67-806 1967-09-25 ART. 10
   - Décret n°71-693 1971-08-17 ART. 3
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
 
 
 ###### Article R351-11
