@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-03-01
+Version Consolidée au 1974-03-15
 ## Contenu: 
   - [Partie législative ancienne](#1)
     - [Livre Ier : Conventions relatives au travail](#2)
