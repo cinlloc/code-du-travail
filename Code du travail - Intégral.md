@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-01-25 00:00:01 +0100
+Version Consolidée au 1981-01-29
 ## Contenu: 
   - [Partie législative ancienne](#1)
     - [Livre Ier : Conventions relatives au travail](#2)
@@ -176,1254 +176,1255 @@ Version Consolidée au 1981-01-25 00:00:01 +0100
         - [DUREE DU TRAVAIL](#173)
           - [DISPOSITIONS GENERALES.](#174)
           - [AMENAGEMENT DU TEMPS DE TRAVAIL .](#175)
-          - [HEURES SUPPLEMENTAIRES .](#176)
-          - [DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .](#177)
-        - [DUREE](#178)
-          - [HEURES SUPPLEMENTAIRES .](#179)
-      - [REPOS HEBDOMADAIRE .](#180)
-      - [CONGES ANNUELS](#181)
-        - [DUREE DU CONGE .](#182)
-        - [INDEMNITES DE CONGE.](#183)
-      - [HYGIENE ET SECURITE .](#184)
-        - [DISPOSITIONS GENERALES.](#185)
-        - [HYGIENE .](#186)
-    - [Livre II : REGLEMENT DU TRAVAIL](#187)
-      - [Titre II : CONGES](#188)
-        - [Chapitre VI : CONGES POUR EVENEMENTS FAMILIAUX.](#189)
-    - [REGLEMENTATION DU TRAVAIL HYGIENE ET SECURITE .](#190)
-    - [Livre III : Placement et emploi](#191)
-      - [Titre Ier : Placement](#192)
-        - [Chapitre préliminaire.](#193)
-        - [Chapitre Ier : Service public du placement](#194)
-          - [Section 1 : Organismes qui concourent au service public du placement.](#195)
-        - [Chapitre II : Placement privé](#196)
-          - [Section 1 : Placement gratuit.](#197)
-          - [Section 2 : Placement payant.](#198)
-          - [Section 3 : Dispositions communes](#199)
-      - [Titre II : Emploi](#200)
-        - [Chapitre Ier : CONTROLE DE L'EMPLOI .](#201)
-        - [Chapitre II : Fonds national de l'emploi](#202)
-          - [Section 1 : Fonds national de l'emploi.](#203)
-          - [PRIME DE MOBILITE DES JEUNES](#204)
-          - [SECTION 3 : CHOMAGE PARTIEL.](#205)
-        - [Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs](#206)
-          - [Section 2 : Dispositions propres aux travailleurs handicapés](#207)
-          - [Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés en milieu ordinaire de travail.](#208)
-        - [Chapitre IV : Cumuls d'emplois](#209)
-          - [Travail clandestin](#210)
-          - [Section 1 : Cumuls d'emplois.](#211)
-          - [Section 2 : Travail clandestin.](#212)
-      - [Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale](#213)
-        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère](#214)
-          - [Section 1 : Travailleurs étrangers](#215)
-          - [(en vigueur jusqu'au 1er janvier 2007 au plus tard)](#216)
-      - [Titre IV : MAIN-D'OEUVRE ETRANGERE](#217)
-        - [Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#218)
-          - [SECTION 1 : TRAVAILLEURS ETRANGERS.](#219)
-          - [SECTION 2 : OFFICE NATIONAL D'IMMIGRATION *ONI*.](#220)
-      - [Chapitre II : Protection de la main-d'oeuvre nationale.](#221)
-      - [Titre V : TRAVAILLEURS PRIVES D'EMPLOI](#222)
-        - [Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI](#223)
-          - [SECTION 1 : DISPOSITIONS GENERALES.](#224)
-          - [SECTION 2 : DISPOSITIONS FINANCIERES.](#225)
-          - [SECTION 3 : DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS.](#226)
-          - [SECTION 4 : DISPOSITIONS DIVERSES.](#227)
-        - [SECTION 1 : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI.](#228)
-        - [Chapitre Ier : GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI](#229)
-          - [SECTION 1 : DISPOSITIONS GENERALES](#230)
-        - [Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 1 : DISPOSITIONS GENERALES](#231)
-        - [Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance des travailleurs privés d'emploi.](#232)
-        - [Chapitre II : REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES D'EMPLOI.](#233)
-      - [Titre VI : PENALITES](#234)
-        - [Chapitre Ier : PLACEMENT](#235)
-        - [Chapitre II : Emploi](#236)
-          - [Section 1 : Dispositions régissant l'emploi de certaines catégories de travailleurs](#237)
-          - [Travailleurs handicapés.](#238)
-          - [SECTION 2 : CUMUL D'EMPLOI ET TRAVAIL CLANDESTIN](#239)
-        - [Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale.](#240)
-        - [Chapitre V : Travailleurs privés d'emploi.](#241)
-    - [Livre III : PLACEMENT](#242)
-      - [Titre Ier : PLACEMENT](#243)
-        - [Chapitre Ier : SERVICE PUBLIC DU PLACEMENT.](#244)
-        - [Chapitre II : PLACEMENT PRIVE](#245)
-          - [SECTION 2 : PLACEMENT PAYANT.](#246)
-    - [Livre III : EMPLOI](#247)
-      - [Titre II : EMPLOI](#248)
-        - [Chapitre Ier : CONTROLE DE L'EMPLOI.](#249)
-        - [Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#250)
-          - [SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE ET ASSIMILES.](#251)
-          - [SECTION 2 : TRAVAILLEURS HANDICAPES](#252)
-          - [SOUS-SECTION 1 : DISPOSITIONS GENERALES.](#253)
-          - [SOUS-SECTION 2 : DISPOSITIONS GENERALES.](#254)
-          - [SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.](#255)
-          - [SOUS-SECTION 4 : TRAVAIL PROTEGE.](#256)
-          - [SOUS-SECTION 5 : COMMISSION DEPARTEMENTALE DES HANDICAPES.](#257)
-          - [SOUS-SECTION 6 : DISPOSITIONS D'EXECUTION.](#258)
-          - [SECTION 2 bis : HANDICAPES SOCIAUX.](#259)
-          - [SECTION 3 : EMPLOI OBLIGATOIRE DES PERES DE FAMILLE.](#260)
-        - [Chapitre IV : TRAVAIL CLANDESTIN](#261)
-          - [SECTION 2 : TRAVAIL CLANDESTIN.](#262)
-    - [EMPLOI](#263)
-      - [CONTROLE DE L'EMPLOI .](#264)
-      - [FONDS NATIONAL DE L'EMPLOI .](#265)
-      - [PRIME DE MOBILITE DES JEUNES .](#266)
-      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#267)
-        - [TRAVAILLEURS HANDICAPES .](#268)
-          - [PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES .](#269)
-      - [TRAVAIL CLANDESTIN .](#270)
-    - [PLACEMENT ET EMPLOI](#271)
-      - [DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#272)
-        - [TRAVAILLEURS ETRANGERS .](#273)
-      - [TRAVAILLEURS PRIVES D'EMPLOI](#274)
-        - [GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .](#275)
-          - [DISPOSITIONS GENERALES](#276)
-          - [DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .](#277)
-          - [CREATIONS D'ENTREPRISES PAR LES SALARIES PRIVES D'EMPLOI.](#278)
-        - [REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS ET  RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES  D'EMPLOI .](#279)
-    - [Livre 3 : PLACEMENT ET EMPLOI](#280)
-      - [Titre 6 : PENALITES](#281)
-        - [Chapitre 4 : MAIN-D'OEUVRE ETRANGERE ET PROTECTION DE LA MAIN-D'OEUVRE NATIONALE](#282)
-    - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#283)
-      - [Titre Ier : Les syndicats professionnels](#284)
-        - [Chapitre préliminaire.](#285)
-        - [Chapitre Ier : Statut juridique des syndicats](#286)
-          - [Section 1 : Objet et constitution.](#287)
-          - [Section 2 : Capacité civile.](#288)
-          - [Section 3 : Unions de syndicats.](#289)
-        - [Chapitre II : Exercice du droit syndical dans les entreprises](#290)
-          - [Section 1 : Dispositions générales.](#291)
-        - [Chapitre III : Marques syndicales.](#292)
-      - [Titre III : Les comités d'entreprise](#293)
-        - [Chapitre VII : Amélioration des conditions de travail.](#294)
-        - [Chapitre VIII : Bilan social.](#295)
-      - [Titre IV : Intéressement et participation](#296)
-        - [Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise.](#297)
-        - [Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises](#298)
-          - [Section 1 : Régime obligatoire de participation des travailleurs aux fruits de l'expansion dans les entreprises de plus de cent salariés.](#299)
-          - [Section 3 : Dispositions diverses.](#300)
-        - [Chapitre III : Plans d'épargne d'entreprise.](#301)
-      - [Titre VI : PENALITES](#302)
-        - [Chapitre Ier : LES SYNDICATS PROFESSIONNELS](#303)
-          - [SECTION 1 : STATUT JURIDIQUE DES SYNDICATS](#304)
-          - [SECTION 2 : EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES ET MARQUES SYNDICALES](#305)
-        - [Chapitre II : LES DELEGUES DU PERSONNEL](#306)
-        - [Chapitre III : LES COMITES D'ENTREPRISE](#307)
-        - [Chapitre III : COMITE D'ENTREPRISE](#308)
-    - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](#309)
-      - [LES SYNDICATS PROFESSIONNELS](#310)
-        - [STATUT JURIDIQUE DES SYNDICATS](#311)
-          - [OBJET ET CONSTITUTION .](#312)
-          - [CAPACITE CIVILE .](#313)
-          - [UNIONS DE SYNDICATS .](#314)
-        - [EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES](#315)
-          - [DISPOSITIONS GENERALES .](#316)
-          - [SECTIONS SYNDICALES .](#317)
-          - [DELEGUES SYNDICAUX .](#318)
-      - [LES DELEGUES DU PERSONNEL .](#319)
-      - [LES COMITES D'ENTREPRISE](#320)
-        - [CHAMP D'APPLICATION .](#321)
-        - [ATTRIBUTIONS ET POUVOIRS .](#322)
-        - [COMPOSITION ET ELECTIONS .](#323)
-        - [FONCTIONNEMENT .](#324)
-        - [COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .](#325)
-        - [CONDITIONS DE LICENCIEMENT DES REPRESENTANTS DU PERSONNEL .](#326)
-        - [BILAN SOCIAL .](#327)
-      - [INTERESSEMENT ET PARTICIPATION](#328)
-        - [ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE .](#329)
-        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES](#330)
-          - [REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES .](#331)
-          - [REGIME DES ENTREPRISES NON SOUMISES AU REGIME DE PARTICIPATION  DES TRAVAILLEURS AUX FRUITS DE L'EXPANSION DES ENTREPRISES DE PLUS  DE CENT SALARIES .](#332)
-        - [PLANS D'EPARGNE D'ENTREPRISE .](#333)
-      - [EDUCATION OUVRIERE ET FORMATION SYNDICALE](#334)
-        - [CONGE D'EDUCATION OUVRIERE .](#335)
-        - [FORMATION ECONOMIQUE ET SOCIALE DES TRAVAILLEURS APPELES A  EXERCER DES FONCTIONS SYNDICALES .](#336)
-    - [CONFLITS DU TRAVAIL](#337)
-      - [CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES](#338)
-        - [ATTRIBUTIONS ET INSTITUTION DES CONSEILS DE PRUD'HOMMES](#339)
-        - [ATTRIBUTION ET INSTITUTION DES CONSEILS DE PRUD'HOMMES .](#340)
-        - [ORGANISATION ET FONCTIONNEMENT DES CONSEILS DE PRUD'HOMMES.](#341)
-        - [ORGANISATION ET FONCTIONNEMMENT DES CONSEILS DE PRUD'HOMMES.](#342)
-        - [ELECTION DES CONSEILLERS PRUD'HOMMES](#343)
-          - [ELIGIBILITE.](#344)
-          - [ETABLISSEMENT DES LISTES ELECTORALES.](#345)
-          - [SCRUTIN, INSTALLATION DES CONSEILLERS PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES.](#346)
-        - [STATUT DES CONSEILLERS PRUD'HOMMES](#347)
-        - [BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE](#348)
-        - [DEPENSES DES CONSEILS DE PRUD'HOMMES](#349)
-        - [DISPOSITIONS FINALES](#350)
-      - [CONFLITS COLLECTIFS](#351)
-        - [LA GREVE .](#352)
-          - [GREVE DANS LES SERVICES PUBLICS .](#353)
-        - [DISPOSITIONS GENERALES CONCERNANT LES PROCEDURES DE REGLEMENT DES  CONFLITS COLLECTIFS DU TRAVAIL .](#354)
-        - [CONCILIATION .](#355)
-          - [CONCILIATION DANS CERTAINS ETABLISSEMENTS PUBLICS ET DANS LES  ENTREPRISES PUBLIQUES A STATUT .](#356)
-        - [MEDIATION .](#357)
-        - [ARBITRAGE](#358)
-          - [L'ARBITRE .](#359)
-          - [LA COUR SUPERIEURE D'ARBITRAGE .](#360)
-        - [EXECUTION DES ACCORDS DE CONCILIATION ET DES SENTENCES ARBITRALES .](#361)
-      - [PENALITES](#362)
-        - [CONFLITS COLLECTIFS .](#363)
-    - [Livre V : Conflits du travail](#364)
-      - [Titre Ier : Conflits individuels - Conseils de prud'hommes](#365)
-        - [Chapitre Ier : Attributions et institution des conseils de prud'hommes.](#366)
-        - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.](#367)
-        - [Chapitre III : Election des conseillers prud'hommes](#368)
-          - [Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.](#369)
-        - [Chapitre IV : Statut des conseillers prud'hommes.](#370)
-        - [Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.](#371)
-        - [Chapitre VI : Procédure devant les conseils de prud'hommes.](#372)
-        - [Chapitre VIII : Récusation.](#373)
-        - [Chapitre X : Dépenses des conseils de prud'hommes.](#374)
-      - [Titre Ier : Conflits individuels](#375)
-        - [Conseils de prud'hommes](#376)
-          - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.](#377)
-          - [Chapitre IV : Statut des conseillers prud'hommes.](#378)
-          - [Chapitre VI : Procédure devant les conseils de prud'hommes.](#379)
-          - [Chapitre XI : Dispositions applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](#380)
-      - [Titre II : Conflits collectifs](#381)
-        - [Chapitre Ier : La grève](#382)
-          - [Section 2 : Grève dans les services publics.](#383)
-        - [Chapitre IV : Médiation.](#384)
-        - [Chapitre V : Arbitrage](#385)
-          - [Section 2 : La Cour supérieure d'arbitrage.](#386)
-      - [TITRE III : PENALITES](#387)
-        - [CHAPITRE Ier : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES](#388)
-    - [CONFLITS DE TRAVAIL](#389)
-      - [CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES](#390)
-        - [ELECTION DES CONSEILLERS PRUD'HOMMES](#391)
-          - [ELECTORAT.](#392)
-    - [CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL](#393)
-      - [SERVICES DE CONTROLE](#394)
-        - [INSPECTION DU TRAVAIL .](#395)
-      - [OBLIGATIONS DES EMPLOYEURS .](#396)
-    - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](#397)
-      - [Titre Ier : Services de contrôle](#398)
-        - [Chapitre Ier : Inspection du travail.](#399)
-        - [Chapitre II : Inspection médicale du travail.](#400)
-      - [Titre II : Obligations des employeurs.](#401)
-      - [Titre III : Pénalités](#402)
-        - [Chapitre Ier : Services de contrôle.](#403)
-    - [Livre VII : Dispositions particulières à certaines professions](#404)
-      - [Titre Ier : Energie - Industries extractives](#405)
-        - [Chapitre Ier : Mines et carrières](#406)
-          - [Section 1 : Conditions de travail.](#407)
-          - [Section 2 : Hygiène et sécurité - Services médicaux.](#408)
-        - [Chapitre II : Délégués mineurs](#409)
-          - [Section 1](#410)
-          - [Paragraphe 1 : Fonctions des délégués mineurs du fond.](#411)
-          - [Paragraphe 2 : Circonscriptions.](#412)
-          - [Paragraphe 3 : Elections](#413)
-          - [Paragraphe 4 : Dispositions spéciales.](#414)
-          - [Section 2 : Délégués permanents de la surface.](#415)
-          - [Section 3 : Dispositions communes.](#416)
-      - [Titre Ier : Energie](#417)
-        - [Industries extractives](#418)
-          - [Chapitre Ier : Mines et carrières](#419)
-          - [Section 2 : Hygiène et sécurité](#420)
-          - [Services médicaux.](#421)
-      - [Titre II : Industries de transformation](#422)
-        - [Chapitre Ier : Travailleurs à domicile](#423)
-          - [Section 1 : Dispositions générales.](#424)
-          - [Section 3 : Salaires.](#425)
-          - [Section 4 : Règlement des litiges.](#426)
-          - [Section 5 : Dispositions spéciales à l'agriculture.](#427)
-          - [Section 6 : Hygiène et sécurité.](#428)
-          - [Section 1: Règlements de comptes entre les maîtres d'atelier et les négociants.](#429)
-        - [Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes](#430)
-          - [Section 1 : Tissage et bobinage.](#431)
-          - [Section 2 : Coupe de velours de coton, teinture, blanchiment et apprêts des étoffes.](#432)
-      - [Titre III : Bâtiments et travaux publics](#433)
-        - [Chapitre Ier : Indemnisation des travailleurs du bâtiment et des travaux publics privés d'emploi par suite d'intempéries.](#434)
-      - [Titre IV : Transports et télécommunications](#435)
-        - [Chapitre II : Marins.](#436)
-        - [Chapitre III : Personnel des entreprises de manutention des ports.](#437)
-      - [Titre V : Voyageurs, représentants et placiers.](#438)
-      - [Titre VI : Journalistes, artistes, mannequins](#439)
-        - [Chapitre Ier : Journalistes professionnels](#440)
-          - [Section 1 : Dispositions générales.](#441)
-          - [Section 2 : Résiliation du contrat.](#442)
-          - [Section 3 : Rémunération et congés.](#443)
-          - [Section 4 : Carte d'identité professionnelle.](#444)
-        - [Chapitre II : Artistes, auteurs, compositeurs, gens de lettres](#445)
-          - [Section 2 : Artistes de spectacles : contrat, rémunération, placement](#446)
-          - [Paragraphe 1 : Contrat.](#447)
-          - [Paragraphe 2 : Rémunération.](#448)
-          - [Paragraphe 3 : Placement.](#449)
-        - [Chapitre III : Mannequins.](#450)
-      - [Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistantes maternelles](#451)
-        - [Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.](#452)
-        - [Chapitre II : Employés de maison.](#453)
-        - [Chapitre III : Assistantes maternelles](#454)
-          - [Section 1 : Dispositions générales.](#455)
-          - [Section 2 : Dispositions spéciales aux personnes employées par des particuliers.](#456)
-          - [Section 3 : Dispositions spéciales aux personnes employées par des personnes morales de droit privé.](#457)
-      - [Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises](#458)
-        - [Chapitre Ier : Catégories particulières de travailleurs.](#459)
-        - [Chapitre II : Gérants non-salariés des succursales de maisons d'alimentation de détail.](#460)
-        - [Chapitre III : Halles centrales de Paris.](#461)
-      - [Titre IX : Pénalités](#462)
-        - [Chapitre Ier : Energie, industries extractives](#463)
-          - [Section 1 : Mines et carrières.](#464)
-          - [Section 2 : Délégués mineurs.](#465)
-        - [Chapitre II : Industries de transformation](#466)
-          - [Section 1 : Travailleurs à domicile.](#467)
-          - [Section 2 : Moyens de constater les conventions relatives au salaire en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes.](#468)
-        - [Chapitre III : Bâtiment et travaux publics.](#469)
-        - [Chapitre V : Voyageurs, représentants et placiers.](#470)
-        - [Chapitre VI : Journalistes, artistes, mannequins](#471)
-          - [Section 1 : Journalistes professionnels.](#472)
-          - [Section 2 : Artistes, auteurs, compositeurs, gens de lettres, artistes du spectacle.](#473)
-    - [DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS](#474)
-      - [ENERGIE - INDUSTRIES EXTRACTIVES](#475)
-        - [DELEGUES MINEURS](#476)
-          - [FONCTIONS DES DELEGUES MINEURS DU FOND .](#477)
-      - [INDUSTRIES DE TRANSFORMATION](#478)
-        - [TRAVAILLEURS A DOMICILE .](#479)
-          - [SALAIRES .](#480)
-      - [BATIMENTS ET TRAVAUX PUBLICS](#481)
-        - [INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .](#482)
-      - [TRANSPORTS ET TELECOMMUNICATIONS](#483)
-        - [MARINS .](#484)
-      - [VOYAGEURS, REPRESENTANTS ET PLACIERS *VRP* .](#485)
-      - [ARTISTES, AUTEURS, COMPOSITEURS, GENS DE LETTRES](#486)
-        - [ARTISTES DE SPECTACLE](#487)
-          - [PLACEMENT .](#488)
-      - [CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .](#489)
-      - [ASSISTANTES MATERNELLES.](#490)
-      - [ASSISTANCES MATERNELLES](#491)
-        - [DISPOSITIONS SPECIALES AUX PERSONNES EMPLOYEES PAR DES PERSONNES MORALES DE DROIT PRIVE.](#492)
-      - [DISPOSITIONS RELATIVES A CERTAINES CATEGORIES DE TRAVAILLEURS ET D'ENTREPRISES](#493)
-        - [GERANTS NON-SALARIES DES SUCCURSALES DE MAISONS D'ALIMENTATION DE  DETAIL .](#494)
-    - [Livre VIII : Dispositions spéciales aux départements d'outre-mer](#495)
-      - [Titre préliminaire.](#496)
-      - [Titre Ier : Conventions relatives au travail](#497)
-        - [Chapitre Ier : Contrat d'apprentissage.](#498)
-        - [Chapitre IV : Salaires](#499)
-          - [Section 1 : Salaire minimum de croissance.](#500)
-      - [Titre II : Réglementation du travail](#501)
-        - [Chapitre Ier : Durée du travail.](#502)
-        - [Chapitre II : Services médicaux du travail.](#503)
-      - [Titre III : Placement et emploi](#504)
-        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.](#505)
-        - [Chapitre II : Emploi](#506)
-          - [Section 1 : Protection de la main-d'oeuvre nationale.](#507)
-          - [Section 2 : Prime de mobilité des jeunes.](#508)
-          - [Section 3 : Cumuls d'emplois et travail clandestin.](#509)
-        - [Chapitre III : Garantie de ressources des travailleurs privés d'emploi.](#510)
-      - [Titre VIII : Pénalités](#511)
-        - [Chapitre II : Réglementation du travail.](#512)
-    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#513)
-      - [PLACEMENT ET EMPLOI](#514)
-        - [DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .](#515)
-    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.](#516)
-      - [Titre Ier : Des institutions de la formation professionnelle.](#517)
-      - [Titre II : Des conventions de formation professionnelle.](#518)
-      - [Titre IV : De l'aide de l'Etat.](#519)
-      - [Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collectivités locales.](#520)
-    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE .](#521)
-      - [DISPOSITIONS RELATIVES A LA PROMOTION INDIVIDUELLE ET AUX CONGES DE FORMATION .](#522)
-      - [CONVENTIONS DE FORMATION PROFESSIONNELLE .](#523)
-      - [DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.](#524)
-      - [PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION  PROFESSIONNELLE  CONTINUE .](#525)
-      - [AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION  PROFESSIONNELLE .](#526)
-      - [DISPOSITIONS RELATIVES AUX AGENTS DE L'ETAT ET AUX AGENTS DES  COLLECTIVITES LOCALES .](#527)
-      - [PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .](#528)
-    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#529)
-      - [Titre II : CONVENTIONS DE FORMATION PROFESSIONNELLE .](#530)
-      - [Titre V : PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .](#531)
-      - [Titre V :DE LA PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.](#532)
-      - [Titre VIII : PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .](#533)
-    - [FORMATION PROFESSIONNELLE DANS LE CADRE DE L'EDUCATION PERMANENTE](#534)
-      - [DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.](#535)
-      - [DE LA PROMOTION INDIVIDUELLE ET DU CENTRE DE FORMATION.](#536)
-      - [DE LA FORMATION INDIVIDUELLE ET DU CONGE DE FORMATION.](#537)
-  - [Partie réglementaire ancienne - Décrets en Conseil d'Etat](#538)
-    - [Livre Ier : Conventions relatives au travail](#539)
-      - [Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus avant le 1er juillet 1972](#540)
-        - [Chapitre Ier : Etablissement du contrat.](#541)
-        - [Chapitre II : Devoirs des maîtres et des apprentis.](#542)
-        - [Chapitre III : Compétence.](#543)
-      - [Titre Ier : CONTRAT D'APPRENTISSAGE](#544)
-        - [Dispositions applicables aux contrats conclus à partir du 1er juillet 1972](#545)
-          - [Chapitre VI : Des centres de formation d'apprentis](#546)
-          - [Section 1 : Des conventions portant création de centres de formation d'apprentis](#547)
-          - [Paragraphe 2 : De l'organisation des centres.](#548)
-          - [Paragraphe 3 : Du fonctionnement pédagogique des centres.](#549)
-          - [Paragraphe 4 : De l'organisation financière des centres.](#550)
-          - [Section 2 : De la conclusion et du renouvellement des conventions.](#551)
-          - [Section 3 : Des conventions-cadre d'apprentissage.](#552)
-          - [Section 4 : Du personnel des centres de formation d'apprentis.](#553)
-          - [Section 5 : Du contrôle des centres de formation d'apprentis.](#554)
-          - [Chapitre VII : Du contrat d'apprentissage](#555)
-          - [Paragraphe 1 : De l'agrément de l'employeur.](#556)
-          - [Paragraphe 4 : Du contenu des contrats d'apprentissage.](#557)
-          - [Paragraphe 5 : De l'enregistrement du contrat d'apprentissage.](#558)
-          - [Paragraphe 6 : Cas de l'apprenti employé par un ascendant.](#559)
-          - [Paragraphe 7 : Constatation de l'aptitude de l'apprenti.](#560)
-          - [Chapitre IX : DISPOSITIONS DIVERSES](#561)
-          - [A - DISPOSITIONS FINANCIERES.](#562)
-          - [B - Mesures provisoires d'adaptation en matière d'apprentissage](#563)
-          - [Section 1 : Des accords provisoires](#564)
-          - [Paragraphe 4 : Dispositions relatives au personnel.](#565)
-          - [Section 4 : Dispositions transitoires relatives aux examens de fin d'apprentissage.](#566)
-          - [C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](#567)
-          - [D - Inspection de l'apprentissage](#568)
-          - [Dispositions générales.](#569)
-          - [E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.](#570)
-          - [B - Mesures provisoires d'adaptation en matière d'apprentissage](#571)
-          - [Section 1 : Des accords provisoires](#572)
-          - [Paragraphe 1 : Dispositions générales.](#573)
-          - [Paragraphe 3 : Des accords de transformation et des avenants d'adaptation.](#574)
-          - [Paragraphe 4 : Dispositions relatives au personnel.](#575)
-          - [Section 2 : Dispositions transitoires relatives à l'agrément des employeurs.](#576)
-          - [Section 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.](#577)
-          - [C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin, et de la Moselle.](#578)
-          - [D - Inspection de l'apprentissage](#579)
-          - [Dispositions générales.](#580)
-          - [E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.](#581)
-        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*](#582)
-          - [Chapitre VI : DES FORMATION D'APPRENTIS](#583)
-          - [SECTION 1 : DES CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS](#584)
-          - [PARAGRAPHE 1 : DISPOSITIONS GENERALES.](#585)
-          - [Chapitre VI : DES CENTRES DE FORMATION D' APPRENTIS](#586)
-          - [SECTION 1 : DES CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS](#587)
-          - [PARAGRAPHE 1 : DISPOSITIONS GENERALES.](#588)
-          - [PARAGRAPHE 2 : DE L'ORGANISATION DES CENTRES .](#589)
-          - [PARAGRAPHE 3 : FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .](#590)
-          - [SECTION 4 : DU PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .](#591)
-          - [Chapitre VII : DU CONTRAT D'APPRENTISSAGE](#592)
-          - [PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR .](#593)
-          - [PARAGRAPHE 2 : DE LA DUREE DE L'APPRENTISSAGE .](#594)
-          - [PARAGRAPHE 3 : AVIS D'ORIENTATION - CERTIFICAT MEDICAL .](#595)
-          - [PARAGRAPHE 6 : CAS DE L'APPRENTI EMPLOYE PAR UN ASCENDANT .](#596)
-          - [Chapitre VIII : DES ATTRIBUTIONS DES CHAMBRES DE COMMERCE ET D'INDUSTRIE DES CHAMBRES DE METIERS ET DES CHAMBRES D'AGRICULTURE EN MATIERE D'APPRENTISSAGE .](#597)
-          - [Chapitre IX : DISPOSITIONS DIVERSES](#598)
-          - [C - MESURES PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN, ET DE LA MOSELLE .](#599)
-          - [PARAGRAPHE 1 : MESURES D'ADAPTATION CONCERNANT LES DISPOSITIONS D'APPLICATION PERMANENTE DE LA LOI SUR L'APPRENTISSAGE .](#600)
-          - [PARAGRAPHE 2 : MESURES D'ADAPTATION CONCERNANT LES DISPOSITIONS TRANSITOIRES .](#601)
-          - [D - INSPECTION DE L'APPRENTISSAGE](#602)
-          - [DISPOSITIONS GENERALES.](#603)
-          - [DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .](#604)
-          - [E - AMENAGEMENTS AU BENEFICE DES PERSONNES HANDICAPEES DES DISPOSITIONS RELATIVES A L'APPRENTISSAGE.](#605)
-        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS AVANT LE 1ER JUILLET 1972](#606)
-          - [Chapitre VII : DU CONTRAT D'APPRENTISSAGE](#607)
-          - [PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR.](#608)
-      - [Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972](#609)
-        - [Chapitre VII : Du contrat d'apprentissage](#610)
-          - [Paragraphe 4 : Du contenu des contrats d'apprentissage.](#611)
-        - [Chapitre IX : Dispositions diverses](#612)
-          - [A - Dispositions financières.](#613)
-          - [D - Inspection de l'apprentissage](#614)
-          - [Dispositions générales.](#615)
-          - [Dispositions particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](#616)
-          - [E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.](#617)
-      - [Titre II : Contrat de travail](#618)
-        - [Chapitre II : Contrat de travail](#619)
-          - [Section 1 : Règles générales.](#620)
-          - [Section 2 : Service national.](#621)
-          - [Section 3 : Protection de la maternité et éducation des enfants.](#622)
-        - [Chapitre IV : Travail temporaire](#623)
-          - [Section 1 : Déclarations et justifications à fournir à l'autorité administrative.](#624)
-          - [Section 3 : Dispositions spéciales à certaines entreprises de travail temporaire et dispositions transitoires.](#625)
-          - [Section 4 : Règles applicables à la garantie financière exigée des entreprises de travail temporaire et à la substitution de l'utilisateur à l'entreprise de travail temporaire en cas de défaillance de celle-ci](#626)
-          - [Paragraphe 1 : Dispositions générales.](#627)
-          - [Paragraphe 2 : Dispositions particulières aux différents modes de garantie.](#628)
-          - [Paragraphe 3 : Mise en oeuvre de la garantie.](#629)
-          - [Paragraphe 4 : Substitution de l'utilisateur à l'entrepreneur de travail temporaire en cas de  défaillance de celui-ci.](#630)
-          - [Paragraphe 5 : Cessation de la garantie.](#631)
-        - [Chapitre V : Marchandage.](#632)
-        - [Chapitre VI : Cautionnements.](#633)
-      - [Titre III : Conventions collectives de travail](#634)
-        - [Chapitre V : Exécution de la convention.](#635)
-      - [Titre IV : Salaire](#636)
-        - [Chapitre préliminaire : Egalité de rémunération entre les hommes et les femmes.](#637)
-        - [Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale](#638)
-          - [Section 1 : Salaire minimum de croissance.](#639)
-          - [Section 2 : Rémunération mensuelle minimale](#640)
-          - [Dispositions générales](#641)
-          - [Paragraphe 1 : Allocation complémentaire versée au salarié.](#642)
-          - [Paragraphe 2 : Remboursement par l'Etat.](#643)
-          - [Dispositions particulières à certaines catégories.](#644)
-        - [Chapitre Ier : Salaire minimum de croissance](#645)
-          - [Rémunération mensuelle minimale.](#646)
-          - [Section 2 : Rémunération mensuelle minimale](#647)
-          - [Dispositions particulières à certaines catégories.](#648)
-        - [Chapitre III : Paiement du salaire](#649)
-          - [Section 1 : Mode de paiement du salaire.](#650)
-          - [SECTION 1 : MODE DU PAIEMENT DU SALAIRE .](#651)
-        - [Chapitre V : Saisie-arrêt et cession des rémunérations dues par un employeur](#652)
-          - [Section 2 : Procédure de cession et de saisie-arrêt.](#653)
-        - [Chapitre VII : Règles particulières au contrôle et à la répartition des pourboires.](#654)
-      - [Titre V : Pénalités](#655)
-        - [Chapitre II : Contrat de travail](#656)
-          - [Section 1 : Louage de services](#657)
-          - [Paragraphe 1 : Dispositions générales.](#658)
-          - [Paragraphe 2 : Règles particulières aux personnes intéressées par le service national, aux jeunes gens astreints aux obligations imposées par le service préparatoire et aux hommes rappelés au service national.](#659)
-          - [Paragraphe 3 : Règles particulières à la protection de la maternité et à l'éducation des enfants](#660)
-          - [Section 3 : Marchandage.](#661)
-          - [Section 4 : Cautionnement.](#662)
-        - [Chapitre III : CONVENTIONS COLLECTIVES](#663)
-        - [Chapitre IV : Salaires](#664)
-          - [Section préliminaire : Egalité de rémunération entre les hommes et les femmes](#665)
-          - [Section 1 : Salaire minimum de croissance et rémunération mensuelle minimale garantie](#666)
-          - [Section 2 : Prime de transport.](#667)
-          - [Section 3 : Paiement du salaire](#668)
-          - [Section 4 : Retenues sur le salaire](#669)
-    - [Livre II : Réglementation du travail](#670)
-      - [Chapitre préliminaire](#671)
-        - [Section 2 : Agence nationale pour l'amélioration des conditions de travail.](#672)
-      - [Titre Ier : Conditions du travail](#673)
-        - [Chapitre Ier : Age d'admission.](#674)
-        - [Chapitre II : Durée du travail](#675)
-          - [Section 2 : Heures supplémentaires](#676)
-          - [A - Dispositions concernant les dérogations exceptionnelles à la durée du travail.](#677)
-          - [Paragraphe 1 : Dérogations à la durée maximale hebdomadaire moyenne.](#678)
-          - [Paragraphe 2 : Dérogations à la durée maximale hebdomadaire absolue](#679)
-          - [B - Dispositions concernant la procédure d'autorisation des heures supplémentaires.](#680)
-          - [C - Dispositions communes.](#681)
-        - [Chapitre III : Travail de nuit.](#682)
-      - [Titre II : Repos et congés](#683)
-        - [Chapitre Ier : Repos hebdomadaire](#684)
-          - [Section 1 : Dispositions générales.](#685)
-        - [Chapitre II : Jours fériés.](#686)
-        - [Chapitre III : Congés annuels.](#687)
-        - [Chapitre IV : Repos des femmes en couches et des femmes allaitant leurs enfants](#688)
-          - [Section 1 : Périodes de repos.](#689)
-          - [Section 2 : Local où l'enfant est simplement allaité.](#690)
-          - [Section 3 : Chambres d'allaitement.](#691)
-      - [Titre II : CONGES](#692)
-        - [Chapitre V : CONGES NON REMUNERES.](#693)
-      - [Titre III : Hygiène et sécurité](#694)
-        - [Chapitre Ier : Dispositions générales](#695)
-          - [Section 1 : Comités d'hygiène et de sécurité.](#696)
-          - [Section 2 : Mises en demeure de l'inspection du travail.](#697)
-          - [SECTION 3 : ORGANES CONSULTATIFS CENTRAUX](#698)
-          - [Sous-section 2 : Commission nationale d'hygiène et de sécurité du travail en agriculture.](#699)
-          - [Section 4 : Formation à la sécurité.](#700)
-          - [Sous-section 1 : Dispositions générales.](#701)
-          - [Sous-section 2 : De la formation à la sécurité de certaines catégories de salariés.](#702)
-          - [Sous-section 4 : De l'organisation et du contrôle.](#703)
-          - [Section 5 : Substances et préparations dangereuses pour les travailleurs](#704)
-          - [Sous-section 1 : Réglementation des substances et préparations dangereuses pour les travailleurs.](#705)
-          - [SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.](#706)
-          - [Sous-section 3 : Dispositions diverses.](#707)
-          - [SECTION 5 : SUBSTANCES ET PREPARATIONS DANGEREUSES POUR LES LES TRAVAILLEURS](#708)
-          - [SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.](#709)
-        - [Chapitre III : Sécurité](#710)
-          - [Section 1 : Objets pesants.](#711)
-          - [Section 2 : Machines et appareils dangereux.](#712)
-          - [Section 3 : Prévention des incendies](#713)
-          - [Sous-section 1 : Classements des matières inflammables.](#714)
-          - [Sous-section 2 : Eclairage et chauffage des locaux.](#715)
-          - [Sous-section 3 : Issues et dégagements.](#716)
-          - [Sous-section 4 : Moyens de lutte contre l'incendie.](#717)
-          - [Section 4 : Dispositions diverses.](#718)
-          - [Section 5 : Mesures d'application.](#719)
-          - [Section 6 : Procédures de contrôle des appareils, machines, éléments de machines, protecteurs de machines, dispositifs, équipements et produits de protection](#720)
-          - [Sous-section 1 : Dispositions générales.](#721)
-          - [Sous-section 4 : Prescriptions applicables aux matériels en service ou usagés.](#722)
-          - [Sous-section 5 : Dispositions communes.](#723)
-          - [SECTION 8 : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.](#724)
-        - [Chapitre IV : Dispositions particulières aux femmes et aux jeunes travailleurs.](#725)
-          - [Section 1 : Hygiène.](#726)
-          - [Section 2 : Limitation des charges.](#727)
-          - [Section 3 : Travaux interdits aux femmes.](#728)
-          - [Section 4 : Travaux interdits aux jeunes travailleurs.](#729)
-      - [Titre III : HYGIENE](#730)
-        - [Chapitre II : HYGIENE](#731)
-          - [SECTION 1 : LOCAUX AFFECTES AU TRAVAIL](#732)
-          - [SOUS-SECTION 1 : AERATION, ASSAINISSEMENT.](#733)
-          - [SOUS-SECTION 1 : AERATION.](#734)
-          - [SOUS-SECTION 2 : CHAUFFAGE.](#735)
-          - [SOUS-SECTION 4 : PROTECTION CONTRE LES INTEMPERIES.](#736)
-          - [SOUS-SECTION 5 : INSONORISATION.](#737)
-          - [SOUS-SECTION 6 : NETTOYAGE.](#738)
-          - [SOUS-SECTION 7 : ASSAINISSEMENT.](#739)
-          - [SECTION 2 : REPAS, BOISSONS.](#740)
-          - [SECTION 3 : INSTALLATIONS SANITAIRES.](#741)
-          - [SECTION 4 : SIEGES.](#742)
-          - [SECTION 5 : COUCHAGE .](#743)
-          - [SECTION 6 : MESURES D'APPLICATION](#744)
-        - [Chapitre II : HYGIENE SECTION 4 : SIEGES.](#745)
-        - [Chapitre II : HYGIENE SECTION 5 : COUCHAGE.](#746)
-      - [Titre III : SECURITE](#747)
-        - [Chapitre III : SECURITE](#748)
-          - [SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION](#749)
-          - [SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE.](#750)
-          - [HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL.](#751)
-          - [VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE.](#752)
-          - [DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.](#753)
-          - [DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL](#754)
-          - [VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.](#755)
-          - [SOUS-SECTION 3 : PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE.](#756)
-          - [SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES.](#757)
-          - [SOUS-SECTION 5 : DISPOSITIONS COMMUNES *PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE ET PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES*.](#758)
-          - [SOUS-SECTION 6 : DISPOSITIONS DIVERSES.](#759)
-          - [SECTION 6 :PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENT DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION](#760)
-          - [SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE](#761)
-          - [DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.](#762)
-          - [SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION](#763)
-          - [SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES](#764)
-      - [Titre V : Service social du travail.](#765)
-      - [Titre VI : Pénalités](#766)
-        - [Chapitre préliminaire.](#767)
-        - [Chapitre Ier : Conditions du travail](#768)
-          - [Section 1 : Age d'admission](#769)
-          - [Paragraphe 1 : Dispositions générales](#770)
-          - [Section 2 : Durée du travail](#771)
-          - [Paragraphe 1 : Dispositions générales](#772)
-          - [Paragraphe 2 : Heures supplémentaires.](#773)
-          - [Paragraphe 3 : Dispositions relatives aux femmes et aux jeunes travailleurs.](#774)
-          - [Section 3 : Travail de nuit.](#775)
-        - [Chapitre II : Repos et congés](#776)
-          - [Section 1 : Repos hebdomadaire.](#777)
-          - [Section 2 : Jours fériés](#778)
-          - [Paragraphe 1 : Dispositions générales.](#779)
-          - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai.](#780)
-          - [Section 3 : Congés annuels.](#781)
-          - [Section 4 : Repos des femmes en couches.](#782)
-          - [Section 5 : Congés non rémunérés.](#783)
-        - [Chapitre III : Hygiène et sécurité](#784)
-        - [Chapitre IV : Médecine du travail](#785)
-        - [Chapitre V : Service social du travail](#786)
-    - [CONVENTIONS RELATIVES AU TRAVAIL](#787)
-      - [CONTRAT D'APPRENTISSAGE](#788)
-        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*](#789)
-          - [CENTRES DE FORMATION D' APPRENTIS](#790)
-          - [CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS](#791)
-          - [FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .](#792)
-          - [ORGANISATION FINANCIERE DES CENTRES .](#793)
-          - [CONCLUSION ET RENOUVELLEMENT DES CONVENTIONS .](#794)
-          - [CONVENTIONS-CADRE D' APPRENTISSAGE .](#795)
-          - [PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .](#796)
-          - [CONTROLE DES CENTRES DE FORMATION D'APPRENTIS .](#797)
-          - [CONTRAT D'APPRENTISSAGE](#798)
-          - [DUREE DE L'APPRENTISSAGE .](#799)
-          - [INSPECTION DE L'APPRENTISSAGE .](#800)
-      - [CONTRAT DE TRAVAIL](#801)
-        - [TRAVAIL TEMPORAIRE](#802)
-          - [INFORMATIONS A FOURNIR EN APPLICATION DES ARTICLES L. 124-11 ET L. 124-12 .](#803)
-      - [(LOUAGE DE SERVICE)](#804)
-        - [CONTRAT DE TRAVAIL](#805)
-          - [REGLEMENT INTERIEUR .](#806)
-      - [(LOUAGE SE SERVICE)](#807)
-        - [CONTRAT DE TRAVAIL](#808)
-          - [REGLEMENT INTERIEUR .](#809)
-      - [CONVENTIONS COLLECTIVES DE TRAVAIL](#810)
-        - [NATURE ET VALIDITE DE LA CONVENTION COLLECTIVE .](#811)
-        - [EXTENSION DES CONVENTIONS COLLECTIVES .](#812)
-        - [EXECUTION DE LA CONVENTION COLLECTIVE .](#813)
-        - [COMMISSION SUPERIEURE DES CONVENTIONS COLLECTIVES .](#814)
-      - [SALAIRE](#815)
-        - [SAISIE-ARRET ET CESSION DES REMUNERATIONS DUES PAR UN EMPLOYEUR .](#816)
-          - [PROCEDURE DE CESSION ET DE SAISIE ARRET .](#817)
-      - [PENALITES](#818)
-        - [CONTRAT DE TRAVAIL](#819)
-          - [TRAVAIL TEMPORAIRE .](#820)
-    - [Livre III : Placement et emploi](#821)
-      - [Titre Ier : Placement](#822)
-        - [Chapitre II : Placement privé](#823)
-          - [Section 1 : Placement gratuit.](#824)
-          - [Section 2 : Placement payant.](#825)
-      - [Titre II : Emploi](#826)
-        - [Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs](#827)
-          - [Section 2 : Travailleurs handicapés](#828)
-          - [Sous-section 2 : Préorientation des travailleurs handicapés.](#829)
-          - [Sous-section 4 : Education, rééducation professionnelle et réentraînement au travail.](#830)
-          - [SOUS-SECTION 8 : APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.](#831)
-        - [Chapitre IV : Cumuls d'emploi et travail clandestin](#832)
-          - [Section 2 : Travail clandestin.](#833)
-      - [Titre IV : MAIN-D'OEUVRE ETRANGERE](#834)
-        - [Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#835)
-          - [SECTION 2 : OFFICE NATIONAL D'IMMIGRATION](#836)
-          - [PARAGRAPHE 1 : DISPOSITIONS GENERALES.](#837)
-          - [SECTION 2 : OFFICE NATIONAL D'IMMIGRATION *ONI*](#838)
-          - [PARAGRAPHE 2 : ADMINISTRATION ET DIRECTION.](#839)
-          - [PARAGRAPHE 3 : ATTRIBUTIONS DU CONSEIL D'ADMINISTRATION ET DU DIRECTEUR.](#840)
-          - [PARAGRAPHE 2 : ATTRIBUTIONS DU CONSEIL D'ADMINISTRATION ET DU DIRECTEUR.](#841)
-          - [PARAGRAPHE 4 : SERVICES ADMINISTRATIFS.](#842)
-          - [PARAGRAPHE 5 : SERVICES ADMINISTRATIFS.](#843)
-          - [PARAGRAPHE 5 : DISPOSITIONS FINANCIERES ET COMPTABLES.](#844)
-      - [Titre IV : Main d'oeuvre étrangère et protection de la main-d'oeuvre nationale](#845)
-        - [Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère](#846)
-          - [Section 1 : Travailleurs étrangers.](#847)
-        - [Chapitre II : Protection de la main-d'oeuvre nationale.](#848)
-      - [Titre V : Travailleurs privés d'emploi](#849)
-        - [Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi](#850)
-          - [Section 1 : Privation totale d'emploi](#851)
-          - [SOUS-SECTION 2 : CONTROLE.](#852)
-        - [Chapitre II : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI](#853)
-          - [SECTION 1 : PRIVATION TOTALE D'EMPLOI](#854)
-          - [SOUS-SECTION 2 : CONTROLE.](#855)
-          - [SOUS-SECTION 3 : OBLIGATIONS DES EMPLOYEURS.](#856)
-          - [SOUS-SECTION 4 : DISPOSITIONS DIVERSES.](#857)
-      - [Titre VI : Pénalités](#858)
-        - [Chapitre Ier : Placement](#859)
-          - [Section 1 : Service public du placement.](#860)
-          - [Section 2 : Placement privé](#861)
-        - [Chapitre II : Emploi](#862)
-          - [Section 2 : Dispositions régissant l'emploi de certaines catégories de travailleurs : les travailleurs handicapés](#863)
-          - [Section 3 : Cumuls d'emploi et travail clandestin.](#864)
-        - [Chapitre IV : MAIN D'OEUVRE ETRANGERE](#865)
-          - [PARAGRAPHE 1 : DISPOSITIONS SPECIALES A LA MAIN D'OEUVRE ETRANGERE](#866)
-        - [Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale](#867)
-          - [Paragraphe 2 : Protection de la main-d'oeuvre nationale](#868)
-        - [Chapitre V : Travailleurs privés d'emploi.](#869)
-    - [REGLEMENTATION DU TRAVAIL](#870)
-      - [AGENCE NATIONALE POUR L'AMELIORATION DES CONDITIONS DE TRAVAIL .](#871)
-      - [CONDITIONS DU TRAVAIL](#872)
-        - [DUREE DU TRAVAIL](#873)
-          - [DISPOSITIONS RELATIVES AUX FEMMES .](#874)
-      - [HYGIENE ET SECURITE](#875)
-        - [ORGANES CONSULTATIFS CENTRAUX](#876)
-          - [CONSEIL SUPERIEUR DE LA PREVENTION DES RISQUES PROFESSIONNELS .](#877)
-        - [SECURITE](#878)
-          - [MESURES D'APPLICATION .](#879)
-          - [SECTION VII : MATERIELS AUXQUELS S'APPLIQUENT LES DISPOSITIONS DU PREMIER ALINEA DE L'ARTICLE L. 233-5](#880)
-          - [SOUS-SECTION I - MACHINES ET APPAREILS.](#881)
-          - [SECTION VIII : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.](#882)
-      - [HYGIENE](#883)
-        - [LOCAUX AFFECTES AU TRAVAIL](#884)
-          - [ECLAIRAGE.](#885)
-        - [MESURES D'APPLICATION.](#886)
-      - [MEDECINE DU TRAVAIL](#887)
-      - [SERVICE SOCIAL DU TRAVAIL .](#888)
-    - [Livre III : PLACEMENT](#889)
-      - [Titre Ier : PLACEMENT](#890)
-        - [Chapitre Ier : SERVICE PUBLIC DE L'EMPLOI.](#891)
-        - [Chapitre II : PLACEMENT PRIVE](#892)
-          - [SECTION 3 : DISPOSITIONS COMMUNES.](#893)
-    - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#894)
-      - [Titre Ier : Les syndicats professionnels](#895)
-        - [Chapitre Ier : Statut juridique des syndicats.](#896)
-      - [Titre III : Les comités d'entreprise](#897)
-        - [Chapitre IV : Fonctionnement.](#898)
-        - [Chapitre VII : Amélioration des conditions de travail.](#899)
-        - [Chapitre VIII : Bilan social.](#900)
-      - [Titre IV : Intéressement et participation](#901)
-        - [Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise](#902)
-          - [Section 1 : Contrat d'intéressement ou d'association.](#903)
-          - [Section 2 : Contrat d'intéressement à la productivité.](#904)
-        - [Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises](#905)
-          - [Section 1 : Réserve spéciale de participation des travailleurs](#906)
-          - [Paragraphe 1 : Entreprises tenues de constituer une réserve spéciale de participation.](#907)
-          - [Paragraphe 2 : Modalités de calcul de la réserve spéciale.](#908)
-          - [Paragraphe 3 : Modalités de répartition de la réserve spéciale.](#909)
-          - [Paragraphe 4 : Modalités de gestion de la réserve spéciale.](#910)
-          - [Section 2 : Accords passés entre les entreprises et leur personnel.](#911)
-          - [Section 3 : Information des salariés.](#912)
-          - [Section 4 : Dispositions diverses.](#913)
-          - [Section 5 : Dispositions particulières aux sociétés coopératives ouvrières de production.](#914)
-          - [Section 6 : Dispositions particulières aux entreprises publiques et aux sociétés nationales.](#915)
-        - [Chapitre III : Plan d'épargne d'entreprise.](#916)
-          - [Section 1 : Dispositions générales.](#917)
-          - [Section 2 : Composition et gestion du portefeuille.](#918)
-      - [Titre V : Education ouvrière et formation syndicale](#919)
-        - [Chapitre Ier : Congés d'éducation ouvrière.](#920)
-      - [Titre VI : Pénalités](#921)
-        - [Chapitre Ier : Les syndicats professionnels.](#922)
-        - [Chapitre V : Education ouvrière et formation syndicale.](#923)
-    - [Livre III : EMPLOI](#924)
-      - [Titre II : EMPLOI](#925)
-        - [Chapitre Ier : CONTROLE DE L'EMPLOI](#926)
-          - [SECTION 1 : DISPOSITIONS GENERALES.](#927)
-          - [SECTION 2 : DISPOSITIONS SPECIALES.](#928)
-        - [Chapitre II : FONDS NATIONAL DE L'EMPLOI](#929)
-          - [SECTION 1 : CONVENTIONS DE COOPERATION](#930)
-          - [A : CONVENTIONS DE FORMATION.](#931)
-        - [Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#932)
-          - [SECTION 1 : MUTILES DE GUERRE](#933)
-          - [SOUS-SECTION 1 : OBLIGATIONS DES EMPLOYEURS.](#934)
-          - [SOUS-SECTION 1 : OBLIGATIONS DE EMPLOYEURS.](#935)
-          - [SOUS-SECTION 2 : REGIME DE REDEVANCES.](#936)
-          - [SOUS-SECTION 3 : MUTILES DE GUERRE.](#937)
-          - [SOUS-SECTION 4 : MUTILES DE GUERRE.](#938)
-          - [SECTION 2 : TRAVAILLEURS HANDICAPES](#939)
-          - [SOUS-SECTION 1 : DISPOSITIONS GENERALES.](#940)
-        - [Chapitre Ier : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#941)
-          - [SECTION 1 : MUTILES DE GUERRE](#942)
-          - [SOUS-SECTION 1 : OBLIGATIONS DES EMPLOYEURS.](#943)
-      - [Titre IV : MAIN-D'OEUVRE ETRANGERE](#944)
-        - [Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#945)
-          - [SECTION 2 : OFFICE NATIONAL D'IMMIGRATION](#946)
-          - [PARAGRAPHE 1 : DISPOSITIONS GENERALES.](#947)
-      - [Titre VI : PENALITES](#948)
-        - [Chapitre II : EMPLOI](#949)
-          - [SECTION 1 : CONTROLE DE L'EMPLOI](#950)
-    - [EMPLOI](#951)
-      - [CONTROLE DE L'EMPLOI .](#952)
-      - [FONDS NATIONAL DE L'EMPLOI .](#953)
-        - [CONVENTIONS DE COOPERATION](#954)
-          - [CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS  D'ALLOCATIONS SPECIALES .](#955)
-        - [AIDES A LA MOBILITE GEOGRAPHIQUE](#956)
-          - [PRIME DE TRANSFERT ET INDEMNITE DE REINSTALLATION .](#957)
-          - [AUTRES AIDES A LA MOBILITE .](#958)
-      - [PRIME DE MOBILITE DES JEUNES .](#959)
-      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS](#960)
-        - [MUTILES DE GUERRE](#961)
-          - [OBLIGATIONS DES EMPLOYEURS .](#962)
-        - [TRAVAILLEURS HANDICAPES .](#963)
-          - [CENTRES DE PREORIENTATION ET EQUIPES DE PREPARATION ET DE SUITE DU RECLASSEMENT.](#964)
-          - [READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET  REENTRAINEMENT AU TRAVAIL .](#965)
-          - [PRIORITE D'EMPLOI ET DE PLACEMENT DES TRAVAILLEURS HANDICAPES .](#966)
-          - [TRAVAIL PROTEGE](#967)
-          - [EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS .](#968)
-          - [PARAGRAPHE 1 : EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS.](#969)
-          - [ETABLISSEMENTS SPECIALISES .](#970)
-          - [ETABLISSEMENTS PROTEGES.](#971)
-          - [LABELS .](#972)
-          - [SUBVENTION D'INSTALLATION.](#973)
-          - [COMMISSION DEPARTEMENTALE DES HANDICAPES .](#974)
-          - [DISPOSITIONS D'EXECUTION .](#975)
-          - [DISPOSITIONS APPLICABLES AUX ADMINISTRATIONS ET ENTREPRISES  PREVUES A L'ARTICLE L323-12 PARAGRAPHE 4 .](#976)
-          - [ACCESSION AUX EMPLOIS RESERVES .](#977)
-          - [ACCESSION AUX EMPLOIS PUBLICS PAR CONCOURS .](#978)
-          - [APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.](#979)
-          - [APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.](#980)
-    - [PLACEMENT ET EMPLOI](#981)
-      - [AGENCE NATIONALE POUR L'EMPLOI.](#982)
-      - [MAIN-DOEUVRE ETRANGERES](#983)
-        - [TRAVAILLEURS ETRANGERS .](#984)
-      - [MAIN-DOEUVRE ETRANGERE](#985)
-        - [TRAVAILLEURS ETRANGERS .](#986)
-        - [OFFICE NATIONAL D'IMMIGRATION *ONI* .](#987)
-          - [ADMINISTRATION ET DIRECTION .](#988)
-          - [DISPOSITIONS FINANCIERES ET COMPTABLES .](#989)
-      - [TRAVAILLEURS PRIVES D'EMPLOI](#990)
-        - [GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI](#991)
-          - [PRIVATION TOTALE D'EMPLOI](#992)
-          - [CONDITIONS D'OUVERTURE DU DROIT AUX PRESTATIONS.](#993)
-          - [CONTROLE.](#994)
-          - [OBLIGATIONS DES EMPLOYEURS.](#995)
-          - [PRIVATION PARTIELLE D'EMPLOI.](#996)
-        - [GARANTIES DE RESSOURCES](#997)
-          - [ALLOCATION POUR PERTE D'EMPLOI .](#998)
-    - [Livre V : Conflits du travail](#999)
-      - [Titre Ier : Conflits individuels](#1000)
-        - [Conseils de prud'hommes](#1001)
-          - [Chapitre XI : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.](#1002)
-          - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes](#1003)
-          - [Section 1 : Organisation et fonctionnement de la juridiction.](#1004)
-          - [Section 2 : Organisation et fonctionnement du secrétariat-greffe.](#1005)
-      - [Titre Ier : Conflits individuels - Conseils de prud'hommes](#1006)
-        - [Chapitre Ier : Attributions et institution des conseils de prud'hommes.](#1007)
-        - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes](#1008)
-          - [Section 1 : Organisation et fonctionnement de la juridiction.](#1009)
-          - [Section 2 : Organisation et fonctionnement du secrétariat-greffe.](#1010)
-        - [Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.](#1011)
-        - [Chapitre VI : Procédure devant les conseils de prud'hommes.](#1012)
-          - [Section 1 : Recevabilité des demandes.](#1013)
-          - [Section 2 : Assistance et représentation des parties.](#1014)
-          - [Section 3 : Saisine du conseil des prud'hommes.](#1015)
-          - [Section 5 : Le conseiller rapporteur.](#1016)
-          - [Section 6 : Le jugement.](#1017)
-          - [Section 7 : Le référé prud'homal.](#1018)
-          - [Section 8 : L'exécution des jugements.](#1019)
-          - [Section 9 : Dispositions générales et diverses.](#1020)
-        - [Chapitre VII : Compétence des conseils de prud'hommes et voies de recours contre leurs décisions](#1021)
-          - [Section 1 : Compétence.](#1022)
-          - [Section 2 : Ouverture des voies de recours.](#1023)
-          - [Section 4 : L'appel.](#1024)
-          - [Section 5 : Le pourvoi en cassation.](#1025)
-        - [Chapitre VIII : Récusations.](#1026)
-        - [Chapitre IX : Emoluments, indemnités et droits alloués aux huissiers et témoins](#1027)
-          - [Section 1 : Huissiers de justice.](#1028)
-          - [Section 2 : Témoins.](#1029)
-      - [Titre II : Conflits collectifs](#1030)
-        - [Chapitre III : Conciliation](#1031)
-          - [Section 3 : Composition des commissions de conciliation](#1032)
-          - [Section 4 : Fonctionnement des commissions de conciliation.](#1033)
-          - [Section 5 : Commissions de conciliation dans les professions agricoles.](#1034)
-        - [Chapitre IV : Médiation](#1035)
-          - [Section 1 : Procédure de médiation.](#1036)
-      - [Titre III : Pénalités](#1037)
-        - [Chapitre II : Conflits collectifs](#1038)
-          - [Section 2 : Exécution des sentences arbitrales et des accords intervenus au cours de procédures de conciliation ou de médiation.](#1039)
-    - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](#1040)
-      - [LES SYNDICATS PROFESSIONNELS](#1041)
-        - [EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .](#1042)
-      - [LES DELEGUES DU PERSONNEL .](#1043)
-      - [LES COMITES D'ENTREPRISE](#1044)
-        - [ATTRIBUTIONS ET POUVOIRS DANS LE DOMAINE SOCIAL](#1045)
-          - [PERSONNALITE CIVILE .](#1046)
-          - [INSTITUTIONS SOCIALES D'ENTREPRISES .](#1047)
-          - [GESTION DES OEUVRES SOCIALES .](#1048)
-          - [COMITES INTERENTREPRISES .](#1049)
-          - [FINANCEMENT DES OEUVRES SOCIALES .](#1050)
-        - [COMPOSITION ET ELECTIONS .](#1051)
-        - [CONDITIONS DE LICENCIEMENT DES MEMBRES DES COMITES D'ENTREPRISE  ET DES DELEGUES DU PERSONNEL .](#1052)
-      - [INTERESSEMENT ET PARTICIPATION](#1053)
-        - [ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE](#1054)
-          - [CONTRAT D'INTERESSEMENT OU D'ASSOCIATION .](#1055)
-        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES](#1056)
-          - [RESERVE SPECIALE DE PARTICIPATION DES TRAVAILLEURS](#1057)
-          - [MODALITES DE CALCUL DE LA RESERVE SPECIALE .](#1058)
-          - [MODALITES DE GESTION DE LA RESERVE SPECIALE .](#1059)
-        - [PLAN D'EPARGNE D'ENTREPRISE](#1060)
-          - [COMPOSITION ET GESTION DU PORTEFEUILLE .](#1061)
-    - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1062)
-      - [Titre Ier : Services de contrôle](#1063)
-        - [Chapitre Ier : Inspection du travail.](#1064)
-      - [Titre II : Obligations des employeurs.](#1065)
-      - [Titre III : Pénalités](#1066)
-        - [Chapitre Ier : Services de contrôle](#1067)
-        - [Chapitre II : OBLIGATIONS DES EMPLOYEURS](#1068)
-    - [Livre VII : Dispositions particulières à certaines professions](#1069)
-      - [Titre Ier : Energie - Industries extractives](#1070)
-        - [Chapitre Ier : Mines et carrières](#1071)
-          - [Section 1 : Conditions de travail.](#1072)
-        - [Chapitre II : Délégués mineurs](#1073)
-          - [Section 1 : Délégués mineurs du fond](#1074)
-          - [Paragraphe 1 : Fonctions des délégués mineurs.](#1075)
-          - [Paragraphe 2 : Circonscriptions.](#1076)
-          - [Paragraphe 3 : Elections.](#1077)
-          - [Paragraphe 4 : Dispositions spéciales.](#1078)
-          - [Section 2 : Délégués mineurs de la surface](#1079)
-          - [Paragraphe 1 : Fonctions des délégués mineurs de la surface.](#1080)
-          - [Paragraphe 2 : Circonscriptions.](#1081)
-          - [Paragraphe 3 : Elections.](#1082)
-          - [Paragraphe 4 : Dispositions spéciales.](#1083)
-          - [Section 3 : Dispositions communes aux délégués mineurs du fond et aux délégués de la surface](#1084)
-          - [Paragraphe 1 : Généralités.](#1085)
-          - [Paragraphe 2 : Application de l'alinéa final de l'article L. 712-13.](#1086)
-      - [Titre II : Industries de transformation et d'élaboration](#1087)
-        - [Chapitre Ier : Travailleurs à domicile](#1088)
-          - [Section 1 : Dispositions générales.](#1089)
-          - [Section 2 : Contrat de travail.](#1090)
-          - [Section 3 : Salaires.](#1091)
-          - [Section 4 : Règlement des litiges.](#1092)
-          - [Section 5 : Dispositions spéciales à l'agriculture.](#1093)
-          - [Section 6 : Hygiène et sécurité.](#1094)
-        - [Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, de blanchiment et apprêts des étoffes](#1095)
-          - [Section 1 : Tissage et bobinage.](#1096)
-          - [Section 2 : Coupe du velours de coton, teinture, blanchiment et apprêts des étoffes](#1097)
-        - [Chapitre III : Règlements de comptes entre les maîtres d'atelier et les négociants.](#1098)
-      - [Titre III : Bâtiment et travaux publics](#1099)
-        - [Chapitre Ier : Indemnisation des travailleurs du bâtiment et des travaux publics privés d'emploi par suite d'intempéries.](#1100)
-      - [Titre IV : Transports et télécommunications.](#1101)
-        - [Chapitre II : Marins.](#1102)
-          - [Section 1 : Conventions relatives au travail.](#1103)
-          - [PARAGRAPHE 1 : CONVENTIONS COLLECTIVES DE TRAVAIL .](#1104)
-          - [SECTION 3 : REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL](#1105)
-          - [PARAGRAPHE 1 : CONCILIATION .](#1106)
-          - [PARAGRAPHE 2 : MEDIATION .](#1107)
-          - [PARAGRAPHE 3 : ARBITRAGE .](#1108)
-          - [SECTION 4 : CONTROLE .](#1109)
-          - [Section 6 : Aide publique aux marins privés d'emploi.](#1110)
-        - [Chapitre III : Personnels des entreprises de manutention des ports](#1111)
-          - [Section 2 : Participation des salariés des entreprises de manutention des ports maritimes aux fruits de l'expansion.](#1112)
-          - [Section 3 : Amélioration des conditions de travail](#1113)
-          - [Paragraphe 1 : Commission paritaire spéciale.](#1114)
-      - [SECTION 3 : TRANSPORTS ET TELECOMMUNICATIONS](#1115)
-        - [Chapitre II : MARINS](#1116)
-          - [SECTION 3 : REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL](#1117)
-          - [PARAGRAPHE 1 : CONCILIATION .](#1118)
-          - [PARAGRAPHE 2 : MEDIATION .](#1119)
-      - [Titre V : Voyageurs, représentants et placiers du commerce et de l'industrie.](#1120)
-      - [Titre VI : Journalistes, artistes, mannequins](#1121)
-        - [Chapitre Ier : Journalistes professionnels](#1122)
-          - [Section 2 : Résiliation de contrat.](#1123)
-          - [Section 3 : Rémunération et congés.](#1124)
-          - [Section 4 : Carte d'identité professionnelle](#1125)
-          - [Paragraphe 1 : Carte d'identité de journaliste professionnel.](#1126)
-          - [Paragraphe 2 : Carte d'identité de journaliste professionnel honoraire](#1127)
-        - [Chapitre II : Artistes, auteurs, compositeurs, gens de lettres](#1128)
-          - [Section 2 : Artistes du spectacle](#1129)
-          - [Paragraphe 3 : Placement.](#1130)
-      - [Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison](#1131)
-        - [Chapitre Ier : Congés annuels.](#1132)
-        - [Chapitre II : Litiges nés du contrat de travail.](#1133)
-        - [Chapitre III : Surveillance médicale](#1134)
-          - [Section 1 : Organisation de la surveillance médicale.](#1135)
-          - [Section 2 : Examens médicaux.](#1136)
-      - [Titre IX : Pénalités](#1137)
-        - [Chapitre Ier : Energie, industries extractives](#1138)
-          - [Section 1 : Mines et carrières.](#1139)
-          - [Section 2 : Délégués mineurs.](#1140)
-        - [Chapitre II : Industries de transformation](#1141)
-          - [Section 1 : Travailleurs à domicile](#1142)
-          - [Section 2 : Moyens de constater les conventions relatives aux salaires en matière de tissage, bobinage, de coupe de velours, de coton, de teinture, blanchiment et apprêts des étoffes](#1143)
-        - [Chapitre III : Bâtiment et travaux publics.](#1144)
-        - [Chapitre V : Voyageurs, représentants et placiers.](#1145)
-        - [Chapitre VI : Journalistes, artistes, mannequins](#1146)
-          - [Section 1 : Journalistes professionnels.](#1147)
-          - [Section 2 : Artistes, auteurs, compositeurs, gens de lettres.](#1148)
-        - [Chapitre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison.](#1149)
-        - [Chapitre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises (Halles de Paris)](#1150)
-    - [DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS](#1151)
-      - [ENERGIE - INDUSTRIES EXTRACTIVES](#1152)
-        - [MINES ET CARRIERES](#1153)
-          - [HYGIENE ET SECURITE](#1154)
-          - [COMITES D'HYGIENE ET DE SECURITE.](#1155)
-      - [ENERGIE - INDUSTRIES EXCTRACTIVES](#1156)
-        - [MINES ET CARRIERES](#1157)
-          - [HYGIENE ET SECURITE](#1158)
-          - [COMITES D'HYGIENE ET DE SECURITE.](#1159)
-      - [BATIMENT ET TRAVAUX PUBLICS](#1160)
-        - [INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .](#1161)
-      - [TRANSPORTS ET TELECOMMUNICATIONS](#1162)
-        - [MARINS](#1163)
-          - [REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL](#1164)
-          - [CONCILIATION .](#1165)
-      - [JOURNALISTES PROFESSIONNELS](#1166)
-        - [CARTE D'IDENTITE PROFESSIONNELLE](#1167)
-          - [CARTE D'IDENTITE DE JOURNALISTE PROFESSIONNEL .](#1168)
-          - [CARTE D'IDENTITE DE JOURNALISTE PROFESSIONNEL HONORAIRE .](#1169)
-    - [Livre VIII : Dispositions spéciales aux départements d'outre-mer](#1170)
-      - [Titre III : Placement et emploi](#1171)
-        - [Chapitre Ier : Dispositions particulières à la main-d'oeuvre étrangère.](#1172)
-        - [Chapitre III : Garantie de ressources des travailleurs sans emploi.](#1173)
-      - [Titre VIII : Pénalités](#1174)
-        - [Chapitre Ier : Conventions relatives au travail](#1175)
-        - [Chapitre II : Réglementation du travail](#1176)
-        - [Chapitre III : Placement et emploi](#1177)
-    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#1178)
-      - [CONFLITS DU TRAVAIL](#1179)
-        - [EMOLUMENTS, INDEMNITES, DROITS ALLOUES AUX GREFFIERS EN CHEF, HUISSIERS ET TEMOINS.](#1180)
-    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](#1181)
-      - [Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale.](#1182)
-      - [Titre IV.](#1183)
-      - [Titre VII : Modalités d'application des articles L. 970-1, L. 970-2, L. 970-3](#1184)
-        - [Section 1 : Modalités d'application des dispositions de l'article L. 970-1.](#1185)
-        - [Section 2 : Modalités d'application des dispositions de l'article L. 970-2.](#1186)
-          - [Sous-section 1 : Actions de formation organisées à l'initiative de l'administration en vue de la formation professionnelle continue des fonctionnaires.](#1187)
-          - [Sous-section 2 : Cycles de formation, stages ou autres actions offerts ou agréés par l'administration en vue de la préparation aux concours administratifs.](#1188)
-          - [Sous-section 3 : Actions de formation choisies par les fonctionnaires en vue de leur formation personnelle.](#1189)
-        - [Section 3 : Modalités d'application de l'article L. 970-3.](#1190)
-          - [Sous-section 1 : Actions de formation organisées à l'initiative de l'administration.](#1191)
-          - [Sous-section 2 : Participation des agents non titulaires aux cycles ou stages offerts ou agréés par l'administration en vue de la préparation aux concours administratifs et aux examens professionnels.](#1192)
-    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1193)
-      - [COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .](#1194)
-      - [DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.](#1195)
-      - [DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-2.](#1196)
-      - [MESURES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-11.](#1197)
-      - [MESURES D'APPLICATION DE L'ARTICLE L930-2 .](#1198)
-      - [MESURES D'APPLICATION DE L'ARTICLE L. 930-1-12.](#1199)
-      - [MESURE D'APPLICATION DE L'ARTICLE L. 930-2](#1200)
-      - [MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10](#1201)
-        - [DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA  FORMATION PROFESSIONNELLE CONTINUE .](#1202)
-        - [CONSULTATION DU COMITE D'ENTREPRISE .](#1203)
-        - [DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU  FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .](#1204)
-        - [CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .](#1205)
-      - [MODALITES D'APPLICATION DE L'ARTICLE L970-3](#1206)
-        - [PARTICIPATION DES AGENTS NON TITULAIRES AUX CYCLES OU STAGES  OFFERTS OU AGREES PAR L'ADMINISTRATION EN VUE DE LA PREPARATION AUX  CONCOURS ADMINISTRATIFS ET AUX EXAMENS PROFESSIONNELS .](#1207)
-        - [ACTIONS CHOISIES PAR LES AGENTS NON TITULAIRES EN VUE DE LEUR  FORMATION PERSONNELLE .](#1208)
-        - [PARTICIPATION DES AGENTS NON TITULAIRES EXERCANT A PLEIN TEMPS  DES FONCTIONS PERMANENTES AUX STAGES DE CONVERSION OU DE PROMOTION  PROFESSIONNELLE .](#1209)
-      - [DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER](#1210)
-        - [APPLICATION DES DISPOSITIONS DES ARTICLES L. 930-1 A L. 930-2 ET L. 950-1 A L. 950-10.](#1211)
-      - [MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10](#1212)
-        - [REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.](#1213)
-    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1214)
-      - [Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10](#1215)
-        - [SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .](#1216)
-  - [Partie réglementaire ancienne - Décrets simples](#1217)
-    - [Livre Ier : Conventions relatives au travail](#1218)
-      - [Titre Ier : Contrats d'apprentissage](#1219)
-        - [Dispositions applicables aux contrats conclus à partir du 1er juillet 1972](#1220)
-          - [Chapitre VII : Salaire de l'apprenti.](#1221)
-      - [Titre Ier : CONTRAT D'APPRENTISSAGE](#1222)
-        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972](#1223)
-          - [Chapitre VII : SALAIRE DE L'APPRENTI .](#1224)
-      - [Titre II : CONTRAT DE TRAVAIL](#1225)
-        - [Chapitre IV : Travail temporaire.](#1226)
-      - [Titre III : Conventions collectives de travail](#1227)
-        - [Chapitre IV : Conventions collectives dans les entreprises publiques.](#1228)
-      - [Titre IV : Salaire](#1229)
-        - [Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale](#1230)
-          - [Section 1 : Dispositions générales.](#1231)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.](#1232)
-          - [Section 3 : Dispositions spéciales aux salariés agricoles.](#1233)
-        - [Chapitre Ier : Salaire minimum de croissance](#1234)
-          - [Rémunération mensuelle minimale](#1235)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.](#1236)
-        - [Chapitre II : Rémunération des heures supplémentaires - Primes de transport - Conversion de certains avantages en nature.](#1237)
-        - [Chapitre III : PAIEMENT DU SALAIRE](#1238)
-          - [SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .](#1239)
-    - [CONVENTIONS RELATIVES AU TRAVAIL](#1240)
-      - [CONTRAT D'APPRENTISSAGE](#1241)
-        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972](#1242)
-          - [SALAIRE DE L'APPRENTI .](#1243)
-      - [CONTRAT DE TRAVAIL](#1244)
-        - [TRAVAIL TEMPORAIRE .](#1245)
-    - [Livre II : Réglementation du travail](#1246)
-      - [Titre Ier : Conditions du travail](#1247)
-        - [Chapitre Ier : Age d'admission.](#1248)
-        - [Chapitre II : DUREE DU TRAVAIL](#1249)
-          - [SECTION 1 : RECUPERATION DES HEURES PERDUES.](#1250)
-          - [Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.](#1251)
-      - [Titre II : Repos et congés](#1252)
-        - [Chapitre III : Congés annuels.](#1253)
-      - [Titre III : Hygiène et sécurité](#1254)
-        - [Chapitre III : Sécurité.](#1255)
-    - [Livre III : Placement et emploi](#1256)
-      - [Titre Ier : Placement](#1257)
-        - [Chapitre Ier : Service public du placement.](#1258)
-      - [Titre II : Emploi](#1259)
-        - [Chapitre Ier : Contrôle de l'emploi.](#1260)
-        - [Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs](#1261)
-          - [Section 2 : Travailleurs handicapés](#1262)
-          - [Sous-section 1 : Dispositions générales.](#1263)
-          - [Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail.](#1264)
-          - [Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.](#1265)
-          - [Sous-section 4 : Travail protégé.](#1266)
-          - [Section 3 : Emploi obligatoire des pères de famille.](#1267)
-        - [Chapitre IV : Cumuls d'emplois et travail clandestin.](#1268)
-      - [Titre III : Agence nationale pour l'emploi.](#1269)
-      - [Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale](#1270)
-        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère](#1271)
-          - [Section 1 : Travailleurs étrangers.](#1272)
-        - [Chapitre II : Protection de la main-d'oeuvre nationale.](#1273)
-      - [Titre V : Travailleurs privés d'emploi](#1274)
-        - [Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi](#1275)
-          - [Section 1 : Privation totale d'emploi.](#1276)
-          - [Section 2 : PRIVATION PARTIELLE D'EMPLOI.](#1277)
-          - [Section 5 : Création d'entreprises par les salariés privés d'emploi.](#1278)
-        - [Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.](#1279)
-    - [EMPLOI](#1280)
-      - [FONDS NATIONAL DE L'EMPLOI - PRIME DE MOBILITE DES JEUNES .](#1281)
-      - [FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .](#1282)
-      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS](#1283)
-        - [TRAVAILLEURS HANDICAPES](#1284)
-          - [TRAVAIL PROTEGE .](#1285)
-    - [Livre III : EMPLOI](#1286)
-      - [Titre II : EMPLOI](#1287)
-        - [Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#1288)
-          - [SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE.](#1289)
-          - [SECTION 2 : TRAVAILLEURS HANDICAPES](#1290)
-          - [SOUS-SECTION 4 : TRAVAIL PROTEGE.](#1291)
-    - [PLACEMENT ET EMPLOI](#1292)
-      - [DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#1293)
-        - [TRAVAILLEURS ETRANGERS .](#1294)
-    - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](#1295)
-      - [LES SYNDICATS PROFESSIONNELS](#1296)
-        - [EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .](#1297)
-      - [LES COMITES D'ENTREPRISE](#1298)
-        - [COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .](#1299)
-      - [INTERESSEMENT ET PARTICIPATION .](#1300)
-        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .](#1301)
-    - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1302)
-      - [Titre III : Les comités d'entreprise](#1303)
-        - [Chapitre VII : Amélioration des conditions de travail.](#1304)
-    - [Livre V : Conflits du travail](#1305)
-      - [Titre II : Conflits collectifs](#1306)
-        - [Chapitre IV : Médiation.](#1307)
-    - [CONFLITS DU TRAVAIL](#1308)
-      - [CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES](#1309)
-        - [DEPENSES DES CONSEILS DE PRUD'HOMMES .](#1310)
-    - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1311)
-      - [Titre Ier : Services de contrôle](#1312)
-        - [Chapitre Ier : Inspection du travail.](#1313)
-        - [Chapitre II : Inspection médicale du travail.](#1314)
-    - [Livre VII : Dispositions particulières à certaines professions](#1315)
-      - [Titre Ier : Energie - Industries extractives](#1316)
-        - [Chapitre Ier : Mines et carrières](#1317)
-          - [Section 2 : Hygiène et sécurité - Services médicaux.](#1318)
-          - [Paragraphe 1 : Organisation générale.](#1319)
-          - [Paragraphe 2 : Obligations des médecins du travail.](#1320)
-          - [Paragraphe 3 : Personnel - Locaux et matériels.](#1321)
-          - [Paragraphe 4 : Incompatibilités.](#1322)
-          - [Paragraphe 5 : Qualification des médecins du travail](#1323)
-          - [Paragraphe 6 : Dispositions diverses.](#1324)
-        - [Chapitre II : Délégués mineurs.](#1325)
-      - [Titre III : Bâtiment et travaux publics](#1326)
-        - [Chapitre II : Congés payés des professions du bâtiment et des travaux publics.](#1327)
-      - [Titre IV : Transports et télécommunications](#1328)
-        - [Chapitre Ier : Travailleurs intermittents des transports : congés payés.](#1329)
-        - [Chapitre II : Marins](#1330)
-          - [Section 1 : Conventions relatives au travail](#1331)
-          - [Paragraphe 2 : Salaires.](#1332)
-          - [Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.](#1333)
-          - [Section 3 : Règlement des conflits collectifs de travail](#1334)
-          - [Paragraphe 2 : Médiation.](#1335)
-        - [Chapitre III : Personnels des entreprises de manutention des ports : congés payés.](#1336)
-        - [Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.](#1337)
-      - [Titre III : Transports et télécommunications](#1338)
-        - [Chapitre III : Personnels des entreprises de manutention des ports : congés payés.](#1339)
-      - [Titre V : Voyageurs, représentants et placiers.](#1340)
-      - [Titre VI : Journalistes, artistes, mannequins](#1341)
-        - [Chapitre II : Artistes, compositeurs, gens de lettres](#1342)
-          - [Section 2 : Artistes du spectacle : congés payés.](#1343)
-      - [Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison](#1344)
-        - [Chapitre III : Assistantes maternelles](#1345)
-          - [Section 1 : Dispositions générales.](#1346)
-          - [Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.](#1347)
-      - [Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises](#1348)
-        - [Chapitre III : Halles centrales de Paris.](#1349)
-    - [Livre VIII : Dispositions spéciales aux départements d'outre-mer](#1350)
-      - [Titre Ier : Conventions relatives au travail](#1351)
-        - [Chapitre Ier : Apprentissage](#1352)
-          - [Section 1 : Des centres de formation d'apprentis](#1353)
-          - [Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis](#1354)
-          - [Dispositions générales.](#1355)
-          - [De l'organisation des centres.](#1356)
-          - [Du fonctionnement pédagogique des centres.](#1357)
-          - [De l'organisation financière des centres.](#1358)
-          - [Paragraphe 2 : De la conclusion et du renouvellement des conventions.](#1359)
-          - [Paragraphe 3 : Du personnel des centres de formation d'apprentis.](#1360)
-          - [Paragraphe 4 : Du contrôle des centres de formation d'apprentis.](#1361)
-          - [Section 2 : Du contrat d'apprentissage](#1362)
-          - [De l'agrément de l'employeur.](#1363)
-          - [De la durée de l'apprentissage.](#1364)
-          - [Avis d'orientation](#1365)
-          - [Certificat médical.](#1366)
-          - [Du contenu des contrats d'apprentissage.](#1367)
-          - [De l'enregistrement du contrat d'apprentissage.](#1368)
-          - [Cas de l'apprenti employé par un ascendant.](#1369)
-          - [Constatation de l'aptitude de l'apprenti.](#1370)
-          - [Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.](#1371)
-          - [Section 4 : Dispositions financières.](#1372)
-          - [Section 5 : Dispositions provisoires](#1373)
-          - [Paragraphe 1 : Des accords provisoires](#1374)
-          - [Dispositions générales.](#1375)
-          - [Des accords simples.](#1376)
-          - [Des accords de transformation.](#1377)
-          - [Dispositions relatives au personnel.](#1378)
-          - [Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.](#1379)
-          - [Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.](#1380)
-        - [Chapitre IV : Salaire](#1381)
-          - [Section 1 : Salaire minimum de croissance.](#1382)
-          - [Section 2 : Règles particulières à la répartition des pourboires.](#1383)
-      - [Titre II : Réglementation du travail](#1384)
-        - [Chapitre II : Services médicaux du travail](#1385)
-          - [Section 1 : Organisation et fonctionnement des services médicaux du travail.](#1386)
-          - [Paragraphe a) Les médecins du travail.](#1387)
-          - [Paragraphe b) Visites d'embauchage.](#1388)
-          - [Paragraphe c) Examens médicaux périodiques des salariés.](#1389)
-          - [Paragraphe d) Visite de reprise.](#1390)
-          - [Paragraphe e) Examens complémentaires.](#1391)
-          - [Paragraphe f) Surveillance de l'hygiène des entreprises.](#1392)
-          - [Section 3 : Infirmiers et infirmières.](#1393)
-          - [Section 4 : Locaux et matériel.](#1394)
-          - [Section 5 : Dispositions particulières.](#1395)
-      - [Titre III : Placement et emploi](#1396)
-        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.](#1397)
-      - [Titre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1398)
-        - [Chapitre Ier : Inspection du travail.](#1399)
-      - [Titre VII : Dispositions particulières à certaines professions](#1400)
-        - [Chapitre Ier : Journalistes professionnels.](#1401)
-    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#1402)
-      - [CONVENTIONS RELATIVES AU TRAVAIL](#1403)
-        - [APPRENTISSAGE](#1404)
-          - [DISPOSITIONS FINANCIERES .](#1405)
-    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](#1406)
-      - [Titre Ier : Des institutions de la formation professionnelle](#1407)
-        - [Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.](#1408)
-        - [Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.](#1409)
-      - [Titre IV : De l'aide de l'Etat.](#1410)
-      - [Titre V : De la participation des employeurs au financement de la formation professionnelle continue.](#1411)
-    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1412)
-      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1413)
-        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .](#1414)
-      - [AIDE DE L'ETAT .](#1415)
-    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1416)
-      - [Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1417)
-        - [SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.](#1418)
-  - [Annexes](#1419)
-    - [Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1420)
-      - [Titre 3 : Les comités d'entreprise](#1421)
-        - [Chapitre 8 : Bilan social](#1422)
-          - [Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.](#1423)
+          - [TRAVAIL A TEMPS PARTIEL.](#176)
+          - [HEURES SUPPLEMENTAIRES .](#177)
+          - [DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .](#178)
+        - [DUREE](#179)
+          - [HEURES SUPPLEMENTAIRES .](#180)
+      - [REPOS HEBDOMADAIRE .](#181)
+      - [CONGES ANNUELS](#182)
+        - [DUREE DU CONGE .](#183)
+        - [INDEMNITES DE CONGE.](#184)
+      - [HYGIENE ET SECURITE .](#185)
+        - [DISPOSITIONS GENERALES.](#186)
+        - [HYGIENE .](#187)
+    - [Livre II : REGLEMENT DU TRAVAIL](#188)
+      - [Titre II : CONGES](#189)
+        - [Chapitre VI : CONGES POUR EVENEMENTS FAMILIAUX.](#190)
+    - [REGLEMENTATION DU TRAVAIL HYGIENE ET SECURITE .](#191)
+    - [Livre III : Placement et emploi](#192)
+      - [Titre Ier : Placement](#193)
+        - [Chapitre préliminaire.](#194)
+        - [Chapitre Ier : Service public du placement](#195)
+          - [Section 1 : Organismes qui concourent au service public du placement.](#196)
+        - [Chapitre II : Placement privé](#197)
+          - [Section 1 : Placement gratuit.](#198)
+          - [Section 2 : Placement payant.](#199)
+          - [Section 3 : Dispositions communes](#200)
+      - [Titre II : Emploi](#201)
+        - [Chapitre Ier : CONTROLE DE L'EMPLOI .](#202)
+        - [Chapitre II : Fonds national de l'emploi](#203)
+          - [Section 1 : Fonds national de l'emploi.](#204)
+          - [PRIME DE MOBILITE DES JEUNES](#205)
+          - [SECTION 3 : CHOMAGE PARTIEL.](#206)
+        - [Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs](#207)
+          - [Section 2 : Dispositions propres aux travailleurs handicapés](#208)
+          - [Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés en milieu ordinaire de travail.](#209)
+        - [Chapitre IV : Cumuls d'emplois](#210)
+          - [Travail clandestin](#211)
+          - [Section 1 : Cumuls d'emplois.](#212)
+          - [Section 2 : Travail clandestin.](#213)
+      - [Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale](#214)
+        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère](#215)
+          - [Section 1 : Travailleurs étrangers](#216)
+          - [(en vigueur jusqu'au 1er janvier 2007 au plus tard)](#217)
+      - [Titre IV : MAIN-D'OEUVRE ETRANGERE](#218)
+        - [Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#219)
+          - [SECTION 1 : TRAVAILLEURS ETRANGERS.](#220)
+          - [SECTION 2 : OFFICE NATIONAL D'IMMIGRATION *ONI*.](#221)
+      - [Chapitre II : Protection de la main-d'oeuvre nationale.](#222)
+      - [Titre V : TRAVAILLEURS PRIVES D'EMPLOI](#223)
+        - [Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI](#224)
+          - [SECTION 1 : DISPOSITIONS GENERALES.](#225)
+          - [SECTION 2 : DISPOSITIONS FINANCIERES.](#226)
+          - [SECTION 3 : DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS.](#227)
+          - [SECTION 4 : DISPOSITIONS DIVERSES.](#228)
+        - [SECTION 1 : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI.](#229)
+        - [Chapitre Ier : GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI](#230)
+          - [SECTION 1 : DISPOSITIONS GENERALES](#231)
+        - [Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 1 : DISPOSITIONS GENERALES](#232)
+        - [Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance des travailleurs privés d'emploi.](#233)
+        - [Chapitre II : REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES D'EMPLOI.](#234)
+      - [Titre VI : PENALITES](#235)
+        - [Chapitre Ier : PLACEMENT](#236)
+        - [Chapitre II : Emploi](#237)
+          - [Section 1 : Dispositions régissant l'emploi de certaines catégories de travailleurs](#238)
+          - [Travailleurs handicapés.](#239)
+          - [SECTION 2 : CUMUL D'EMPLOI ET TRAVAIL CLANDESTIN](#240)
+        - [Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale.](#241)
+        - [Chapitre V : Travailleurs privés d'emploi.](#242)
+    - [Livre III : PLACEMENT](#243)
+      - [Titre Ier : PLACEMENT](#244)
+        - [Chapitre Ier : SERVICE PUBLIC DU PLACEMENT.](#245)
+        - [Chapitre II : PLACEMENT PRIVE](#246)
+          - [SECTION 2 : PLACEMENT PAYANT.](#247)
+    - [Livre III : EMPLOI](#248)
+      - [Titre II : EMPLOI](#249)
+        - [Chapitre Ier : CONTROLE DE L'EMPLOI.](#250)
+        - [Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#251)
+          - [SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE ET ASSIMILES.](#252)
+          - [SECTION 2 : TRAVAILLEURS HANDICAPES](#253)
+          - [SOUS-SECTION 1 : DISPOSITIONS GENERALES.](#254)
+          - [SOUS-SECTION 2 : DISPOSITIONS GENERALES.](#255)
+          - [SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.](#256)
+          - [SOUS-SECTION 4 : TRAVAIL PROTEGE.](#257)
+          - [SOUS-SECTION 5 : COMMISSION DEPARTEMENTALE DES HANDICAPES.](#258)
+          - [SOUS-SECTION 6 : DISPOSITIONS D'EXECUTION.](#259)
+          - [SECTION 2 bis : HANDICAPES SOCIAUX.](#260)
+          - [SECTION 3 : EMPLOI OBLIGATOIRE DES PERES DE FAMILLE.](#261)
+        - [Chapitre IV : TRAVAIL CLANDESTIN](#262)
+          - [SECTION 2 : TRAVAIL CLANDESTIN.](#263)
+    - [EMPLOI](#264)
+      - [CONTROLE DE L'EMPLOI .](#265)
+      - [FONDS NATIONAL DE L'EMPLOI .](#266)
+      - [PRIME DE MOBILITE DES JEUNES .](#267)
+      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#268)
+        - [TRAVAILLEURS HANDICAPES .](#269)
+          - [PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES .](#270)
+      - [TRAVAIL CLANDESTIN .](#271)
+    - [PLACEMENT ET EMPLOI](#272)
+      - [DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#273)
+        - [TRAVAILLEURS ETRANGERS .](#274)
+      - [TRAVAILLEURS PRIVES D'EMPLOI](#275)
+        - [GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .](#276)
+          - [DISPOSITIONS GENERALES](#277)
+          - [DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .](#278)
+          - [CREATIONS D'ENTREPRISES PAR LES SALARIES PRIVES D'EMPLOI.](#279)
+        - [REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS ET  RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES  D'EMPLOI .](#280)
+    - [Livre 3 : PLACEMENT ET EMPLOI](#281)
+      - [Titre 6 : PENALITES](#282)
+        - [Chapitre 4 : MAIN-D'OEUVRE ETRANGERE ET PROTECTION DE LA MAIN-D'OEUVRE NATIONALE](#283)
+    - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#284)
+      - [Titre Ier : Les syndicats professionnels](#285)
+        - [Chapitre préliminaire.](#286)
+        - [Chapitre Ier : Statut juridique des syndicats](#287)
+          - [Section 1 : Objet et constitution.](#288)
+          - [Section 2 : Capacité civile.](#289)
+          - [Section 3 : Unions de syndicats.](#290)
+        - [Chapitre II : Exercice du droit syndical dans les entreprises](#291)
+          - [Section 1 : Dispositions générales.](#292)
+        - [Chapitre III : Marques syndicales.](#293)
+      - [Titre III : Les comités d'entreprise](#294)
+        - [Chapitre VII : Amélioration des conditions de travail.](#295)
+        - [Chapitre VIII : Bilan social.](#296)
+      - [Titre IV : Intéressement et participation](#297)
+        - [Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise.](#298)
+        - [Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises](#299)
+          - [Section 1 : Régime obligatoire de participation des travailleurs aux fruits de l'expansion dans les entreprises de plus de cent salariés.](#300)
+          - [Section 3 : Dispositions diverses.](#301)
+        - [Chapitre III : Plans d'épargne d'entreprise.](#302)
+      - [Titre VI : PENALITES](#303)
+        - [Chapitre Ier : LES SYNDICATS PROFESSIONNELS](#304)
+          - [SECTION 1 : STATUT JURIDIQUE DES SYNDICATS](#305)
+          - [SECTION 2 : EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES ET MARQUES SYNDICALES](#306)
+        - [Chapitre II : LES DELEGUES DU PERSONNEL](#307)
+        - [Chapitre III : LES COMITES D'ENTREPRISE](#308)
+        - [Chapitre III : COMITE D'ENTREPRISE](#309)
+    - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](#310)
+      - [LES SYNDICATS PROFESSIONNELS](#311)
+        - [STATUT JURIDIQUE DES SYNDICATS](#312)
+          - [OBJET ET CONSTITUTION .](#313)
+          - [CAPACITE CIVILE .](#314)
+          - [UNIONS DE SYNDICATS .](#315)
+        - [EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES](#316)
+          - [DISPOSITIONS GENERALES .](#317)
+          - [SECTIONS SYNDICALES .](#318)
+          - [DELEGUES SYNDICAUX .](#319)
+      - [LES DELEGUES DU PERSONNEL .](#320)
+      - [LES COMITES D'ENTREPRISE](#321)
+        - [CHAMP D'APPLICATION .](#322)
+        - [ATTRIBUTIONS ET POUVOIRS .](#323)
+        - [COMPOSITION ET ELECTIONS .](#324)
+        - [FONCTIONNEMENT .](#325)
+        - [COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .](#326)
+        - [CONDITIONS DE LICENCIEMENT DES REPRESENTANTS DU PERSONNEL .](#327)
+        - [BILAN SOCIAL .](#328)
+      - [INTERESSEMENT ET PARTICIPATION](#329)
+        - [ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE .](#330)
+        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES](#331)
+          - [REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES .](#332)
+          - [REGIME DES ENTREPRISES NON SOUMISES AU REGIME DE PARTICIPATION  DES TRAVAILLEURS AUX FRUITS DE L'EXPANSION DES ENTREPRISES DE PLUS  DE CENT SALARIES .](#333)
+        - [PLANS D'EPARGNE D'ENTREPRISE .](#334)
+      - [EDUCATION OUVRIERE ET FORMATION SYNDICALE](#335)
+        - [CONGE D'EDUCATION OUVRIERE .](#336)
+        - [FORMATION ECONOMIQUE ET SOCIALE DES TRAVAILLEURS APPELES A  EXERCER DES FONCTIONS SYNDICALES .](#337)
+    - [CONFLITS DU TRAVAIL](#338)
+      - [CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES](#339)
+        - [ATTRIBUTIONS ET INSTITUTION DES CONSEILS DE PRUD'HOMMES](#340)
+        - [ATTRIBUTION ET INSTITUTION DES CONSEILS DE PRUD'HOMMES .](#341)
+        - [ORGANISATION ET FONCTIONNEMENT DES CONSEILS DE PRUD'HOMMES.](#342)
+        - [ORGANISATION ET FONCTIONNEMMENT DES CONSEILS DE PRUD'HOMMES.](#343)
+        - [ELECTION DES CONSEILLERS PRUD'HOMMES](#344)
+          - [ELIGIBILITE.](#345)
+          - [ETABLISSEMENT DES LISTES ELECTORALES.](#346)
+          - [SCRUTIN, INSTALLATION DES CONSEILLERS PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES.](#347)
+        - [STATUT DES CONSEILLERS PRUD'HOMMES](#348)
+        - [BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE](#349)
+        - [DEPENSES DES CONSEILS DE PRUD'HOMMES](#350)
+        - [DISPOSITIONS FINALES](#351)
+      - [CONFLITS COLLECTIFS](#352)
+        - [LA GREVE .](#353)
+          - [GREVE DANS LES SERVICES PUBLICS .](#354)
+        - [DISPOSITIONS GENERALES CONCERNANT LES PROCEDURES DE REGLEMENT DES  CONFLITS COLLECTIFS DU TRAVAIL .](#355)
+        - [CONCILIATION .](#356)
+          - [CONCILIATION DANS CERTAINS ETABLISSEMENTS PUBLICS ET DANS LES  ENTREPRISES PUBLIQUES A STATUT .](#357)
+        - [MEDIATION .](#358)
+        - [ARBITRAGE](#359)
+          - [L'ARBITRE .](#360)
+          - [LA COUR SUPERIEURE D'ARBITRAGE .](#361)
+        - [EXECUTION DES ACCORDS DE CONCILIATION ET DES SENTENCES ARBITRALES .](#362)
+      - [PENALITES](#363)
+        - [CONFLITS COLLECTIFS .](#364)
+    - [Livre V : Conflits du travail](#365)
+      - [Titre Ier : Conflits individuels - Conseils de prud'hommes](#366)
+        - [Chapitre Ier : Attributions et institution des conseils de prud'hommes.](#367)
+        - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.](#368)
+        - [Chapitre III : Election des conseillers prud'hommes](#369)
+          - [Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.](#370)
+        - [Chapitre IV : Statut des conseillers prud'hommes.](#371)
+        - [Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.](#372)
+        - [Chapitre VI : Procédure devant les conseils de prud'hommes.](#373)
+        - [Chapitre VIII : Récusation.](#374)
+        - [Chapitre X : Dépenses des conseils de prud'hommes.](#375)
+      - [Titre Ier : Conflits individuels](#376)
+        - [Conseils de prud'hommes](#377)
+          - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.](#378)
+          - [Chapitre IV : Statut des conseillers prud'hommes.](#379)
+          - [Chapitre VI : Procédure devant les conseils de prud'hommes.](#380)
+          - [Chapitre XI : Dispositions applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](#381)
+      - [Titre II : Conflits collectifs](#382)
+        - [Chapitre Ier : La grève](#383)
+          - [Section 2 : Grève dans les services publics.](#384)
+        - [Chapitre IV : Médiation.](#385)
+        - [Chapitre V : Arbitrage](#386)
+          - [Section 2 : La Cour supérieure d'arbitrage.](#387)
+      - [TITRE III : PENALITES](#388)
+        - [CHAPITRE Ier : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES](#389)
+    - [CONFLITS DE TRAVAIL](#390)
+      - [CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES](#391)
+        - [ELECTION DES CONSEILLERS PRUD'HOMMES](#392)
+          - [ELECTORAT.](#393)
+    - [CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL](#394)
+      - [SERVICES DE CONTROLE](#395)
+        - [INSPECTION DU TRAVAIL .](#396)
+      - [OBLIGATIONS DES EMPLOYEURS .](#397)
+    - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](#398)
+      - [Titre Ier : Services de contrôle](#399)
+        - [Chapitre Ier : Inspection du travail.](#400)
+        - [Chapitre II : Inspection médicale du travail.](#401)
+      - [Titre II : Obligations des employeurs.](#402)
+      - [Titre III : Pénalités](#403)
+        - [Chapitre Ier : Services de contrôle.](#404)
+    - [Livre VII : Dispositions particulières à certaines professions](#405)
+      - [Titre Ier : Energie - Industries extractives](#406)
+        - [Chapitre Ier : Mines et carrières](#407)
+          - [Section 1 : Conditions de travail.](#408)
+          - [Section 2 : Hygiène et sécurité - Services médicaux.](#409)
+        - [Chapitre II : Délégués mineurs](#410)
+          - [Section 1](#411)
+          - [Paragraphe 1 : Fonctions des délégués mineurs du fond.](#412)
+          - [Paragraphe 2 : Circonscriptions.](#413)
+          - [Paragraphe 3 : Elections](#414)
+          - [Paragraphe 4 : Dispositions spéciales.](#415)
+          - [Section 2 : Délégués permanents de la surface.](#416)
+          - [Section 3 : Dispositions communes.](#417)
+      - [Titre Ier : Energie](#418)
+        - [Industries extractives](#419)
+          - [Chapitre Ier : Mines et carrières](#420)
+          - [Section 2 : Hygiène et sécurité](#421)
+          - [Services médicaux.](#422)
+      - [Titre II : Industries de transformation](#423)
+        - [Chapitre Ier : Travailleurs à domicile](#424)
+          - [Section 1 : Dispositions générales.](#425)
+          - [Section 3 : Salaires.](#426)
+          - [Section 4 : Règlement des litiges.](#427)
+          - [Section 5 : Dispositions spéciales à l'agriculture.](#428)
+          - [Section 6 : Hygiène et sécurité.](#429)
+          - [Section 1: Règlements de comptes entre les maîtres d'atelier et les négociants.](#430)
+        - [Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes](#431)
+          - [Section 1 : Tissage et bobinage.](#432)
+          - [Section 2 : Coupe de velours de coton, teinture, blanchiment et apprêts des étoffes.](#433)
+      - [Titre III : Bâtiments et travaux publics](#434)
+        - [Chapitre Ier : Indemnisation des travailleurs du bâtiment et des travaux publics privés d'emploi par suite d'intempéries.](#435)
+      - [Titre IV : Transports et télécommunications](#436)
+        - [Chapitre II : Marins.](#437)
+        - [Chapitre III : Personnel des entreprises de manutention des ports.](#438)
+      - [Titre V : Voyageurs, représentants et placiers.](#439)
+      - [Titre VI : Journalistes, artistes, mannequins](#440)
+        - [Chapitre Ier : Journalistes professionnels](#441)
+          - [Section 1 : Dispositions générales.](#442)
+          - [Section 2 : Résiliation du contrat.](#443)
+          - [Section 3 : Rémunération et congés.](#444)
+          - [Section 4 : Carte d'identité professionnelle.](#445)
+        - [Chapitre II : Artistes, auteurs, compositeurs, gens de lettres](#446)
+          - [Section 2 : Artistes de spectacles : contrat, rémunération, placement](#447)
+          - [Paragraphe 1 : Contrat.](#448)
+          - [Paragraphe 2 : Rémunération.](#449)
+          - [Paragraphe 3 : Placement.](#450)
+        - [Chapitre III : Mannequins.](#451)
+      - [Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistantes maternelles](#452)
+        - [Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.](#453)
+        - [Chapitre II : Employés de maison.](#454)
+        - [Chapitre III : Assistantes maternelles](#455)
+          - [Section 1 : Dispositions générales.](#456)
+          - [Section 2 : Dispositions spéciales aux personnes employées par des particuliers.](#457)
+          - [Section 3 : Dispositions spéciales aux personnes employées par des personnes morales de droit privé.](#458)
+      - [Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises](#459)
+        - [Chapitre Ier : Catégories particulières de travailleurs.](#460)
+        - [Chapitre II : Gérants non-salariés des succursales de maisons d'alimentation de détail.](#461)
+        - [Chapitre III : Halles centrales de Paris.](#462)
+      - [Titre IX : Pénalités](#463)
+        - [Chapitre Ier : Energie, industries extractives](#464)
+          - [Section 1 : Mines et carrières.](#465)
+          - [Section 2 : Délégués mineurs.](#466)
+        - [Chapitre II : Industries de transformation](#467)
+          - [Section 1 : Travailleurs à domicile.](#468)
+          - [Section 2 : Moyens de constater les conventions relatives au salaire en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes.](#469)
+        - [Chapitre III : Bâtiment et travaux publics.](#470)
+        - [Chapitre V : Voyageurs, représentants et placiers.](#471)
+        - [Chapitre VI : Journalistes, artistes, mannequins](#472)
+          - [Section 1 : Journalistes professionnels.](#473)
+          - [Section 2 : Artistes, auteurs, compositeurs, gens de lettres, artistes du spectacle.](#474)
+    - [DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS](#475)
+      - [ENERGIE - INDUSTRIES EXTRACTIVES](#476)
+        - [DELEGUES MINEURS](#477)
+          - [FONCTIONS DES DELEGUES MINEURS DU FOND .](#478)
+      - [INDUSTRIES DE TRANSFORMATION](#479)
+        - [TRAVAILLEURS A DOMICILE .](#480)
+          - [SALAIRES .](#481)
+      - [BATIMENTS ET TRAVAUX PUBLICS](#482)
+        - [INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .](#483)
+      - [TRANSPORTS ET TELECOMMUNICATIONS](#484)
+        - [MARINS .](#485)
+      - [VOYAGEURS, REPRESENTANTS ET PLACIERS *VRP* .](#486)
+      - [ARTISTES, AUTEURS, COMPOSITEURS, GENS DE LETTRES](#487)
+        - [ARTISTES DE SPECTACLE](#488)
+          - [PLACEMENT .](#489)
+      - [CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .](#490)
+      - [ASSISTANTES MATERNELLES.](#491)
+      - [ASSISTANCES MATERNELLES](#492)
+        - [DISPOSITIONS SPECIALES AUX PERSONNES EMPLOYEES PAR DES PERSONNES MORALES DE DROIT PRIVE.](#493)
+      - [DISPOSITIONS RELATIVES A CERTAINES CATEGORIES DE TRAVAILLEURS ET D'ENTREPRISES](#494)
+        - [GERANTS NON-SALARIES DES SUCCURSALES DE MAISONS D'ALIMENTATION DE  DETAIL .](#495)
+    - [Livre VIII : Dispositions spéciales aux départements d'outre-mer](#496)
+      - [Titre préliminaire.](#497)
+      - [Titre Ier : Conventions relatives au travail](#498)
+        - [Chapitre Ier : Contrat d'apprentissage.](#499)
+        - [Chapitre IV : Salaires](#500)
+          - [Section 1 : Salaire minimum de croissance.](#501)
+      - [Titre II : Réglementation du travail](#502)
+        - [Chapitre Ier : Durée du travail.](#503)
+        - [Chapitre II : Services médicaux du travail.](#504)
+      - [Titre III : Placement et emploi](#505)
+        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.](#506)
+        - [Chapitre II : Emploi](#507)
+          - [Section 1 : Protection de la main-d'oeuvre nationale.](#508)
+          - [Section 2 : Prime de mobilité des jeunes.](#509)
+          - [Section 3 : Cumuls d'emplois et travail clandestin.](#510)
+        - [Chapitre III : Garantie de ressources des travailleurs privés d'emploi.](#511)
+      - [Titre VIII : Pénalités](#512)
+        - [Chapitre II : Réglementation du travail.](#513)
+    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#514)
+      - [PLACEMENT ET EMPLOI](#515)
+        - [DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .](#516)
+    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.](#517)
+      - [Titre Ier : Des institutions de la formation professionnelle.](#518)
+      - [Titre II : Des conventions de formation professionnelle.](#519)
+      - [Titre IV : De l'aide de l'Etat.](#520)
+      - [Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collectivités locales.](#521)
+    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE .](#522)
+      - [DISPOSITIONS RELATIVES A LA PROMOTION INDIVIDUELLE ET AUX CONGES DE FORMATION .](#523)
+      - [CONVENTIONS DE FORMATION PROFESSIONNELLE .](#524)
+      - [DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.](#525)
+      - [PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION  PROFESSIONNELLE  CONTINUE .](#526)
+      - [AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION  PROFESSIONNELLE .](#527)
+      - [DISPOSITIONS RELATIVES AUX AGENTS DE L'ETAT ET AUX AGENTS DES  COLLECTIVITES LOCALES .](#528)
+      - [PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .](#529)
+    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#530)
+      - [Titre II : CONVENTIONS DE FORMATION PROFESSIONNELLE .](#531)
+      - [Titre V : PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .](#532)
+      - [Titre V :DE LA PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.](#533)
+      - [Titre VIII : PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .](#534)
+    - [FORMATION PROFESSIONNELLE DANS LE CADRE DE L'EDUCATION PERMANENTE](#535)
+      - [DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.](#536)
+      - [DE LA PROMOTION INDIVIDUELLE ET DU CENTRE DE FORMATION.](#537)
+      - [DE LA FORMATION INDIVIDUELLE ET DU CONGE DE FORMATION.](#538)
+  - [Partie réglementaire ancienne - Décrets en Conseil d'Etat](#539)
+    - [Livre Ier : Conventions relatives au travail](#540)
+      - [Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus avant le 1er juillet 1972](#541)
+        - [Chapitre Ier : Etablissement du contrat.](#542)
+        - [Chapitre II : Devoirs des maîtres et des apprentis.](#543)
+        - [Chapitre III : Compétence.](#544)
+      - [Titre Ier : CONTRAT D'APPRENTISSAGE](#545)
+        - [Dispositions applicables aux contrats conclus à partir du 1er juillet 1972](#546)
+          - [Chapitre VI : Des centres de formation d'apprentis](#547)
+          - [Section 1 : Des conventions portant création de centres de formation d'apprentis](#548)
+          - [Paragraphe 2 : De l'organisation des centres.](#549)
+          - [Paragraphe 3 : Du fonctionnement pédagogique des centres.](#550)
+          - [Paragraphe 4 : De l'organisation financière des centres.](#551)
+          - [Section 2 : De la conclusion et du renouvellement des conventions.](#552)
+          - [Section 3 : Des conventions-cadre d'apprentissage.](#553)
+          - [Section 4 : Du personnel des centres de formation d'apprentis.](#554)
+          - [Section 5 : Du contrôle des centres de formation d'apprentis.](#555)
+          - [Chapitre VII : Du contrat d'apprentissage](#556)
+          - [Paragraphe 1 : De l'agrément de l'employeur.](#557)
+          - [Paragraphe 4 : Du contenu des contrats d'apprentissage.](#558)
+          - [Paragraphe 5 : De l'enregistrement du contrat d'apprentissage.](#559)
+          - [Paragraphe 6 : Cas de l'apprenti employé par un ascendant.](#560)
+          - [Paragraphe 7 : Constatation de l'aptitude de l'apprenti.](#561)
+          - [Chapitre IX : DISPOSITIONS DIVERSES](#562)
+          - [A - DISPOSITIONS FINANCIERES.](#563)
+          - [B - Mesures provisoires d'adaptation en matière d'apprentissage](#564)
+          - [Section 1 : Des accords provisoires](#565)
+          - [Paragraphe 4 : Dispositions relatives au personnel.](#566)
+          - [Section 4 : Dispositions transitoires relatives aux examens de fin d'apprentissage.](#567)
+          - [C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](#568)
+          - [D - Inspection de l'apprentissage](#569)
+          - [Dispositions générales.](#570)
+          - [E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.](#571)
+          - [B - Mesures provisoires d'adaptation en matière d'apprentissage](#572)
+          - [Section 1 : Des accords provisoires](#573)
+          - [Paragraphe 1 : Dispositions générales.](#574)
+          - [Paragraphe 3 : Des accords de transformation et des avenants d'adaptation.](#575)
+          - [Paragraphe 4 : Dispositions relatives au personnel.](#576)
+          - [Section 2 : Dispositions transitoires relatives à l'agrément des employeurs.](#577)
+          - [Section 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.](#578)
+          - [C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin, et de la Moselle.](#579)
+          - [D - Inspection de l'apprentissage](#580)
+          - [Dispositions générales.](#581)
+          - [E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.](#582)
+        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*](#583)
+          - [Chapitre VI : DES FORMATION D'APPRENTIS](#584)
+          - [SECTION 1 : DES CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS](#585)
+          - [PARAGRAPHE 1 : DISPOSITIONS GENERALES.](#586)
+          - [Chapitre VI : DES CENTRES DE FORMATION D' APPRENTIS](#587)
+          - [SECTION 1 : DES CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS](#588)
+          - [PARAGRAPHE 1 : DISPOSITIONS GENERALES.](#589)
+          - [PARAGRAPHE 2 : DE L'ORGANISATION DES CENTRES .](#590)
+          - [PARAGRAPHE 3 : FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .](#591)
+          - [SECTION 4 : DU PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .](#592)
+          - [Chapitre VII : DU CONTRAT D'APPRENTISSAGE](#593)
+          - [PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR .](#594)
+          - [PARAGRAPHE 2 : DE LA DUREE DE L'APPRENTISSAGE .](#595)
+          - [PARAGRAPHE 3 : AVIS D'ORIENTATION - CERTIFICAT MEDICAL .](#596)
+          - [PARAGRAPHE 6 : CAS DE L'APPRENTI EMPLOYE PAR UN ASCENDANT .](#597)
+          - [Chapitre VIII : DES ATTRIBUTIONS DES CHAMBRES DE COMMERCE ET D'INDUSTRIE DES CHAMBRES DE METIERS ET DES CHAMBRES D'AGRICULTURE EN MATIERE D'APPRENTISSAGE .](#598)
+          - [Chapitre IX : DISPOSITIONS DIVERSES](#599)
+          - [C - MESURES PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN, ET DE LA MOSELLE .](#600)
+          - [PARAGRAPHE 1 : MESURES D'ADAPTATION CONCERNANT LES DISPOSITIONS D'APPLICATION PERMANENTE DE LA LOI SUR L'APPRENTISSAGE .](#601)
+          - [PARAGRAPHE 2 : MESURES D'ADAPTATION CONCERNANT LES DISPOSITIONS TRANSITOIRES .](#602)
+          - [D - INSPECTION DE L'APPRENTISSAGE](#603)
+          - [DISPOSITIONS GENERALES.](#604)
+          - [DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .](#605)
+          - [E - AMENAGEMENTS AU BENEFICE DES PERSONNES HANDICAPEES DES DISPOSITIONS RELATIVES A L'APPRENTISSAGE.](#606)
+        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS AVANT LE 1ER JUILLET 1972](#607)
+          - [Chapitre VII : DU CONTRAT D'APPRENTISSAGE](#608)
+          - [PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR.](#609)
+      - [Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972](#610)
+        - [Chapitre VII : Du contrat d'apprentissage](#611)
+          - [Paragraphe 4 : Du contenu des contrats d'apprentissage.](#612)
+        - [Chapitre IX : Dispositions diverses](#613)
+          - [A - Dispositions financières.](#614)
+          - [D - Inspection de l'apprentissage](#615)
+          - [Dispositions générales.](#616)
+          - [Dispositions particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](#617)
+          - [E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.](#618)
+      - [Titre II : Contrat de travail](#619)
+        - [Chapitre II : Contrat de travail](#620)
+          - [Section 1 : Règles générales.](#621)
+          - [Section 2 : Service national.](#622)
+          - [Section 3 : Protection de la maternité et éducation des enfants.](#623)
+        - [Chapitre IV : Travail temporaire](#624)
+          - [Section 1 : Déclarations et justifications à fournir à l'autorité administrative.](#625)
+          - [Section 3 : Dispositions spéciales à certaines entreprises de travail temporaire et dispositions transitoires.](#626)
+          - [Section 4 : Règles applicables à la garantie financière exigée des entreprises de travail temporaire et à la substitution de l'utilisateur à l'entreprise de travail temporaire en cas de défaillance de celle-ci](#627)
+          - [Paragraphe 1 : Dispositions générales.](#628)
+          - [Paragraphe 2 : Dispositions particulières aux différents modes de garantie.](#629)
+          - [Paragraphe 3 : Mise en oeuvre de la garantie.](#630)
+          - [Paragraphe 4 : Substitution de l'utilisateur à l'entrepreneur de travail temporaire en cas de  défaillance de celui-ci.](#631)
+          - [Paragraphe 5 : Cessation de la garantie.](#632)
+        - [Chapitre V : Marchandage.](#633)
+        - [Chapitre VI : Cautionnements.](#634)
+      - [Titre III : Conventions collectives de travail](#635)
+        - [Chapitre V : Exécution de la convention.](#636)
+      - [Titre IV : Salaire](#637)
+        - [Chapitre préliminaire : Egalité de rémunération entre les hommes et les femmes.](#638)
+        - [Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale](#639)
+          - [Section 1 : Salaire minimum de croissance.](#640)
+          - [Section 2 : Rémunération mensuelle minimale](#641)
+          - [Dispositions générales](#642)
+          - [Paragraphe 1 : Allocation complémentaire versée au salarié.](#643)
+          - [Paragraphe 2 : Remboursement par l'Etat.](#644)
+          - [Dispositions particulières à certaines catégories.](#645)
+        - [Chapitre Ier : Salaire minimum de croissance](#646)
+          - [Rémunération mensuelle minimale.](#647)
+          - [Section 2 : Rémunération mensuelle minimale](#648)
+          - [Dispositions particulières à certaines catégories.](#649)
+        - [Chapitre III : Paiement du salaire](#650)
+          - [Section 1 : Mode de paiement du salaire.](#651)
+          - [SECTION 1 : MODE DU PAIEMENT DU SALAIRE .](#652)
+        - [Chapitre V : Saisie-arrêt et cession des rémunérations dues par un employeur](#653)
+          - [Section 2 : Procédure de cession et de saisie-arrêt.](#654)
+        - [Chapitre VII : Règles particulières au contrôle et à la répartition des pourboires.](#655)
+      - [Titre V : Pénalités](#656)
+        - [Chapitre II : Contrat de travail](#657)
+          - [Section 1 : Louage de services](#658)
+          - [Paragraphe 1 : Dispositions générales.](#659)
+          - [Paragraphe 2 : Règles particulières aux personnes intéressées par le service national, aux jeunes gens astreints aux obligations imposées par le service préparatoire et aux hommes rappelés au service national.](#660)
+          - [Paragraphe 3 : Règles particulières à la protection de la maternité et à l'éducation des enfants](#661)
+          - [Section 3 : Marchandage.](#662)
+          - [Section 4 : Cautionnement.](#663)
+        - [Chapitre III : CONVENTIONS COLLECTIVES](#664)
+        - [Chapitre IV : Salaires](#665)
+          - [Section préliminaire : Egalité de rémunération entre les hommes et les femmes](#666)
+          - [Section 1 : Salaire minimum de croissance et rémunération mensuelle minimale garantie](#667)
+          - [Section 2 : Prime de transport.](#668)
+          - [Section 3 : Paiement du salaire](#669)
+          - [Section 4 : Retenues sur le salaire](#670)
+    - [Livre II : Réglementation du travail](#671)
+      - [Chapitre préliminaire](#672)
+        - [Section 2 : Agence nationale pour l'amélioration des conditions de travail.](#673)
+      - [Titre Ier : Conditions du travail](#674)
+        - [Chapitre Ier : Age d'admission.](#675)
+        - [Chapitre II : Durée du travail](#676)
+          - [Section 2 : Heures supplémentaires](#677)
+          - [A - Dispositions concernant les dérogations exceptionnelles à la durée du travail.](#678)
+          - [Paragraphe 1 : Dérogations à la durée maximale hebdomadaire moyenne.](#679)
+          - [Paragraphe 2 : Dérogations à la durée maximale hebdomadaire absolue](#680)
+          - [B - Dispositions concernant la procédure d'autorisation des heures supplémentaires.](#681)
+          - [C - Dispositions communes.](#682)
+        - [Chapitre III : Travail de nuit.](#683)
+      - [Titre II : Repos et congés](#684)
+        - [Chapitre Ier : Repos hebdomadaire](#685)
+          - [Section 1 : Dispositions générales.](#686)
+        - [Chapitre II : Jours fériés.](#687)
+        - [Chapitre III : Congés annuels.](#688)
+        - [Chapitre IV : Repos des femmes en couches et des femmes allaitant leurs enfants](#689)
+          - [Section 1 : Périodes de repos.](#690)
+          - [Section 2 : Local où l'enfant est simplement allaité.](#691)
+          - [Section 3 : Chambres d'allaitement.](#692)
+      - [Titre II : CONGES](#693)
+        - [Chapitre V : CONGES NON REMUNERES.](#694)
+      - [Titre III : Hygiène et sécurité](#695)
+        - [Chapitre Ier : Dispositions générales](#696)
+          - [Section 1 : Comités d'hygiène et de sécurité.](#697)
+          - [Section 2 : Mises en demeure de l'inspection du travail.](#698)
+          - [SECTION 3 : ORGANES CONSULTATIFS CENTRAUX](#699)
+          - [Sous-section 2 : Commission nationale d'hygiène et de sécurité du travail en agriculture.](#700)
+          - [Section 4 : Formation à la sécurité.](#701)
+          - [Sous-section 1 : Dispositions générales.](#702)
+          - [Sous-section 2 : De la formation à la sécurité de certaines catégories de salariés.](#703)
+          - [Sous-section 4 : De l'organisation et du contrôle.](#704)
+          - [Section 5 : Substances et préparations dangereuses pour les travailleurs](#705)
+          - [Sous-section 1 : Réglementation des substances et préparations dangereuses pour les travailleurs.](#706)
+          - [SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.](#707)
+          - [Sous-section 3 : Dispositions diverses.](#708)
+          - [SECTION 5 : SUBSTANCES ET PREPARATIONS DANGEREUSES POUR LES LES TRAVAILLEURS](#709)
+          - [SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.](#710)
+        - [Chapitre III : Sécurité](#711)
+          - [Section 1 : Objets pesants.](#712)
+          - [Section 2 : Machines et appareils dangereux.](#713)
+          - [Section 3 : Prévention des incendies](#714)
+          - [Sous-section 1 : Classements des matières inflammables.](#715)
+          - [Sous-section 2 : Eclairage et chauffage des locaux.](#716)
+          - [Sous-section 3 : Issues et dégagements.](#717)
+          - [Sous-section 4 : Moyens de lutte contre l'incendie.](#718)
+          - [Section 4 : Dispositions diverses.](#719)
+          - [Section 5 : Mesures d'application.](#720)
+          - [Section 6 : Procédures de contrôle des appareils, machines, éléments de machines, protecteurs de machines, dispositifs, équipements et produits de protection](#721)
+          - [Sous-section 1 : Dispositions générales.](#722)
+          - [Sous-section 4 : Prescriptions applicables aux matériels en service ou usagés.](#723)
+          - [Sous-section 5 : Dispositions communes.](#724)
+          - [SECTION 8 : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.](#725)
+        - [Chapitre IV : Dispositions particulières aux femmes et aux jeunes travailleurs.](#726)
+          - [Section 1 : Hygiène.](#727)
+          - [Section 2 : Limitation des charges.](#728)
+          - [Section 3 : Travaux interdits aux femmes.](#729)
+          - [Section 4 : Travaux interdits aux jeunes travailleurs.](#730)
+      - [Titre III : HYGIENE](#731)
+        - [Chapitre II : HYGIENE](#732)
+          - [SECTION 1 : LOCAUX AFFECTES AU TRAVAIL](#733)
+          - [SOUS-SECTION 1 : AERATION, ASSAINISSEMENT.](#734)
+          - [SOUS-SECTION 1 : AERATION.](#735)
+          - [SOUS-SECTION 2 : CHAUFFAGE.](#736)
+          - [SOUS-SECTION 4 : PROTECTION CONTRE LES INTEMPERIES.](#737)
+          - [SOUS-SECTION 5 : INSONORISATION.](#738)
+          - [SOUS-SECTION 6 : NETTOYAGE.](#739)
+          - [SOUS-SECTION 7 : ASSAINISSEMENT.](#740)
+          - [SECTION 2 : REPAS, BOISSONS.](#741)
+          - [SECTION 3 : INSTALLATIONS SANITAIRES.](#742)
+          - [SECTION 4 : SIEGES.](#743)
+          - [SECTION 5 : COUCHAGE .](#744)
+          - [SECTION 6 : MESURES D'APPLICATION](#745)
+        - [Chapitre II : HYGIENE SECTION 4 : SIEGES.](#746)
+        - [Chapitre II : HYGIENE SECTION 5 : COUCHAGE.](#747)
+      - [Titre III : SECURITE](#748)
+        - [Chapitre III : SECURITE](#749)
+          - [SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION](#750)
+          - [SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE.](#751)
+          - [HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL.](#752)
+          - [VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE.](#753)
+          - [DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.](#754)
+          - [DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL](#755)
+          - [VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.](#756)
+          - [SOUS-SECTION 3 : PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE.](#757)
+          - [SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES.](#758)
+          - [SOUS-SECTION 5 : DISPOSITIONS COMMUNES *PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE ET PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES*.](#759)
+          - [SOUS-SECTION 6 : DISPOSITIONS DIVERSES.](#760)
+          - [SECTION 6 :PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENT DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION](#761)
+          - [SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE](#762)
+          - [DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.](#763)
+          - [SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION](#764)
+          - [SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES](#765)
+      - [Titre V : Service social du travail.](#766)
+      - [Titre VI : Pénalités](#767)
+        - [Chapitre préliminaire.](#768)
+        - [Chapitre Ier : Conditions du travail](#769)
+          - [Section 1 : Age d'admission](#770)
+          - [Paragraphe 1 : Dispositions générales](#771)
+          - [Section 2 : Durée du travail](#772)
+          - [Paragraphe 1 : Dispositions générales](#773)
+          - [Paragraphe 2 : Heures supplémentaires.](#774)
+          - [Paragraphe 3 : Dispositions relatives aux femmes et aux jeunes travailleurs.](#775)
+          - [Section 3 : Travail de nuit.](#776)
+        - [Chapitre II : Repos et congés](#777)
+          - [Section 1 : Repos hebdomadaire.](#778)
+          - [Section 2 : Jours fériés](#779)
+          - [Paragraphe 1 : Dispositions générales.](#780)
+          - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai.](#781)
+          - [Section 3 : Congés annuels.](#782)
+          - [Section 4 : Repos des femmes en couches.](#783)
+          - [Section 5 : Congés non rémunérés.](#784)
+        - [Chapitre III : Hygiène et sécurité](#785)
+        - [Chapitre IV : Médecine du travail](#786)
+        - [Chapitre V : Service social du travail](#787)
+    - [CONVENTIONS RELATIVES AU TRAVAIL](#788)
+      - [CONTRAT D'APPRENTISSAGE](#789)
+        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*](#790)
+          - [CENTRES DE FORMATION D' APPRENTIS](#791)
+          - [CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS](#792)
+          - [FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .](#793)
+          - [ORGANISATION FINANCIERE DES CENTRES .](#794)
+          - [CONCLUSION ET RENOUVELLEMENT DES CONVENTIONS .](#795)
+          - [CONVENTIONS-CADRE D' APPRENTISSAGE .](#796)
+          - [PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .](#797)
+          - [CONTROLE DES CENTRES DE FORMATION D'APPRENTIS .](#798)
+          - [CONTRAT D'APPRENTISSAGE](#799)
+          - [DUREE DE L'APPRENTISSAGE .](#800)
+          - [INSPECTION DE L'APPRENTISSAGE .](#801)
+      - [CONTRAT DE TRAVAIL](#802)
+        - [TRAVAIL TEMPORAIRE](#803)
+          - [INFORMATIONS A FOURNIR EN APPLICATION DES ARTICLES L. 124-11 ET L. 124-12 .](#804)
+      - [(LOUAGE DE SERVICE)](#805)
+        - [CONTRAT DE TRAVAIL](#806)
+          - [REGLEMENT INTERIEUR .](#807)
+      - [(LOUAGE SE SERVICE)](#808)
+        - [CONTRAT DE TRAVAIL](#809)
+          - [REGLEMENT INTERIEUR .](#810)
+      - [CONVENTIONS COLLECTIVES DE TRAVAIL](#811)
+        - [NATURE ET VALIDITE DE LA CONVENTION COLLECTIVE .](#812)
+        - [EXTENSION DES CONVENTIONS COLLECTIVES .](#813)
+        - [EXECUTION DE LA CONVENTION COLLECTIVE .](#814)
+        - [COMMISSION SUPERIEURE DES CONVENTIONS COLLECTIVES .](#815)
+      - [SALAIRE](#816)
+        - [SAISIE-ARRET ET CESSION DES REMUNERATIONS DUES PAR UN EMPLOYEUR .](#817)
+          - [PROCEDURE DE CESSION ET DE SAISIE ARRET .](#818)
+      - [PENALITES](#819)
+        - [CONTRAT DE TRAVAIL](#820)
+          - [TRAVAIL TEMPORAIRE .](#821)
+    - [Livre III : Placement et emploi](#822)
+      - [Titre Ier : Placement](#823)
+        - [Chapitre II : Placement privé](#824)
+          - [Section 1 : Placement gratuit.](#825)
+          - [Section 2 : Placement payant.](#826)
+      - [Titre II : Emploi](#827)
+        - [Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs](#828)
+          - [Section 2 : Travailleurs handicapés](#829)
+          - [Sous-section 2 : Préorientation des travailleurs handicapés.](#830)
+          - [Sous-section 4 : Education, rééducation professionnelle et réentraînement au travail.](#831)
+          - [SOUS-SECTION 8 : APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.](#832)
+        - [Chapitre IV : Cumuls d'emploi et travail clandestin](#833)
+          - [Section 2 : Travail clandestin.](#834)
+      - [Titre IV : MAIN-D'OEUVRE ETRANGERE](#835)
+        - [Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#836)
+          - [SECTION 2 : OFFICE NATIONAL D'IMMIGRATION](#837)
+          - [PARAGRAPHE 1 : DISPOSITIONS GENERALES.](#838)
+          - [SECTION 2 : OFFICE NATIONAL D'IMMIGRATION *ONI*](#839)
+          - [PARAGRAPHE 2 : ADMINISTRATION ET DIRECTION.](#840)
+          - [PARAGRAPHE 3 : ATTRIBUTIONS DU CONSEIL D'ADMINISTRATION ET DU DIRECTEUR.](#841)
+          - [PARAGRAPHE 2 : ATTRIBUTIONS DU CONSEIL D'ADMINISTRATION ET DU DIRECTEUR.](#842)
+          - [PARAGRAPHE 4 : SERVICES ADMINISTRATIFS.](#843)
+          - [PARAGRAPHE 5 : SERVICES ADMINISTRATIFS.](#844)
+          - [PARAGRAPHE 5 : DISPOSITIONS FINANCIERES ET COMPTABLES.](#845)
+      - [Titre IV : Main d'oeuvre étrangère et protection de la main-d'oeuvre nationale](#846)
+        - [Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère](#847)
+          - [Section 1 : Travailleurs étrangers.](#848)
+        - [Chapitre II : Protection de la main-d'oeuvre nationale.](#849)
+      - [Titre V : Travailleurs privés d'emploi](#850)
+        - [Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi](#851)
+          - [Section 1 : Privation totale d'emploi](#852)
+          - [SOUS-SECTION 2 : CONTROLE.](#853)
+        - [Chapitre II : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI](#854)
+          - [SECTION 1 : PRIVATION TOTALE D'EMPLOI](#855)
+          - [SOUS-SECTION 2 : CONTROLE.](#856)
+          - [SOUS-SECTION 3 : OBLIGATIONS DES EMPLOYEURS.](#857)
+          - [SOUS-SECTION 4 : DISPOSITIONS DIVERSES.](#858)
+      - [Titre VI : Pénalités](#859)
+        - [Chapitre Ier : Placement](#860)
+          - [Section 1 : Service public du placement.](#861)
+          - [Section 2 : Placement privé](#862)
+        - [Chapitre II : Emploi](#863)
+          - [Section 2 : Dispositions régissant l'emploi de certaines catégories de travailleurs : les travailleurs handicapés](#864)
+          - [Section 3 : Cumuls d'emploi et travail clandestin.](#865)
+        - [Chapitre IV : MAIN D'OEUVRE ETRANGERE](#866)
+          - [PARAGRAPHE 1 : DISPOSITIONS SPECIALES A LA MAIN D'OEUVRE ETRANGERE](#867)
+        - [Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale](#868)
+          - [Paragraphe 2 : Protection de la main-d'oeuvre nationale](#869)
+        - [Chapitre V : Travailleurs privés d'emploi.](#870)
+    - [REGLEMENTATION DU TRAVAIL](#871)
+      - [AGENCE NATIONALE POUR L'AMELIORATION DES CONDITIONS DE TRAVAIL .](#872)
+      - [CONDITIONS DU TRAVAIL](#873)
+        - [DUREE DU TRAVAIL](#874)
+          - [DISPOSITIONS RELATIVES AUX FEMMES .](#875)
+      - [HYGIENE ET SECURITE](#876)
+        - [ORGANES CONSULTATIFS CENTRAUX](#877)
+          - [CONSEIL SUPERIEUR DE LA PREVENTION DES RISQUES PROFESSIONNELS .](#878)
+        - [SECURITE](#879)
+          - [MESURES D'APPLICATION .](#880)
+          - [SECTION VII : MATERIELS AUXQUELS S'APPLIQUENT LES DISPOSITIONS DU PREMIER ALINEA DE L'ARTICLE L. 233-5](#881)
+          - [SOUS-SECTION I - MACHINES ET APPAREILS.](#882)
+          - [SECTION VIII : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.](#883)
+      - [HYGIENE](#884)
+        - [LOCAUX AFFECTES AU TRAVAIL](#885)
+          - [ECLAIRAGE.](#886)
+        - [MESURES D'APPLICATION.](#887)
+      - [MEDECINE DU TRAVAIL](#888)
+      - [SERVICE SOCIAL DU TRAVAIL .](#889)
+    - [Livre III : PLACEMENT](#890)
+      - [Titre Ier : PLACEMENT](#891)
+        - [Chapitre Ier : SERVICE PUBLIC DE L'EMPLOI.](#892)
+        - [Chapitre II : PLACEMENT PRIVE](#893)
+          - [SECTION 3 : DISPOSITIONS COMMUNES.](#894)
+    - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#895)
+      - [Titre Ier : Les syndicats professionnels](#896)
+        - [Chapitre Ier : Statut juridique des syndicats.](#897)
+      - [Titre III : Les comités d'entreprise](#898)
+        - [Chapitre IV : Fonctionnement.](#899)
+        - [Chapitre VII : Amélioration des conditions de travail.](#900)
+        - [Chapitre VIII : Bilan social.](#901)
+      - [Titre IV : Intéressement et participation](#902)
+        - [Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise](#903)
+          - [Section 1 : Contrat d'intéressement ou d'association.](#904)
+          - [Section 2 : Contrat d'intéressement à la productivité.](#905)
+        - [Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises](#906)
+          - [Section 1 : Réserve spéciale de participation des travailleurs](#907)
+          - [Paragraphe 1 : Entreprises tenues de constituer une réserve spéciale de participation.](#908)
+          - [Paragraphe 2 : Modalités de calcul de la réserve spéciale.](#909)
+          - [Paragraphe 3 : Modalités de répartition de la réserve spéciale.](#910)
+          - [Paragraphe 4 : Modalités de gestion de la réserve spéciale.](#911)
+          - [Section 2 : Accords passés entre les entreprises et leur personnel.](#912)
+          - [Section 3 : Information des salariés.](#913)
+          - [Section 4 : Dispositions diverses.](#914)
+          - [Section 5 : Dispositions particulières aux sociétés coopératives ouvrières de production.](#915)
+          - [Section 6 : Dispositions particulières aux entreprises publiques et aux sociétés nationales.](#916)
+        - [Chapitre III : Plan d'épargne d'entreprise.](#917)
+          - [Section 1 : Dispositions générales.](#918)
+          - [Section 2 : Composition et gestion du portefeuille.](#919)
+      - [Titre V : Education ouvrière et formation syndicale](#920)
+        - [Chapitre Ier : Congés d'éducation ouvrière.](#921)
+      - [Titre VI : Pénalités](#922)
+        - [Chapitre Ier : Les syndicats professionnels.](#923)
+        - [Chapitre V : Education ouvrière et formation syndicale.](#924)
+    - [Livre III : EMPLOI](#925)
+      - [Titre II : EMPLOI](#926)
+        - [Chapitre Ier : CONTROLE DE L'EMPLOI](#927)
+          - [SECTION 1 : DISPOSITIONS GENERALES.](#928)
+          - [SECTION 2 : DISPOSITIONS SPECIALES.](#929)
+        - [Chapitre II : FONDS NATIONAL DE L'EMPLOI](#930)
+          - [SECTION 1 : CONVENTIONS DE COOPERATION](#931)
+          - [A : CONVENTIONS DE FORMATION.](#932)
+        - [Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#933)
+          - [SECTION 1 : MUTILES DE GUERRE](#934)
+          - [SOUS-SECTION 1 : OBLIGATIONS DES EMPLOYEURS.](#935)
+          - [SOUS-SECTION 1 : OBLIGATIONS DE EMPLOYEURS.](#936)
+          - [SOUS-SECTION 2 : REGIME DE REDEVANCES.](#937)
+          - [SOUS-SECTION 3 : MUTILES DE GUERRE.](#938)
+          - [SOUS-SECTION 4 : MUTILES DE GUERRE.](#939)
+          - [SECTION 2 : TRAVAILLEURS HANDICAPES](#940)
+          - [SOUS-SECTION 1 : DISPOSITIONS GENERALES.](#941)
+        - [Chapitre Ier : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#942)
+          - [SECTION 1 : MUTILES DE GUERRE](#943)
+          - [SOUS-SECTION 1 : OBLIGATIONS DES EMPLOYEURS.](#944)
+      - [Titre IV : MAIN-D'OEUVRE ETRANGERE](#945)
+        - [Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#946)
+          - [SECTION 2 : OFFICE NATIONAL D'IMMIGRATION](#947)
+          - [PARAGRAPHE 1 : DISPOSITIONS GENERALES.](#948)
+      - [Titre VI : PENALITES](#949)
+        - [Chapitre II : EMPLOI](#950)
+          - [SECTION 1 : CONTROLE DE L'EMPLOI](#951)
+    - [EMPLOI](#952)
+      - [CONTROLE DE L'EMPLOI .](#953)
+      - [FONDS NATIONAL DE L'EMPLOI .](#954)
+        - [CONVENTIONS DE COOPERATION](#955)
+          - [CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS  D'ALLOCATIONS SPECIALES .](#956)
+        - [AIDES A LA MOBILITE GEOGRAPHIQUE](#957)
+          - [PRIME DE TRANSFERT ET INDEMNITE DE REINSTALLATION .](#958)
+          - [AUTRES AIDES A LA MOBILITE .](#959)
+      - [PRIME DE MOBILITE DES JEUNES .](#960)
+      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS](#961)
+        - [MUTILES DE GUERRE](#962)
+          - [OBLIGATIONS DES EMPLOYEURS .](#963)
+        - [TRAVAILLEURS HANDICAPES .](#964)
+          - [CENTRES DE PREORIENTATION ET EQUIPES DE PREPARATION ET DE SUITE DU RECLASSEMENT.](#965)
+          - [READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET  REENTRAINEMENT AU TRAVAIL .](#966)
+          - [PRIORITE D'EMPLOI ET DE PLACEMENT DES TRAVAILLEURS HANDICAPES .](#967)
+          - [TRAVAIL PROTEGE](#968)
+          - [EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS .](#969)
+          - [PARAGRAPHE 1 : EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS.](#970)
+          - [ETABLISSEMENTS SPECIALISES .](#971)
+          - [ETABLISSEMENTS PROTEGES.](#972)
+          - [LABELS .](#973)
+          - [SUBVENTION D'INSTALLATION.](#974)
+          - [COMMISSION DEPARTEMENTALE DES HANDICAPES .](#975)
+          - [DISPOSITIONS D'EXECUTION .](#976)
+          - [DISPOSITIONS APPLICABLES AUX ADMINISTRATIONS ET ENTREPRISES  PREVUES A L'ARTICLE L323-12 PARAGRAPHE 4 .](#977)
+          - [ACCESSION AUX EMPLOIS RESERVES .](#978)
+          - [ACCESSION AUX EMPLOIS PUBLICS PAR CONCOURS .](#979)
+          - [APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.](#980)
+          - [APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.](#981)
+    - [PLACEMENT ET EMPLOI](#982)
+      - [AGENCE NATIONALE POUR L'EMPLOI.](#983)
+      - [MAIN-DOEUVRE ETRANGERES](#984)
+        - [TRAVAILLEURS ETRANGERS .](#985)
+      - [MAIN-DOEUVRE ETRANGERE](#986)
+        - [TRAVAILLEURS ETRANGERS .](#987)
+        - [OFFICE NATIONAL D'IMMIGRATION *ONI* .](#988)
+          - [ADMINISTRATION ET DIRECTION .](#989)
+          - [DISPOSITIONS FINANCIERES ET COMPTABLES .](#990)
+      - [TRAVAILLEURS PRIVES D'EMPLOI](#991)
+        - [GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI](#992)
+          - [PRIVATION TOTALE D'EMPLOI](#993)
+          - [CONDITIONS D'OUVERTURE DU DROIT AUX PRESTATIONS.](#994)
+          - [CONTROLE.](#995)
+          - [OBLIGATIONS DES EMPLOYEURS.](#996)
+          - [PRIVATION PARTIELLE D'EMPLOI.](#997)
+        - [GARANTIES DE RESSOURCES](#998)
+          - [ALLOCATION POUR PERTE D'EMPLOI .](#999)
+    - [Livre V : Conflits du travail](#1000)
+      - [Titre Ier : Conflits individuels](#1001)
+        - [Conseils de prud'hommes](#1002)
+          - [Chapitre XI : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.](#1003)
+          - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes](#1004)
+          - [Section 1 : Organisation et fonctionnement de la juridiction.](#1005)
+          - [Section 2 : Organisation et fonctionnement du secrétariat-greffe.](#1006)
+      - [Titre Ier : Conflits individuels - Conseils de prud'hommes](#1007)
+        - [Chapitre Ier : Attributions et institution des conseils de prud'hommes.](#1008)
+        - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes](#1009)
+          - [Section 1 : Organisation et fonctionnement de la juridiction.](#1010)
+          - [Section 2 : Organisation et fonctionnement du secrétariat-greffe.](#1011)
+        - [Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.](#1012)
+        - [Chapitre VI : Procédure devant les conseils de prud'hommes.](#1013)
+          - [Section 1 : Recevabilité des demandes.](#1014)
+          - [Section 2 : Assistance et représentation des parties.](#1015)
+          - [Section 3 : Saisine du conseil des prud'hommes.](#1016)
+          - [Section 5 : Le conseiller rapporteur.](#1017)
+          - [Section 6 : Le jugement.](#1018)
+          - [Section 7 : Le référé prud'homal.](#1019)
+          - [Section 8 : L'exécution des jugements.](#1020)
+          - [Section 9 : Dispositions générales et diverses.](#1021)
+        - [Chapitre VII : Compétence des conseils de prud'hommes et voies de recours contre leurs décisions](#1022)
+          - [Section 1 : Compétence.](#1023)
+          - [Section 2 : Ouverture des voies de recours.](#1024)
+          - [Section 4 : L'appel.](#1025)
+          - [Section 5 : Le pourvoi en cassation.](#1026)
+        - [Chapitre VIII : Récusations.](#1027)
+        - [Chapitre IX : Emoluments, indemnités et droits alloués aux huissiers et témoins](#1028)
+          - [Section 1 : Huissiers de justice.](#1029)
+          - [Section 2 : Témoins.](#1030)
+      - [Titre II : Conflits collectifs](#1031)
+        - [Chapitre III : Conciliation](#1032)
+          - [Section 3 : Composition des commissions de conciliation](#1033)
+          - [Section 4 : Fonctionnement des commissions de conciliation.](#1034)
+          - [Section 5 : Commissions de conciliation dans les professions agricoles.](#1035)
+        - [Chapitre IV : Médiation](#1036)
+          - [Section 1 : Procédure de médiation.](#1037)
+      - [Titre III : Pénalités](#1038)
+        - [Chapitre II : Conflits collectifs](#1039)
+          - [Section 2 : Exécution des sentences arbitrales et des accords intervenus au cours de procédures de conciliation ou de médiation.](#1040)
+    - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](#1041)
+      - [LES SYNDICATS PROFESSIONNELS](#1042)
+        - [EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .](#1043)
+      - [LES DELEGUES DU PERSONNEL .](#1044)
+      - [LES COMITES D'ENTREPRISE](#1045)
+        - [ATTRIBUTIONS ET POUVOIRS DANS LE DOMAINE SOCIAL](#1046)
+          - [PERSONNALITE CIVILE .](#1047)
+          - [INSTITUTIONS SOCIALES D'ENTREPRISES .](#1048)
+          - [GESTION DES OEUVRES SOCIALES .](#1049)
+          - [COMITES INTERENTREPRISES .](#1050)
+          - [FINANCEMENT DES OEUVRES SOCIALES .](#1051)
+        - [COMPOSITION ET ELECTIONS .](#1052)
+        - [CONDITIONS DE LICENCIEMENT DES MEMBRES DES COMITES D'ENTREPRISE  ET DES DELEGUES DU PERSONNEL .](#1053)
+      - [INTERESSEMENT ET PARTICIPATION](#1054)
+        - [ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE](#1055)
+          - [CONTRAT D'INTERESSEMENT OU D'ASSOCIATION .](#1056)
+        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES](#1057)
+          - [RESERVE SPECIALE DE PARTICIPATION DES TRAVAILLEURS](#1058)
+          - [MODALITES DE CALCUL DE LA RESERVE SPECIALE .](#1059)
+          - [MODALITES DE GESTION DE LA RESERVE SPECIALE .](#1060)
+        - [PLAN D'EPARGNE D'ENTREPRISE](#1061)
+          - [COMPOSITION ET GESTION DU PORTEFEUILLE .](#1062)
+    - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1063)
+      - [Titre Ier : Services de contrôle](#1064)
+        - [Chapitre Ier : Inspection du travail.](#1065)
+      - [Titre II : Obligations des employeurs.](#1066)
+      - [Titre III : Pénalités](#1067)
+        - [Chapitre Ier : Services de contrôle](#1068)
+        - [Chapitre II : OBLIGATIONS DES EMPLOYEURS](#1069)
+    - [Livre VII : Dispositions particulières à certaines professions](#1070)
+      - [Titre Ier : Energie - Industries extractives](#1071)
+        - [Chapitre Ier : Mines et carrières](#1072)
+          - [Section 1 : Conditions de travail.](#1073)
+        - [Chapitre II : Délégués mineurs](#1074)
+          - [Section 1 : Délégués mineurs du fond](#1075)
+          - [Paragraphe 1 : Fonctions des délégués mineurs.](#1076)
+          - [Paragraphe 2 : Circonscriptions.](#1077)
+          - [Paragraphe 3 : Elections.](#1078)
+          - [Paragraphe 4 : Dispositions spéciales.](#1079)
+          - [Section 2 : Délégués mineurs de la surface](#1080)
+          - [Paragraphe 1 : Fonctions des délégués mineurs de la surface.](#1081)
+          - [Paragraphe 2 : Circonscriptions.](#1082)
+          - [Paragraphe 3 : Elections.](#1083)
+          - [Paragraphe 4 : Dispositions spéciales.](#1084)
+          - [Section 3 : Dispositions communes aux délégués mineurs du fond et aux délégués de la surface](#1085)
+          - [Paragraphe 1 : Généralités.](#1086)
+          - [Paragraphe 2 : Application de l'alinéa final de l'article L. 712-13.](#1087)
+      - [Titre II : Industries de transformation et d'élaboration](#1088)
+        - [Chapitre Ier : Travailleurs à domicile](#1089)
+          - [Section 1 : Dispositions générales.](#1090)
+          - [Section 2 : Contrat de travail.](#1091)
+          - [Section 3 : Salaires.](#1092)
+          - [Section 4 : Règlement des litiges.](#1093)
+          - [Section 5 : Dispositions spéciales à l'agriculture.](#1094)
+          - [Section 6 : Hygiène et sécurité.](#1095)
+        - [Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, de blanchiment et apprêts des étoffes](#1096)
+          - [Section 1 : Tissage et bobinage.](#1097)
+          - [Section 2 : Coupe du velours de coton, teinture, blanchiment et apprêts des étoffes](#1098)
+        - [Chapitre III : Règlements de comptes entre les maîtres d'atelier et les négociants.](#1099)
+      - [Titre III : Bâtiment et travaux publics](#1100)
+        - [Chapitre Ier : Indemnisation des travailleurs du bâtiment et des travaux publics privés d'emploi par suite d'intempéries.](#1101)
+      - [Titre IV : Transports et télécommunications.](#1102)
+        - [Chapitre II : Marins.](#1103)
+          - [Section 1 : Conventions relatives au travail.](#1104)
+          - [PARAGRAPHE 1 : CONVENTIONS COLLECTIVES DE TRAVAIL .](#1105)
+          - [SECTION 3 : REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL](#1106)
+          - [PARAGRAPHE 1 : CONCILIATION .](#1107)
+          - [PARAGRAPHE 2 : MEDIATION .](#1108)
+          - [PARAGRAPHE 3 : ARBITRAGE .](#1109)
+          - [SECTION 4 : CONTROLE .](#1110)
+          - [Section 6 : Aide publique aux marins privés d'emploi.](#1111)
+        - [Chapitre III : Personnels des entreprises de manutention des ports](#1112)
+          - [Section 2 : Participation des salariés des entreprises de manutention des ports maritimes aux fruits de l'expansion.](#1113)
+          - [Section 3 : Amélioration des conditions de travail](#1114)
+          - [Paragraphe 1 : Commission paritaire spéciale.](#1115)
+      - [SECTION 3 : TRANSPORTS ET TELECOMMUNICATIONS](#1116)
+        - [Chapitre II : MARINS](#1117)
+          - [SECTION 3 : REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL](#1118)
+          - [PARAGRAPHE 1 : CONCILIATION .](#1119)
+          - [PARAGRAPHE 2 : MEDIATION .](#1120)
+      - [Titre V : Voyageurs, représentants et placiers du commerce et de l'industrie.](#1121)
+      - [Titre VI : Journalistes, artistes, mannequins](#1122)
+        - [Chapitre Ier : Journalistes professionnels](#1123)
+          - [Section 2 : Résiliation de contrat.](#1124)
+          - [Section 3 : Rémunération et congés.](#1125)
+          - [Section 4 : Carte d'identité professionnelle](#1126)
+          - [Paragraphe 1 : Carte d'identité de journaliste professionnel.](#1127)
+          - [Paragraphe 2 : Carte d'identité de journaliste professionnel honoraire](#1128)
+        - [Chapitre II : Artistes, auteurs, compositeurs, gens de lettres](#1129)
+          - [Section 2 : Artistes du spectacle](#1130)
+          - [Paragraphe 3 : Placement.](#1131)
+      - [Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison](#1132)
+        - [Chapitre Ier : Congés annuels.](#1133)
+        - [Chapitre II : Litiges nés du contrat de travail.](#1134)
+        - [Chapitre III : Surveillance médicale](#1135)
+          - [Section 1 : Organisation de la surveillance médicale.](#1136)
+          - [Section 2 : Examens médicaux.](#1137)
+      - [Titre IX : Pénalités](#1138)
+        - [Chapitre Ier : Energie, industries extractives](#1139)
+          - [Section 1 : Mines et carrières.](#1140)
+          - [Section 2 : Délégués mineurs.](#1141)
+        - [Chapitre II : Industries de transformation](#1142)
+          - [Section 1 : Travailleurs à domicile](#1143)
+          - [Section 2 : Moyens de constater les conventions relatives aux salaires en matière de tissage, bobinage, de coupe de velours, de coton, de teinture, blanchiment et apprêts des étoffes](#1144)
+        - [Chapitre III : Bâtiment et travaux publics.](#1145)
+        - [Chapitre V : Voyageurs, représentants et placiers.](#1146)
+        - [Chapitre VI : Journalistes, artistes, mannequins](#1147)
+          - [Section 1 : Journalistes professionnels.](#1148)
+          - [Section 2 : Artistes, auteurs, compositeurs, gens de lettres.](#1149)
+        - [Chapitre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison.](#1150)
+        - [Chapitre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises (Halles de Paris)](#1151)
+    - [DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS](#1152)
+      - [ENERGIE - INDUSTRIES EXTRACTIVES](#1153)
+        - [MINES ET CARRIERES](#1154)
+          - [HYGIENE ET SECURITE](#1155)
+          - [COMITES D'HYGIENE ET DE SECURITE.](#1156)
+      - [ENERGIE - INDUSTRIES EXCTRACTIVES](#1157)
+        - [MINES ET CARRIERES](#1158)
+          - [HYGIENE ET SECURITE](#1159)
+          - [COMITES D'HYGIENE ET DE SECURITE.](#1160)
+      - [BATIMENT ET TRAVAUX PUBLICS](#1161)
+        - [INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .](#1162)
+      - [TRANSPORTS ET TELECOMMUNICATIONS](#1163)
+        - [MARINS](#1164)
+          - [REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL](#1165)
+          - [CONCILIATION .](#1166)
+      - [JOURNALISTES PROFESSIONNELS](#1167)
+        - [CARTE D'IDENTITE PROFESSIONNELLE](#1168)
+          - [CARTE D'IDENTITE DE JOURNALISTE PROFESSIONNEL .](#1169)
+          - [CARTE D'IDENTITE DE JOURNALISTE PROFESSIONNEL HONORAIRE .](#1170)
+    - [Livre VIII : Dispositions spéciales aux départements d'outre-mer](#1171)
+      - [Titre III : Placement et emploi](#1172)
+        - [Chapitre Ier : Dispositions particulières à la main-d'oeuvre étrangère.](#1173)
+        - [Chapitre III : Garantie de ressources des travailleurs sans emploi.](#1174)
+      - [Titre VIII : Pénalités](#1175)
+        - [Chapitre Ier : Conventions relatives au travail](#1176)
+        - [Chapitre II : Réglementation du travail](#1177)
+        - [Chapitre III : Placement et emploi](#1178)
+    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#1179)
+      - [CONFLITS DU TRAVAIL](#1180)
+        - [EMOLUMENTS, INDEMNITES, DROITS ALLOUES AUX GREFFIERS EN CHEF, HUISSIERS ET TEMOINS.](#1181)
+    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](#1182)
+      - [Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale.](#1183)
+      - [Titre IV.](#1184)
+      - [Titre VII : Modalités d'application des articles L. 970-1, L. 970-2, L. 970-3](#1185)
+        - [Section 1 : Modalités d'application des dispositions de l'article L. 970-1.](#1186)
+        - [Section 2 : Modalités d'application des dispositions de l'article L. 970-2.](#1187)
+          - [Sous-section 1 : Actions de formation organisées à l'initiative de l'administration en vue de la formation professionnelle continue des fonctionnaires.](#1188)
+          - [Sous-section 2 : Cycles de formation, stages ou autres actions offerts ou agréés par l'administration en vue de la préparation aux concours administratifs.](#1189)
+          - [Sous-section 3 : Actions de formation choisies par les fonctionnaires en vue de leur formation personnelle.](#1190)
+        - [Section 3 : Modalités d'application de l'article L. 970-3.](#1191)
+          - [Sous-section 1 : Actions de formation organisées à l'initiative de l'administration.](#1192)
+          - [Sous-section 2 : Participation des agents non titulaires aux cycles ou stages offerts ou agréés par l'administration en vue de la préparation aux concours administratifs et aux examens professionnels.](#1193)
+    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1194)
+      - [COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .](#1195)
+      - [DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.](#1196)
+      - [DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-2.](#1197)
+      - [MESURES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-11.](#1198)
+      - [MESURES D'APPLICATION DE L'ARTICLE L930-2 .](#1199)
+      - [MESURES D'APPLICATION DE L'ARTICLE L. 930-1-12.](#1200)
+      - [MESURE D'APPLICATION DE L'ARTICLE L. 930-2](#1201)
+      - [MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10](#1202)
+        - [DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA  FORMATION PROFESSIONNELLE CONTINUE .](#1203)
+        - [CONSULTATION DU COMITE D'ENTREPRISE .](#1204)
+        - [DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU  FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .](#1205)
+        - [CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .](#1206)
+      - [MODALITES D'APPLICATION DE L'ARTICLE L970-3](#1207)
+        - [PARTICIPATION DES AGENTS NON TITULAIRES AUX CYCLES OU STAGES  OFFERTS OU AGREES PAR L'ADMINISTRATION EN VUE DE LA PREPARATION AUX  CONCOURS ADMINISTRATIFS ET AUX EXAMENS PROFESSIONNELS .](#1208)
+        - [ACTIONS CHOISIES PAR LES AGENTS NON TITULAIRES EN VUE DE LEUR  FORMATION PERSONNELLE .](#1209)
+        - [PARTICIPATION DES AGENTS NON TITULAIRES EXERCANT A PLEIN TEMPS  DES FONCTIONS PERMANENTES AUX STAGES DE CONVERSION OU DE PROMOTION  PROFESSIONNELLE .](#1210)
+      - [DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER](#1211)
+        - [APPLICATION DES DISPOSITIONS DES ARTICLES L. 930-1 A L. 930-2 ET L. 950-1 A L. 950-10.](#1212)
+      - [MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10](#1213)
+        - [REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.](#1214)
+    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1215)
+      - [Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10](#1216)
+        - [SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .](#1217)
+  - [Partie réglementaire ancienne - Décrets simples](#1218)
+    - [Livre Ier : Conventions relatives au travail](#1219)
+      - [Titre Ier : Contrats d'apprentissage](#1220)
+        - [Dispositions applicables aux contrats conclus à partir du 1er juillet 1972](#1221)
+          - [Chapitre VII : Salaire de l'apprenti.](#1222)
+      - [Titre Ier : CONTRAT D'APPRENTISSAGE](#1223)
+        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972](#1224)
+          - [Chapitre VII : SALAIRE DE L'APPRENTI .](#1225)
+      - [Titre II : CONTRAT DE TRAVAIL](#1226)
+        - [Chapitre IV : Travail temporaire.](#1227)
+      - [Titre III : Conventions collectives de travail](#1228)
+        - [Chapitre IV : Conventions collectives dans les entreprises publiques.](#1229)
+      - [Titre IV : Salaire](#1230)
+        - [Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale](#1231)
+          - [Section 1 : Dispositions générales.](#1232)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.](#1233)
+          - [Section 3 : Dispositions spéciales aux salariés agricoles.](#1234)
+        - [Chapitre Ier : Salaire minimum de croissance](#1235)
+          - [Rémunération mensuelle minimale](#1236)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.](#1237)
+        - [Chapitre II : Rémunération des heures supplémentaires - Primes de transport - Conversion de certains avantages en nature.](#1238)
+        - [Chapitre III : PAIEMENT DU SALAIRE](#1239)
+          - [SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .](#1240)
+    - [CONVENTIONS RELATIVES AU TRAVAIL](#1241)
+      - [CONTRAT D'APPRENTISSAGE](#1242)
+        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972](#1243)
+          - [SALAIRE DE L'APPRENTI .](#1244)
+      - [CONTRAT DE TRAVAIL](#1245)
+        - [TRAVAIL TEMPORAIRE .](#1246)
+    - [Livre II : Réglementation du travail](#1247)
+      - [Titre Ier : Conditions du travail](#1248)
+        - [Chapitre Ier : Age d'admission.](#1249)
+        - [Chapitre II : DUREE DU TRAVAIL](#1250)
+          - [SECTION 1 : RECUPERATION DES HEURES PERDUES.](#1251)
+          - [Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.](#1252)
+      - [Titre II : Repos et congés](#1253)
+        - [Chapitre III : Congés annuels.](#1254)
+      - [Titre III : Hygiène et sécurité](#1255)
+        - [Chapitre III : Sécurité.](#1256)
+    - [Livre III : Placement et emploi](#1257)
+      - [Titre Ier : Placement](#1258)
+        - [Chapitre Ier : Service public du placement.](#1259)
+      - [Titre II : Emploi](#1260)
+        - [Chapitre Ier : Contrôle de l'emploi.](#1261)
+        - [Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs](#1262)
+          - [Section 2 : Travailleurs handicapés](#1263)
+          - [Sous-section 1 : Dispositions générales.](#1264)
+          - [Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail.](#1265)
+          - [Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.](#1266)
+          - [Sous-section 4 : Travail protégé.](#1267)
+          - [Section 3 : Emploi obligatoire des pères de famille.](#1268)
+        - [Chapitre IV : Cumuls d'emplois et travail clandestin.](#1269)
+      - [Titre III : Agence nationale pour l'emploi.](#1270)
+      - [Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale](#1271)
+        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère](#1272)
+          - [Section 1 : Travailleurs étrangers.](#1273)
+        - [Chapitre II : Protection de la main-d'oeuvre nationale.](#1274)
+      - [Titre V : Travailleurs privés d'emploi](#1275)
+        - [Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi](#1276)
+          - [Section 1 : Privation totale d'emploi.](#1277)
+          - [Section 2 : PRIVATION PARTIELLE D'EMPLOI.](#1278)
+          - [Section 5 : Création d'entreprises par les salariés privés d'emploi.](#1279)
+        - [Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.](#1280)
+    - [EMPLOI](#1281)
+      - [FONDS NATIONAL DE L'EMPLOI - PRIME DE MOBILITE DES JEUNES .](#1282)
+      - [FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .](#1283)
+      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS](#1284)
+        - [TRAVAILLEURS HANDICAPES](#1285)
+          - [TRAVAIL PROTEGE .](#1286)
+    - [Livre III : EMPLOI](#1287)
+      - [Titre II : EMPLOI](#1288)
+        - [Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#1289)
+          - [SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE.](#1290)
+          - [SECTION 2 : TRAVAILLEURS HANDICAPES](#1291)
+          - [SOUS-SECTION 4 : TRAVAIL PROTEGE.](#1292)
+    - [PLACEMENT ET EMPLOI](#1293)
+      - [DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#1294)
+        - [TRAVAILLEURS ETRANGERS .](#1295)
+    - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](#1296)
+      - [LES SYNDICATS PROFESSIONNELS](#1297)
+        - [EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .](#1298)
+      - [LES COMITES D'ENTREPRISE](#1299)
+        - [COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .](#1300)
+      - [INTERESSEMENT ET PARTICIPATION .](#1301)
+        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .](#1302)
+    - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1303)
+      - [Titre III : Les comités d'entreprise](#1304)
+        - [Chapitre VII : Amélioration des conditions de travail.](#1305)
+    - [Livre V : Conflits du travail](#1306)
+      - [Titre II : Conflits collectifs](#1307)
+        - [Chapitre IV : Médiation.](#1308)
+    - [CONFLITS DU TRAVAIL](#1309)
+      - [CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES](#1310)
+        - [DEPENSES DES CONSEILS DE PRUD'HOMMES .](#1311)
+    - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1312)
+      - [Titre Ier : Services de contrôle](#1313)
+        - [Chapitre Ier : Inspection du travail.](#1314)
+        - [Chapitre II : Inspection médicale du travail.](#1315)
+    - [Livre VII : Dispositions particulières à certaines professions](#1316)
+      - [Titre Ier : Energie - Industries extractives](#1317)
+        - [Chapitre Ier : Mines et carrières](#1318)
+          - [Section 2 : Hygiène et sécurité - Services médicaux.](#1319)
+          - [Paragraphe 1 : Organisation générale.](#1320)
+          - [Paragraphe 2 : Obligations des médecins du travail.](#1321)
+          - [Paragraphe 3 : Personnel - Locaux et matériels.](#1322)
+          - [Paragraphe 4 : Incompatibilités.](#1323)
+          - [Paragraphe 5 : Qualification des médecins du travail](#1324)
+          - [Paragraphe 6 : Dispositions diverses.](#1325)
+        - [Chapitre II : Délégués mineurs.](#1326)
+      - [Titre III : Bâtiment et travaux publics](#1327)
+        - [Chapitre II : Congés payés des professions du bâtiment et des travaux publics.](#1328)
+      - [Titre IV : Transports et télécommunications](#1329)
+        - [Chapitre Ier : Travailleurs intermittents des transports : congés payés.](#1330)
+        - [Chapitre II : Marins](#1331)
+          - [Section 1 : Conventions relatives au travail](#1332)
+          - [Paragraphe 2 : Salaires.](#1333)
+          - [Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.](#1334)
+          - [Section 3 : Règlement des conflits collectifs de travail](#1335)
+          - [Paragraphe 2 : Médiation.](#1336)
+        - [Chapitre III : Personnels des entreprises de manutention des ports : congés payés.](#1337)
+        - [Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.](#1338)
+      - [Titre III : Transports et télécommunications](#1339)
+        - [Chapitre III : Personnels des entreprises de manutention des ports : congés payés.](#1340)
+      - [Titre V : Voyageurs, représentants et placiers.](#1341)
+      - [Titre VI : Journalistes, artistes, mannequins](#1342)
+        - [Chapitre II : Artistes, compositeurs, gens de lettres](#1343)
+          - [Section 2 : Artistes du spectacle : congés payés.](#1344)
+      - [Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison](#1345)
+        - [Chapitre III : Assistantes maternelles](#1346)
+          - [Section 1 : Dispositions générales.](#1347)
+          - [Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.](#1348)
+      - [Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises](#1349)
+        - [Chapitre III : Halles centrales de Paris.](#1350)
+    - [Livre VIII : Dispositions spéciales aux départements d'outre-mer](#1351)
+      - [Titre Ier : Conventions relatives au travail](#1352)
+        - [Chapitre Ier : Apprentissage](#1353)
+          - [Section 1 : Des centres de formation d'apprentis](#1354)
+          - [Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis](#1355)
+          - [Dispositions générales.](#1356)
+          - [De l'organisation des centres.](#1357)
+          - [Du fonctionnement pédagogique des centres.](#1358)
+          - [De l'organisation financière des centres.](#1359)
+          - [Paragraphe 2 : De la conclusion et du renouvellement des conventions.](#1360)
+          - [Paragraphe 3 : Du personnel des centres de formation d'apprentis.](#1361)
+          - [Paragraphe 4 : Du contrôle des centres de formation d'apprentis.](#1362)
+          - [Section 2 : Du contrat d'apprentissage](#1363)
+          - [De l'agrément de l'employeur.](#1364)
+          - [De la durée de l'apprentissage.](#1365)
+          - [Avis d'orientation](#1366)
+          - [Certificat médical.](#1367)
+          - [Du contenu des contrats d'apprentissage.](#1368)
+          - [De l'enregistrement du contrat d'apprentissage.](#1369)
+          - [Cas de l'apprenti employé par un ascendant.](#1370)
+          - [Constatation de l'aptitude de l'apprenti.](#1371)
+          - [Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.](#1372)
+          - [Section 4 : Dispositions financières.](#1373)
+          - [Section 5 : Dispositions provisoires](#1374)
+          - [Paragraphe 1 : Des accords provisoires](#1375)
+          - [Dispositions générales.](#1376)
+          - [Des accords simples.](#1377)
+          - [Des accords de transformation.](#1378)
+          - [Dispositions relatives au personnel.](#1379)
+          - [Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.](#1380)
+          - [Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.](#1381)
+        - [Chapitre IV : Salaire](#1382)
+          - [Section 1 : Salaire minimum de croissance.](#1383)
+          - [Section 2 : Règles particulières à la répartition des pourboires.](#1384)
+      - [Titre II : Réglementation du travail](#1385)
+        - [Chapitre II : Services médicaux du travail](#1386)
+          - [Section 1 : Organisation et fonctionnement des services médicaux du travail.](#1387)
+          - [Paragraphe a) Les médecins du travail.](#1388)
+          - [Paragraphe b) Visites d'embauchage.](#1389)
+          - [Paragraphe c) Examens médicaux périodiques des salariés.](#1390)
+          - [Paragraphe d) Visite de reprise.](#1391)
+          - [Paragraphe e) Examens complémentaires.](#1392)
+          - [Paragraphe f) Surveillance de l'hygiène des entreprises.](#1393)
+          - [Section 3 : Infirmiers et infirmières.](#1394)
+          - [Section 4 : Locaux et matériel.](#1395)
+          - [Section 5 : Dispositions particulières.](#1396)
+      - [Titre III : Placement et emploi](#1397)
+        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.](#1398)
+      - [Titre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1399)
+        - [Chapitre Ier : Inspection du travail.](#1400)
+      - [Titre VII : Dispositions particulières à certaines professions](#1401)
+        - [Chapitre Ier : Journalistes professionnels.](#1402)
+    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#1403)
+      - [CONVENTIONS RELATIVES AU TRAVAIL](#1404)
+        - [APPRENTISSAGE](#1405)
+          - [DISPOSITIONS FINANCIERES .](#1406)
+    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](#1407)
+      - [Titre Ier : Des institutions de la formation professionnelle](#1408)
+        - [Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.](#1409)
+        - [Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.](#1410)
+      - [Titre IV : De l'aide de l'Etat.](#1411)
+      - [Titre V : De la participation des employeurs au financement de la formation professionnelle continue.](#1412)
+    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1413)
+      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1414)
+        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .](#1415)
+      - [AIDE DE L'ETAT .](#1416)
+    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1417)
+      - [Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1418)
+        - [SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.](#1419)
+  - [Annexes](#1420)
+    - [Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1421)
+      - [Titre 3 : Les comités d'entreprise](#1422)
+        - [Chapitre 8 : Bilan social](#1423)
+          - [Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.](#1424)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : Conventions relatives au travail<a id=2></a>
@@ -20270,29 +20271,30 @@ _Anciens textes_:
 
 ##### AMENAGEMENT DU TEMPS DE TRAVAIL .<a id=175></a>
 
+##### TRAVAIL A TEMPS PARTIEL.<a id=176></a>
+
 ###### Article L212-4-2
 
-L'aménagement par l'employeur, à titre permanent ou temporaire, d'horaires de travail réduits applicables aux seuls salariés
-qui en font la demande donne lieu à l'application des règles spéciales définies à l'article L. 212-4-3 et à l'article et à
-l'article 19 de la loi n. 73-1195 du 27 décembre 1973 sous réserve que soient effectivement remplies les conditions
-suivantes :
+Des horaires de travail à temps partiel inférieurs à la durée normale de travail dans l'établissement ou l'atelier et à la
+durée légale du travail peuvent être pratiqués, après avis, lorsqu'ils existent, du comité d'entreprise, ou, à défaut, des
+délégués du personnel [*consultation*] ; cet avis est transmis dans un délai de quinze jours à l'autorité administrative
+compétente. Ils sont proposés aux salariés de l'établissement ou de l'entreprise qui demandent à en bénéficier, avant d'être
+offerts aux demandeurs d'emploi.
 
-Les horaires réduits doivent être compris entre la moitié et les trois quarts de la durée légale hebdomadaire de travail ou,
+Les salariés employés à temps partiel bénéficient des droits accordés par la loi et les conventions collectives aux salariés
+occupés à temps complet, sous réserve d'adaptation éventuellement prévue par un accord collectif en ce qui concerne les
+droits conventionnels.
 
-en agriculture, de la durée équivalente ;
+Compte tenu de la durée de leur travail et de leur ancienneté dans l'entreprise, leur rémunération [*montant*] est
+proportionnelle à celle du salarié qui, à qualification égale, occupe à temps complet un emploi équivalent dans
+l'établissement ou l'entreprise.
 
-Ces horaires ne peuvent concerner que des postes de travail répondant à des conditions de rémunération qui sont fixées par le
-décret [*en Conseil d'Etat*] prévu à l'article L. 212-4-4.
+Pour la détermination des droits liés à l'ancienneté, la durée de celle-ci est décomptée pour les salariés employés à temps
+partiel comme s'ils avaient été occupés à temps complet.
 
-Ces horaires réduits ne peuvent être appliqués qu'avec l'accord du comité d'entreprise, ou, s'il n'en existe pas, des
-délégués du personnel.
-
-Lorsque le comité d'entreprise, ou, s'il n'en existe pas,
-
-les délégués du personnel ont refusé l'accord ci-dessus exigé,
-
-le chef d'entreprise peut demander à l'inspecteur du travail et de la main-d'oeuvre, ou au fonctionnaire chargé de
-l'inspection du travail dans l'entreprise concernée d'autoriser l'application des horaires litigieux.
+L'indemnité de licenciement et l'indemnité de départ à la retraite des salariés ayant été occupés à temps complet et à temps
+partiel dans la même entreprise sont calculées proportionnellement aux périodes d'emploi effectuées selon l'une et l'autre de
+ces deux modalités depuis leur entrée dans l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -20375,10 +20377,6 @@ _Cité par_:
   - Code rural - art. R741-4 (V)
   - Code rural ancien - art. 1031-3 (Ab)
 
-_Cite_:
-
-  - Loi n°73-1195 du 27 décembre 1973 - art. 19 (Ab)
-
 **Liens**:
 
   - TXT_ASSOCIE: Décret n°75-466 du 9 juin 1975
@@ -20391,6 +20389,10 @@ _Cite_:
   - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
   - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 5 (Ab)
 
+_Modifié par_:
+
+  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
+
 _Codifié par_:
 
   - Décret n°73-1046 1973-11-15
@@ -20398,9 +20400,18 @@ _Codifié par_:
 
 ###### Article L212-4-3
 
-En matière de législation du travail et pour la détermination des droits liés à l'ancienneté, la durée de celle-ci est
-décomptée pour les salariés employés à temps réduit en application de l'article L. 212-4-2 comme s'ils avaient été occupés à
-temps complet [*calcul*] .
+Le contrat de travail des salariés à temps partiel est un contrat écrit [*condition de forme*] ; il mentionne, notamment, la
+durée hebdomadaire du travail, les conditions dans lesquelles sa répartition est établie ainsi que les limites dans
+lesquelles peuvent être effectuées des heures complémentaires au-delà du temps de travail régulier prévu par le contrat et
+dans le cadre éventuellement déterminé par un accord collectif [*mentions obligatoires*]. Le refus d'effectuer les heures
+complémentaires proposées par l'employeur au-delà des limites fixées par le contrat ne constitue pas une faute ou un motif de
+licenciement.
+
+La durée totale de travail des salariés à temps partiel, heures complémentaires comprises, ne peut excéder [*maximum*], la
+durée légale du travail ni la durée normale de travail dans l'établissement ou l'atelier.
+
+Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les mesures d'application des articles L. 212-4-1 à L.
+212-4-3.
 
 **Liens relatifs à cet article**
 
@@ -20439,7 +20450,6 @@ _Cité par_:
   - Code du travail - art. L129-6 (AbD)
   - Code du travail - art. L212-16 (VT)
   - Code du travail - art. L212-17 (AbD)
-  - Code du travail - art. L212-4-2 (M)
   - Code du travail - art. L212-4-3 (M)
   - Code du travail - art. L212-4-4 (VD)
   - Code du travail - art. L212-4-7 (T)
@@ -20463,6 +20473,10 @@ _Cité par_:
   - Code rural ancien - art. 1000-6 (Ab)
   - Code rural et de la pêche maritime - art. L712-1 (VD)
 
+_Modifié par_:
+
+  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
+
 **Liens**:
 
   - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
@@ -20474,6 +20488,11 @@ _Cité par_:
   - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
   - TXT_SOURCE: Décret n°98-497 du 22 juin 1998
 
+_Cite_:
+
+  - Code du travail - art. L212-4-1 (AbD)
+  - Code du travail - art. L212-4-2 (M)
+
 _Codifié par_:
 
   - Décret n°73-1046 1973-11-15
@@ -20481,7 +20500,12 @@ _Codifié par_:
 
 ###### Article L212-4-4
 
-Les mesures d'application des articles L. 212-4-1 à L. 212-4-3 font l'objet de décrets en Conseil d'Etat.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles les salariés à temps partiel entrent en compte dans
+l'effectif du personnel des entreprises ou établissements dont ils relèvent, en vue de l'application à ces entreprises ou
+établissements des obligations subordonnées par la législation du travail à des conditions d'effectif minimum de salariés. En
+ce qui concerne l'application des dispositions relatives à la représentation du personnel et à l'exercice des droits
+syndicaux, l'effectif des salariés est calculé en divisant la masse totale des horaires inscrits dans les contrats de travail
+des salariés de l'entreprise par la durée légale du travail ou la durée normale si celle-ci lui est inférieure.
 
 **Liens relatifs à cet article**
 
@@ -20509,8 +20533,13 @@ _Cité par_:
   - Code du travail - art. L932-1 (AbD)
   - Code du travail - art. R261-3-1 (VT)
 
+_Modifié par_:
+
+  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
+
 **Liens**:
 
+  - TXT_ASSOCIE: Loi n°81-64 du 28 janvier 1981 - art. 4 (V)
   - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
   - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
   - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
@@ -20523,12 +20552,47 @@ _Nouveaux textes_:
 
   - Code du travail - art. L212-4-8 (Ab)
 
-_Cite_:
 
-  - Code du travail L212-4-1 A L212-4-3
+###### Article L212-4-5
+
+Les salariés à temps complet qui souhaitent occuper ou reprendre un emploi à temps partiel et les salariés à temps partiel
+qui souhaitent occuper ou reprendre un emploi à temps complet dans le même établissement ou, à défaut, dans la même
+entreprise, ont priorité pour l'attribution d'un emploi ressortissant à leur catégorie professionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+_Créé par_:
+
+  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
+  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
+  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
+  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
+  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
+  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
+  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
+
+_Cité par_:
+
+  - Décret n°95-912 du 8 août 1995 - art. 1 (V)
+  - Loi n°2000-37 du 19 janvier 2000 - art. 32 (V)
+  - Code du travail - art. L212-4-3 (M)
+  - Code du travail - art. L212-4-7 (T)
+  - Code du travail - art. L432-4-2 (AbD)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L212-4-9 (AbD)
 
 
-##### HEURES SUPPLEMENTAIRES .<a id=176></a>
+##### HEURES SUPPLEMENTAIRES .<a id=177></a>
 
 ###### Article L212-5
 
@@ -20768,7 +20832,7 @@ _Codifié par_:
   - TXT_ASSOCIE: Code du travail R261-4 : DISPOSITIONS PENALES
 
 
-##### DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .<a id=177></a>
+##### DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .<a id=178></a>
 
 ###### Article L212-13
 
@@ -20816,9 +20880,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### DUREE<a id=178></a>
+#### DUREE<a id=179></a>
 
-##### HEURES SUPPLEMENTAIRES .<a id=179></a>
+##### HEURES SUPPLEMENTAIRES .<a id=180></a>
 
 ###### Article L212-5-1
 
@@ -20910,7 +20974,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### REPOS HEBDOMADAIRE .<a id=180></a>
+### REPOS HEBDOMADAIRE .<a id=181></a>
 
 ###### Article L221-1
 
@@ -20990,9 +21054,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### CONGES ANNUELS<a id=181></a>
+### CONGES ANNUELS<a id=182></a>
 
-#### DUREE DU CONGE .<a id=182></a>
+#### DUREE DU CONGE .<a id=183></a>
 
 ###### Article L223-3
 
@@ -21104,7 +21168,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### INDEMNITES DE CONGE.<a id=183></a>
+#### INDEMNITES DE CONGE.<a id=184></a>
 
 ###### Article L223-11
 
@@ -21194,7 +21258,7 @@ _Anciens textes_:
   - Loi n°1956-03-27
 
 
-### HYGIENE ET SECURITE .<a id=184></a>
+### HYGIENE ET SECURITE .<a id=185></a>
 
 ###### Article L231-1
 
@@ -21937,7 +22001,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### DISPOSITIONS GENERALES.<a id=185></a>
+#### DISPOSITIONS GENERALES.<a id=186></a>
 
 ###### Article L231-2-1
 
@@ -21977,7 +22041,7 @@ _Créé par_:
   - Loi n°80-502 du 4 juillet 1980 - art. 21 () JORF 5 juillet 1980
 
 
-#### HYGIENE .<a id=186></a>
+#### HYGIENE .<a id=187></a>
 
 ###### Article L232-3
 
@@ -21999,11 +22063,11 @@ _Anciens textes_:
   - Ordonnance  1960-11-29 ART. 1 ET 3
 
 
-## Livre II : REGLEMENT DU TRAVAIL<a id=187></a>
+## Livre II : REGLEMENT DU TRAVAIL<a id=188></a>
 
-### Titre II : CONGES<a id=188></a>
+### Titre II : CONGES<a id=189></a>
 
-#### Chapitre VI : CONGES POUR EVENEMENTS FAMILIAUX.<a id=189></a>
+#### Chapitre VI : CONGES POUR EVENEMENTS FAMILIAUX.<a id=190></a>
 
 ###### Article L226-1
 
@@ -22050,7 +22114,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-## REGLEMENTATION DU TRAVAIL HYGIENE ET SECURITE .<a id=190></a>
+## REGLEMENTATION DU TRAVAIL HYGIENE ET SECURITE .<a id=191></a>
 
 ###### Article L231-3-1
 
@@ -22138,11 +22202,11 @@ _Cite_:
   - Code du travail - art. L950-1 (M)
 
 
-## Livre III : Placement et emploi<a id=191></a>
+## Livre III : Placement et emploi<a id=192></a>
 
-### Titre Ier : Placement<a id=192></a>
+### Titre Ier : Placement<a id=193></a>
 
-#### Chapitre préliminaire.<a id=193></a>
+#### Chapitre préliminaire.<a id=194></a>
 
 ###### Article L310-1
 
@@ -22168,9 +22232,9 @@ _Anciens textes_:
   - Loi n°1941-03-21 ART. 1
 
 
-#### Chapitre Ier : Service public du placement<a id=194></a>
+#### Chapitre Ier : Service public du placement<a id=195></a>
 
-##### Section 1 : Organismes qui concourent au service public du placement.<a id=195></a>
+##### Section 1 : Organismes qui concourent au service public du placement.<a id=196></a>
 
 ###### Article L311-3
 
@@ -22200,9 +22264,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### Chapitre II : Placement privé<a id=196></a>
+#### Chapitre II : Placement privé<a id=197></a>
 
-##### Section 1 : Placement gratuit.<a id=197></a>
+##### Section 1 : Placement gratuit.<a id=198></a>
 
 ###### Article L312-1
 
@@ -22387,7 +22451,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### Section 2 : Placement payant.<a id=198></a>
+##### Section 2 : Placement payant.<a id=199></a>
 
 ###### Article L312-7
 
@@ -22731,7 +22795,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### Section 3 : Dispositions communes<a id=199></a>
+##### Section 3 : Dispositions communes<a id=200></a>
 
 ###### Article L312-19
 
@@ -22966,9 +23030,9 @@ _Anciens textes_:
   - Code du travail 82 al. 1 et 2
 
 
-### Titre II : Emploi<a id=200></a>
+### Titre II : Emploi<a id=201></a>
 
-#### Chapitre Ier : CONTROLE DE L'EMPLOI .<a id=201></a>
+#### Chapitre Ier : CONTROLE DE L'EMPLOI .<a id=202></a>
 
 ###### Article L321-7
 
@@ -23111,9 +23175,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### Chapitre II : Fonds national de l'emploi<a id=202></a>
+#### Chapitre II : Fonds national de l'emploi<a id=203></a>
 
-##### Section 1 : Fonds national de l'emploi.<a id=203></a>
+##### Section 1 : Fonds national de l'emploi.<a id=204></a>
 
 ###### Article L322-2
 
@@ -23285,9 +23349,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### PRIME DE MOBILITE DES JEUNES<a id=204></a>
+##### PRIME DE MOBILITE DES JEUNES<a id=205></a>
 
-##### SECTION 3 : CHOMAGE PARTIEL.<a id=205></a>
+##### SECTION 3 : CHOMAGE PARTIEL.<a id=206></a>
 
 ###### Article L322-11
 
@@ -23323,11 +23387,11 @@ _Codifié par_:
   - TXT_SOURCE: Code du travail - art. D322-13 (V)
 
 
-#### Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=206></a>
+#### Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=207></a>
 
-##### Section 2 : Dispositions propres aux travailleurs handicapés<a id=207></a>
+##### Section 2 : Dispositions propres aux travailleurs handicapés<a id=208></a>
 
-##### Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés en milieu ordinaire de travail.<a id=208></a>
+##### Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés en milieu ordinaire de travail.<a id=209></a>
 
 ###### Article L323-19
 
@@ -23577,11 +23641,11 @@ _Abrogé par_:
   - Loi n°87-517 1987-07-10 art. 2 6° JORF 12 juillet 1987 en vigueur le 1er janvier 1988 rectificatif JORF 19 novembre 1987
 
 
-#### Chapitre IV : Cumuls d'emplois<a id=209></a>
+#### Chapitre IV : Cumuls d'emplois<a id=210></a>
 
-##### Travail clandestin<a id=210></a>
+##### Travail clandestin<a id=211></a>
 
-##### Section 1 : Cumuls d'emplois.<a id=211></a>
+##### Section 1 : Cumuls d'emplois.<a id=212></a>
 
 ###### Article L324-1
 
@@ -23826,7 +23890,7 @@ _Abrogé par_:
   - Loi n°93-1313 1993-12-20 art. 37 II JORF 21 décembre 1993
 
 
-##### Section 2 : Travail clandestin.<a id=212></a>
+##### Section 2 : Travail clandestin.<a id=213></a>
 
 ###### Article L324-12
 
@@ -23933,11 +23997,11 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale<a id=213></a>
+### Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale<a id=214></a>
 
-#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère<a id=214></a>
+#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère<a id=215></a>
 
-##### Section 1 : Travailleurs étrangers<a id=215></a>
+##### Section 1 : Travailleurs étrangers<a id=216></a>
 
 ###### Article L341-2
 
@@ -24069,7 +24133,7 @@ _Anciens textes_:
   - Ordonnance 1945-11-02 ART. 17
 
 
-##### (en vigueur jusqu'au 1er janvier 2007 au plus tard)<a id=216></a>
+##### (en vigueur jusqu'au 1er janvier 2007 au plus tard)<a id=217></a>
 
 ###### Article L341-1
 
@@ -24159,11 +24223,11 @@ _Nouveaux textes_:
   - Code du travail - art. L5221-4 (VD)
 
 
-### Titre IV : MAIN-D'OEUVRE ETRANGERE<a id=217></a>
+### Titre IV : MAIN-D'OEUVRE ETRANGERE<a id=218></a>
 
-#### Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=218></a>
+#### Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=219></a>
 
-##### SECTION 1 : TRAVAILLEURS ETRANGERS.<a id=219></a>
+##### SECTION 1 : TRAVAILLEURS ETRANGERS.<a id=220></a>
 
 ###### Article L341-7
 
@@ -24316,7 +24380,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### SECTION 2 : OFFICE NATIONAL D'IMMIGRATION *ONI*.<a id=220></a>
+##### SECTION 2 : OFFICE NATIONAL D'IMMIGRATION *ONI*.<a id=221></a>
 
 ###### Article L341-9
 
@@ -24394,7 +24458,7 @@ _Anciens textes_:
   - Ordonnance 1945-11-02 art. 32
 
 
-### Chapitre II : Protection de la main-d'oeuvre nationale.<a id=221></a>
+### Chapitre II : Protection de la main-d'oeuvre nationale.<a id=222></a>
 
 ###### Article L342-1
 
@@ -24648,11 +24712,11 @@ _Cite_:
   - Code du travail L342-1 A L342-7
 
 
-### Titre V : TRAVAILLEURS PRIVES D'EMPLOI<a id=222></a>
+### Titre V : TRAVAILLEURS PRIVES D'EMPLOI<a id=223></a>
 
-#### Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI<a id=223></a>
+#### Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI<a id=224></a>
 
-##### SECTION 1 : DISPOSITIONS GENERALES.<a id=224></a>
+##### SECTION 1 : DISPOSITIONS GENERALES.<a id=225></a>
 
 ###### Article L351-2
 
@@ -24794,7 +24858,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### SECTION 2 : DISPOSITIONS FINANCIERES.<a id=225></a>
+##### SECTION 2 : DISPOSITIONS FINANCIERES.<a id=226></a>
 
 ###### Article L351-12
 
@@ -25045,7 +25109,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### SECTION 3 : DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS.<a id=226></a>
+##### SECTION 3 : DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS.<a id=227></a>
 
 ###### Article L351-17
 
@@ -25142,7 +25206,7 @@ _Anciens textes_:
   - Code du travail - art. L351-19 (T)
 
 
-##### SECTION 4 : DISPOSITIONS DIVERSES.<a id=227></a>
+##### SECTION 4 : DISPOSITIONS DIVERSES.<a id=228></a>
 
 ###### Article L351-18
 
@@ -25420,7 +25484,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### SECTION 1 : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI.<a id=228></a>
+#### SECTION 1 : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI.<a id=229></a>
 
 ###### Article L351-3
 
@@ -25581,9 +25645,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### Chapitre Ier : GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI<a id=229></a>
+#### Chapitre Ier : GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI<a id=230></a>
 
-##### SECTION 1 : DISPOSITIONS GENERALES<a id=230></a>
+##### SECTION 1 : DISPOSITIONS GENERALES<a id=231></a>
 
 ###### Article L351-7
 
@@ -25620,7 +25684,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 1 : DISPOSITIONS GENERALES<a id=231></a>
+#### Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 1 : DISPOSITIONS GENERALES<a id=232></a>
 
 ###### Article L351-8
 
@@ -25670,7 +25734,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance des travailleurs privés d'emploi.<a id=232></a>
+#### Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance des travailleurs privés d'emploi.<a id=233></a>
 
 ###### Article L352-1
 
@@ -25791,7 +25855,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### Chapitre II : REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES D'EMPLOI.<a id=233></a>
+#### Chapitre II : REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES D'EMPLOI.<a id=234></a>
 
 ###### Article L352-4
 
@@ -25829,9 +25893,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### Titre VI : PENALITES<a id=234></a>
+### Titre VI : PENALITES<a id=235></a>
 
-#### Chapitre Ier : PLACEMENT<a id=235></a>
+#### Chapitre Ier : PLACEMENT<a id=236></a>
 
 ###### Article L361-1
 
@@ -25875,11 +25939,11 @@ _Cité par_:
   - Code du travail - art. R321-7 (M)
 
 
-#### Chapitre II : Emploi<a id=236></a>
+#### Chapitre II : Emploi<a id=237></a>
 
-##### Section 1 : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=237></a>
+##### Section 1 : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=238></a>
 
-##### Travailleurs handicapés.<a id=238></a>
+##### Travailleurs handicapés.<a id=239></a>
 
 ###### Article L362-1
 
@@ -25968,7 +26032,7 @@ _Cité par_:
   - Code du travail - art. R323-72 (Ab)
 
 
-##### SECTION 2 : CUMUL D'EMPLOI ET TRAVAIL CLANDESTIN<a id=239></a>
+##### SECTION 2 : CUMUL D'EMPLOI ET TRAVAIL CLANDESTIN<a id=240></a>
 
 ###### Article L362-3
 
@@ -26031,7 +26095,7 @@ _Cite_:
   - Code du travail - art. L324-9 (M)
 
 
-#### Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale.<a id=240></a>
+#### Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale.<a id=241></a>
 
 ###### Article L364-1
 
@@ -26111,7 +26175,7 @@ _Nouveaux textes_:
   - Code du travail - art. L5224-4 (VD)
 
 
-#### Chapitre V : Travailleurs privés d'emploi.<a id=241></a>
+#### Chapitre V : Travailleurs privés d'emploi.<a id=242></a>
 
 ###### Article L365-1
 
@@ -26175,11 +26239,11 @@ _Cité par_:
   - Code du travail - art. R833-7 (VT)
 
 
-## Livre III : PLACEMENT<a id=242></a>
+## Livre III : PLACEMENT<a id=243></a>
 
-### Titre Ier : PLACEMENT<a id=243></a>
+### Titre Ier : PLACEMENT<a id=244></a>
 
-#### Chapitre Ier : SERVICE PUBLIC DU PLACEMENT.<a id=244></a>
+#### Chapitre Ier : SERVICE PUBLIC DU PLACEMENT.<a id=245></a>
 
 ###### Article L311-1
 
@@ -26362,9 +26426,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### Chapitre II : PLACEMENT PRIVE<a id=245></a>
+#### Chapitre II : PLACEMENT PRIVE<a id=246></a>
 
-##### SECTION 2 : PLACEMENT PAYANT.<a id=246></a>
+##### SECTION 2 : PLACEMENT PAYANT.<a id=247></a>
 
 ###### Article L312-11
 
@@ -26394,11 +26458,11 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-## Livre III : EMPLOI<a id=247></a>
+## Livre III : EMPLOI<a id=248></a>
 
-### Titre II : EMPLOI<a id=248></a>
+### Titre II : EMPLOI<a id=249></a>
 
-#### Chapitre Ier : CONTROLE DE L'EMPLOI.<a id=249></a>
+#### Chapitre Ier : CONTROLE DE L'EMPLOI.<a id=250></a>
 
 ###### Article L321-1
 
@@ -26746,9 +26810,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=250></a>
+#### Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=251></a>
 
-##### SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE ET ASSIMILES.<a id=251></a>
+##### SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE ET ASSIMILES.<a id=252></a>
 
 ###### Article L323-1
 
@@ -27262,9 +27326,9 @@ _Anciens textes_:
   - Loi  1924-04-26 art. 19
 
 
-##### SECTION 2 : TRAVAILLEURS HANDICAPES<a id=252></a>
+##### SECTION 2 : TRAVAILLEURS HANDICAPES<a id=253></a>
 
-##### SOUS-SECTION 1 : DISPOSITIONS GENERALES.<a id=253></a>
+##### SOUS-SECTION 1 : DISPOSITIONS GENERALES.<a id=254></a>
 
 ###### Article L323-9
 
@@ -27678,7 +27742,7 @@ _Anciens textes_:
   - Loi  1957-11-23 art. 4
 
 
-##### SOUS-SECTION 2 : DISPOSITIONS GENERALES.<a id=254></a>
+##### SOUS-SECTION 2 : DISPOSITIONS GENERALES.<a id=255></a>
 
 ###### Article L323-14
 
@@ -27701,7 +27765,7 @@ _Anciens textes_:
   - Loi n°1960-12-27 art. 2
 
 
-##### SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.<a id=255></a>
+##### SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.<a id=256></a>
 
 ###### Article L323-15
 
@@ -27851,7 +27915,7 @@ _Anciens textes_:
   - Loi  1957-11-23 art. 8
 
 
-##### SOUS-SECTION 4 : TRAVAIL PROTEGE.<a id=256></a>
+##### SOUS-SECTION 4 : TRAVAIL PROTEGE.<a id=257></a>
 
 ###### Article L323-29
 
@@ -28020,7 +28084,7 @@ _Anciens textes_:
   - Loi   1957-11-23 ART. 25
 
 
-##### SOUS-SECTION 5 : COMMISSION DEPARTEMENTALE DES HANDICAPES.<a id=257></a>
+##### SOUS-SECTION 5 : COMMISSION DEPARTEMENTALE DES HANDICAPES.<a id=258></a>
 
 ###### Article L323-34
 
@@ -28078,7 +28142,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### SOUS-SECTION 6 : DISPOSITIONS D'EXECUTION.<a id=258></a>
+##### SOUS-SECTION 6 : DISPOSITIONS D'EXECUTION.<a id=259></a>
 
 ###### Article L323-35
 
@@ -28138,7 +28202,7 @@ _Transféré par_:
   - Loi n°87-517 1987-07-01 art. 2 1°, 11° JORF 12 juillet 1987 en vigueur le 1er janvier 1988 rectificatif JORF 19 novembre 1987
 
 
-##### SECTION 2 bis : HANDICAPES SOCIAUX.<a id=259></a>
+##### SECTION 2 bis : HANDICAPES SOCIAUX.<a id=260></a>
 
 ###### Article L323-35 bis
 
@@ -28158,7 +28222,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### SECTION 3 : EMPLOI OBLIGATOIRE DES PERES DE FAMILLE.<a id=260></a>
+##### SECTION 3 : EMPLOI OBLIGATOIRE DES PERES DE FAMILLE.<a id=261></a>
 
 ###### Article L323-36
 
@@ -28256,9 +28320,9 @@ _Anciens textes_:
   - Loi   1940-10-08 ART. 4
 
 
-#### Chapitre IV : TRAVAIL CLANDESTIN<a id=261></a>
+#### Chapitre IV : TRAVAIL CLANDESTIN<a id=262></a>
 
-##### SECTION 2 : TRAVAIL CLANDESTIN.<a id=262></a>
+##### SECTION 2 : TRAVAIL CLANDESTIN.<a id=263></a>
 
 ###### Article L324-9
 
@@ -28413,9 +28477,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-## EMPLOI<a id=263></a>
+## EMPLOI<a id=264></a>
 
-### CONTROLE DE L'EMPLOI .<a id=264></a>
+### CONTROLE DE L'EMPLOI .<a id=265></a>
 
 ###### Article L321-2
 
@@ -28513,7 +28577,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### FONDS NATIONAL DE L'EMPLOI .<a id=265></a>
+### FONDS NATIONAL DE L'EMPLOI .<a id=266></a>
 
 ###### Article L322-1
 
@@ -28775,7 +28839,7 @@ _Anciens textes_:
   - Loi n°63-1240 1963-12-18 ART. 3 ET 4
 
 
-### PRIME DE MOBILITE DES JEUNES .<a id=266></a>
+### PRIME DE MOBILITE DES JEUNES .<a id=267></a>
 
 ###### Article L322-7
 
@@ -28959,11 +29023,11 @@ _Abrogé par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 101 () JORF 30 décembre 1982 en vigueur le 1er janvier 1983
 
 
-### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=267></a>
+### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=268></a>
 
-#### TRAVAILLEURS HANDICAPES .<a id=268></a>
+#### TRAVAILLEURS HANDICAPES .<a id=269></a>
 
-##### PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES .<a id=269></a>
+##### PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES .<a id=270></a>
 
 ###### Article L323-21
 
@@ -29114,7 +29178,7 @@ _Anciens textes_:
   - Loi   1960-12-27 ART. 5
 
 
-### TRAVAIL CLANDESTIN .<a id=270></a>
+### TRAVAIL CLANDESTIN .<a id=271></a>
 
 ###### Article L324-11
 
@@ -29184,11 +29248,11 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-## PLACEMENT ET EMPLOI<a id=271></a>
+## PLACEMENT ET EMPLOI<a id=272></a>
 
-### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=272></a>
+### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=273></a>
 
-#### TRAVAILLEURS ETRANGERS .<a id=273></a>
+#### TRAVAILLEURS ETRANGERS .<a id=274></a>
 
 ###### Article L341-4
 
@@ -29312,9 +29376,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### TRAVAILLEURS PRIVES D'EMPLOI<a id=274></a>
+### TRAVAILLEURS PRIVES D'EMPLOI<a id=275></a>
 
-#### GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .<a id=275></a>
+#### GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .<a id=276></a>
 
 ###### Article L351-19
 
@@ -29402,7 +29466,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### DISPOSITIONS GENERALES<a id=276></a>
+##### DISPOSITIONS GENERALES<a id=277></a>
 
 ###### Article L351-1
 
@@ -30207,7 +30271,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .<a id=277></a>
+##### DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .<a id=278></a>
 
 ###### Article L351-16
 
@@ -30396,7 +30460,7 @@ _Cite_:
   - Code du travail L351-1 A L351-11-2
 
 
-##### CREATIONS D'ENTREPRISES PAR LES SALARIES PRIVES D'EMPLOI.<a id=278></a>
+##### CREATIONS D'ENTREPRISES PAR LES SALARIES PRIVES D'EMPLOI.<a id=279></a>
 
 ###### Article L351-22
 
@@ -30453,7 +30517,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-#### REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS ET  RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES  D'EMPLOI .<a id=279></a>
+#### REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS ET  RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES  D'EMPLOI .<a id=280></a>
 
 ###### Article L352-3
 
@@ -30524,11 +30588,11 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-## Livre 3 : PLACEMENT ET EMPLOI<a id=280></a>
+## Livre 3 : PLACEMENT ET EMPLOI<a id=281></a>
 
-### Titre 6 : PENALITES<a id=281></a>
+### Titre 6 : PENALITES<a id=282></a>
 
-#### Chapitre 4 : MAIN-D'OEUVRE ETRANGERE ET PROTECTION DE LA MAIN-D'OEUVRE NATIONALE<a id=282></a>
+#### Chapitre 4 : MAIN-D'OEUVRE ETRANGERE ET PROTECTION DE LA MAIN-D'OEUVRE NATIONALE<a id=283></a>
 
 ###### Article L364-2
 
@@ -30625,11 +30689,11 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code du travail - art. L831-1-1 (AbD)
 
 
-## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=283></a>
+## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=284></a>
 
-### Titre Ier : Les syndicats professionnels<a id=284></a>
+### Titre Ier : Les syndicats professionnels<a id=285></a>
 
-#### Chapitre préliminaire.<a id=285></a>
+#### Chapitre préliminaire.<a id=286></a>
 
 ###### Article L410-1
 
@@ -30655,9 +30719,9 @@ _Anciens textes_:
   - Loi   1941-03-21 ART. 1 AL. 4
 
 
-#### Chapitre Ier : Statut juridique des syndicats<a id=286></a>
+#### Chapitre Ier : Statut juridique des syndicats<a id=287></a>
 
-##### Section 1 : Objet et constitution.<a id=287></a>
+##### Section 1 : Objet et constitution.<a id=288></a>
 
 ###### Article L411-2
 
@@ -30768,7 +30832,7 @@ _Anciens textes_:
   - Code du travail 3009
 
 
-##### Section 2 : Capacité civile.<a id=288></a>
+##### Section 2 : Capacité civile.<a id=289></a>
 
 ###### Article L411-10
 
@@ -30990,7 +31054,7 @@ _Cite_:
   - Code du travail L410-1 A L413-2
 
 
-##### Section 3 : Unions de syndicats.<a id=289></a>
+##### Section 3 : Unions de syndicats.<a id=290></a>
 
 ###### Article L411-22
 
@@ -31065,9 +31129,9 @@ _Cite_:
   - Code du travail L413-1 A L413-2
 
 
-#### Chapitre II : Exercice du droit syndical dans les entreprises<a id=290></a>
+#### Chapitre II : Exercice du droit syndical dans les entreprises<a id=291></a>
 
-##### Section 1 : Dispositions générales.<a id=291></a>
+##### Section 1 : Dispositions générales.<a id=292></a>
 
 ###### Article L412-2
 
@@ -31110,7 +31174,7 @@ _Anciens textes_:
   - Loi n°1956-04-27
 
 
-#### Chapitre III : Marques syndicales.<a id=292></a>
+#### Chapitre III : Marques syndicales.<a id=293></a>
 
 ###### Article L413-1
 
@@ -31183,9 +31247,9 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L481-3 (AbD)
 
 
-### Titre III : Les comités d'entreprise<a id=293></a>
+### Titre III : Les comités d'entreprise<a id=294></a>
 
-#### Chapitre VII : Amélioration des conditions de travail.<a id=294></a>
+#### Chapitre VII : Amélioration des conditions de travail.<a id=295></a>
 
 ###### Article L437-1
 
@@ -31359,7 +31423,7 @@ _Abrogé par_:
   - Décret n°82-1097 1982-12-23 art. 12 JORF 26 décembre 1982 en vigueur le 1er juillet 1985
 
 
-#### Chapitre VIII : Bilan social.<a id=295></a>
+#### Chapitre VIII : Bilan social.<a id=296></a>
 
 ###### Article L438-1
 
@@ -31651,9 +31715,9 @@ _Cite_:
   - Code du travail L438-1 A L438-10
 
 
-### Titre IV : Intéressement et participation<a id=296></a>
+### Titre IV : Intéressement et participation<a id=297></a>
 
-#### Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise.<a id=297></a>
+#### Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise.<a id=298></a>
 
 ###### Article L441-2
 
@@ -31923,9 +31987,9 @@ _Anciens textes_:
   - Ordonnance  1959-01-07 ART. 10
 
 
-#### Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises<a id=298></a>
+#### Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises<a id=299></a>
 
-##### Section 1 : Régime obligatoire de participation des travailleurs aux fruits de l'expansion dans les entreprises de plus de cent salariés.<a id=299></a>
+##### Section 1 : Régime obligatoire de participation des travailleurs aux fruits de l'expansion dans les entreprises de plus de cent salariés.<a id=300></a>
 
 ###### Article L442-1
 
@@ -32656,7 +32720,7 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. R442-32 (Ab)
 
 
-##### Section 3 : Dispositions diverses.<a id=300></a>
+##### Section 3 : Dispositions diverses.<a id=301></a>
 
 ###### Article L442-16
 
@@ -32740,7 +32804,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code du travail R442-19 et R442-20, R442-42
 
 
-#### Chapitre III : Plans d'épargne d'entreprise.<a id=301></a>
+#### Chapitre III : Plans d'épargne d'entreprise.<a id=302></a>
 
 ###### Article L443-1
 
@@ -33161,11 +33225,11 @@ _Cite_:
   - Code du travail L443-1 A L443-10
 
 
-### Titre VI : PENALITES<a id=302></a>
+### Titre VI : PENALITES<a id=303></a>
 
-#### Chapitre Ier : LES SYNDICATS PROFESSIONNELS<a id=303></a>
+#### Chapitre Ier : LES SYNDICATS PROFESSIONNELS<a id=304></a>
 
-##### SECTION 1 : STATUT JURIDIQUE DES SYNDICATS<a id=304></a>
+##### SECTION 1 : STATUT JURIDIQUE DES SYNDICATS<a id=305></a>
 
 ###### Article L461-1
 
@@ -33220,7 +33284,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code du travail - art. R461-1 (M)
 
 
-##### SECTION 2 : EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES ET MARQUES SYNDICALES<a id=305></a>
+##### SECTION 2 : EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES ET MARQUES SYNDICALES<a id=306></a>
 
 ###### Article L461-2
 
@@ -33309,7 +33373,7 @@ _Cite_:
   - Code du travail L412-2 et L413-2
 
 
-#### Chapitre II : LES DELEGUES DU PERSONNEL<a id=306></a>
+#### Chapitre II : LES DELEGUES DU PERSONNEL<a id=307></a>
 
 ###### Article L462-1
 
@@ -33356,7 +33420,7 @@ _Cite_:
   - Code du travail - art. L420-23 (T)
 
 
-#### Chapitre III : LES COMITES D'ENTREPRISE<a id=307></a>
+#### Chapitre III : LES COMITES D'ENTREPRISE<a id=308></a>
 
 ###### Article L463-1
 
@@ -33409,7 +33473,7 @@ _Nouveaux textes_:
   - Code du travail - art. L473-1 (M)
 
 
-#### Chapitre III : COMITE D'ENTREPRISE<a id=308></a>
+#### Chapitre III : COMITE D'ENTREPRISE<a id=309></a>
 
 ###### Article L463-2
 
@@ -33436,13 +33500,13 @@ _Nouveaux textes_:
   - Code du travail - art. L473-2 (T)
 
 
-## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES<a id=309></a>
+## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES<a id=310></a>
 
-### LES SYNDICATS PROFESSIONNELS<a id=310></a>
+### LES SYNDICATS PROFESSIONNELS<a id=311></a>
 
-#### STATUT JURIDIQUE DES SYNDICATS<a id=311></a>
+#### STATUT JURIDIQUE DES SYNDICATS<a id=312></a>
 
-##### OBJET ET CONSTITUTION .<a id=312></a>
+##### OBJET ET CONSTITUTION .<a id=313></a>
 
 ###### Article L411-1
 
@@ -33613,7 +33677,7 @@ _Anciens textes_:
   - Code du travail 3007
 
 
-##### CAPACITE CIVILE .<a id=313></a>
+##### CAPACITE CIVILE .<a id=314></a>
 
 ###### Article L411-17
 
@@ -33634,7 +33698,7 @@ _Anciens textes_:
   - Loi n°1957-04-17
 
 
-##### UNIONS DE SYNDICATS .<a id=314></a>
+##### UNIONS DE SYNDICATS .<a id=315></a>
 
 ###### Article L411-21
 
@@ -33660,9 +33724,9 @@ _Cite_:
   - Code du travail L410-1 A L413-2
 
 
-#### EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES<a id=315></a>
+#### EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES<a id=316></a>
 
-##### DISPOSITIONS GENERALES .<a id=316></a>
+##### DISPOSITIONS GENERALES .<a id=317></a>
 
 ###### Article L412-1
 
@@ -33767,7 +33831,7 @@ _Cite_:
   - Code du travail L412-1 A L412-17
 
 
-##### SECTIONS SYNDICALES .<a id=317></a>
+##### SECTIONS SYNDICALES .<a id=318></a>
 
 ###### Article L412-5
 
@@ -33944,7 +34008,7 @@ _Nouveaux textes_:
   - Code du travail - art. L412-10 (M)
 
 
-##### DELEGUES SYNDICAUX .<a id=318></a>
+##### DELEGUES SYNDICAUX .<a id=319></a>
 
 ###### Article L412-10
 
@@ -34278,7 +34342,7 @@ _Cite_:
   - Code du travail L412-1 A L412-17
 
 
-### LES DELEGUES DU PERSONNEL .<a id=319></a>
+### LES DELEGUES DU PERSONNEL .<a id=320></a>
 
 ###### Article L420-1
 
@@ -35073,9 +35137,9 @@ _Nouveaux textes_:
   - Code du travail - art. L426-1 (M)
 
 
-### LES COMITES D'ENTREPRISE<a id=320></a>
+### LES COMITES D'ENTREPRISE<a id=321></a>
 
-#### CHAMP D'APPLICATION .<a id=321></a>
+#### CHAMP D'APPLICATION .<a id=322></a>
 
 ###### Article L431-1
 
@@ -35234,7 +35298,7 @@ _Cite_:
   - Code du travail L431-1 AL. 2
 
 
-#### ATTRIBUTIONS ET POUVOIRS .<a id=322></a>
+#### ATTRIBUTIONS ET POUVOIRS .<a id=323></a>
 
 ###### Article L432-1
 
@@ -35461,7 +35525,7 @@ _Nouveaux textes_:
   - Code du travail - art. L432-6 (T)
 
 
-#### COMPOSITION ET ELECTIONS .<a id=323></a>
+#### COMPOSITION ET ELECTIONS .<a id=324></a>
 
 ###### Article L433-1
 
@@ -36000,7 +36064,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code du travail - art. L483-1 (AbD)
 
 
-#### FONCTIONNEMENT .<a id=324></a>
+#### FONCTIONNEMENT .<a id=325></a>
 
 ###### Article L434-1
 
@@ -36301,7 +36365,7 @@ _Cite_:
   - Code du travail L434-1 A L434-7
 
 
-#### COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .<a id=325></a>
+#### COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .<a id=326></a>
 
 ###### Article L435-1
 
@@ -36401,7 +36465,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code du travail D435-1 ET D435-2
 
 
-#### CONDITIONS DE LICENCIEMENT DES REPRESENTANTS DU PERSONNEL .<a id=326></a>
+#### CONDITIONS DE LICENCIEMENT DES REPRESENTANTS DU PERSONNEL .<a id=327></a>
 
 ###### Article L436-1
 
@@ -36533,7 +36597,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code du travail R436-1 A R436-7
 
 
-#### BILAN SOCIAL .<a id=327></a>
+#### BILAN SOCIAL .<a id=328></a>
 
 ###### Article L438-10
 
@@ -36558,9 +36622,9 @@ _Cite_:
   - Code du travail L438-1 A L438-10
 
 
-### INTERESSEMENT ET PARTICIPATION<a id=328></a>
+### INTERESSEMENT ET PARTICIPATION<a id=329></a>
 
-#### ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE .<a id=329></a>
+#### ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE .<a id=330></a>
 
 ###### Article L441-1
 
@@ -36625,9 +36689,9 @@ _Cite_:
   - Code du travail L131-1 A L131-3
 
 
-#### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES<a id=330></a>
+#### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES<a id=331></a>
 
-##### REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES .<a id=331></a>
+##### REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES .<a id=332></a>
 
 ###### Article L442-5
 
@@ -36851,7 +36915,7 @@ _Cite_:
   - Code du travail L133-1 ET 5
 
 
-##### REGIME DES ENTREPRISES NON SOUMISES AU REGIME DE PARTICIPATION  DES TRAVAILLEURS AUX FRUITS DE L'EXPANSION DES ENTREPRISES DE PLUS  DE CENT SALARIES .<a id=332></a>
+##### REGIME DES ENTREPRISES NON SOUMISES AU REGIME DE PARTICIPATION  DES TRAVAILLEURS AUX FRUITS DE L'EXPANSION DES ENTREPRISES DE PLUS  DE CENT SALARIES .<a id=333></a>
 
 ###### Article L442-15
 
@@ -36898,7 +36962,7 @@ _Anciens textes_:
   - Ordonnance 1967-08-17 ART. 14
 
 
-#### PLANS D'EPARGNE D'ENTREPRISE .<a id=333></a>
+#### PLANS D'EPARGNE D'ENTREPRISE .<a id=334></a>
 
 ###### Article L443-5
 
@@ -37018,9 +37082,9 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. R443-8 (Ab)
 
 
-### EDUCATION OUVRIERE ET FORMATION SYNDICALE<a id=334></a>
+### EDUCATION OUVRIERE ET FORMATION SYNDICALE<a id=335></a>
 
-#### CONGE D'EDUCATION OUVRIERE .<a id=335></a>
+#### CONGE D'EDUCATION OUVRIERE .<a id=336></a>
 
 ###### Article L451-1
 
@@ -37217,7 +37281,7 @@ _Anciens textes_:
   - Loi   1957-07-23 ART. 6
 
 
-#### FORMATION ECONOMIQUE ET SOCIALE DES TRAVAILLEURS APPELES A  EXERCER DES FONCTIONS SYNDICALES .<a id=336></a>
+#### FORMATION ECONOMIQUE ET SOCIALE DES TRAVAILLEURS APPELES A  EXERCER DES FONCTIONS SYNDICALES .<a id=337></a>
 
 ###### Article L452-1
 
@@ -37332,11 +37396,11 @@ _Anciens textes_:
   - Loi n°59-1181 1959-12-28 ART. 4
 
 
-## CONFLITS DU TRAVAIL<a id=337></a>
+## CONFLITS DU TRAVAIL<a id=338></a>
 
-### CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES<a id=338></a>
+### CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES<a id=339></a>
 
-#### ATTRIBUTIONS ET INSTITUTION DES CONSEILS DE PRUD'HOMMES<a id=339></a>
+#### ATTRIBUTIONS ET INSTITUTION DES CONSEILS DE PRUD'HOMMES<a id=340></a>
 
 ###### Article L511-1
 
@@ -37383,7 +37447,7 @@ _Cite_:
   - Code du travail - art. L321-9 (M)
 
 
-#### ATTRIBUTION ET INSTITUTION DES CONSEILS DE PRUD'HOMMES .<a id=340></a>
+#### ATTRIBUTION ET INSTITUTION DES CONSEILS DE PRUD'HOMMES .<a id=341></a>
 
 ###### Article L511-3
 
@@ -37447,7 +37511,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D412-79 (V)
 
 
-#### ORGANISATION ET FONCTIONNEMENT DES CONSEILS DE PRUD'HOMMES.<a id=341></a>
+#### ORGANISATION ET FONCTIONNEMENT DES CONSEILS DE PRUD'HOMMES.<a id=342></a>
 
 ###### Article L512-2
 
@@ -37633,7 +37697,7 @@ _Cite_:
   - Code du travail - art. L512-11 (M)
 
 
-#### ORGANISATION ET FONCTIONNEMMENT DES CONSEILS DE PRUD'HOMMES.<a id=342></a>
+#### ORGANISATION ET FONCTIONNEMMENT DES CONSEILS DE PRUD'HOMMES.<a id=343></a>
 
 ###### Article L512-13
 
@@ -37658,9 +37722,9 @@ _Nouveaux textes_:
   - Code du travail - art. L1423-11 (VD)
 
 
-#### ELECTION DES CONSEILLERS PRUD'HOMMES<a id=343></a>
+#### ELECTION DES CONSEILLERS PRUD'HOMMES<a id=344></a>
 
-##### ELIGIBILITE.<a id=344></a>
+##### ELIGIBILITE.<a id=345></a>
 
 ###### Article L513-2
 
@@ -37695,7 +37759,7 @@ _Cite_:
   - Code électoral - art. L6 (M)
 
 
-##### ETABLISSEMENT DES LISTES ELECTORALES.<a id=345></a>
+##### ETABLISSEMENT DES LISTES ELECTORALES.<a id=346></a>
 
 ###### Article L513-3
 
@@ -37759,7 +37823,7 @@ _Cite_:
   - Code du travail - art. L513-1 (M)
 
 
-##### SCRUTIN, INSTALLATION DES CONSEILLERS PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES.<a id=346></a>
+##### SCRUTIN, INSTALLATION DES CONSEILLERS PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES.<a id=347></a>
 
 ###### Article L513-4
 
@@ -37891,7 +37955,7 @@ _Cité par_:
   - Code du travail - art. R515-3 (M)
 
 
-#### STATUT DES CONSEILLERS PRUD'HOMMES<a id=347></a>
+#### STATUT DES CONSEILLERS PRUD'HOMMES<a id=348></a>
 
 ###### Article L514-1
 
@@ -38022,7 +38086,7 @@ _Cite_:
   - Code du travail - art. L514-5 (M)
 
 
-#### BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE<a id=348></a>
+#### BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE<a id=349></a>
 
 ###### Article L515-1
 
@@ -38068,7 +38132,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1454-4 (VD)
 
 
-#### DEPENSES DES CONSEILS DE PRUD'HOMMES<a id=349></a>
+#### DEPENSES DES CONSEILS DE PRUD'HOMMES<a id=350></a>
 
 ###### Article L51-10-2
 
@@ -38114,7 +38178,7 @@ _Cite_:
   - Code du travail - art. L515-3 (M)
 
 
-#### DISPOSITIONS FINALES<a id=350></a>
+#### DISPOSITIONS FINALES<a id=351></a>
 
 ###### Article L51-12-1
 
@@ -38127,9 +38191,9 @@ _Abrogé par_:
   - Loi n°82-372 du 6 mai 1982 - art. 31 () JORF 7 MAI 1982
 
 
-### CONFLITS COLLECTIFS<a id=351></a>
+### CONFLITS COLLECTIFS<a id=352></a>
 
-#### LA GREVE .<a id=352></a>
+#### LA GREVE .<a id=353></a>
 
 ###### Article L521-1
 
@@ -38157,7 +38221,7 @@ _Nouveaux textes_:
   - Code du travail - art. L2511-1 (VD)
 
 
-##### GREVE DANS LES SERVICES PUBLICS .<a id=353></a>
+##### GREVE DANS LES SERVICES PUBLICS .<a id=354></a>
 
 ###### Article L521-2
 
@@ -38261,7 +38325,7 @@ _Nouveaux textes_:
   - Code du travail - art. L2512-5 (VD)
 
 
-#### DISPOSITIONS GENERALES CONCERNANT LES PROCEDURES DE REGLEMENT DES  CONFLITS COLLECTIFS DU TRAVAIL .<a id=354></a>
+#### DISPOSITIONS GENERALES CONCERNANT LES PROCEDURES DE REGLEMENT DES  CONFLITS COLLECTIFS DU TRAVAIL .<a id=355></a>
 
 ###### Article L522-1
 
@@ -38329,7 +38393,7 @@ _Cite_:
   - Code du travail L131-1 A L136-4
 
 
-#### CONCILIATION .<a id=355></a>
+#### CONCILIATION .<a id=356></a>
 
 ###### Article L523-1
 
@@ -38589,7 +38653,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code du travail R523-1 A R523-26
 
 
-##### CONCILIATION DANS CERTAINS ETABLISSEMENTS PUBLICS ET DANS LES  ENTREPRISES PUBLIQUES A STATUT .<a id=356></a>
+##### CONCILIATION DANS CERTAINS ETABLISSEMENTS PUBLICS ET DANS LES  ENTREPRISES PUBLIQUES A STATUT .<a id=357></a>
 
 ###### Article L523-9
 
@@ -38723,7 +38787,7 @@ _Cite_:
   - Code du travail L523-9 A L523-12
 
 
-#### MEDIATION .<a id=357></a>
+#### MEDIATION .<a id=358></a>
 
 ###### Article L524-1
 
@@ -38850,9 +38914,9 @@ _Cité par_:
   - Code du travail - art. R742-29 (T)
 
 
-#### ARBITRAGE<a id=358></a>
+#### ARBITRAGE<a id=359></a>
 
-##### L'ARBITRE .<a id=359></a>
+##### L'ARBITRE .<a id=360></a>
 
 ###### Article L525-1
 
@@ -38960,7 +39024,7 @@ _Cite_:
   - Code du travail - art. L525-5 (AbD)
 
 
-##### LA COUR SUPERIEURE D'ARBITRAGE .<a id=360></a>
+##### LA COUR SUPERIEURE D'ARBITRAGE .<a id=361></a>
 
 ###### Article L525-9
 
@@ -38982,7 +39046,7 @@ _Nouveaux textes_:
   - Code du travail - art. L2524-10 (VD)
 
 
-#### EXECUTION DES ACCORDS DE CONCILIATION ET DES SENTENCES ARBITRALES .<a id=361></a>
+#### EXECUTION DES ACCORDS DE CONCILIATION ET DES SENTENCES ARBITRALES .<a id=362></a>
 
 ###### Article L526-1
 
@@ -39098,9 +39162,9 @@ _Cite_:
   - Code du travail L526-1 A L526-4
 
 
-### PENALITES<a id=362></a>
+### PENALITES<a id=363></a>
 
-#### CONFLITS COLLECTIFS .<a id=363></a>
+#### CONFLITS COLLECTIFS .<a id=364></a>
 
 ###### Article L532-1
 
@@ -39139,11 +39203,11 @@ _Cité par_:
   - Code du travail - art. R524-8 (VT)
 
 
-## Livre V : Conflits du travail<a id=364></a>
+## Livre V : Conflits du travail<a id=365></a>
 
-### Titre Ier : Conflits individuels - Conseils de prud'hommes<a id=365></a>
+### Titre Ier : Conflits individuels - Conseils de prud'hommes<a id=366></a>
 
-#### Chapitre Ier : Attributions et institution des conseils de prud'hommes.<a id=366></a>
+#### Chapitre Ier : Attributions et institution des conseils de prud'hommes.<a id=367></a>
 
 ###### Article L511-2
 
@@ -39174,7 +39238,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1411-5 (VD)
 
 
-#### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.<a id=367></a>
+#### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.<a id=368></a>
 
 ###### Article L512-1
 
@@ -39358,9 +39422,9 @@ _Nouveaux textes_:
   - Code du travail R1423-15
 
 
-#### Chapitre III : Election des conseillers prud'hommes<a id=368></a>
+#### Chapitre III : Election des conseillers prud'hommes<a id=369></a>
 
-##### Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.<a id=369></a>
+##### Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.<a id=370></a>
 
 ###### Article L513-5
 
@@ -39393,7 +39457,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1441-31 (VD)
 
 
-#### Chapitre IV : Statut des conseillers prud'hommes.<a id=370></a>
+#### Chapitre IV : Statut des conseillers prud'hommes.<a id=371></a>
 
 ###### Article L514-4
 
@@ -39619,7 +39683,7 @@ _Cité par_:
   - Code du travail - art. R512-6 (VT)
 
 
-#### Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.<a id=371></a>
+#### Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.<a id=372></a>
 
 ###### Article L515-2
 
@@ -39689,7 +39753,7 @@ _Nouveaux textes_:
   - Code du travail R1423-14
 
 
-#### Chapitre VI : Procédure devant les conseils de prud'hommes.<a id=372></a>
+#### Chapitre VI : Procédure devant les conseils de prud'hommes.<a id=373></a>
 
 ###### Article L516-1
 
@@ -39719,7 +39783,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1453-1 (VD)
 
 
-#### Chapitre VIII : Récusation.<a id=373></a>
+#### Chapitre VIII : Récusation.<a id=374></a>
 
 ###### Article L518-1
 
@@ -39765,7 +39829,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1457-1 (VD)
 
 
-#### Chapitre X : Dépenses des conseils de prud'hommes.<a id=374></a>
+#### Chapitre X : Dépenses des conseils de prud'hommes.<a id=375></a>
 
 ###### Article L51-10-1
 
@@ -39793,11 +39857,11 @@ _Nouveaux textes_:
   - Code du travail - art. L1423-14 (VD)
 
 
-### Titre Ier : Conflits individuels<a id=375></a>
+### Titre Ier : Conflits individuels<a id=376></a>
 
-#### Conseils de prud'hommes<a id=376></a>
+#### Conseils de prud'hommes<a id=377></a>
 
-##### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.<a id=377></a>
+##### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.<a id=378></a>
 
 ###### Article L512-6
 
@@ -39820,7 +39884,7 @@ _Cité par_:
   - Code du travail - art. R512-2 (M)
 
 
-##### Chapitre IV : Statut des conseillers prud'hommes.<a id=378></a>
+##### Chapitre IV : Statut des conseillers prud'hommes.<a id=379></a>
 
 ###### Article L514-5
 
@@ -39864,7 +39928,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1442-9 (VD)
 
 
-##### Chapitre VI : Procédure devant les conseils de prud'hommes.<a id=379></a>
+##### Chapitre VI : Procédure devant les conseils de prud'hommes.<a id=380></a>
 
 ###### Article L516-2
 
@@ -39882,7 +39946,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1454-1 (VD)
 
 
-##### Chapitre XI : Dispositions applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=380></a>
+##### Chapitre XI : Dispositions applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=381></a>
 
 ###### Article L51-11-1
 
@@ -39919,11 +39983,11 @@ _Cite_:
   - Code du travail L512-5, L512-6, L513-2 A L513-9, L514-1 A L514-10
 
 
-### Titre II : Conflits collectifs<a id=381></a>
+### Titre II : Conflits collectifs<a id=382></a>
 
-#### Chapitre Ier : La grève<a id=382></a>
+#### Chapitre Ier : La grève<a id=383></a>
 
-##### Section 2 : Grève dans les services publics.<a id=383></a>
+##### Section 2 : Grève dans les services publics.<a id=384></a>
 
 ###### Article L521-4
 
@@ -40006,7 +40070,7 @@ _Cite_:
   - Code du travail L521-1 A L521-6
 
 
-#### Chapitre IV : Médiation.<a id=384></a>
+#### Chapitre IV : Médiation.<a id=385></a>
 
 ###### Article L524-2
 
@@ -40110,9 +40174,9 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code du travail R524-1 A R524-14
 
 
-#### Chapitre V : Arbitrage<a id=385></a>
+#### Chapitre V : Arbitrage<a id=386></a>
 
-##### Section 2 : La Cour supérieure d'arbitrage.<a id=386></a>
+##### Section 2 : La Cour supérieure d'arbitrage.<a id=387></a>
 
 ###### Article L525-5
 
@@ -40268,9 +40332,9 @@ _Cité par_:
   - Code du travail - art. R525-5 (VT)
 
 
-### TITRE III : PENALITES<a id=387></a>
+### TITRE III : PENALITES<a id=388></a>
 
-#### CHAPITRE Ier : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES<a id=388></a>
+#### CHAPITRE Ier : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES<a id=389></a>
 
 ###### Article L526-4
 
@@ -40297,13 +40361,13 @@ _Cite_:
   - Code du travail L135-1 A L135-5
 
 
-## CONFLITS DE TRAVAIL<a id=389></a>
+## CONFLITS DE TRAVAIL<a id=390></a>
 
-### CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES<a id=390></a>
+### CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES<a id=391></a>
 
-#### ELECTION DES CONSEILLERS PRUD'HOMMES<a id=391></a>
+#### ELECTION DES CONSEILLERS PRUD'HOMMES<a id=392></a>
 
-##### ELECTORAT.<a id=392></a>
+##### ELECTORAT.<a id=393></a>
 
 ###### Article L513-1
 
@@ -40369,11 +40433,11 @@ _Cite_:
   - Code électoral - art. L6 (M)
 
 
-## CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL<a id=393></a>
+## CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL<a id=394></a>
 
-### SERVICES DE CONTROLE<a id=394></a>
+### SERVICES DE CONTROLE<a id=395></a>
 
-#### INSPECTION DU TRAVAIL .<a id=395></a>
+#### INSPECTION DU TRAVAIL .<a id=396></a>
 
 ###### Article L611-1
 
@@ -40561,7 +40625,7 @@ _Nouveaux textes_:
   - Code du travail - art. L8271-14 (VD)
 
 
-### OBLIGATIONS DES EMPLOYEURS .<a id=396></a>
+### OBLIGATIONS DES EMPLOYEURS .<a id=397></a>
 
 ###### Article L620-2
 
@@ -40787,11 +40851,11 @@ _Cité par_:
   - TXT_ASSOCIE: Code du travail R632-1 : SANCTIONS PENALES
 
 
-## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=397></a>
+## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=398></a>
 
-### Titre Ier : Services de contrôle<a id=398></a>
+### Titre Ier : Services de contrôle<a id=399></a>
 
-#### Chapitre Ier : Inspection du travail.<a id=399></a>
+#### Chapitre Ier : Inspection du travail.<a id=400></a>
 
 ###### Article L611-2
 
@@ -41185,7 +41249,7 @@ _Cite_:
   - Code du travail L611-1 A L611-15
 
 
-#### Chapitre II : Inspection médicale du travail.<a id=400></a>
+#### Chapitre II : Inspection médicale du travail.<a id=401></a>
 
 ###### Article L612-1
 
@@ -41269,7 +41333,7 @@ _Anciens textes_:
   - Loi n°1941-10-31 ART. 6 AL. 1 ET 2
 
 
-### Titre II : Obligations des employeurs.<a id=401></a>
+### Titre II : Obligations des employeurs.<a id=402></a>
 
 ###### Article L620-1
 
@@ -41494,9 +41558,9 @@ _Anciens textes_:
   - Code du travail 90
 
 
-### Titre III : Pénalités<a id=402></a>
+### Titre III : Pénalités<a id=403></a>
 
-#### Chapitre Ier : Services de contrôle.<a id=403></a>
+#### Chapitre Ier : Services de contrôle.<a id=404></a>
 
 ###### Article L631-1
 
@@ -41627,13 +41691,13 @@ _Anciens textes_:
   - Code du travail 177
 
 
-## Livre VII : Dispositions particulières à certaines professions<a id=404></a>
+## Livre VII : Dispositions particulières à certaines professions<a id=405></a>
 
-### Titre Ier : Energie - Industries extractives<a id=405></a>
+### Titre Ier : Energie - Industries extractives<a id=406></a>
 
-#### Chapitre Ier : Mines et carrières<a id=406></a>
+#### Chapitre Ier : Mines et carrières<a id=407></a>
 
-##### Section 1 : Conditions de travail.<a id=407></a>
+##### Section 1 : Conditions de travail.<a id=408></a>
 
 ###### Article L711-1
 
@@ -41798,7 +41862,7 @@ _Anciens textes_:
   - Code du travail 2056 et 2185
 
 
-##### Section 2 : Hygiène et sécurité - Services médicaux.<a id=408></a>
+##### Section 2 : Hygiène et sécurité - Services médicaux.<a id=409></a>
 
 ###### Article L711-5
 
@@ -42043,11 +42107,11 @@ _Anciens textes_:
   - Code du travail 2077
 
 
-#### Chapitre II : Délégués mineurs<a id=409></a>
+#### Chapitre II : Délégués mineurs<a id=410></a>
 
-##### Section 1<a id=410></a>
+##### Section 1<a id=411></a>
 
-##### Paragraphe 1 : Fonctions des délégués mineurs du fond.<a id=411></a>
+##### Paragraphe 1 : Fonctions des délégués mineurs du fond.<a id=412></a>
 
 ###### Article L712-1
 
@@ -42290,7 +42354,7 @@ _Anciens textes_:
   - Décret-loi  1938-05-02
 
 
-##### Paragraphe 2 : Circonscriptions.<a id=412></a>
+##### Paragraphe 2 : Circonscriptions.<a id=413></a>
 
 ###### Article L712-7
 
@@ -42368,7 +42432,7 @@ _Anciens textes_:
   - Décret-loi  1938-05-02
 
 
-##### Paragraphe 3 : Elections<a id=413></a>
+##### Paragraphe 3 : Elections<a id=414></a>
 
 ###### Article L712-9
 
@@ -42962,7 +43026,7 @@ _Abrogé par_:
   - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
 
 
-##### Paragraphe 4 : Dispositions spéciales.<a id=414></a>
+##### Paragraphe 4 : Dispositions spéciales.<a id=415></a>
 
 ###### Article L712-24
 
@@ -43363,7 +43427,7 @@ _Cite_:
   - Code du travail L712-9 A L712-13, L712-17 ET L712-20
 
 
-##### Section 2 : Délégués permanents de la surface.<a id=415></a>
+##### Section 2 : Délégués permanents de la surface.<a id=416></a>
 
 ###### Article L712-33
 
@@ -43406,7 +43470,7 @@ _Cité par_:
   - Code du travail - art. R712-58 (VT)
 
 
-##### Section 3 : Dispositions communes.<a id=416></a>
+##### Section 3 : Dispositions communes.<a id=417></a>
 
 ###### Article L712-34
 
@@ -43437,15 +43501,15 @@ _Abrogé par_:
   - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
 
 
-### Titre Ier : Energie<a id=417></a>
+### Titre Ier : Energie<a id=418></a>
 
-#### Industries extractives<a id=418></a>
+#### Industries extractives<a id=419></a>
 
-##### Chapitre Ier : Mines et carrières<a id=419></a>
+##### Chapitre Ier : Mines et carrières<a id=420></a>
 
-##### Section 2 : Hygiène et sécurité<a id=420></a>
+##### Section 2 : Hygiène et sécurité<a id=421></a>
 
-##### Services médicaux.<a id=421></a>
+##### Services médicaux.<a id=422></a>
 
 ###### Article L711-12
 
@@ -43485,11 +43549,11 @@ _Anciens textes_:
   - Code du travail 2095
 
 
-### Titre II : Industries de transformation<a id=422></a>
+### Titre II : Industries de transformation<a id=423></a>
 
-#### Chapitre Ier : Travailleurs à domicile<a id=423></a>
+#### Chapitre Ier : Travailleurs à domicile<a id=424></a>
 
-##### Section 1 : Dispositions générales.<a id=424></a>
+##### Section 1 : Dispositions générales.<a id=425></a>
 
 ###### Article L721-1
 
@@ -43835,7 +43899,7 @@ _Anciens textes_:
   - Loi n°1957-07-26 ART. 9
 
 
-##### Section 3 : Salaires.<a id=425></a>
+##### Section 3 : Salaires.<a id=426></a>
 
 ###### Article L721-9
 
@@ -44078,7 +44142,7 @@ _Anciens textes_:
   - Code du travail 1033 N
 
 
-##### Section 4 : Règlement des litiges.<a id=426></a>
+##### Section 4 : Règlement des litiges.<a id=427></a>
 
 ###### Article L721-18
 
@@ -44158,7 +44222,7 @@ _Cite_:
   - Code du travail L721-1 à L721-23
 
 
-##### Section 5 : Dispositions spéciales à l'agriculture.<a id=427></a>
+##### Section 5 : Dispositions spéciales à l'agriculture.<a id=428></a>
 
 ###### Article L721-20
 
@@ -44226,7 +44290,7 @@ _Cite_:
   - Code du travail L721-1 A L721-23
 
 
-##### Section 6 : Hygiène et sécurité.<a id=428></a>
+##### Section 6 : Hygiène et sécurité.<a id=429></a>
 
 ###### Article L721-22
 
@@ -44318,7 +44382,7 @@ _Cite_:
   - Code du travail - art. L771-8 (M)
 
 
-##### Section 1: Règlements de comptes entre les maîtres d'atelier et les négociants.<a id=429></a>
+##### Section 1: Règlements de comptes entre les maîtres d'atelier et les négociants.<a id=430></a>
 
 ###### Article L723-1
 
@@ -44368,9 +44432,9 @@ _Anciens textes_:
   - Code du travail 58
 
 
-#### Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes<a id=430></a>
+#### Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes<a id=431></a>
 
-##### Section 1 : Tissage et bobinage.<a id=431></a>
+##### Section 1 : Tissage et bobinage.<a id=432></a>
 
 ###### Article L722-1
 
@@ -44504,7 +44568,7 @@ _Cite_:
   - Code du travail L722-1 A L722-4
 
 
-##### Section 2 : Coupe de velours de coton, teinture, blanchiment et apprêts des étoffes.<a id=432></a>
+##### Section 2 : Coupe de velours de coton, teinture, blanchiment et apprêts des étoffes.<a id=433></a>
 
 ###### Article L722-5
 
@@ -44573,9 +44637,9 @@ _Anciens textes_:
   - Code du travail 1041, 1042
 
 
-### Titre III : Bâtiments et travaux publics<a id=433></a>
+### Titre III : Bâtiments et travaux publics<a id=434></a>
 
-#### Chapitre Ier : Indemnisation des travailleurs du bâtiment et des travaux publics privés d'emploi par suite d'intempéries.<a id=434></a>
+#### Chapitre Ier : Indemnisation des travailleurs du bâtiment et des travaux publics privés d'emploi par suite d'intempéries.<a id=435></a>
 
 ###### Article L731-1
 
@@ -45156,9 +45220,9 @@ _Anciens textes_:
   - Loi   1946-10-21 ART. 14
 
 
-### Titre IV : Transports et télécommunications<a id=435></a>
+### Titre IV : Transports et télécommunications<a id=436></a>
 
-#### Chapitre II : Marins.<a id=436></a>
+#### Chapitre II : Marins.<a id=437></a>
 
 ###### Article L742-1
 
@@ -45345,7 +45409,7 @@ _Nouveaux textes_:
   - Code des transports - art. L5549-3 (V)
 
 
-#### Chapitre III : Personnel des entreprises de manutention des ports.<a id=437></a>
+#### Chapitre III : Personnel des entreprises de manutention des ports.<a id=438></a>
 
 ###### Article L743-1
 
@@ -45436,7 +45500,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-### Titre V : Voyageurs, représentants et placiers.<a id=438></a>
+### Titre V : Voyageurs, représentants et placiers.<a id=439></a>
 
 ###### Article L751-1
 
@@ -46010,11 +46074,11 @@ _Nouveaux textes_:
   - Code du travail - art. L7313-8 (VD)
 
 
-### Titre VI : Journalistes, artistes, mannequins<a id=439></a>
+### Titre VI : Journalistes, artistes, mannequins<a id=440></a>
 
-#### Chapitre Ier : Journalistes professionnels<a id=440></a>
+#### Chapitre Ier : Journalistes professionnels<a id=441></a>
 
-##### Section 1 : Dispositions générales.<a id=441></a>
+##### Section 1 : Dispositions générales.<a id=442></a>
 
 ###### Article L761-1
 
@@ -46168,7 +46232,7 @@ _Anciens textes_:
   - Code du travail 1029
 
 
-##### Section 2 : Résiliation du contrat.<a id=442></a>
+##### Section 2 : Résiliation du contrat.<a id=443></a>
 
 ###### Article L761-4
 
@@ -46386,7 +46450,7 @@ _Anciens textes_:
   - Code du travail 1029 E
 
 
-##### Section 3 : Rémunération et congés.<a id=443></a>
+##### Section 3 : Rémunération et congés.<a id=444></a>
 
 ###### Article L761-8
 
@@ -46672,7 +46736,7 @@ _Anciens textes_:
   - Code du travail 1029 I
 
 
-##### Section 4 : Carte d'identité professionnelle.<a id=444></a>
+##### Section 4 : Carte d'identité professionnelle.<a id=445></a>
 
 ###### Article L761-15
 
@@ -46766,11 +46830,11 @@ _Anciens textes_:
   - Loi n°1953-12-15
 
 
-#### Chapitre II : Artistes, auteurs, compositeurs, gens de lettres<a id=445></a>
+#### Chapitre II : Artistes, auteurs, compositeurs, gens de lettres<a id=446></a>
 
-##### Section 2 : Artistes de spectacles : contrat, rémunération, placement<a id=446></a>
+##### Section 2 : Artistes de spectacles : contrat, rémunération, placement<a id=447></a>
 
-##### Paragraphe 1 : Contrat.<a id=447></a>
+##### Paragraphe 1 : Contrat.<a id=448></a>
 
 ###### Article L762-1
 
@@ -46849,7 +46913,7 @@ _Nouveaux textes_:
   - Code du travail - art. L7121-7 (VD)
 
 
-##### Paragraphe 2 : Rémunération.<a id=448></a>
+##### Paragraphe 2 : Rémunération.<a id=449></a>
 
 ###### Article L762-2
 
@@ -46892,7 +46956,7 @@ _Nouveaux textes_:
   - Code du travail - art. L7121-8 (VD)
 
 
-##### Paragraphe 3 : Placement.<a id=449></a>
+##### Paragraphe 3 : Placement.<a id=450></a>
 
 ###### Article L762-4
 
@@ -47244,7 +47308,7 @@ _Nouveaux textes_:
   - Code du travail - art. L7121-17 (VD)
 
 
-#### Chapitre III : Mannequins.<a id=450></a>
+#### Chapitre III : Mannequins.<a id=451></a>
 
 ###### Article L763-1
 
@@ -47311,9 +47375,9 @@ _Anciens textes_:
   - Loi n°69-1165 1969-12-26 ART. 2
 
 
-### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistantes maternelles<a id=451></a>
+### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistantes maternelles<a id=452></a>
 
-#### Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.<a id=452></a>
+#### Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.<a id=453></a>
 
 ###### Article L771-1
 
@@ -47562,7 +47626,7 @@ _Cité par_:
   - Code du travail - art. R797-1 (VT)
 
 
-#### Chapitre II : Employés de maison.<a id=453></a>
+#### Chapitre II : Employés de maison.<a id=454></a>
 
 ###### Article L772-1
 
@@ -47701,9 +47765,9 @@ _Cite_:
   - Code du travail L223-1 A L223-17
 
 
-#### Chapitre III : Assistantes maternelles<a id=454></a>
+#### Chapitre III : Assistantes maternelles<a id=455></a>
 
-##### Section 1 : Dispositions générales.<a id=455></a>
+##### Section 1 : Dispositions générales.<a id=456></a>
 
 ###### Article L773-1
 
@@ -47900,7 +47964,7 @@ _Cite_:
   - Code du travail L773-1 A L773-15, L773-8, L773-13
 
 
-##### Section 2 : Dispositions spéciales aux personnes employées par des particuliers.<a id=456></a>
+##### Section 2 : Dispositions spéciales aux personnes employées par des particuliers.<a id=457></a>
 
 ###### Article L773-8
 
@@ -47978,7 +48042,7 @@ _Cite_:
   - Code du travail L773-8 A L773-9
 
 
-##### Section 3 : Dispositions spéciales aux personnes employées par des personnes morales de droit privé.<a id=457></a>
+##### Section 3 : Dispositions spéciales aux personnes employées par des personnes morales de droit privé.<a id=458></a>
 
 ###### Article L773-10
 
@@ -48183,9 +48247,9 @@ _Cite_:
   - Code du travail L773-10 A L773-15, L773-7
 
 
-### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises<a id=458></a>
+### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises<a id=459></a>
 
-#### Chapitre Ier : Catégories particulières de travailleurs.<a id=459></a>
+#### Chapitre Ier : Catégories particulières de travailleurs.<a id=460></a>
 
 ###### Article L781-1
 
@@ -48295,7 +48359,7 @@ _Cite_:
   - Code du travail L781-1 ET L781-2
 
 
-#### Chapitre II : Gérants non-salariés des succursales de maisons d'alimentation de détail.<a id=460></a>
+#### Chapitre II : Gérants non-salariés des succursales de maisons d'alimentation de détail.<a id=461></a>
 
 ###### Article L782-1
 
@@ -48546,7 +48610,7 @@ _Anciens textes_:
   - Loi n°1969-05-16
 
 
-#### Chapitre III : Halles centrales de Paris.<a id=461></a>
+#### Chapitre III : Halles centrales de Paris.<a id=462></a>
 
 ###### Article L783-1
 
@@ -48791,11 +48855,11 @@ _Anciens textes_:
   - Code du travail 51 al. 1, al. 2
 
 
-### Titre IX : Pénalités<a id=462></a>
+### Titre IX : Pénalités<a id=463></a>
 
-#### Chapitre Ier : Energie, industries extractives<a id=463></a>
+#### Chapitre Ier : Energie, industries extractives<a id=464></a>
 
-##### Section 1 : Mines et carrières.<a id=464></a>
+##### Section 1 : Mines et carrières.<a id=465></a>
 
 ###### Article L791-1
 
@@ -48836,7 +48900,7 @@ _Anciens textes_:
   - Code du travail 2164 B
 
 
-##### Section 2 : Délégués mineurs.<a id=465></a>
+##### Section 2 : Délégués mineurs.<a id=466></a>
 
 ###### Article L791-2
 
@@ -48885,9 +48949,9 @@ _Codifié par_:
   - Décret n°73-1047 1973-11-15
 
 
-#### Chapitre II : Industries de transformation<a id=466></a>
+#### Chapitre II : Industries de transformation<a id=467></a>
 
-##### Section 1 : Travailleurs à domicile.<a id=467></a>
+##### Section 1 : Travailleurs à domicile.<a id=468></a>
 
 ###### Article L792-1
 
@@ -48927,7 +48991,7 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L721-9 (AbD)
 
 
-##### Section 2 : Moyens de constater les conventions relatives au salaire en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes.<a id=468></a>
+##### Section 2 : Moyens de constater les conventions relatives au salaire en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes.<a id=469></a>
 
 ###### Article L792-2
 
@@ -48964,7 +49028,7 @@ _Anciens textes_:
   - Code du travail 101
 
 
-#### Chapitre III : Bâtiment et travaux publics.<a id=469></a>
+#### Chapitre III : Bâtiment et travaux publics.<a id=470></a>
 
 ###### Article L793-1
 
@@ -48996,7 +49060,7 @@ _Nouveaux textes_:
   - Code du travail - art. L5429-3 (VD)
 
 
-#### Chapitre V : Voyageurs, représentants et placiers.<a id=470></a>
+#### Chapitre V : Voyageurs, représentants et placiers.<a id=471></a>
 
 ###### Article L795-1
 
@@ -49030,9 +49094,9 @@ _Cite_:
   - Loi n°1948-08-27
 
 
-#### Chapitre VI : Journalistes, artistes, mannequins<a id=471></a>
+#### Chapitre VI : Journalistes, artistes, mannequins<a id=472></a>
 
-##### Section 1 : Journalistes professionnels.<a id=472></a>
+##### Section 1 : Journalistes professionnels.<a id=473></a>
 
 ###### Article L796-1
 
@@ -49075,7 +49139,7 @@ _Nouveaux textes_:
   - Code du travail - art. L7114-1 (VD)
 
 
-##### Section 2 : Artistes, auteurs, compositeurs, gens de lettres, artistes du spectacle.<a id=473></a>
+##### Section 2 : Artistes, auteurs, compositeurs, gens de lettres, artistes du spectacle.<a id=474></a>
 
 ###### Article L796-2
 
@@ -49106,13 +49170,13 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L762-8 (AbD)
 
 
-## DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS<a id=474></a>
+## DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS<a id=475></a>
 
-### ENERGIE - INDUSTRIES EXTRACTIVES<a id=475></a>
+### ENERGIE - INDUSTRIES EXTRACTIVES<a id=476></a>
 
-#### DELEGUES MINEURS<a id=476></a>
+#### DELEGUES MINEURS<a id=477></a>
 
-##### FONCTIONS DES DELEGUES MINEURS DU FOND .<a id=477></a>
+##### FONCTIONS DES DELEGUES MINEURS DU FOND .<a id=478></a>
 
 ###### Article L712-2
 
@@ -49137,9 +49201,9 @@ _Cite_:
   - Code du travail L420-1 A L420-24
 
 
-### INDUSTRIES DE TRANSFORMATION<a id=478></a>
+### INDUSTRIES DE TRANSFORMATION<a id=479></a>
 
-#### TRAVAILLEURS A DOMICILE .<a id=479></a>
+#### TRAVAILLEURS A DOMICILE .<a id=480></a>
 
 ###### Article L721-6
 
@@ -49184,7 +49248,7 @@ _Anciens textes_:
   - Code du travail 1033
 
 
-##### SALAIRES .<a id=480></a>
+##### SALAIRES .<a id=481></a>
 
 ###### Article L721-10
 
@@ -49335,9 +49399,9 @@ _Anciens textes_:
   - Code du travail 1033 M
 
 
-### BATIMENTS ET TRAVAUX PUBLICS<a id=481></a>
+### BATIMENTS ET TRAVAUX PUBLICS<a id=482></a>
 
-#### INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .<a id=482></a>
+#### INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .<a id=483></a>
 
 ###### Article L731-7
 
@@ -49381,9 +49445,9 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code du travail R731-1 à R731-13
 
 
-### TRANSPORTS ET TELECOMMUNICATIONS<a id=483></a>
+### TRANSPORTS ET TELECOMMUNICATIONS<a id=484></a>
 
-#### MARINS .<a id=484></a>
+#### MARINS .<a id=485></a>
 
 ###### Article L742-2
 
@@ -49462,7 +49526,7 @@ _Cite_:
   - Loi   1967-05-20
 
 
-### VOYAGEURS, REPRESENTANTS ET PLACIERS *VRP* .<a id=485></a>
+### VOYAGEURS, REPRESENTANTS ET PLACIERS *VRP* .<a id=486></a>
 
 ###### Article L751-5
 
@@ -49531,11 +49595,11 @@ _Cite_:
   - Code du travail L122-1 A L122-42
 
 
-### ARTISTES, AUTEURS, COMPOSITEURS, GENS DE LETTRES<a id=486></a>
+### ARTISTES, AUTEURS, COMPOSITEURS, GENS DE LETTRES<a id=487></a>
 
-#### ARTISTES DE SPECTACLE<a id=487></a>
+#### ARTISTES DE SPECTACLE<a id=488></a>
 
-##### PLACEMENT .<a id=488></a>
+##### PLACEMENT .<a id=489></a>
 
 ###### Article L762-3
 
@@ -49594,7 +49658,7 @@ _Cite_:
   - Code du travail - art. L762-1 (AbD)
 
 
-### CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .<a id=489></a>
+### CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .<a id=490></a>
 
 ###### Article L771-4
 
@@ -49661,7 +49725,7 @@ _Anciens textes_:
   - Loi n°1939-01-13 ART. 7
 
 
-### ASSISTANTES MATERNELLES.<a id=490></a>
+### ASSISTANTES MATERNELLES.<a id=491></a>
 
 ###### Article L773-2
 
@@ -49729,9 +49793,9 @@ _Anciens textes_:
   - Code du travail - art. L773-4-1 (T)
 
 
-### ASSISTANCES MATERNELLES<a id=491></a>
+### ASSISTANCES MATERNELLES<a id=492></a>
 
-#### DISPOSITIONS SPECIALES AUX PERSONNES EMPLOYEES PAR DES PERSONNES MORALES DE DROIT PRIVE.<a id=492></a>
+#### DISPOSITIONS SPECIALES AUX PERSONNES EMPLOYEES PAR DES PERSONNES MORALES DE DROIT PRIVE.<a id=493></a>
 
 ###### Article L773-11
 
@@ -49781,9 +49845,9 @@ _Cite_:
   - Code du travail L773-10 A L773-15
 
 
-### DISPOSITIONS RELATIVES A CERTAINES CATEGORIES DE TRAVAILLEURS ET D'ENTREPRISES<a id=493></a>
+### DISPOSITIONS RELATIVES A CERTAINES CATEGORIES DE TRAVAILLEURS ET D'ENTREPRISES<a id=494></a>
 
-#### GERANTS NON-SALARIES DES SUCCURSALES DE MAISONS D'ALIMENTATION DE  DETAIL .<a id=494></a>
+#### GERANTS NON-SALARIES DES SUCCURSALES DE MAISONS D'ALIMENTATION DE  DETAIL .<a id=495></a>
 
 ###### Article L782-3
 
@@ -49819,9 +49883,9 @@ _Anciens textes_:
   - Loi n°1944-01-03 ART. 5
 
 
-## Livre VIII : Dispositions spéciales aux départements d'outre-mer<a id=495></a>
+## Livre VIII : Dispositions spéciales aux départements d'outre-mer<a id=496></a>
 
-### Titre préliminaire.<a id=496></a>
+### Titre préliminaire.<a id=497></a>
 
 ###### Article L800-1
 
@@ -49841,9 +49905,9 @@ _Cite_:
   - Code du travail L900-1 A L990-7
 
 
-### Titre Ier : Conventions relatives au travail<a id=497></a>
+### Titre Ier : Conventions relatives au travail<a id=498></a>
 
-#### Chapitre Ier : Contrat d'apprentissage.<a id=498></a>
+#### Chapitre Ier : Contrat d'apprentissage.<a id=499></a>
 
 ###### Article L811-1
 
@@ -49874,9 +49938,9 @@ _Cite_:
   - Code du travail L115-1 A L119-4
 
 
-#### Chapitre IV : Salaires<a id=499></a>
+#### Chapitre IV : Salaires<a id=500></a>
 
-##### Section 1 : Salaire minimum de croissance.<a id=500></a>
+##### Section 1 : Salaire minimum de croissance.<a id=501></a>
 
 ###### Article L814-1
 
@@ -50001,9 +50065,9 @@ _Cite_:
   - Code du travail - art. L814-2 (M)
 
 
-### Titre II : Réglementation du travail<a id=501></a>
+### Titre II : Réglementation du travail<a id=502></a>
 
-#### Chapitre Ier : Durée du travail.<a id=502></a>
+#### Chapitre Ier : Durée du travail.<a id=503></a>
 
 ###### Article L821-1
 
@@ -50038,7 +50102,7 @@ _Nouveaux textes_:
   - Code du travail - art. L3422-1 (VD)
 
 
-#### Chapitre II : Services médicaux du travail.<a id=503></a>
+#### Chapitre II : Services médicaux du travail.<a id=504></a>
 
 ###### Article L822-1
 
@@ -50160,9 +50224,9 @@ _Cité par_:
   - TXT_ASSOCIE: Code du travail - art. R882-1 (M)
 
 
-### Titre III : Placement et emploi<a id=504></a>
+### Titre III : Placement et emploi<a id=505></a>
 
-#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=505></a>
+#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=506></a>
 
 ###### Article L831-3
 
@@ -50184,9 +50248,9 @@ _Abrogé par_:
   - Loi n°86-76 du 17 janvier 1986 - art. 15 () JORF 18 janvier 1986
 
 
-#### Chapitre II : Emploi<a id=506></a>
+#### Chapitre II : Emploi<a id=507></a>
 
-##### Section 1 : Protection de la main-d'oeuvre nationale.<a id=507></a>
+##### Section 1 : Protection de la main-d'oeuvre nationale.<a id=508></a>
 
 ###### Article L832-1
 
@@ -50216,7 +50280,7 @@ _Anciens textes_:
   - Décret n°48-502 1948-08-30 ART. 1 III AL. 12-2
 
 
-##### Section 2 : Prime de mobilité des jeunes.<a id=508></a>
+##### Section 2 : Prime de mobilité des jeunes.<a id=509></a>
 
 ###### Article L832-2
 
@@ -50269,7 +50333,7 @@ _Cite_:
   - Code du travail L324-9 A L324-15
 
 
-##### Section 3 : Cumuls d'emplois et travail clandestin.<a id=509></a>
+##### Section 3 : Cumuls d'emplois et travail clandestin.<a id=510></a>
 
 ###### Article L832-3
 
@@ -50291,7 +50355,7 @@ _Cite_:
   - Code du travail L324-9 A L324-15
 
 
-#### Chapitre III : Garantie de ressources des travailleurs privés d'emploi.<a id=510></a>
+#### Chapitre III : Garantie de ressources des travailleurs privés d'emploi.<a id=511></a>
 
 ###### Article L833-1
 
@@ -50313,9 +50377,9 @@ _Nouveaux textes_:
   - Code du travail - art. L5524-10 (VD)
 
 
-### Titre VIII : Pénalités<a id=511></a>
+### Titre VIII : Pénalités<a id=512></a>
 
-#### Chapitre II : Réglementation du travail.<a id=512></a>
+#### Chapitre II : Réglementation du travail.<a id=513></a>
 
 ###### Article L882-1
 
@@ -50347,11 +50411,11 @@ _Cite_:
   - Code du travail L822-2 A L822-3
 
 
-## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=513></a>
+## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=514></a>
 
-### PLACEMENT ET EMPLOI<a id=514></a>
+### PLACEMENT ET EMPLOI<a id=515></a>
 
-#### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .<a id=515></a>
+#### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .<a id=516></a>
 
 ###### Article L831-1
 
@@ -50411,7 +50475,7 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. R883-1 (V)
 
 
-## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.<a id=516></a>
+## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.<a id=517></a>
 
 ###### Article L900-2
 
@@ -50550,7 +50614,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### Titre Ier : Des institutions de la formation professionnelle.<a id=517></a>
+### Titre Ier : Des institutions de la formation professionnelle.<a id=518></a>
 
 ###### Article L910-1
 
@@ -50689,7 +50753,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### Titre II : Des conventions de formation professionnelle.<a id=518></a>
+### Titre II : Des conventions de formation professionnelle.<a id=519></a>
 
 ###### Article L920-1
 
@@ -50872,7 +50936,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### Titre IV : De l'aide de l'Etat.<a id=519></a>
+### Titre IV : De l'aide de l'Etat.<a id=520></a>
 
 ###### Article L940-1
 
@@ -51026,7 +51090,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collectivités locales.<a id=520></a>
+### Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collectivités locales.<a id=521></a>
 
 ###### Article L970-1
 
@@ -51163,7 +51227,7 @@ _Cité par_:
   - Loi n°84-594 du 12 juillet 1984 - art. 23 (M)
 
 
-## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE .<a id=521></a>
+## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE .<a id=522></a>
 
 ###### Article L900-1
 
@@ -51501,7 +51565,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### DISPOSITIONS RELATIVES A LA PROMOTION INDIVIDUELLE ET AUX CONGES DE FORMATION .<a id=522></a>
+### DISPOSITIONS RELATIVES A LA PROMOTION INDIVIDUELLE ET AUX CONGES DE FORMATION .<a id=523></a>
 
 ###### Article L900-3
 
@@ -51568,7 +51632,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### CONVENTIONS DE FORMATION PROFESSIONNELLE .<a id=523></a>
+### CONVENTIONS DE FORMATION PROFESSIONNELLE .<a id=524></a>
 
 ###### Article L920-3
 
@@ -51767,7 +51831,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.<a id=524></a>
+### DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.<a id=525></a>
 
 ###### Article L930-1
 
@@ -51923,7 +51987,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION  PROFESSIONNELLE  CONTINUE .<a id=525></a>
+### PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION  PROFESSIONNELLE  CONTINUE .<a id=526></a>
 
 ###### Article L950-1
 
@@ -52370,7 +52434,7 @@ _Anciens textes_:
   - Loi n°71-575 du 16 juillet 1971 - art. 22 (M)
 
 
-### AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION  PROFESSIONNELLE .<a id=526></a>
+### AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION  PROFESSIONNELLE .<a id=527></a>
 
 ###### Article L960-1
 
@@ -52902,7 +52966,7 @@ _Cite_:
   - Code du travail - art. L960-7 (M)
 
 
-### DISPOSITIONS RELATIVES AUX AGENTS DE L'ETAT ET AUX AGENTS DES  COLLECTIVITES LOCALES .<a id=527></a>
+### DISPOSITIONS RELATIVES AUX AGENTS DE L'ETAT ET AUX AGENTS DES  COLLECTIVITES LOCALES .<a id=528></a>
 
 ###### Article L970-5
 
@@ -52987,7 +53051,7 @@ _Cite_:
   - Code du travail L970-1 A L970-5
 
 
-### PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .<a id=528></a>
+### PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .<a id=529></a>
 
 ###### Article L980-1
 
@@ -53268,9 +53332,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=529></a>
+## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=530></a>
 
-### Titre II : CONVENTIONS DE FORMATION PROFESSIONNELLE .<a id=530></a>
+### Titre II : CONVENTIONS DE FORMATION PROFESSIONNELLE .<a id=531></a>
 
 ###### Article L920-11
 
@@ -53309,7 +53373,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### Titre V : PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .<a id=531></a>
+### Titre V : PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .<a id=532></a>
 
 ###### Article L950-3
 
@@ -53357,7 +53421,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### Titre V :DE LA PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.<a id=532></a>
+### Titre V :DE LA PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.<a id=533></a>
 
 ###### Article L950-4
 
@@ -53424,7 +53488,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### Titre VIII : PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .<a id=533></a>
+### Titre VIII : PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .<a id=534></a>
 
 ###### Article L980-4
 
@@ -53474,9 +53538,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-## FORMATION PROFESSIONNELLE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=534></a>
+## FORMATION PROFESSIONNELLE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=535></a>
 
-### DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.<a id=535></a>
+### DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.<a id=536></a>
 
 ###### Article L930-1-3
 
@@ -53873,7 +53937,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### DE LA PROMOTION INDIVIDUELLE ET DU CENTRE DE FORMATION.<a id=536></a>
+### DE LA PROMOTION INDIVIDUELLE ET DU CENTRE DE FORMATION.<a id=537></a>
 
 ###### Article L930-1-11
 
@@ -53915,7 +53979,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### DE LA FORMATION INDIVIDUELLE ET DU CONGE DE FORMATION.<a id=537></a>
+### DE LA FORMATION INDIVIDUELLE ET DU CONGE DE FORMATION.<a id=538></a>
 
 ###### Article L930-1-12
 
@@ -53974,13 +54038,13 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-# Partie réglementaire ancienne - Décrets en Conseil d'Etat<a id=538></a>
+# Partie réglementaire ancienne - Décrets en Conseil d'Etat<a id=539></a>
 
-## Livre Ier : Conventions relatives au travail<a id=539></a>
+## Livre Ier : Conventions relatives au travail<a id=540></a>
 
-### Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus avant le 1er juillet 1972<a id=540></a>
+### Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus avant le 1er juillet 1972<a id=541></a>
 
-#### Chapitre Ier : Etablissement du contrat.<a id=541></a>
+#### Chapitre Ier : Etablissement du contrat.<a id=542></a>
 
 ###### Article R111-1
 
@@ -54091,7 +54155,7 @@ _Cite_:
   - Code du travail - art. L111-9
 
 
-#### Chapitre II : Devoirs des maîtres et des apprentis.<a id=542></a>
+#### Chapitre II : Devoirs des maîtres et des apprentis.<a id=543></a>
 
 ###### Article R112-1
 
@@ -54109,7 +54173,7 @@ _Cite_:
   - Code du travail - art. L112-4
 
 
-#### Chapitre III : Compétence.<a id=543></a>
+#### Chapitre III : Compétence.<a id=544></a>
 
 ###### Article R113-1
 
@@ -54145,15 +54209,15 @@ _Cite_:
   - Code du travail
 
 
-### Titre Ier : CONTRAT D'APPRENTISSAGE<a id=544></a>
+### Titre Ier : CONTRAT D'APPRENTISSAGE<a id=545></a>
 
-#### Dispositions applicables aux contrats conclus à partir du 1er juillet 1972<a id=545></a>
+#### Dispositions applicables aux contrats conclus à partir du 1er juillet 1972<a id=546></a>
 
-##### Chapitre VI : Des centres de formation d'apprentis<a id=546></a>
+##### Chapitre VI : Des centres de formation d'apprentis<a id=547></a>
 
-##### Section 1 : Des conventions portant création de centres de formation d'apprentis<a id=547></a>
+##### Section 1 : Des conventions portant création de centres de formation d'apprentis<a id=548></a>
 
-##### Paragraphe 2 : De l'organisation des centres.<a id=548></a>
+##### Paragraphe 2 : De l'organisation des centres.<a id=549></a>
 
 ###### Article R116-3
 
@@ -54222,7 +54286,7 @@ _Cite_:
   - Code du travail - art. R116-6 (M)
 
 
-##### Paragraphe 3 : Du fonctionnement pédagogique des centres.<a id=549></a>
+##### Paragraphe 3 : Du fonctionnement pédagogique des centres.<a id=550></a>
 
 ###### Article R116-13
 
@@ -54287,7 +54351,7 @@ _Cité par_:
   - Code du travail - art. R116-1 (VT)
 
 
-##### Paragraphe 4 : De l'organisation financière des centres.<a id=550></a>
+##### Paragraphe 4 : De l'organisation financière des centres.<a id=551></a>
 
 ###### Article R116-15
 
@@ -54319,7 +54383,7 @@ _Cité par_:
   - Code du travail - art. R116-1 (VT)
 
 
-##### Section 2 : De la conclusion et du renouvellement des conventions.<a id=551></a>
+##### Section 2 : De la conclusion et du renouvellement des conventions.<a id=552></a>
 
 ###### Article R116-21
 
@@ -54382,7 +54446,7 @@ _Cité par_:
   - Code du travail - art. R116-21 (VT)
 
 
-##### Section 3 : Des conventions-cadre d'apprentissage.<a id=552></a>
+##### Section 3 : Des conventions-cadre d'apprentissage.<a id=553></a>
 
 ###### Article R116-25
 
@@ -54412,7 +54476,7 @@ _Cité par_:
   - Code du travail - art. R119-3 (M)
 
 
-##### Section 4 : Du personnel des centres de formation d'apprentis.<a id=553></a>
+##### Section 4 : Du personnel des centres de formation d'apprentis.<a id=554></a>
 
 ###### Article R116-26
 
@@ -54489,7 +54553,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
 
 
-##### Section 5 : Du contrôle des centres de formation d'apprentis.<a id=554></a>
+##### Section 5 : Du contrôle des centres de formation d'apprentis.<a id=555></a>
 
 ###### Article R116-34
 
@@ -54522,9 +54586,9 @@ _Cite_:
   - Code du travail - art. L119-1 (M)
 
 
-##### Chapitre VII : Du contrat d'apprentissage<a id=555></a>
+##### Chapitre VII : Du contrat d'apprentissage<a id=556></a>
 
-##### Paragraphe 1 : De l'agrément de l'employeur.<a id=556></a>
+##### Paragraphe 1 : De l'agrément de l'employeur.<a id=557></a>
 
 ###### Article R117-4
 
@@ -54573,7 +54637,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
 
 
-##### Paragraphe 4 : Du contenu des contrats d'apprentissage.<a id=557></a>
+##### Paragraphe 4 : Du contenu des contrats d'apprentissage.<a id=558></a>
 
 ###### Article R117-11
 
@@ -54636,7 +54700,7 @@ _Cité par_:
   - Code du travail - art. R117-17 (VT)
 
 
-##### Paragraphe 5 : De l'enregistrement du contrat d'apprentissage.<a id=558></a>
+##### Paragraphe 5 : De l'enregistrement du contrat d'apprentissage.<a id=559></a>
 
 ###### Article R117-13
 
@@ -54764,7 +54828,7 @@ _Cité par_:
   - Code du travail - art. R119-41 (M)
 
 
-##### Paragraphe 6 : Cas de l'apprenti employé par un ascendant.<a id=559></a>
+##### Paragraphe 6 : Cas de l'apprenti employé par un ascendant.<a id=560></a>
 
 ###### Article R117-18
 
@@ -54792,7 +54856,7 @@ _Cite_:
   - Code du travail R117-13 A R117-15
 
 
-##### Paragraphe 7 : Constatation de l'aptitude de l'apprenti.<a id=560></a>
+##### Paragraphe 7 : Constatation de l'aptitude de l'apprenti.<a id=561></a>
 
 ###### Article R117-19
 
@@ -54857,9 +54921,9 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Chapitre IX : DISPOSITIONS DIVERSES<a id=561></a>
+##### Chapitre IX : DISPOSITIONS DIVERSES<a id=562></a>
 
-##### A - DISPOSITIONS FINANCIERES.<a id=562></a>
+##### A - DISPOSITIONS FINANCIERES.<a id=563></a>
 
 ###### Article R119-1
 
@@ -55024,11 +55088,11 @@ _Cite_:
   - Code du travail L117-5 AL. 4
 
 
-##### B - Mesures provisoires d'adaptation en matière d'apprentissage<a id=563></a>
+##### B - Mesures provisoires d'adaptation en matière d'apprentissage<a id=564></a>
 
-##### Section 1 : Des accords provisoires<a id=564></a>
+##### Section 1 : Des accords provisoires<a id=565></a>
 
-##### Paragraphe 4 : Dispositions relatives au personnel.<a id=565></a>
+##### Paragraphe 4 : Dispositions relatives au personnel.<a id=566></a>
 
 ###### Article R119-22
 
@@ -55129,7 +55193,7 @@ _Cite_:
   - Code du travail - art. L119-3 (AbD)
 
 
-##### Section 4 : Dispositions transitoires relatives aux examens de fin d'apprentissage.<a id=566></a>
+##### Section 4 : Dispositions transitoires relatives aux examens de fin d'apprentissage.<a id=567></a>
 
 ###### Article R119-30
 
@@ -55148,7 +55212,7 @@ _Abrogé par_:
   - Décret n°2002-596 du 24 avril 2002 - art. 14 () JORF 27 avril 2002
 
 
-##### C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=567></a>
+##### C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=568></a>
 
 ###### Article R119-32
 
@@ -55179,9 +55243,9 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-##### D - Inspection de l'apprentissage<a id=568></a>
+##### D - Inspection de l'apprentissage<a id=569></a>
 
-##### Dispositions générales.<a id=569></a>
+##### Dispositions générales.<a id=570></a>
 
 ###### Article R119-50
 
@@ -55228,7 +55292,7 @@ _Cité par_:
   - Code du travail - art. R119-69 (VT)
 
 
-##### E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.<a id=570></a>
+##### E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.<a id=571></a>
 
 ###### Article R119-76
 
@@ -55283,11 +55347,11 @@ _Cité par_:
   - Code du travail - art. R119-78 (VT)
 
 
-##### B - Mesures provisoires d'adaptation en matière d'apprentissage<a id=571></a>
+##### B - Mesures provisoires d'adaptation en matière d'apprentissage<a id=572></a>
 
-##### Section 1 : Des accords provisoires<a id=572></a>
+##### Section 1 : Des accords provisoires<a id=573></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=573></a>
+##### Paragraphe 1 : Dispositions générales.<a id=574></a>
 
 ###### Article R119-6
 
@@ -55417,7 +55481,7 @@ _Abrogé par_:
   - Décret n°83-447 1983-06-01 ART. 15 JORF 5 JUIN 1983
 
 
-##### Paragraphe 3 : Des accords de transformation et des avenants d'adaptation.<a id=574></a>
+##### Paragraphe 3 : Des accords de transformation et des avenants d'adaptation.<a id=575></a>
 
 ###### Article R119-15
 
@@ -55606,7 +55670,7 @@ _Abrogé par_:
   - Décret n°83-447 1983-06-01 ART. 15 JORF 5 JUIN 1983
 
 
-##### Paragraphe 4 : Dispositions relatives au personnel.<a id=575></a>
+##### Paragraphe 4 : Dispositions relatives au personnel.<a id=576></a>
 
 ###### Article R119-25
 
@@ -55640,7 +55704,7 @@ _Cite_:
   - Code du travail - art. R119-22 (Ab)
 
 
-##### Section 2 : Dispositions transitoires relatives à l'agrément des employeurs.<a id=576></a>
+##### Section 2 : Dispositions transitoires relatives à l'agrément des employeurs.<a id=577></a>
 
 ###### Article R119-26
 
@@ -55671,7 +55735,7 @@ _Abrogé par_:
   - Décret n°83-447 1983-06-01 ART. 15 JORF 5 JUIN 1983
 
 
-##### Section 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.<a id=577></a>
+##### Section 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.<a id=578></a>
 
 ###### Article R119-27
 
@@ -55702,7 +55766,7 @@ _Cite_:
   - Code du travail - art. R119-2 (M)
 
 
-##### C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin, et de la Moselle.<a id=578></a>
+##### C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin, et de la Moselle.<a id=579></a>
 
 ###### Article R119-31
 
@@ -55780,9 +55844,9 @@ _Cité par_:
   - Code du travail - art. R119-36 (M)
 
 
-##### D - Inspection de l'apprentissage<a id=579></a>
+##### D - Inspection de l'apprentissage<a id=580></a>
 
-##### Dispositions générales.<a id=580></a>
+##### Dispositions générales.<a id=581></a>
 
 ###### Article R119-55
 
@@ -56010,7 +56074,7 @@ _Cite_:
   - Code de l'artisanat - art. 42 (M)
 
 
-##### E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.<a id=581></a>
+##### E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.<a id=582></a>
 
 ###### Article R119-74
 
@@ -56040,13 +56104,13 @@ _Cité par_:
   - Code du travail - art. R119-72 (VT)
 
 
-#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*<a id=582></a>
+#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*<a id=583></a>
 
-##### Chapitre VI : DES FORMATION D'APPRENTIS<a id=583></a>
+##### Chapitre VI : DES FORMATION D'APPRENTIS<a id=584></a>
 
-##### SECTION 1 : DES CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS<a id=584></a>
+##### SECTION 1 : DES CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS<a id=585></a>
 
-##### PARAGRAPHE 1 : DISPOSITIONS GENERALES.<a id=585></a>
+##### PARAGRAPHE 1 : DISPOSITIONS GENERALES.<a id=586></a>
 
 ###### Article R116-1
 
@@ -56095,11 +56159,11 @@ _Cite_:
   - Code du travail R116-2 A R116-11, R116-14, R116-15, R166-22 ET R116-31
 
 
-##### Chapitre VI : DES CENTRES DE FORMATION D' APPRENTIS<a id=586></a>
+##### Chapitre VI : DES CENTRES DE FORMATION D' APPRENTIS<a id=587></a>
 
-##### SECTION 1 : DES CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS<a id=587></a>
+##### SECTION 1 : DES CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS<a id=588></a>
 
-##### PARAGRAPHE 1 : DISPOSITIONS GENERALES.<a id=588></a>
+##### PARAGRAPHE 1 : DISPOSITIONS GENERALES.<a id=589></a>
 
 ###### Article R116-2
 
@@ -56127,7 +56191,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
 
 
-##### PARAGRAPHE 2 : DE L'ORGANISATION DES CENTRES .<a id=589></a>
+##### PARAGRAPHE 2 : DE L'ORGANISATION DES CENTRES .<a id=590></a>
 
 ###### Article R116-4
 
@@ -56272,7 +56336,7 @@ _Cite_:
   - Code du travail R116-1 à R116-17
 
 
-##### PARAGRAPHE 3 : FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .<a id=590></a>
+##### PARAGRAPHE 3 : FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .<a id=591></a>
 
 ###### Article R116-9
 
@@ -56335,7 +56399,7 @@ _Cité par_:
   - Code du travail - art. R119-20 (Ab)
 
 
-##### SECTION 4 : DU PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .<a id=591></a>
+##### SECTION 4 : DU PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .<a id=592></a>
 
 ###### Article R116-28
 
@@ -56390,9 +56454,9 @@ _Cité par_:
   - Code du travail - art. R119-22 (Ab)
 
 
-##### Chapitre VII : DU CONTRAT D'APPRENTISSAGE<a id=592></a>
+##### Chapitre VII : DU CONTRAT D'APPRENTISSAGE<a id=593></a>
 
-##### PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR .<a id=593></a>
+##### PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR .<a id=594></a>
 
 ###### Article R117-2
 
@@ -56468,7 +56532,7 @@ _Cité par_:
   - Code du travail - art. R119-36 (M)
 
 
-##### PARAGRAPHE 2 : DE LA DUREE DE L'APPRENTISSAGE .<a id=594></a>
+##### PARAGRAPHE 2 : DE LA DUREE DE L'APPRENTISSAGE .<a id=595></a>
 
 ###### Article R117-6
 
@@ -56549,7 +56613,7 @@ _Cite_:
   - Code du travail - art. L117-3 (M)
 
 
-##### PARAGRAPHE 3 : AVIS D'ORIENTATION - CERTIFICAT MEDICAL .<a id=595></a>
+##### PARAGRAPHE 3 : AVIS D'ORIENTATION - CERTIFICAT MEDICAL .<a id=596></a>
 
 ###### Article R117-9
 
@@ -56581,7 +56645,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### PARAGRAPHE 6 : CAS DE L'APPRENTI EMPLOYE PAR UN ASCENDANT .<a id=596></a>
+##### PARAGRAPHE 6 : CAS DE L'APPRENTI EMPLOYE PAR UN ASCENDANT .<a id=597></a>
 
 ###### Article R117-17
 
@@ -56615,7 +56679,7 @@ _Cite_:
   - Code du travail - art. R117-12 (M)
 
 
-##### Chapitre VIII : DES ATTRIBUTIONS DES CHAMBRES DE COMMERCE ET D'INDUSTRIE DES CHAMBRES DE METIERS ET DES CHAMBRES D'AGRICULTURE EN MATIERE D'APPRENTISSAGE .<a id=597></a>
+##### Chapitre VIII : DES ATTRIBUTIONS DES CHAMBRES DE COMMERCE ET D'INDUSTRIE DES CHAMBRES DE METIERS ET DES CHAMBRES D'AGRICULTURE EN MATIERE D'APPRENTISSAGE .<a id=598></a>
 
 ###### Article R118-1
 
@@ -56674,9 +56738,9 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Chapitre IX : DISPOSITIONS DIVERSES<a id=598></a>
+##### Chapitre IX : DISPOSITIONS DIVERSES<a id=599></a>
 
-##### C - MESURES PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN, ET DE LA MOSELLE .<a id=599></a>
+##### C - MESURES PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN, ET DE LA MOSELLE .<a id=600></a>
 
 ###### Article R119-33
 
@@ -56701,7 +56765,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-##### PARAGRAPHE 1 : MESURES D'ADAPTATION CONCERNANT LES DISPOSITIONS D'APPLICATION PERMANENTE DE LA LOI SUR L'APPRENTISSAGE .<a id=600></a>
+##### PARAGRAPHE 1 : MESURES D'ADAPTATION CONCERNANT LES DISPOSITIONS D'APPLICATION PERMANENTE DE LA LOI SUR L'APPRENTISSAGE .<a id=601></a>
 
 ###### Article R119-34
 
@@ -56975,7 +57039,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-##### PARAGRAPHE 2 : MESURES D'ADAPTATION CONCERNANT LES DISPOSITIONS TRANSITOIRES .<a id=601></a>
+##### PARAGRAPHE 2 : MESURES D'ADAPTATION CONCERNANT LES DISPOSITIONS TRANSITOIRES .<a id=602></a>
 
 ###### Article R119-43
 
@@ -57042,9 +57106,9 @@ _Cite_:
   - Code du travail - art. R119-29 (Ab)
 
 
-##### D - INSPECTION DE L'APPRENTISSAGE<a id=602></a>
+##### D - INSPECTION DE L'APPRENTISSAGE<a id=603></a>
 
-##### DISPOSITIONS GENERALES.<a id=603></a>
+##### DISPOSITIONS GENERALES.<a id=604></a>
 
 ###### Article R119-49
 
@@ -57240,7 +57304,7 @@ _Cité par_:
   - Code du travail - art. R119-68 (VT)
 
 
-##### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .<a id=604></a>
+##### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .<a id=605></a>
 
 ###### Article R119-65
 
@@ -57328,7 +57392,7 @@ _Anciens textes_:
   - Code du travail CHAP. IX, LIVRE I
 
 
-##### E - AMENAGEMENTS AU BENEFICE DES PERSONNES HANDICAPEES DES DISPOSITIONS RELATIVES A L'APPRENTISSAGE.<a id=605></a>
+##### E - AMENAGEMENTS AU BENEFICE DES PERSONNES HANDICAPEES DES DISPOSITIONS RELATIVES A L'APPRENTISSAGE.<a id=606></a>
 
 ###### Article R119-72
 
@@ -57426,11 +57490,11 @@ _Cite_:
   - Code du travail R119-72 ET R119-74
 
 
-#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS AVANT LE 1ER JUILLET 1972<a id=606></a>
+#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS AVANT LE 1ER JUILLET 1972<a id=607></a>
 
-##### Chapitre VII : DU CONTRAT D'APPRENTISSAGE<a id=607></a>
+##### Chapitre VII : DU CONTRAT D'APPRENTISSAGE<a id=608></a>
 
-##### PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR.<a id=608></a>
+##### PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR.<a id=609></a>
 
 ###### Article R117-1
 
@@ -57498,11 +57562,11 @@ _Cite_:
   - Code du travail - art. R117-3 (M)
 
 
-### Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972<a id=609></a>
+### Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972<a id=610></a>
 
-#### Chapitre VII : Du contrat d'apprentissage<a id=610></a>
+#### Chapitre VII : Du contrat d'apprentissage<a id=611></a>
 
-##### Paragraphe 4 : Du contenu des contrats d'apprentissage.<a id=611></a>
+##### Paragraphe 4 : Du contenu des contrats d'apprentissage.<a id=612></a>
 
 ###### Article R117-10
 
@@ -57524,9 +57588,9 @@ _Nouveaux textes_:
   - Code du travail - art. R6222-2 (V)
 
 
-#### Chapitre IX : Dispositions diverses<a id=612></a>
+#### Chapitre IX : Dispositions diverses<a id=613></a>
 
-##### A - Dispositions financières.<a id=613></a>
+##### A - Dispositions financières.<a id=614></a>
 
 ###### Article R119-7
 
@@ -57560,9 +57624,9 @@ _Cite_:
   - Code du travail - art. R119-6 (Ab)
 
 
-##### D - Inspection de l'apprentissage<a id=614></a>
+##### D - Inspection de l'apprentissage<a id=615></a>
 
-##### Dispositions générales.<a id=615></a>
+##### Dispositions générales.<a id=616></a>
 
 ###### Article R119-60
 
@@ -57587,7 +57651,7 @@ _Nouveaux textes_:
   - Code du travail - art. R6251-6 (V)
 
 
-##### Dispositions particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=616></a>
+##### Dispositions particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=617></a>
 
 ###### Article R119-66
 
@@ -57677,7 +57741,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-##### E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.<a id=617></a>
+##### E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.<a id=618></a>
 
 ###### Article R119-78
 
@@ -57768,11 +57832,11 @@ _Nouveaux textes_:
   - Code du travail - art. R6222-58 (V)
 
 
-### Titre II : Contrat de travail<a id=618></a>
+### Titre II : Contrat de travail<a id=619></a>
 
-#### Chapitre II : Contrat de travail<a id=619></a>
+#### Chapitre II : Contrat de travail<a id=620></a>
 
-##### Section 1 : Règles générales.<a id=620></a>
+##### Section 1 : Règles générales.<a id=621></a>
 
 ###### Article R122-1
 
@@ -57972,7 +58036,7 @@ _Anciens textes_:
   - Code du travail 24 al. 1
 
 
-##### Section 2 : Service national.<a id=621></a>
+##### Section 2 : Service national.<a id=622></a>
 
 ###### Article R122-7
 
@@ -58026,7 +58090,7 @@ _Cité par_:
   - Code du travail - art. R152-2 (M)
 
 
-##### Section 3 : Protection de la maternité et éducation des enfants.<a id=622></a>
+##### Section 3 : Protection de la maternité et éducation des enfants.<a id=623></a>
 
 ###### Article R122-9
 
@@ -58124,9 +58188,9 @@ _Cite_:
   - Code du travail L122-25 A L122-28-1
 
 
-#### Chapitre IV : Travail temporaire<a id=623></a>
+#### Chapitre IV : Travail temporaire<a id=624></a>
 
-##### Section 1 : Déclarations et justifications à fournir à l'autorité administrative.<a id=624></a>
+##### Section 1 : Déclarations et justifications à fournir à l'autorité administrative.<a id=625></a>
 
 ###### Article R124-1
 
@@ -58252,7 +58316,7 @@ _Cité par_:
   - Code du travail - art. R152-5 (M)
 
 
-##### Section 3 : Dispositions spéciales à certaines entreprises de travail temporaire et dispositions transitoires.<a id=625></a>
+##### Section 3 : Dispositions spéciales à certaines entreprises de travail temporaire et dispositions transitoires.<a id=626></a>
 
 ###### Article R124-5
 
@@ -58305,9 +58369,9 @@ _Cite_:
   - Code du travail R124-1 A R124-14
 
 
-##### Section 4 : Règles applicables à la garantie financière exigée des entreprises de travail temporaire et à la substitution de l'utilisateur à l'entreprise de travail temporaire en cas de défaillance de celle-ci<a id=626></a>
+##### Section 4 : Règles applicables à la garantie financière exigée des entreprises de travail temporaire et à la substitution de l'utilisateur à l'entreprise de travail temporaire en cas de défaillance de celle-ci<a id=627></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=627></a>
+##### Paragraphe 1 : Dispositions générales.<a id=628></a>
 
 ###### Article R124-7
 
@@ -58506,7 +58570,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1251-16 (V)
 
 
-##### Paragraphe 2 : Dispositions particulières aux différents modes de garantie.<a id=628></a>
+##### Paragraphe 2 : Dispositions particulières aux différents modes de garantie.<a id=629></a>
 
 ###### Article R124-14
 
@@ -58587,7 +58651,7 @@ _Cite_:
   - Code civil - art. 2024 (M)
 
 
-##### Paragraphe 3 : Mise en oeuvre de la garantie.<a id=629></a>
+##### Paragraphe 3 : Mise en oeuvre de la garantie.<a id=630></a>
 
 ###### Article R124-17
 
@@ -58693,7 +58757,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1251-24 (V)
 
 
-##### Paragraphe 4 : Substitution de l'utilisateur à l'entrepreneur de travail temporaire en cas de  défaillance de celui-ci.<a id=630></a>
+##### Paragraphe 4 : Substitution de l'utilisateur à l'entrepreneur de travail temporaire en cas de  défaillance de celui-ci.<a id=631></a>
 
 ###### Article R124-22
 
@@ -58788,7 +58852,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1251-29 (V)
 
 
-##### Paragraphe 5 : Cessation de la garantie.<a id=631></a>
+##### Paragraphe 5 : Cessation de la garantie.<a id=632></a>
 
 ###### Article R124-26
 
@@ -58841,7 +58905,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1251-31 (V)
 
 
-#### Chapitre V : Marchandage.<a id=632></a>
+#### Chapitre V : Marchandage.<a id=633></a>
 
 ###### Article R125-1
 
@@ -58873,7 +58937,7 @@ _Anciens textes_:
   - Code du travail Livre 1 article 80 d
 
 
-#### Chapitre VI : Cautionnements.<a id=633></a>
+#### Chapitre VI : Cautionnements.<a id=634></a>
 
 ###### Article R126-1
 
@@ -58968,9 +59032,9 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-### Titre III : Conventions collectives de travail<a id=634></a>
+### Titre III : Conventions collectives de travail<a id=635></a>
 
-#### Chapitre V : Exécution de la convention.<a id=635></a>
+#### Chapitre V : Exécution de la convention.<a id=636></a>
 
 ###### Article R135-2
 
@@ -58995,9 +59059,9 @@ _Anciens textes_:
   - Code du travail 1031 Z
 
 
-### Titre IV : Salaire<a id=636></a>
+### Titre IV : Salaire<a id=637></a>
 
-#### Chapitre préliminaire : Egalité de rémunération entre les hommes et les femmes.<a id=637></a>
+#### Chapitre préliminaire : Egalité de rémunération entre les hommes et les femmes.<a id=638></a>
 
 ###### Article R140-1
 
@@ -59050,9 +59114,9 @@ _Cité par_:
   - Code du travail - art. R154-0 (VT)
 
 
-#### Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale<a id=638></a>
+#### Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale<a id=639></a>
 
-##### Section 1 : Salaire minimum de croissance.<a id=639></a>
+##### Section 1 : Salaire minimum de croissance.<a id=640></a>
 
 ###### Article R141-1
 
@@ -59097,11 +59161,11 @@ _Nouveaux textes_:
   - Code du travail - art. D3211-1 (V)
 
 
-##### Section 2 : Rémunération mensuelle minimale<a id=640></a>
+##### Section 2 : Rémunération mensuelle minimale<a id=641></a>
 
-##### Dispositions générales<a id=641></a>
+##### Dispositions générales<a id=642></a>
 
-##### Paragraphe 1 : Allocation complémentaire versée au salarié.<a id=642></a>
+##### Paragraphe 1 : Allocation complémentaire versée au salarié.<a id=643></a>
 
 ###### Article R141-3
 
@@ -59184,7 +59248,7 @@ _Nouveaux textes_:
   - Code du travail - art. R3232-2 (V)
 
 
-##### Paragraphe 2 : Remboursement par l'Etat.<a id=643></a>
+##### Paragraphe 2 : Remboursement par l'Etat.<a id=644></a>
 
 ###### Article R141-6
 
@@ -59272,7 +59336,7 @@ _Nouveaux textes_:
   - Code du travail - art. R3232-7 (V)
 
 
-##### Dispositions particulières à certaines catégories.<a id=644></a>
+##### Dispositions particulières à certaines catégories.<a id=645></a>
 
 ###### Article R141-11
 
@@ -59362,13 +59426,13 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-#### Chapitre Ier : Salaire minimum de croissance<a id=645></a>
+#### Chapitre Ier : Salaire minimum de croissance<a id=646></a>
 
-##### Rémunération mensuelle minimale.<a id=646></a>
+##### Rémunération mensuelle minimale.<a id=647></a>
 
-##### Section 2 : Rémunération mensuelle minimale<a id=647></a>
+##### Section 2 : Rémunération mensuelle minimale<a id=648></a>
 
-##### Dispositions particulières à certaines catégories.<a id=648></a>
+##### Dispositions particulières à certaines catégories.<a id=649></a>
 
 ###### Article R141-10
 
@@ -59421,9 +59485,9 @@ _Cité par_:
   - Décret n°94-760 du 26 août 1994 - art. 1 (V)
 
 
-#### Chapitre III : Paiement du salaire<a id=649></a>
+#### Chapitre III : Paiement du salaire<a id=650></a>
 
-##### Section 1 : Mode de paiement du salaire.<a id=650></a>
+##### Section 1 : Mode de paiement du salaire.<a id=651></a>
 
 ###### Article R143-1
 
@@ -59454,7 +59518,7 @@ _Nouveaux textes_:
   - Code du travail - art. R3241-1 (V)
 
 
-##### SECTION 1 : MODE DU PAIEMENT DU SALAIRE .<a id=651></a>
+##### SECTION 1 : MODE DU PAIEMENT DU SALAIRE .<a id=652></a>
 
 ###### Article R143-2
 
@@ -59538,9 +59602,9 @@ _Anciens textes_:
   - Code du travail 44 al. 2
 
 
-#### Chapitre V : Saisie-arrêt et cession des rémunérations dues par un employeur<a id=652></a>
+#### Chapitre V : Saisie-arrêt et cession des rémunérations dues par un employeur<a id=653></a>
 
-##### Section 2 : Procédure de cession et de saisie-arrêt.<a id=653></a>
+##### Section 2 : Procédure de cession et de saisie-arrêt.<a id=654></a>
 
 ###### Article R145-3
 
@@ -59848,7 +59912,7 @@ _Anciens textes_:
   - Code du travail 71
 
 
-#### Chapitre VII : Règles particulières au contrôle et à la répartition des pourboires.<a id=654></a>
+#### Chapitre VII : Règles particulières au contrôle et à la répartition des pourboires.<a id=655></a>
 
 ###### Article R147-1
 
@@ -59915,13 +59979,13 @@ _Anciens textes_:
   - Code du travail 42 c
 
 
-### Titre V : Pénalités<a id=655></a>
+### Titre V : Pénalités<a id=656></a>
 
-#### Chapitre II : Contrat de travail<a id=656></a>
+#### Chapitre II : Contrat de travail<a id=657></a>
 
-##### Section 1 : Louage de services<a id=657></a>
+##### Section 1 : Louage de services<a id=658></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=658></a>
+##### Paragraphe 1 : Dispositions générales.<a id=659></a>
 
 ###### Article R152-1
 
@@ -59944,7 +60008,7 @@ _Anciens textes_:
   - Décret n°1972-10-24 art. 5
 
 
-##### Paragraphe 2 : Règles particulières aux personnes intéressées par le service national, aux jeunes gens astreints aux obligations imposées par le service préparatoire et aux hommes rappelés au service national.<a id=659></a>
+##### Paragraphe 2 : Règles particulières aux personnes intéressées par le service national, aux jeunes gens astreints aux obligations imposées par le service préparatoire et aux hommes rappelés au service national.<a id=660></a>
 
 ###### Article R152-2
 
@@ -59979,7 +60043,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 37
 
 
-##### Paragraphe 3 : Règles particulières à la protection de la maternité et à l'éducation des enfants<a id=660></a>
+##### Paragraphe 3 : Règles particulières à la protection de la maternité et à l'éducation des enfants<a id=661></a>
 
 ###### Article R152-3
 
@@ -60008,7 +60072,7 @@ _Cite_:
   - Code du travail L122-25 A L122-28-4, L122-30, R122-9 A R122-11
 
 
-##### Section 3 : Marchandage.<a id=661></a>
+##### Section 3 : Marchandage.<a id=662></a>
 
 ###### Article R152-7
 
@@ -60037,7 +60101,7 @@ _Cite_:
   - Code du travail - art. R125-1 (M)
 
 
-##### Section 4 : Cautionnement.<a id=662></a>
+##### Section 4 : Cautionnement.<a id=663></a>
 
 ###### Article R152-8
 
@@ -60067,7 +60131,7 @@ _Cite_:
   - Code du travail L126-1, L126-2, R126-1 à R126-4
 
 
-#### Chapitre III : CONVENTIONS COLLECTIVES<a id=663></a>
+#### Chapitre III : CONVENTIONS COLLECTIVES<a id=664></a>
 
 ###### Article R153-1
 
@@ -60164,9 +60228,9 @@ _Cite_:
   - Code du travail - art. R133-3 (T)
 
 
-#### Chapitre IV : Salaires<a id=664></a>
+#### Chapitre IV : Salaires<a id=665></a>
 
-##### Section préliminaire : Egalité de rémunération entre les hommes et les femmes<a id=665></a>
+##### Section préliminaire : Egalité de rémunération entre les hommes et les femmes<a id=666></a>
 
 ###### Article R154-0
 
@@ -60220,7 +60284,7 @@ _Nouveaux textes_:
   - Code du travail - art. R140-2 (V)
 
 
-##### Section 1 : Salaire minimum de croissance et rémunération mensuelle minimale garantie<a id=666></a>
+##### Section 1 : Salaire minimum de croissance et rémunération mensuelle minimale garantie<a id=667></a>
 
 ###### Article R154-1
 
@@ -60316,7 +60380,7 @@ _Cite_:
   - Code du travail L141-1 A L141-9, L141-10 A L141-17
 
 
-##### Section 2 : Prime de transport.<a id=667></a>
+##### Section 2 : Prime de transport.<a id=668></a>
 
 ###### Article R154-2
 
@@ -60347,7 +60411,7 @@ _Cite_:
   - Code du travail - art. R153-2 (M)
 
 
-##### Section 3 : Paiement du salaire<a id=668></a>
+##### Section 3 : Paiement du salaire<a id=669></a>
 
 ###### Article R154-3
 
@@ -60388,7 +60452,7 @@ _Cite_:
   - Code du travail L143-1 A L143-3, L143-5, L147-1, L147-2, R143-1, R143-2, R147-1, R147-2
 
 
-##### Section 4 : Retenues sur le salaire<a id=669></a>
+##### Section 4 : Retenues sur le salaire<a id=670></a>
 
 ###### Article R154-4
 
@@ -60419,11 +60483,11 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 4
 
 
-## Livre II : Réglementation du travail<a id=670></a>
+## Livre II : Réglementation du travail<a id=671></a>
 
-### Chapitre préliminaire<a id=671></a>
+### Chapitre préliminaire<a id=672></a>
 
-#### Section 2 : Agence nationale pour l'amélioration des conditions de travail.<a id=672></a>
+#### Section 2 : Agence nationale pour l'amélioration des conditions de travail.<a id=673></a>
 
 ###### Article R200-5
 
@@ -60464,9 +60528,9 @@ _Nouveaux textes_:
   - Code du travail - art. R4642-2 (M)
 
 
-### Titre Ier : Conditions du travail<a id=673></a>
+### Titre Ier : Conditions du travail<a id=674></a>
 
-#### Chapitre Ier : Age d'admission.<a id=674></a>
+#### Chapitre Ier : Age d'admission.<a id=675></a>
 
 ###### Article R211-1
 
@@ -60885,11 +60949,11 @@ _Cite_:
   - Code du travail L211-6 à L211-13
 
 
-#### Chapitre II : Durée du travail<a id=675></a>
+#### Chapitre II : Durée du travail<a id=676></a>
 
-##### Section 2 : Heures supplémentaires<a id=676></a>
+##### Section 2 : Heures supplémentaires<a id=677></a>
 
-##### A - Dispositions concernant les dérogations exceptionnelles à la durée du travail.<a id=677></a>
+##### A - Dispositions concernant les dérogations exceptionnelles à la durée du travail.<a id=678></a>
 
 ###### Article R212-2
 
@@ -60929,7 +60993,7 @@ _Cité par_:
   - Code du travail - art. L212-7 (M)
 
 
-##### Paragraphe 1 : Dérogations à la durée maximale hebdomadaire moyenne.<a id=678></a>
+##### Paragraphe 1 : Dérogations à la durée maximale hebdomadaire moyenne.<a id=679></a>
 
 ###### Article R212-3
 
@@ -61137,7 +61201,7 @@ _Cité par_:
   - Code du travail - art. R212-9 (VT)
 
 
-##### Paragraphe 2 : Dérogations à la durée maximale hebdomadaire absolue<a id=679></a>
+##### Paragraphe 2 : Dérogations à la durée maximale hebdomadaire absolue<a id=680></a>
 
 ###### Article R212-9
 
@@ -61216,7 +61280,7 @@ _Cite_:
   - Code du travail R212-8 A R212-9
 
 
-##### B - Dispositions concernant la procédure d'autorisation des heures supplémentaires.<a id=680></a>
+##### B - Dispositions concernant la procédure d'autorisation des heures supplémentaires.<a id=681></a>
 
 ###### Article R212-11
 
@@ -61305,7 +61369,7 @@ _Anciens textes_:
   - Code du travail R212-10-2 (1981)
 
 
-##### C - Dispositions communes.<a id=681></a>
+##### C - Dispositions communes.<a id=682></a>
 
 ###### Article R212-12
 
@@ -61338,7 +61402,7 @@ _Cite_:
   - Code du travail R212-1 A R212-11
 
 
-#### Chapitre III : Travail de nuit.<a id=682></a>
+#### Chapitre III : Travail de nuit.<a id=683></a>
 
 ###### Article R213-1
 
@@ -61452,11 +61516,11 @@ _Anciens textes_:
   - Décret  1928-05-05 ART. 5
 
 
-### Titre II : Repos et congés<a id=683></a>
+### Titre II : Repos et congés<a id=684></a>
 
-#### Chapitre Ier : Repos hebdomadaire<a id=684></a>
+#### Chapitre Ier : Repos hebdomadaire<a id=685></a>
 
-##### Section 1 : Dispositions générales.<a id=685></a>
+##### Section 1 : Dispositions générales.<a id=686></a>
 
 ###### Article R221-1
 
@@ -62200,7 +62264,7 @@ _Nouveaux textes_:
   - Code du travail - art. R3172-9 (M)
 
 
-#### Chapitre II : Jours fériés.<a id=686></a>
+#### Chapitre II : Jours fériés.<a id=687></a>
 
 ###### Article R222-1
 
@@ -62231,7 +62295,7 @@ _Cité par_:
   - Code du travail - art. R262-5 (VT)
 
 
-#### Chapitre III : Congés annuels.<a id=687></a>
+#### Chapitre III : Congés annuels.<a id=688></a>
 
 ###### Article R223-1
 
@@ -62342,9 +62406,9 @@ _Cité par_:
   - Code du travail - art. R225-7 (VT)
 
 
-#### Chapitre IV : Repos des femmes en couches et des femmes allaitant leurs enfants<a id=688></a>
+#### Chapitre IV : Repos des femmes en couches et des femmes allaitant leurs enfants<a id=689></a>
 
-##### Section 1 : Périodes de repos.<a id=689></a>
+##### Section 1 : Périodes de repos.<a id=690></a>
 
 ###### Article R224-1
 
@@ -62369,7 +62433,7 @@ _Cité par_:
   - Code du travail - art. R224-5 (VT)
 
 
-##### Section 2 : Local où l'enfant est simplement allaité.<a id=690></a>
+##### Section 2 : Local où l'enfant est simplement allaité.<a id=691></a>
 
 ###### Article R224-2
 
@@ -62434,7 +62498,7 @@ _Nouveaux textes_:
   - Code du travail - art. R4152-15 (V)
 
 
-##### Section 3 : Chambres d'allaitement.<a id=691></a>
+##### Section 3 : Chambres d'allaitement.<a id=692></a>
 
 ###### Article R224-4
 
@@ -62851,9 +62915,9 @@ _Nouveaux textes_:
   - Code du travail - art. R4152-28 (V)
 
 
-### Titre II : CONGES<a id=692></a>
+### Titre II : CONGES<a id=693></a>
 
-#### Chapitre V : CONGES NON REMUNERES.<a id=693></a>
+#### Chapitre V : CONGES NON REMUNERES.<a id=694></a>
 
 ###### Article R225-1
 
@@ -63199,11 +63263,11 @@ _Anciens textes_:
   - Décret  1963-05-20 art. 10
 
 
-### Titre III : Hygiène et sécurité<a id=694></a>
+### Titre III : Hygiène et sécurité<a id=695></a>
 
-#### Chapitre Ier : Dispositions générales<a id=695></a>
+#### Chapitre Ier : Dispositions générales<a id=696></a>
 
-##### Section 1 : Comités d'hygiène et de sécurité.<a id=696></a>
+##### Section 1 : Comités d'hygiène et de sécurité.<a id=697></a>
 
 ###### Article R231-1
 
@@ -63740,7 +63804,7 @@ _Abrogé par_:
   - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 date d'entrée en vigueur 1er JUILLET 1985
 
 
-##### Section 2 : Mises en demeure de l'inspection du travail.<a id=697></a>
+##### Section 2 : Mises en demeure de l'inspection du travail.<a id=698></a>
 
 ###### Article R231-12
 
@@ -63828,9 +63892,9 @@ _Cité par_:
   - Code du travail - art. R263-2 (VT)
 
 
-##### SECTION 3 : ORGANES CONSULTATIFS CENTRAUX<a id=698></a>
+##### SECTION 3 : ORGANES CONSULTATIFS CENTRAUX<a id=699></a>
 
-##### Sous-section 2 : Commission nationale d'hygiène et de sécurité du travail en agriculture.<a id=699></a>
+##### Sous-section 2 : Commission nationale d'hygiène et de sécurité du travail en agriculture.<a id=700></a>
 
 ###### Article R231-25
 
@@ -64000,7 +64064,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-##### Section 4 : Formation à la sécurité.<a id=700></a>
+##### Section 4 : Formation à la sécurité.<a id=701></a>
 
 ###### Article R231-33
 
@@ -64056,7 +64120,7 @@ _Nouveaux textes_:
   - Code du travail - art. R4141-4 (V)
 
 
-##### Sous-section 1 : Dispositions générales.<a id=701></a>
+##### Sous-section 1 : Dispositions générales.<a id=702></a>
 
 ###### Article R231-35
 
@@ -64176,7 +64240,7 @@ _Nouveaux textes_:
   - Code du travail - art. R4141-20 (V)
 
 
-##### Sous-section 2 : De la formation à la sécurité de certaines catégories de salariés.<a id=702></a>
+##### Sous-section 2 : De la formation à la sécurité de certaines catégories de salariés.<a id=703></a>
 
 ###### Article R231-38
 
@@ -64250,7 +64314,7 @@ _Nouveaux textes_:
   - Code du travail - art. R4141-9 (V)
 
 
-##### Sous-section 4 : De l'organisation et du contrôle.<a id=703></a>
+##### Sous-section 4 : De l'organisation et du contrôle.<a id=704></a>
 
 ###### Article R231-44
 
@@ -64329,9 +64393,9 @@ _Nouveaux textes_:
   - Code du travail - art. R4143-2 (V)
 
 
-##### Section 5 : Substances et préparations dangereuses pour les travailleurs<a id=704></a>
+##### Section 5 : Substances et préparations dangereuses pour les travailleurs<a id=705></a>
 
-##### Sous-section 1 : Réglementation des substances et préparations dangereuses pour les travailleurs.<a id=705></a>
+##### Sous-section 1 : Réglementation des substances et préparations dangereuses pour les travailleurs.<a id=706></a>
 
 ###### Article R231-46
 
@@ -64481,7 +64545,7 @@ _Nouveaux textes_:
   - Code du travail - art. R231-58-2 (T)
 
 
-##### SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.<a id=706></a>
+##### SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.<a id=707></a>
 
 ###### Article R231-51
 
@@ -65152,7 +65216,7 @@ _Nouveaux textes_:
   - Code du travail - art. R231-52-17 (T)
 
 
-##### Sous-section 3 : Dispositions diverses.<a id=707></a>
+##### Sous-section 3 : Dispositions diverses.<a id=708></a>
 
 ###### Article R231-63
 
@@ -65251,9 +65315,9 @@ _Cité par_:
   - Code du travail - art. R231-65-2 (VT)
 
 
-##### SECTION 5 : SUBSTANCES ET PREPARATIONS DANGEREUSES POUR LES LES TRAVAILLEURS<a id=708></a>
+##### SECTION 5 : SUBSTANCES ET PREPARATIONS DANGEREUSES POUR LES LES TRAVAILLEURS<a id=709></a>
 
-##### SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.<a id=709></a>
+##### SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.<a id=710></a>
 
 ###### Article R231-53
 
@@ -65300,9 +65364,9 @@ _Cite_:
   - Code du travail L231-7 AL. 3
 
 
-#### Chapitre III : Sécurité<a id=710></a>
+#### Chapitre III : Sécurité<a id=711></a>
 
-##### Section 1 : Objets pesants.<a id=711></a>
+##### Section 1 : Objets pesants.<a id=712></a>
 
 ###### Article R233-1
 
@@ -65345,7 +65409,7 @@ _Anciens textes_:
   - Décret n°1965-05-21 art. 1, 2 et 3
 
 
-##### Section 2 : Machines et appareils dangereux.<a id=712></a>
+##### Section 2 : Machines et appareils dangereux.<a id=713></a>
 
 ###### Article R233-2
 
@@ -65700,9 +65764,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
 
 
-##### Section 3 : Prévention des incendies<a id=713></a>
+##### Section 3 : Prévention des incendies<a id=714></a>
 
-##### Sous-section 1 : Classements des matières inflammables.<a id=714></a>
+##### Sous-section 1 : Classements des matières inflammables.<a id=715></a>
 
 ###### Article R233-14
 
@@ -65832,7 +65896,7 @@ _Anciens textes_:
   - Décret  1913-07-10 ART. 19
 
 
-##### Sous-section 2 : Eclairage et chauffage des locaux.<a id=715></a>
+##### Sous-section 2 : Eclairage et chauffage des locaux.<a id=716></a>
 
 ###### Article R233-17
 
@@ -66007,7 +66071,7 @@ _Cite_:
   - Code du travail L231-2 PAR. 2
 
 
-##### Sous-section 3 : Issues et dégagements.<a id=716></a>
+##### Sous-section 3 : Issues et dégagements.<a id=717></a>
 
 ###### Article R233-23
 
@@ -66504,7 +66568,7 @@ _Anciens textes_:
   - Décret  1913-07-10 ART. 26
 
 
-##### Sous-section 4 : Moyens de lutte contre l'incendie.<a id=717></a>
+##### Sous-section 4 : Moyens de lutte contre l'incendie.<a id=718></a>
 
 ###### Article R233-38
 
@@ -66646,7 +66710,7 @@ _Abrogé par_:
   - Décret n°92-333 du 31 mars 1992 - art. 6 (V) JORF 1er avril 1992
 
 
-##### Section 4 : Dispositions diverses.<a id=718></a>
+##### Section 4 : Dispositions diverses.<a id=719></a>
 
 ###### Article R233-42
 
@@ -66727,7 +66791,7 @@ _Anciens textes_:
   - Décret  1913-07-10 ART. 10 a
 
 
-##### Section 5 : Mesures d'application.<a id=719></a>
+##### Section 5 : Mesures d'application.<a id=720></a>
 
 ###### Article R233-45
 
@@ -66893,9 +66957,9 @@ _Anciens textes_:
   - Décret  1913-07-10 art. 31
 
 
-##### Section 6 : Procédures de contrôle des appareils, machines, éléments de machines, protecteurs de machines, dispositifs, équipements et produits de protection<a id=720></a>
+##### Section 6 : Procédures de contrôle des appareils, machines, éléments de machines, protecteurs de machines, dispositifs, équipements et produits de protection<a id=721></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=721></a>
+##### Sous-section 1 : Dispositions générales.<a id=722></a>
 
 ###### Article R233-49
 
@@ -66990,7 +67054,7 @@ _Cité par_:
   - Code du travail - art. R233-82 (VT)
 
 
-##### Sous-section 4 : Prescriptions applicables aux matériels en service ou usagés.<a id=722></a>
+##### Sous-section 4 : Prescriptions applicables aux matériels en service ou usagés.<a id=723></a>
 
 ###### Article R233-70
 
@@ -67098,7 +67162,7 @@ _Cite_:
   - Code du travail - art. R233-75 (M)
 
 
-##### Sous-section 5 : Dispositions communes.<a id=723></a>
+##### Sous-section 5 : Dispositions communes.<a id=724></a>
 
 ###### Article R233-78
 
@@ -67199,7 +67263,7 @@ _Cite_:
   - Code du travail - art. R233-79 (M)
 
 
-##### SECTION 8 : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.<a id=724></a>
+##### SECTION 8 : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.<a id=725></a>
 
 ###### Article R233-84
 
@@ -67965,7 +68029,7 @@ _Abrogé par_:
   - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
 
 
-#### Chapitre IV : Dispositions particulières aux femmes et aux jeunes travailleurs.<a id=725></a>
+#### Chapitre IV : Dispositions particulières aux femmes et aux jeunes travailleurs.<a id=726></a>
 
 ###### Article R234-1
 
@@ -68014,7 +68078,7 @@ _Nouveaux textes_:
   - Code du travail - art. D4153-16 (V)
 
 
-##### Section 1 : Hygiène.<a id=726></a>
+##### Section 1 : Hygiène.<a id=727></a>
 
 ###### Article R234-3
 
@@ -68067,7 +68131,7 @@ _Cité par_:
   - Code du travail - art. R234-4-1 (VT)
 
 
-##### Section 2 : Limitation des charges.<a id=727></a>
+##### Section 2 : Limitation des charges.<a id=728></a>
 
 ###### Article R234-5
 
@@ -68175,7 +68239,7 @@ _Cite_:
   - Code du travail - art. R234-5
 
 
-##### Section 3 : Travaux interdits aux femmes.<a id=728></a>
+##### Section 3 : Travaux interdits aux femmes.<a id=729></a>
 
 ###### Article R234-9
 
@@ -68248,7 +68312,7 @@ _Nouveaux textes_:
   - Code du travail - art. D4152-8 (V)
 
 
-##### Section 4 : Travaux interdits aux jeunes travailleurs.<a id=729></a>
+##### Section 4 : Travaux interdits aux jeunes travailleurs.<a id=730></a>
 
 ###### Article R234-11
 
@@ -68725,13 +68789,13 @@ _Nouveaux textes_:
   - Code du travail - art. D4153-47 (Ab)
 
 
-### Titre III : HYGIENE<a id=730></a>
+### Titre III : HYGIENE<a id=731></a>
 
-#### Chapitre II : HYGIENE<a id=731></a>
+#### Chapitre II : HYGIENE<a id=732></a>
 
-##### SECTION 1 : LOCAUX AFFECTES AU TRAVAIL<a id=732></a>
+##### SECTION 1 : LOCAUX AFFECTES AU TRAVAIL<a id=733></a>
 
-##### SOUS-SECTION 1 : AERATION, ASSAINISSEMENT.<a id=733></a>
+##### SOUS-SECTION 1 : AERATION, ASSAINISSEMENT.<a id=734></a>
 
 ###### Article R232-2
 
@@ -68844,7 +68908,7 @@ _Anciens textes_:
   - Décret  1934-01-09
 
 
-##### SOUS-SECTION 1 : AERATION.<a id=734></a>
+##### SOUS-SECTION 1 : AERATION.<a id=735></a>
 
 ###### Article R232-1
 
@@ -68889,7 +68953,7 @@ _Anciens textes_:
   - Décret  1934-01-09
 
 
-##### SOUS-SECTION 2 : CHAUFFAGE.<a id=735></a>
+##### SOUS-SECTION 2 : CHAUFFAGE.<a id=736></a>
 
 ###### Article R232-5
 
@@ -68934,7 +68998,7 @@ _Transféré par_:
   - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987
 
 
-##### SOUS-SECTION 4 : PROTECTION CONTRE LES INTEMPERIES.<a id=736></a>
+##### SOUS-SECTION 4 : PROTECTION CONTRE LES INTEMPERIES.<a id=737></a>
 
 ###### Article R232-7
 
@@ -69012,7 +69076,7 @@ _Abrogé par_:
   - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987
 
 
-##### SOUS-SECTION 5 : INSONORISATION.<a id=737></a>
+##### SOUS-SECTION 5 : INSONORISATION.<a id=738></a>
 
 ###### Article R232-9
 
@@ -69059,7 +69123,7 @@ _Transféré par_:
   - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987 en vigueur le 1er octobre 1988
 
 
-##### SOUS-SECTION 6 : NETTOYAGE.<a id=738></a>
+##### SOUS-SECTION 6 : NETTOYAGE.<a id=739></a>
 
 ###### Article R232-10
 
@@ -69148,7 +69212,7 @@ _Abrogé par_:
   - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987
 
 
-##### SOUS-SECTION 7 : ASSAINISSEMENT.<a id=739></a>
+##### SOUS-SECTION 7 : ASSAINISSEMENT.<a id=740></a>
 
 ###### Article R232-12
 
@@ -69328,7 +69392,7 @@ _Cité par_:
   - Code du travail - art. R232-45 (Ab)
 
 
-##### SECTION 2 : REPAS, BOISSONS.<a id=740></a>
+##### SECTION 2 : REPAS, BOISSONS.<a id=741></a>
 
 ###### Article R232-16
 
@@ -69564,7 +69628,7 @@ _Anciens textes_:
   - Décret n°1960-10-05
 
 
-##### SECTION 3 : INSTALLATIONS SANITAIRES.<a id=741></a>
+##### SECTION 3 : INSTALLATIONS SANITAIRES.<a id=742></a>
 
 ###### Article R232-22
 
@@ -69871,7 +69935,7 @@ _Abrogé par_:
   - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987
 
 
-##### SECTION 4 : SIEGES.<a id=742></a>
+##### SECTION 4 : SIEGES.<a id=743></a>
 
 ###### Article R232-29
 
@@ -69919,7 +69983,7 @@ _Anciens textes_:
   - Décret n°1969-09-02
 
 
-##### SECTION 5 : COUCHAGE .<a id=743></a>
+##### SECTION 5 : COUCHAGE .<a id=744></a>
 
 ###### Article R232-31
 
@@ -70230,7 +70294,7 @@ _Cite_:
   - Code du travail R232-31 A R232-41
 
 
-##### SECTION 6 : MESURES D'APPLICATION<a id=744></a>
+##### SECTION 6 : MESURES D'APPLICATION<a id=745></a>
 
 ###### Article R232-42
 
@@ -70304,7 +70368,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
 
 
-#### Chapitre II : HYGIENE SECTION 4 : SIEGES.<a id=745></a>
+#### Chapitre II : HYGIENE SECTION 4 : SIEGES.<a id=746></a>
 
 ###### Article R232-30
 
@@ -70337,7 +70401,7 @@ _Abrogé par_:
   - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987
 
 
-#### Chapitre II : HYGIENE SECTION 5 : COUCHAGE.<a id=746></a>
+#### Chapitre II : HYGIENE SECTION 5 : COUCHAGE.<a id=747></a>
 
 ###### Article R232-34
 
@@ -70403,13 +70467,13 @@ _Abrogé par_:
   - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987
 
 
-### Titre III : SECURITE<a id=747></a>
+### Titre III : SECURITE<a id=748></a>
 
-#### Chapitre III : SECURITE<a id=748></a>
+#### Chapitre III : SECURITE<a id=749></a>
 
-##### SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION<a id=749></a>
+##### SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION<a id=750></a>
 
-##### SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE.<a id=750></a>
+##### SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE.<a id=751></a>
 
 ###### Article R233-52
 
@@ -70455,7 +70519,7 @@ _Cite_:
   - Code du travail - art. L233-5 (M)
 
 
-##### HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL.<a id=751></a>
+##### HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL.<a id=752></a>
 
 ###### Article R233-53
 
@@ -70564,7 +70628,7 @@ _Cite_:
   - Code du travail - art. R233-54 (M)
 
 
-##### VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE.<a id=752></a>
+##### VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE.<a id=753></a>
 
 ###### Article R233-56
 
@@ -70731,7 +70795,7 @@ _Cite_:
   - Code du travail - art. R233-57 (M)
 
 
-##### DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.<a id=753></a>
+##### DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.<a id=754></a>
 
 ###### Article R233-59
 
@@ -70979,9 +71043,9 @@ _Cité par_:
   - Code du travail - art. R233-82 (M)
 
 
-##### DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL<a id=754></a>
+##### DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL<a id=755></a>
 
-##### VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.<a id=755></a>
+##### VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.<a id=756></a>
 
 ###### Article R233-62
 
@@ -71035,7 +71099,7 @@ _Cité par_:
   - Code du travail - art. R233-81 (M)
 
 
-##### SOUS-SECTION 3 : PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE.<a id=756></a>
+##### SOUS-SECTION 3 : PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE.<a id=757></a>
 
 ###### Article R233-68
 
@@ -71173,7 +71237,7 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 18 novembre 1980 - art. 7 (Ab)
 
 
-##### SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES.<a id=757></a>
+##### SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES.<a id=758></a>
 
 ###### Article R233-75
 
@@ -71290,7 +71354,7 @@ _Cite_:
   - Code du travail - art. R233-73 (M)
 
 
-##### SOUS-SECTION 5 : DISPOSITIONS COMMUNES *PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE ET PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES*.<a id=758></a>
+##### SOUS-SECTION 5 : DISPOSITIONS COMMUNES *PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE ET PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES*.<a id=759></a>
 
 ###### Article R233-81
 
@@ -71321,7 +71385,7 @@ _Cite_:
   - Code du travail - art. R233-77 (M)
 
 
-##### SOUS-SECTION 6 : DISPOSITIONS DIVERSES.<a id=759></a>
+##### SOUS-SECTION 6 : DISPOSITIONS DIVERSES.<a id=760></a>
 
 ###### Article R233-82
 
@@ -71360,11 +71424,11 @@ _Cite_:
   - Code du travail L233-1 AL. 3, R233-66, R233-76
 
 
-##### SECTION 6 :PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENT DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION<a id=760></a>
+##### SECTION 6 :PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENT DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION<a id=761></a>
 
-##### SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE<a id=761></a>
+##### SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE<a id=762></a>
 
-##### DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.<a id=762></a>
+##### DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.<a id=763></a>
 
 ###### Article R233-67
 
@@ -71390,9 +71454,9 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-##### SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION<a id=763></a>
+##### SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION<a id=764></a>
 
-##### SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES<a id=764></a>
+##### SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES<a id=765></a>
 
 ###### Article R233-72
 
@@ -71426,7 +71490,7 @@ _Cité par_:
   - Code du travail - art. R233-82 (M)
 
 
-### Titre V : Service social du travail.<a id=765></a>
+### Titre V : Service social du travail.<a id=766></a>
 
 ###### Article R250-1
 
@@ -71612,9 +71676,9 @@ _Nouveaux textes_:
   - Code du travail - art. D4632-3 (V)
 
 
-### Titre VI : Pénalités<a id=766></a>
+### Titre VI : Pénalités<a id=767></a>
 
-#### Chapitre préliminaire.<a id=767></a>
+#### Chapitre préliminaire.<a id=768></a>
 
 ###### Article R260-1
 
@@ -71656,11 +71720,11 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 14
 
 
-#### Chapitre Ier : Conditions du travail<a id=768></a>
+#### Chapitre Ier : Conditions du travail<a id=769></a>
 
-##### Section 1 : Age d'admission<a id=769></a>
+##### Section 1 : Age d'admission<a id=770></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=770></a>
+##### Paragraphe 1 : Dispositions générales<a id=771></a>
 
 ###### Article R261-1
 
@@ -71699,9 +71763,9 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 15
 
 
-##### Section 2 : Durée du travail<a id=771></a>
+##### Section 2 : Durée du travail<a id=772></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=772></a>
+##### Paragraphe 1 : Dispositions générales<a id=773></a>
 
 ###### Article R261-3
 
@@ -71734,7 +71798,7 @@ _Cite_:
   - Code du travail - art. L212-2 (M)
 
 
-##### Paragraphe 2 : Heures supplémentaires.<a id=773></a>
+##### Paragraphe 2 : Heures supplémentaires.<a id=774></a>
 
 ###### Article R261-4
 
@@ -71773,7 +71837,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 26
 
 
-##### Paragraphe 3 : Dispositions relatives aux femmes et aux jeunes travailleurs.<a id=774></a>
+##### Paragraphe 3 : Dispositions relatives aux femmes et aux jeunes travailleurs.<a id=775></a>
 
 ###### Article R261-5
 
@@ -71850,7 +71914,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 18
 
 
-##### Section 3 : Travail de nuit.<a id=775></a>
+##### Section 3 : Travail de nuit.<a id=776></a>
 
 ###### Article R261-7
 
@@ -71917,9 +71981,9 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 18
 
 
-#### Chapitre II : Repos et congés<a id=776></a>
+#### Chapitre II : Repos et congés<a id=777></a>
 
-##### Section 1 : Repos hebdomadaire.<a id=777></a>
+##### Section 1 : Repos hebdomadaire.<a id=778></a>
 
 ###### Article R262-1
 
@@ -71980,9 +72044,9 @@ _Cite_:
   - Code du travail - art. L221-3 (M)
 
 
-##### Section 2 : Jours fériés<a id=778></a>
+##### Section 2 : Jours fériés<a id=779></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=779></a>
+##### Paragraphe 1 : Dispositions générales.<a id=780></a>
 
 ###### Article R262-3
 
@@ -72043,7 +72107,7 @@ _Cite_:
   - Code du travail - art. L222-4 (M)
 
 
-##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=780></a>
+##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=781></a>
 
 ###### Article R262-5
 
@@ -72073,7 +72137,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 29
 
 
-##### Section 3 : Congés annuels.<a id=781></a>
+##### Section 3 : Congés annuels.<a id=782></a>
 
 ###### Article R262-6
 
@@ -72112,7 +72176,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 15
 
 
-##### Section 4 : Repos des femmes en couches.<a id=782></a>
+##### Section 4 : Repos des femmes en couches.<a id=783></a>
 
 ###### Article R262-7
 
@@ -72146,7 +72210,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-##### Section 5 : Congés non rémunérés.<a id=783></a>
+##### Section 5 : Congés non rémunérés.<a id=784></a>
 
 ###### Article R262-8
 
@@ -72175,7 +72239,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-#### Chapitre III : Hygiène et sécurité<a id=784></a>
+#### Chapitre III : Hygiène et sécurité<a id=785></a>
 
 ###### Article R263-1
 
@@ -72238,7 +72302,7 @@ _Cite_:
   - Code du travail - art. R231-12 (M)
 
 
-#### Chapitre IV : Médecine du travail<a id=785></a>
+#### Chapitre IV : Médecine du travail<a id=786></a>
 
 ###### Article R264-1
 
@@ -72269,7 +72333,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 27
 
 
-#### Chapitre V : Service social du travail<a id=786></a>
+#### Chapitre V : Service social du travail<a id=787></a>
 
 ###### Article R265-1
 
@@ -72294,17 +72358,17 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-## CONVENTIONS RELATIVES AU TRAVAIL<a id=787></a>
+## CONVENTIONS RELATIVES AU TRAVAIL<a id=788></a>
 
-### CONTRAT D'APPRENTISSAGE<a id=788></a>
+### CONTRAT D'APPRENTISSAGE<a id=789></a>
 
-#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*<a id=789></a>
+#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*<a id=790></a>
 
-##### CENTRES DE FORMATION D' APPRENTIS<a id=790></a>
+##### CENTRES DE FORMATION D' APPRENTIS<a id=791></a>
 
-##### CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS<a id=791></a>
+##### CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS<a id=792></a>
 
-##### FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .<a id=792></a>
+##### FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .<a id=793></a>
 
 ###### Article R116-11
 
@@ -72379,7 +72443,7 @@ _Cite_:
   - Code du travail - art. R116-13 (M)
 
 
-##### ORGANISATION FINANCIERE DES CENTRES .<a id=793></a>
+##### ORGANISATION FINANCIERE DES CENTRES .<a id=794></a>
 
 ###### Article R116-16
 
@@ -72443,7 +72507,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. Annexe XI-I (V)
 
 
-##### CONCLUSION ET RENOUVELLEMENT DES CONVENTIONS .<a id=794></a>
+##### CONCLUSION ET RENOUVELLEMENT DES CONVENTIONS .<a id=795></a>
 
 ###### Article R116-18
 
@@ -72567,7 +72631,7 @@ _Cité par_:
   - Code du travail - art. R116-1 (VT)
 
 
-##### CONVENTIONS-CADRE D' APPRENTISSAGE .<a id=795></a>
+##### CONVENTIONS-CADRE D' APPRENTISSAGE .<a id=796></a>
 
 ###### Article R116-24
 
@@ -72598,7 +72662,7 @@ _Cite_:
   - Code du travail L133-3 PAR. 9
 
 
-##### PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .<a id=796></a>
+##### PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .<a id=797></a>
 
 ###### Article R116-27
 
@@ -72699,7 +72763,7 @@ _Cité par_:
   - Code du travail - art. R116-1 (VT)
 
 
-##### CONTROLE DES CENTRES DE FORMATION D'APPRENTIS .<a id=797></a>
+##### CONTROLE DES CENTRES DE FORMATION D'APPRENTIS .<a id=798></a>
 
 ###### Article R116-33
 
@@ -72801,9 +72865,9 @@ _Cité par_:
   - Code du travail - art. R119-11 (Ab)
 
 
-##### CONTRAT D'APPRENTISSAGE<a id=798></a>
+##### CONTRAT D'APPRENTISSAGE<a id=799></a>
 
-##### DUREE DE L'APPRENTISSAGE .<a id=799></a>
+##### DUREE DE L'APPRENTISSAGE .<a id=800></a>
 
 ###### Article R117-8
 
@@ -72839,7 +72903,7 @@ _Cite_:
   - Code du travail 117-13
 
 
-##### INSPECTION DE L'APPRENTISSAGE .<a id=800></a>
+##### INSPECTION DE L'APPRENTISSAGE .<a id=801></a>
 
 ###### Article R119-48
 
@@ -72864,11 +72928,11 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-### CONTRAT DE TRAVAIL<a id=801></a>
+### CONTRAT DE TRAVAIL<a id=802></a>
 
-#### TRAVAIL TEMPORAIRE<a id=802></a>
+#### TRAVAIL TEMPORAIRE<a id=803></a>
 
-##### INFORMATIONS A FOURNIR EN APPLICATION DES ARTICLES L. 124-11 ET L. 124-12 .<a id=803></a>
+##### INFORMATIONS A FOURNIR EN APPLICATION DES ARTICLES L. 124-11 ET L. 124-12 .<a id=804></a>
 
 ###### Article R124-4
 
@@ -72909,11 +72973,11 @@ _Cite_:
   - Code du travail - art. L124-12 (M)
 
 
-### (LOUAGE DE SERVICE)<a id=804></a>
+### (LOUAGE DE SERVICE)<a id=805></a>
 
-#### CONTRAT DE TRAVAIL<a id=805></a>
+#### CONTRAT DE TRAVAIL<a id=806></a>
 
-##### REGLEMENT INTERIEUR .<a id=806></a>
+##### REGLEMENT INTERIEUR .<a id=807></a>
 
 ###### Article R122-13
 
@@ -73038,11 +73102,11 @@ _Anciens textes_:
   - Code du travail 1022 A AL. 9
 
 
-### (LOUAGE SE SERVICE)<a id=807></a>
+### (LOUAGE SE SERVICE)<a id=808></a>
 
-#### CONTRAT DE TRAVAIL<a id=808></a>
+#### CONTRAT DE TRAVAIL<a id=809></a>
 
-##### REGLEMENT INTERIEUR .<a id=809></a>
+##### REGLEMENT INTERIEUR .<a id=810></a>
 
 ###### Article R122-17
 
@@ -73073,9 +73137,9 @@ _Anciens textes_:
   - Code du travail 1022 A DERNIER AL.
 
 
-### CONVENTIONS COLLECTIVES DE TRAVAIL<a id=810></a>
+### CONVENTIONS COLLECTIVES DE TRAVAIL<a id=811></a>
 
-#### NATURE ET VALIDITE DE LA CONVENTION COLLECTIVE .<a id=811></a>
+#### NATURE ET VALIDITE DE LA CONVENTION COLLECTIVE .<a id=812></a>
 
 ###### Article R132-1
 
@@ -73129,7 +73193,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-#### EXTENSION DES CONVENTIONS COLLECTIVES .<a id=812></a>
+#### EXTENSION DES CONVENTIONS COLLECTIVES .<a id=813></a>
 
 ###### Article R133-1
 
@@ -73226,7 +73290,7 @@ _Cité par_:
   - Code du travail - art. R153-3 (VT)
 
 
-#### EXECUTION DE LA CONVENTION COLLECTIVE .<a id=813></a>
+#### EXECUTION DE LA CONVENTION COLLECTIVE .<a id=814></a>
 
 ###### Article R135-1
 
@@ -73260,7 +73324,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code du travail - art. R153-1 (V)
 
 
-#### COMMISSION SUPERIEURE DES CONVENTIONS COLLECTIVES .<a id=814></a>
+#### COMMISSION SUPERIEURE DES CONVENTIONS COLLECTIVES .<a id=815></a>
 
 ###### Article R136-1
 
@@ -73603,9 +73667,9 @@ _Codifié par_:
   - PEREMPTION: Décret n°83-461 1983-06-08 ART. 1 JORF 9 JUIN 1983
 
 
-### SALAIRE<a id=815></a>
+### SALAIRE<a id=816></a>
 
-#### SAISIE-ARRET ET CESSION DES REMUNERATIONS DUES PAR UN EMPLOYEUR .<a id=816></a>
+#### SAISIE-ARRET ET CESSION DES REMUNERATIONS DUES PAR UN EMPLOYEUR .<a id=817></a>
 
 ###### Article R145-1
 
@@ -73667,7 +73731,7 @@ _Cite_:
   - Code de la sécurité sociale L527, L528
 
 
-##### PROCEDURE DE CESSION ET DE SAISIE ARRET .<a id=817></a>
+##### PROCEDURE DE CESSION ET DE SAISIE ARRET .<a id=818></a>
 
 ###### Article R145-2
 
@@ -74057,11 +74121,11 @@ _Anciens textes_:
   - Code du travail 1073 a
 
 
-### PENALITES<a id=818></a>
+### PENALITES<a id=819></a>
 
-#### CONTRAT DE TRAVAIL<a id=819></a>
+#### CONTRAT DE TRAVAIL<a id=820></a>
 
-##### TRAVAIL TEMPORAIRE .<a id=820></a>
+##### TRAVAIL TEMPORAIRE .<a id=821></a>
 
 ###### Article R152-5
 
@@ -74125,13 +74189,13 @@ _Cite_:
   - Code du travail - art. R124-4 (M)
 
 
-## Livre III : Placement et emploi<a id=821></a>
+## Livre III : Placement et emploi<a id=822></a>
 
-### Titre Ier : Placement<a id=822></a>
+### Titre Ier : Placement<a id=823></a>
 
-#### Chapitre II : Placement privé<a id=823></a>
+#### Chapitre II : Placement privé<a id=824></a>
 
-##### Section 1 : Placement gratuit.<a id=824></a>
+##### Section 1 : Placement gratuit.<a id=825></a>
 
 ###### Article R312-1
 
@@ -74478,7 +74542,7 @@ _Abrogé par_:
   - Décret n°87-442 du 24 juin 1987 - art. 2 () JORF 25 juin 1987
 
 
-##### Section 2 : Placement payant.<a id=825></a>
+##### Section 2 : Placement payant.<a id=826></a>
 
 ###### Article R312-12
 
@@ -74511,13 +74575,13 @@ _Anciens textes_:
   - Code du travail 88, 89 al. 1
 
 
-### Titre II : Emploi<a id=826></a>
+### Titre II : Emploi<a id=827></a>
 
-#### Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=827></a>
+#### Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=828></a>
 
-##### Section 2 : Travailleurs handicapés<a id=828></a>
+##### Section 2 : Travailleurs handicapés<a id=829></a>
 
-##### Sous-section 2 : Préorientation des travailleurs handicapés.<a id=829></a>
+##### Sous-section 2 : Préorientation des travailleurs handicapés.<a id=830></a>
 
 ###### Article R323-33-6
 
@@ -74679,7 +74743,7 @@ _Cite_:
   - Code du travail L323-11 I AL. 4
 
 
-##### Sous-section 4 : Education, rééducation professionnelle et réentraînement au travail.<a id=830></a>
+##### Sous-section 4 : Education, rééducation professionnelle et réentraînement au travail.<a id=831></a>
 
 ###### Article R323-36
 
@@ -74733,7 +74797,7 @@ _Anciens textes_:
   - Décret n°1962-07-26 ART. 9
 
 
-##### SOUS-SECTION 8 : APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.<a id=831></a>
+##### SOUS-SECTION 8 : APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.<a id=832></a>
 
 ###### Article R323-118
 
@@ -74777,9 +74841,9 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 18 septembre 1984 - art. 1 (V)
 
 
-#### Chapitre IV : Cumuls d'emploi et travail clandestin<a id=832></a>
+#### Chapitre IV : Cumuls d'emploi et travail clandestin<a id=833></a>
 
-##### Section 2 : Travail clandestin.<a id=833></a>
+##### Section 2 : Travail clandestin.<a id=834></a>
 
 ###### Article R324-1
 
@@ -74809,13 +74873,13 @@ _Cité par_:
   - Code du travail - art. R362-5 (VT)
 
 
-### Titre IV : MAIN-D'OEUVRE ETRANGERE<a id=834></a>
+### Titre IV : MAIN-D'OEUVRE ETRANGERE<a id=835></a>
 
-#### Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=835></a>
+#### Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=836></a>
 
-##### SECTION 2 : OFFICE NATIONAL D'IMMIGRATION<a id=836></a>
+##### SECTION 2 : OFFICE NATIONAL D'IMMIGRATION<a id=837></a>
 
-##### PARAGRAPHE 1 : DISPOSITIONS GENERALES.<a id=837></a>
+##### PARAGRAPHE 1 : DISPOSITIONS GENERALES.<a id=838></a>
 
 ###### Article R341-10
 
@@ -74836,9 +74900,9 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-##### SECTION 2 : OFFICE NATIONAL D'IMMIGRATION *ONI*<a id=838></a>
+##### SECTION 2 : OFFICE NATIONAL D'IMMIGRATION *ONI*<a id=839></a>
 
-##### PARAGRAPHE 2 : ADMINISTRATION ET DIRECTION.<a id=839></a>
+##### PARAGRAPHE 2 : ADMINISTRATION ET DIRECTION.<a id=840></a>
 
 ###### Article R341-11-1
 
@@ -74956,7 +75020,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-##### PARAGRAPHE 3 : ATTRIBUTIONS DU CONSEIL D'ADMINISTRATION ET DU DIRECTEUR.<a id=840></a>
+##### PARAGRAPHE 3 : ATTRIBUTIONS DU CONSEIL D'ADMINISTRATION ET DU DIRECTEUR.<a id=841></a>
 
 ###### Article R341-16
 
@@ -75054,7 +75118,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-##### PARAGRAPHE 2 : ATTRIBUTIONS DU CONSEIL D'ADMINISTRATION ET DU DIRECTEUR.<a id=841></a>
+##### PARAGRAPHE 2 : ATTRIBUTIONS DU CONSEIL D'ADMINISTRATION ET DU DIRECTEUR.<a id=842></a>
 
 ###### Article R341-17
 
@@ -75077,7 +75141,7 @@ _Anciens textes_:
   - Décret  1948-09-20
 
 
-##### PARAGRAPHE 4 : SERVICES ADMINISTRATIFS.<a id=842></a>
+##### PARAGRAPHE 4 : SERVICES ADMINISTRATIFS.<a id=843></a>
 
 ###### Article R341-21
 
@@ -75151,7 +75215,7 @@ _Cité par_:
   - Code du travail - art. R341-14 (VT)
 
 
-##### PARAGRAPHE 5 : SERVICES ADMINISTRATIFS.<a id=843></a>
+##### PARAGRAPHE 5 : SERVICES ADMINISTRATIFS.<a id=844></a>
 
 ###### Article R341-24
 
@@ -75177,7 +75241,7 @@ _Cité par_:
   - Décret n°2004-58 du 14 janvier 2004 - art. 8 (VD)
 
 
-##### PARAGRAPHE 5 : DISPOSITIONS FINANCIERES ET COMPTABLES.<a id=844></a>
+##### PARAGRAPHE 5 : DISPOSITIONS FINANCIERES ET COMPTABLES.<a id=845></a>
 
 ###### Article R341-25
 
@@ -75469,11 +75533,11 @@ _Anciens textes_:
   - Code du travail - art. R341-40 (T)
 
 
-### Titre IV : Main d'oeuvre étrangère et protection de la main-d'oeuvre nationale<a id=845></a>
+### Titre IV : Main d'oeuvre étrangère et protection de la main-d'oeuvre nationale<a id=846></a>
 
-#### Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère<a id=846></a>
+#### Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère<a id=847></a>
 
-##### Section 1 : Travailleurs étrangers.<a id=847></a>
+##### Section 1 : Travailleurs étrangers.<a id=848></a>
 
 ###### Article R341-7-1
 
@@ -75510,7 +75574,7 @@ _Cité par_:
   - Code du travail - art. R341-8 (VT)
 
 
-#### Chapitre II : Protection de la main-d'oeuvre nationale.<a id=848></a>
+#### Chapitre II : Protection de la main-d'oeuvre nationale.<a id=849></a>
 
 ###### Article R342-1
 
@@ -75539,13 +75603,13 @@ _Anciens textes_:
   - Loi n°1940-08-27
 
 
-### Titre V : Travailleurs privés d'emploi<a id=849></a>
+### Titre V : Travailleurs privés d'emploi<a id=850></a>
 
-#### Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi<a id=850></a>
+#### Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi<a id=851></a>
 
-##### Section 1 : Privation totale d'emploi<a id=851></a>
+##### Section 1 : Privation totale d'emploi<a id=852></a>
 
-##### SOUS-SECTION 2 : CONTROLE.<a id=852></a>
+##### SOUS-SECTION 2 : CONTROLE.<a id=853></a>
 
 ###### Article R351-7
 
@@ -75572,11 +75636,11 @@ _Cité par_:
   - Code du travail - art. R351-6 (M)
 
 
-#### Chapitre II : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI<a id=853></a>
+#### Chapitre II : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI<a id=854></a>
 
-##### SECTION 1 : PRIVATION TOTALE D'EMPLOI<a id=854></a>
+##### SECTION 1 : PRIVATION TOTALE D'EMPLOI<a id=855></a>
 
-##### SOUS-SECTION 2 : CONTROLE.<a id=855></a>
+##### SOUS-SECTION 2 : CONTROLE.<a id=856></a>
 
 ###### Article R351-9
 
@@ -75639,7 +75703,7 @@ _Cité par_:
   - Code du travail - art. R351-8 (VT)
 
 
-##### SOUS-SECTION 3 : OBLIGATIONS DES EMPLOYEURS.<a id=856></a>
+##### SOUS-SECTION 3 : OBLIGATIONS DES EMPLOYEURS.<a id=857></a>
 
 ###### Article R351-11
 
@@ -75740,7 +75804,7 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail R365-1 : SANCTIONS PENALES
 
 
-##### SOUS-SECTION 4 : DISPOSITIONS DIVERSES.<a id=857></a>
+##### SOUS-SECTION 4 : DISPOSITIONS DIVERSES.<a id=858></a>
 
 ###### Article R351-15
 
@@ -75874,11 +75938,11 @@ _Cité par_:
   - Code du travail - art. R351-24 (P)
 
 
-### Titre VI : Pénalités<a id=858></a>
+### Titre VI : Pénalités<a id=859></a>
 
-#### Chapitre Ier : Placement<a id=859></a>
+#### Chapitre Ier : Placement<a id=860></a>
 
-##### Section 1 : Service public du placement.<a id=860></a>
+##### Section 1 : Service public du placement.<a id=861></a>
 
 ###### Article R361-1
 
@@ -75914,7 +75978,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 25
 
 
-##### Section 2 : Placement privé<a id=861></a>
+##### Section 2 : Placement privé<a id=862></a>
 
 ###### Article R361-2
 
@@ -75973,9 +76037,9 @@ _Cité par_:
   - Code du travail maritime - art. 6 (M)
 
 
-#### Chapitre II : Emploi<a id=862></a>
+#### Chapitre II : Emploi<a id=863></a>
 
-##### Section 2 : Dispositions régissant l'emploi de certaines catégories de travailleurs : les travailleurs handicapés<a id=863></a>
+##### Section 2 : Dispositions régissant l'emploi de certaines catégories de travailleurs : les travailleurs handicapés<a id=864></a>
 
 ###### Article R362-2
 
@@ -76006,7 +76070,7 @@ _Cite_:
   - Code du travail - art. L323-17 (M)
 
 
-##### Section 3 : Cumuls d'emploi et travail clandestin.<a id=864></a>
+##### Section 3 : Cumuls d'emploi et travail clandestin.<a id=865></a>
 
 ###### Article R362-3
 
@@ -76102,9 +76166,9 @@ _Cite_:
   - Code du travail - art. R324-1 (M)
 
 
-#### Chapitre IV : MAIN D'OEUVRE ETRANGERE<a id=865></a>
+#### Chapitre IV : MAIN D'OEUVRE ETRANGERE<a id=866></a>
 
-##### PARAGRAPHE 1 : DISPOSITIONS SPECIALES A LA MAIN D'OEUVRE ETRANGERE<a id=866></a>
+##### PARAGRAPHE 1 : DISPOSITIONS SPECIALES A LA MAIN D'OEUVRE ETRANGERE<a id=867></a>
 
 ###### Article R364-1
 
@@ -76144,9 +76208,9 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 ART. 19
 
 
-#### Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale<a id=867></a>
+#### Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale<a id=868></a>
 
-##### Paragraphe 2 : Protection de la main-d'oeuvre nationale<a id=868></a>
+##### Paragraphe 2 : Protection de la main-d'oeuvre nationale<a id=869></a>
 
 ###### Article R364-2
 
@@ -76181,7 +76245,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 23
 
 
-#### Chapitre V : Travailleurs privés d'emploi.<a id=869></a>
+#### Chapitre V : Travailleurs privés d'emploi.<a id=870></a>
 
 ###### Article R365-1
 
@@ -76225,9 +76289,9 @@ _Cité par_:
   - Code du travail - art. R833-7 (VT)
 
 
-## REGLEMENTATION DU TRAVAIL<a id=870></a>
+## REGLEMENTATION DU TRAVAIL<a id=871></a>
 
-### AGENCE NATIONALE POUR L'AMELIORATION DES CONDITIONS DE TRAVAIL .<a id=871></a>
+### AGENCE NATIONALE POUR L'AMELIORATION DES CONDITIONS DE TRAVAIL .<a id=872></a>
 
 ###### Article R200-6
 
@@ -76753,11 +76817,11 @@ _Cite_:
   - Décret n°1935-10-25
 
 
-### CONDITIONS DU TRAVAIL<a id=872></a>
+### CONDITIONS DU TRAVAIL<a id=873></a>
 
-#### DUREE DU TRAVAIL<a id=873></a>
+#### DUREE DU TRAVAIL<a id=874></a>
 
-##### DISPOSITIONS RELATIVES AUX FEMMES .<a id=874></a>
+##### DISPOSITIONS RELATIVES AUX FEMMES .<a id=875></a>
 
 ###### Article R212-13
 
@@ -76791,11 +76855,11 @@ _Nouveaux textes_:
   - Code du travail - art. R212-14 (M)
 
 
-### HYGIENE ET SECURITE<a id=875></a>
+### HYGIENE ET SECURITE<a id=876></a>
 
-#### ORGANES CONSULTATIFS CENTRAUX<a id=876></a>
+#### ORGANES CONSULTATIFS CENTRAUX<a id=877></a>
 
-##### CONSEIL SUPERIEUR DE LA PREVENTION DES RISQUES PROFESSIONNELS .<a id=877></a>
+##### CONSEIL SUPERIEUR DE LA PREVENTION DES RISQUES PROFESSIONNELS .<a id=878></a>
 
 ###### Article R231-14
 
@@ -77108,9 +77172,9 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-#### SECURITE<a id=878></a>
+#### SECURITE<a id=879></a>
 
-##### MESURES D'APPLICATION .<a id=879></a>
+##### MESURES D'APPLICATION .<a id=880></a>
 
 ###### Article R233-46
 
@@ -77190,9 +77254,9 @@ _Cité par_:
   - Code du travail - art. R233-47 (VT)
 
 
-##### SECTION VII : MATERIELS AUXQUELS S'APPLIQUENT LES DISPOSITIONS DU PREMIER ALINEA DE L'ARTICLE L. 233-5<a id=880></a>
+##### SECTION VII : MATERIELS AUXQUELS S'APPLIQUENT LES DISPOSITIONS DU PREMIER ALINEA DE L'ARTICLE L. 233-5<a id=881></a>
 
-##### SOUS-SECTION I - MACHINES ET APPAREILS.<a id=881></a>
+##### SOUS-SECTION I - MACHINES ET APPAREILS.<a id=882></a>
 
 ###### Article R233-83
 
@@ -77402,7 +77466,7 @@ _Cite_:
   - Code du travail L233-5 AL. 1
 
 
-##### SECTION VIII : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.<a id=882></a>
+##### SECTION VIII : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.<a id=883></a>
 
 ###### Article R233-89
 
@@ -77566,11 +77630,11 @@ _Cité par_:
   - Code du travail - art. R233-149 (VT)
 
 
-### HYGIENE<a id=883></a>
+### HYGIENE<a id=884></a>
 
-#### LOCAUX AFFECTES AU TRAVAIL<a id=884></a>
+#### LOCAUX AFFECTES AU TRAVAIL<a id=885></a>
 
-##### ECLAIRAGE.<a id=885></a>
+##### ECLAIRAGE.<a id=886></a>
 
 ###### Article R232-6
 
@@ -77607,7 +77671,7 @@ _Nouveaux textes_:
   - Code du travail - art. R232-7 (M)
 
 
-#### MESURES D'APPLICATION.<a id=886></a>
+#### MESURES D'APPLICATION.<a id=887></a>
 
 ###### Article R232-43
 
@@ -77647,7 +77711,7 @@ _Anciens textes_:
   - Décret  1969-09-02
 
 
-### MEDECINE DU TRAVAIL<a id=887></a>
+### MEDECINE DU TRAVAIL<a id=888></a>
 
 ###### Article R241-1
 
@@ -77732,7 +77796,7 @@ _Anciens textes_:
   - Loi n°1946-10-11 ART. 2 AL. 3, ART. 3 AL. 1 ET 2
 
 
-### SERVICE SOCIAL DU TRAVAIL .<a id=888></a>
+### SERVICE SOCIAL DU TRAVAIL .<a id=889></a>
 
 ###### Article R250-10
 
@@ -77772,11 +77836,11 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-## Livre III : PLACEMENT<a id=889></a>
+## Livre III : PLACEMENT<a id=890></a>
 
-### Titre Ier : PLACEMENT<a id=890></a>
+### Titre Ier : PLACEMENT<a id=891></a>
 
-#### Chapitre Ier : SERVICE PUBLIC DE L'EMPLOI.<a id=891></a>
+#### Chapitre Ier : SERVICE PUBLIC DE L'EMPLOI.<a id=892></a>
 
 ###### Article R311-1
 
@@ -77862,9 +77926,9 @@ _Cite_:
   - Code du travail - art. L311-3 (Ab)
 
 
-#### Chapitre II : PLACEMENT PRIVE<a id=892></a>
+#### Chapitre II : PLACEMENT PRIVE<a id=893></a>
 
-##### SECTION 3 : DISPOSITIONS COMMUNES.<a id=893></a>
+##### SECTION 3 : DISPOSITIONS COMMUNES.<a id=894></a>
 
 ###### Article R312-13
 
@@ -77887,11 +77951,11 @@ _Anciens textes_:
   - Code du travail 81 a
 
 
-## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=894></a>
+## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=895></a>
 
-### Titre Ier : Les syndicats professionnels<a id=895></a>
+### Titre Ier : Les syndicats professionnels<a id=896></a>
 
-#### Chapitre Ier : Statut juridique des syndicats.<a id=896></a>
+#### Chapitre Ier : Statut juridique des syndicats.<a id=897></a>
 
 ###### Article R411-1
 
@@ -77923,9 +77987,9 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code du travail - art. R461-1 (V)
 
 
-### Titre III : Les comités d'entreprise<a id=897></a>
+### Titre III : Les comités d'entreprise<a id=898></a>
 
-#### Chapitre IV : Fonctionnement.<a id=898></a>
+#### Chapitre IV : Fonctionnement.<a id=899></a>
 
 ###### Article R434-1
 
@@ -77951,7 +78015,7 @@ _Cité par_:
   - Code du travail - art. R432-10 (VT)
 
 
-#### Chapitre VII : Amélioration des conditions de travail.<a id=899></a>
+#### Chapitre VII : Amélioration des conditions de travail.<a id=900></a>
 
 ###### Article R437-1
 
@@ -77983,7 +78047,7 @@ _Cite_:
   - Code du travail - art. R231-6 (M)
 
 
-#### Chapitre VIII : Bilan social.<a id=900></a>
+#### Chapitre VIII : Bilan social.<a id=901></a>
 
 ###### Article R438-1
 
@@ -78014,11 +78078,11 @@ _Nouveaux textes_:
   - Code du travail - art. R2323-17 (M)
 
 
-### Titre IV : Intéressement et participation<a id=901></a>
+### Titre IV : Intéressement et participation<a id=902></a>
 
-#### Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise<a id=902></a>
+#### Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise<a id=903></a>
 
-##### Section 1 : Contrat d'intéressement ou d'association.<a id=903></a>
+##### Section 1 : Contrat d'intéressement ou d'association.<a id=904></a>
 
 ###### Article R441-1
 
@@ -78382,7 +78446,7 @@ _Cite_:
   - Code du travail R441-1 A R441-9
 
 
-##### Section 2 : Contrat d'intéressement à la productivité.<a id=904></a>
+##### Section 2 : Contrat d'intéressement à la productivité.<a id=905></a>
 
 ###### Article R441-10
 
@@ -78569,11 +78633,11 @@ _Cite_:
   - Code du travail L441-1 ET S
 
 
-#### Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises<a id=905></a>
+#### Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises<a id=906></a>
 
-##### Section 1 : Réserve spéciale de participation des travailleurs<a id=906></a>
+##### Section 1 : Réserve spéciale de participation des travailleurs<a id=907></a>
 
-##### Paragraphe 1 : Entreprises tenues de constituer une réserve spéciale de participation.<a id=907></a>
+##### Paragraphe 1 : Entreprises tenues de constituer une réserve spéciale de participation.<a id=908></a>
 
 ###### Article R442-1
 
@@ -78604,7 +78668,7 @@ _Abrogé par_:
   - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
 
 
-##### Paragraphe 2 : Modalités de calcul de la réserve spéciale.<a id=908></a>
+##### Paragraphe 2 : Modalités de calcul de la réserve spéciale.<a id=909></a>
 
 ###### Article R442-3
 
@@ -78747,7 +78811,7 @@ _Anciens textes_:
   - Ordonnance 67-693 1967-04-17
 
 
-##### Paragraphe 3 : Modalités de répartition de la réserve spéciale.<a id=909></a>
+##### Paragraphe 3 : Modalités de répartition de la réserve spéciale.<a id=910></a>
 
 ###### Article R442-6
 
@@ -78797,7 +78861,7 @@ _Anciens textes_:
   - Ordonnance 67-693 1967-04-17
 
 
-##### Paragraphe 4 : Modalités de gestion de la réserve spéciale.<a id=910></a>
+##### Paragraphe 4 : Modalités de gestion de la réserve spéciale.<a id=911></a>
 
 ###### Article R442-7
 
@@ -79084,7 +79148,7 @@ _Cite_:
   - Code du travail - art. L442-5 (M)
 
 
-##### Section 2 : Accords passés entre les entreprises et leur personnel.<a id=911></a>
+##### Section 2 : Accords passés entre les entreprises et leur personnel.<a id=912></a>
 
 ###### Article R442-16
 
@@ -79351,7 +79415,7 @@ _Abrogé par_:
   - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
 
 
-##### Section 3 : Information des salariés.<a id=912></a>
+##### Section 3 : Information des salariés.<a id=913></a>
 
 ###### Article R442-23
 
@@ -79507,7 +79571,7 @@ _Cite_:
   - Code du travail - art. R442-15 (M)
 
 
-##### Section 4 : Dispositions diverses.<a id=913></a>
+##### Section 4 : Dispositions diverses.<a id=914></a>
 
 ###### Article R442-27
 
@@ -79753,7 +79817,7 @@ _Abrogé par_:
   - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
 
 
-##### Section 5 : Dispositions particulières aux sociétés coopératives ouvrières de production.<a id=914></a>
+##### Section 5 : Dispositions particulières aux sociétés coopératives ouvrières de production.<a id=915></a>
 
 ###### Article R442-33
 
@@ -79980,7 +80044,7 @@ _Cite_:
   - Code du travail - art. L442-6 (M)
 
 
-##### Section 6 : Dispositions particulières aux entreprises publiques et aux sociétés nationales.<a id=915></a>
+##### Section 6 : Dispositions particulières aux entreprises publiques et aux sociétés nationales.<a id=916></a>
 
 ###### Article R442-39
 
@@ -80152,7 +80216,7 @@ _Cite_:
   - Code du travail L442-5 PAR. 1
 
 
-#### Chapitre III : Plan d'épargne d'entreprise.<a id=916></a>
+#### Chapitre III : Plan d'épargne d'entreprise.<a id=917></a>
 
 ###### Article R443-1
 
@@ -80191,7 +80255,7 @@ _Cite_:
   - Code du travail R443-1 A R443-15
 
 
-##### Section 1 : Dispositions générales.<a id=917></a>
+##### Section 1 : Dispositions générales.<a id=918></a>
 
 ###### Article R443-2
 
@@ -80396,7 +80460,7 @@ _Cite_:
   - Code de la sécurité sociale 310
 
 
-##### Section 2 : Composition et gestion du portefeuille.<a id=918></a>
+##### Section 2 : Composition et gestion du portefeuille.<a id=919></a>
 
 ###### Article R443-9
 
@@ -80526,9 +80590,9 @@ _Abrogé par_:
   - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
 
 
-### Titre V : Education ouvrière et formation syndicale<a id=919></a>
+### Titre V : Education ouvrière et formation syndicale<a id=920></a>
 
-#### Chapitre Ier : Congés d'éducation ouvrière.<a id=920></a>
+#### Chapitre Ier : Congés d'éducation ouvrière.<a id=921></a>
 
 ###### Article R451-1
 
@@ -80614,9 +80678,9 @@ _Nouveaux textes_:
   - Code du travail - art. R3142-5 (VT)
 
 
-### Titre VI : Pénalités<a id=921></a>
+### Titre VI : Pénalités<a id=922></a>
 
-#### Chapitre Ier : Les syndicats professionnels.<a id=922></a>
+#### Chapitre Ier : Les syndicats professionnels.<a id=923></a>
 
 ###### Article R461-1
 
@@ -80652,7 +80716,7 @@ _Cite_:
   - Code du travail L411-2 à L411-7, R411-1
 
 
-#### Chapitre V : Education ouvrière et formation syndicale.<a id=923></a>
+#### Chapitre V : Education ouvrière et formation syndicale.<a id=924></a>
 
 ###### Article R465-1
 
@@ -80680,13 +80744,13 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 32
 
 
-## Livre III : EMPLOI<a id=924></a>
+## Livre III : EMPLOI<a id=925></a>
 
-### Titre II : EMPLOI<a id=925></a>
+### Titre II : EMPLOI<a id=926></a>
 
-#### Chapitre Ier : CONTROLE DE L'EMPLOI<a id=926></a>
+#### Chapitre Ier : CONTROLE DE L'EMPLOI<a id=927></a>
 
-##### SECTION 1 : DISPOSITIONS GENERALES.<a id=927></a>
+##### SECTION 1 : DISPOSITIONS GENERALES.<a id=928></a>
 
 ###### Article R321-1
 
@@ -81011,7 +81075,7 @@ _Anciens textes_:
   - Code du travail - art. R321-9 (M)
 
 
-##### SECTION 2 : DISPOSITIONS SPECIALES.<a id=928></a>
+##### SECTION 2 : DISPOSITIONS SPECIALES.<a id=929></a>
 
 ###### Article R321-8
 
@@ -81142,11 +81206,11 @@ _Anciens textes_:
   - Code du travail R321-9 (1973)
 
 
-#### Chapitre II : FONDS NATIONAL DE L'EMPLOI<a id=929></a>
+#### Chapitre II : FONDS NATIONAL DE L'EMPLOI<a id=930></a>
 
-##### SECTION 1 : CONVENTIONS DE COOPERATION<a id=930></a>
+##### SECTION 1 : CONVENTIONS DE COOPERATION<a id=931></a>
 
-##### A : CONVENTIONS DE FORMATION.<a id=931></a>
+##### A : CONVENTIONS DE FORMATION.<a id=932></a>
 
 ###### Article R322-2
 
@@ -81179,11 +81243,11 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-#### Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=932></a>
+#### Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=933></a>
 
-##### SECTION 1 : MUTILES DE GUERRE<a id=933></a>
+##### SECTION 1 : MUTILES DE GUERRE<a id=934></a>
 
-##### SOUS-SECTION 1 : OBLIGATIONS DES EMPLOYEURS.<a id=934></a>
+##### SOUS-SECTION 1 : OBLIGATIONS DES EMPLOYEURS.<a id=935></a>
 
 ###### Article R323-1
 
@@ -81465,7 +81529,7 @@ _Anciens textes_:
   - Décret  1956-01-13 ART. 7
 
 
-##### SOUS-SECTION 1 : OBLIGATIONS DE EMPLOYEURS.<a id=935></a>
+##### SOUS-SECTION 1 : OBLIGATIONS DE EMPLOYEURS.<a id=936></a>
 
 ###### Article R323-13
 
@@ -81505,7 +81569,7 @@ _Cité par_:
   - Code du travail - art. R323-17 (P)
 
 
-##### SOUS-SECTION 2 : REGIME DE REDEVANCES.<a id=936></a>
+##### SOUS-SECTION 2 : REGIME DE REDEVANCES.<a id=937></a>
 
 ###### Article R323-15
 
@@ -81775,7 +81839,7 @@ _Codifié par_:
   - PEREMPTION: Décret n°88-76 1988-01-22 art. 1 JORF 23 janvier 1988
 
 
-##### SOUS-SECTION 3 : MUTILES DE GUERRE.<a id=937></a>
+##### SOUS-SECTION 3 : MUTILES DE GUERRE.<a id=938></a>
 
 ###### Article R323-22
 
@@ -81810,7 +81874,7 @@ _Anciens textes_:
   - Décret  1959-08-03 ART. 9
 
 
-##### SOUS-SECTION 4 : MUTILES DE GUERRE.<a id=938></a>
+##### SOUS-SECTION 4 : MUTILES DE GUERRE.<a id=939></a>
 
 ###### Article R323-23
 
@@ -81838,9 +81902,9 @@ _Anciens textes_:
   - Loi   1924-04-26 ART. 16 (PARTIE)
 
 
-##### SECTION 2 : TRAVAILLEURS HANDICAPES<a id=939></a>
+##### SECTION 2 : TRAVAILLEURS HANDICAPES<a id=940></a>
 
-##### SOUS-SECTION 1 : DISPOSITIONS GENERALES.<a id=940></a>
+##### SOUS-SECTION 1 : DISPOSITIONS GENERALES.<a id=941></a>
 
 ###### Article R323-32
 
@@ -81884,11 +81948,11 @@ _Cite_:
   - Code du travail - art. L323-23 (Ab)
 
 
-#### Chapitre Ier : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=941></a>
+#### Chapitre Ier : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=942></a>
 
-##### SECTION 1 : MUTILES DE GUERRE<a id=942></a>
+##### SECTION 1 : MUTILES DE GUERRE<a id=943></a>
 
-##### SOUS-SECTION 1 : OBLIGATIONS DES EMPLOYEURS.<a id=943></a>
+##### SOUS-SECTION 1 : OBLIGATIONS DES EMPLOYEURS.<a id=944></a>
 
 ###### Article R323-4
 
@@ -81944,13 +82008,13 @@ _Cite_:
   - Code du travail - art. R323-6 (M)
 
 
-### Titre IV : MAIN-D'OEUVRE ETRANGERE<a id=944></a>
+### Titre IV : MAIN-D'OEUVRE ETRANGERE<a id=945></a>
 
-#### Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=945></a>
+#### Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=946></a>
 
-##### SECTION 2 : OFFICE NATIONAL D'IMMIGRATION<a id=946></a>
+##### SECTION 2 : OFFICE NATIONAL D'IMMIGRATION<a id=947></a>
 
-##### PARAGRAPHE 1 : DISPOSITIONS GENERALES.<a id=947></a>
+##### PARAGRAPHE 1 : DISPOSITIONS GENERALES.<a id=948></a>
 
 ###### Article R341-9
 
@@ -81975,11 +82039,11 @@ _Cité par_:
   - Code du travail - art. R341-18 (VT)
 
 
-### Titre VI : PENALITES<a id=948></a>
+### Titre VI : PENALITES<a id=949></a>
 
-#### Chapitre II : EMPLOI<a id=949></a>
+#### Chapitre II : EMPLOI<a id=950></a>
 
-##### SECTION 1 : CONTROLE DE L'EMPLOI<a id=950></a>
+##### SECTION 1 : CONTROLE DE L'EMPLOI<a id=951></a>
 
 ###### Article R362-1
 
@@ -82011,9 +82075,9 @@ _Nouveaux textes_:
   - Code du travail - art. R362-1-1 (V)
 
 
-## EMPLOI<a id=951></a>
+## EMPLOI<a id=952></a>
 
-### CONTROLE DE L'EMPLOI .<a id=952></a>
+### CONTROLE DE L'EMPLOI .<a id=953></a>
 
 ###### Article R321-10
 
@@ -82044,7 +82108,7 @@ _Cite_:
   - Code du travail L321-7 AL. 2
 
 
-### FONDS NATIONAL DE L'EMPLOI .<a id=953></a>
+### FONDS NATIONAL DE L'EMPLOI .<a id=954></a>
 
 ###### Article R322-1
 
@@ -82473,9 +82537,9 @@ _Cite_:
   - Code du travail - art. R322-25 (Ab)
 
 
-#### CONVENTIONS DE COOPERATION<a id=954></a>
+#### CONVENTIONS DE COOPERATION<a id=955></a>
 
-##### CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS  D'ALLOCATIONS SPECIALES .<a id=955></a>
+##### CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS  D'ALLOCATIONS SPECIALES .<a id=956></a>
 
 ###### Article R322-7
 
@@ -82665,7 +82729,7 @@ _Cite_:
   - Code du travail - art. R322-1 (M)
 
 
-#### AIDES A LA MOBILITE GEOGRAPHIQUE<a id=956></a>
+#### AIDES A LA MOBILITE GEOGRAPHIQUE<a id=957></a>
 
 ###### Article R322-19
 
@@ -82735,7 +82799,7 @@ _Cite_:
   - Code du travail R322-14 A R322-18
 
 
-##### PRIME DE TRANSFERT ET INDEMNITE DE REINSTALLATION .<a id=957></a>
+##### PRIME DE TRANSFERT ET INDEMNITE DE REINSTALLATION .<a id=958></a>
 
 ###### Article R322-11
 
@@ -82924,7 +82988,7 @@ _Cite_:
   - Code du travail - art. L322-3 (Ab)
 
 
-##### AUTRES AIDES A LA MOBILITE .<a id=958></a>
+##### AUTRES AIDES A LA MOBILITE .<a id=959></a>
 
 ###### Article R322-15
 
@@ -83051,7 +83115,7 @@ _Cité par_:
   - Code du travail - art. R322-18-2 (VT)
 
 
-### PRIME DE MOBILITE DES JEUNES .<a id=959></a>
+### PRIME DE MOBILITE DES JEUNES .<a id=960></a>
 
 ###### Article R322-27
 
@@ -83204,11 +83268,11 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS<a id=960></a>
+### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS<a id=961></a>
 
-#### MUTILES DE GUERRE<a id=961></a>
+#### MUTILES DE GUERRE<a id=962></a>
 
-##### OBLIGATIONS DES EMPLOYEURS .<a id=962></a>
+##### OBLIGATIONS DES EMPLOYEURS .<a id=963></a>
 
 ###### Article R323-6
 
@@ -83245,7 +83309,7 @@ _Cité par_:
   - Code du travail - art. R323-7 (M)
 
 
-#### TRAVAILLEURS HANDICAPES .<a id=963></a>
+#### TRAVAILLEURS HANDICAPES .<a id=964></a>
 
 ###### Article R323-33-12
 
@@ -83344,7 +83408,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-##### CENTRES DE PREORIENTATION ET EQUIPES DE PREPARATION ET DE SUITE DU RECLASSEMENT.<a id=964></a>
+##### CENTRES DE PREORIENTATION ET EQUIPES DE PREPARATION ET DE SUITE DU RECLASSEMENT.<a id=965></a>
 
 ###### Article R323-33-1
 
@@ -83436,7 +83500,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-##### READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET  REENTRAINEMENT AU TRAVAIL .<a id=965></a>
+##### READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET  REENTRAINEMENT AU TRAVAIL .<a id=966></a>
 
 ###### Article R323-34
 
@@ -83647,7 +83711,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-##### PRIORITE D'EMPLOI ET DE PLACEMENT DES TRAVAILLEURS HANDICAPES .<a id=966></a>
+##### PRIORITE D'EMPLOI ET DE PLACEMENT DES TRAVAILLEURS HANDICAPES .<a id=967></a>
 
 ###### Article R323-42
 
@@ -84294,9 +84358,9 @@ _Cité par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances, sous réserve que les mots :"par arrêté conjoint des ministres chargés du travail de l'industrie, de la santé et de l'agriculture" s
 
 
-##### TRAVAIL PROTEGE<a id=967></a>
+##### TRAVAIL PROTEGE<a id=968></a>
 
-##### EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS .<a id=968></a>
+##### EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS .<a id=969></a>
 
 ###### Article R323-59
 
@@ -84330,7 +84394,7 @@ _Anciens textes_:
   - Décret n°1962-07-26 ART. 37
 
 
-##### PARAGRAPHE 1 : EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS.<a id=969></a>
+##### PARAGRAPHE 1 : EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS.<a id=970></a>
 
 ###### Article R323-59-1
 
@@ -84421,7 +84485,7 @@ _Cite_:
   - Code du travail - art. R323-59-2 (M)
 
 
-##### ETABLISSEMENTS SPECIALISES .<a id=970></a>
+##### ETABLISSEMENTS SPECIALISES .<a id=971></a>
 
 ###### Article R323-60
 
@@ -84627,7 +84691,7 @@ _Cite_:
   - Code du travail - art. R323-63-3 (M)
 
 
-##### ETABLISSEMENTS PROTEGES.<a id=971></a>
+##### ETABLISSEMENTS PROTEGES.<a id=972></a>
 
 ###### Article R323-62
 
@@ -84669,7 +84733,7 @@ _Cite_:
   - Code du travail - art. L323-31 (M)
 
 
-##### LABELS .<a id=972></a>
+##### LABELS .<a id=973></a>
 
 ###### Article R323-64
 
@@ -84942,7 +85006,7 @@ _Cité par_:
   - Code du travail - art. R323-68 (M)
 
 
-##### SUBVENTION D'INSTALLATION.<a id=973></a>
+##### SUBVENTION D'INSTALLATION.<a id=974></a>
 
 ###### Article R323-73
 
@@ -84967,7 +85031,7 @@ _Cité par_:
   - Code du travail - art. D323-17 (VT)
 
 
-##### COMMISSION DEPARTEMENTALE DES HANDICAPES .<a id=974></a>
+##### COMMISSION DEPARTEMENTALE DES HANDICAPES .<a id=975></a>
 
 ###### Article R323-74
 
@@ -85129,7 +85193,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-##### DISPOSITIONS D'EXECUTION .<a id=975></a>
+##### DISPOSITIONS D'EXECUTION .<a id=976></a>
 
 ###### Article R323-80
 
@@ -85606,7 +85670,7 @@ _Modifié par_:
   - Décret n°80-879 1980-11-05 ART. 4 JORF 9 novembre
 
 
-##### DISPOSITIONS APPLICABLES AUX ADMINISTRATIONS ET ENTREPRISES  PREVUES A L'ARTICLE L323-12 PARAGRAPHE 4 .<a id=976></a>
+##### DISPOSITIONS APPLICABLES AUX ADMINISTRATIONS ET ENTREPRISES  PREVUES A L'ARTICLE L323-12 PARAGRAPHE 4 .<a id=977></a>
 
 ###### Article R323-93
 
@@ -85845,7 +85909,7 @@ _Anciens textes_:
   - Décret n°65-1112 1965-12-16 ART. 23
 
 
-##### ACCESSION AUX EMPLOIS RESERVES .<a id=977></a>
+##### ACCESSION AUX EMPLOIS RESERVES .<a id=978></a>
 
 ###### Article R323-98
 
@@ -86223,7 +86287,7 @@ _Anciens textes_:
   - Décret n°65-1112 1965-12-16 ART. 16
 
 
-##### ACCESSION AUX EMPLOIS PUBLICS PAR CONCOURS .<a id=978></a>
+##### ACCESSION AUX EMPLOIS PUBLICS PAR CONCOURS .<a id=979></a>
 
 ###### Article R323-111
 
@@ -86308,7 +86372,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-##### APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.<a id=979></a>
+##### APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.<a id=980></a>
 
 ###### Article R323-116
 
@@ -86331,7 +86395,7 @@ _Cite_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-##### APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.<a id=980></a>
+##### APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.<a id=981></a>
 
 ###### Article R323-117
 
@@ -86398,9 +86462,9 @@ _Cite_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-## PLACEMENT ET EMPLOI<a id=981></a>
+## PLACEMENT ET EMPLOI<a id=982></a>
 
-### AGENCE NATIONALE POUR L'EMPLOI.<a id=982></a>
+### AGENCE NATIONALE POUR L'EMPLOI.<a id=983></a>
 
 ###### Article R330-1
 
@@ -86461,9 +86525,9 @@ _Cite_:
   - Décret  1962-12-29 ART. 151 A 189
 
 
-### MAIN-DOEUVRE ETRANGERES<a id=983></a>
+### MAIN-DOEUVRE ETRANGERES<a id=984></a>
 
-#### TRAVAILLEURS ETRANGERS .<a id=984></a>
+#### TRAVAILLEURS ETRANGERS .<a id=985></a>
 
 ###### Article R341-1
 
@@ -86505,9 +86569,9 @@ _Cité par_:
   - Code du travail - art. R831-1 (Ab)
 
 
-### MAIN-DOEUVRE ETRANGERE<a id=985></a>
+### MAIN-DOEUVRE ETRANGERE<a id=986></a>
 
-#### TRAVAILLEURS ETRANGERS .<a id=986></a>
+#### TRAVAILLEURS ETRANGERS .<a id=987></a>
 
 ###### Article R341-2
 
@@ -86953,9 +87017,9 @@ _Anciens textes_:
   - Décret-loi 1938-05-02
 
 
-#### OFFICE NATIONAL D'IMMIGRATION *ONI* .<a id=987></a>
+#### OFFICE NATIONAL D'IMMIGRATION *ONI* .<a id=988></a>
 
-##### ADMINISTRATION ET DIRECTION .<a id=988></a>
+##### ADMINISTRATION ET DIRECTION .<a id=989></a>
 
 ###### Article R341-11
 
@@ -86981,7 +87045,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-##### DISPOSITIONS FINANCIERES ET COMPTABLES .<a id=989></a>
+##### DISPOSITIONS FINANCIERES ET COMPTABLES .<a id=990></a>
 
 ###### Article R341-35
 
@@ -87017,13 +87081,13 @@ _Anciens textes_:
   - Code du travail - art. R341-41 (T)
 
 
-### TRAVAILLEURS PRIVES D'EMPLOI<a id=990></a>
+### TRAVAILLEURS PRIVES D'EMPLOI<a id=991></a>
 
-#### GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI<a id=991></a>
+#### GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI<a id=992></a>
 
-##### PRIVATION TOTALE D'EMPLOI<a id=992></a>
+##### PRIVATION TOTALE D'EMPLOI<a id=993></a>
 
-##### CONDITIONS D'OUVERTURE DU DROIT AUX PRESTATIONS.<a id=993></a>
+##### CONDITIONS D'OUVERTURE DU DROIT AUX PRESTATIONS.<a id=994></a>
 
 ###### Article R351-1
 
@@ -87169,7 +87233,7 @@ _Cite_:
   - Code du travail L351-1, L900-2 AL. 1, 3, 4, 5, 6
 
 
-##### CONTROLE.<a id=994></a>
+##### CONTROLE.<a id=995></a>
 
 ###### Article R351-5
 
@@ -87260,7 +87324,7 @@ _Cite_:
   - Code du travail - art. R351-5 (M)
 
 
-##### OBLIGATIONS DES EMPLOYEURS.<a id=995></a>
+##### OBLIGATIONS DES EMPLOYEURS.<a id=996></a>
 
 ###### Article R351-14
 
@@ -87306,7 +87370,7 @@ _Cite_:
   - Code du travail R351-1 A 351-14
 
 
-##### PRIVATION PARTIELLE D'EMPLOI.<a id=996></a>
+##### PRIVATION PARTIELLE D'EMPLOI.<a id=997></a>
 
 ###### Article R351-18
 
@@ -87458,9 +87522,9 @@ _Nouveaux textes_:
   - Code du travail - art. R351-53 (P)
 
 
-#### GARANTIES DE RESSOURCES<a id=997></a>
+#### GARANTIES DE RESSOURCES<a id=998></a>
 
-##### ALLOCATION POUR PERTE D'EMPLOI .<a id=998></a>
+##### ALLOCATION POUR PERTE D'EMPLOI .<a id=999></a>
 
 ###### Article R351-38
 
@@ -88225,13 +88289,13 @@ _Cite_:
   - Code du travail - art. R351-52 (P)
 
 
-## Livre V : Conflits du travail<a id=999></a>
+## Livre V : Conflits du travail<a id=1000></a>
 
-### Titre Ier : Conflits individuels<a id=1000></a>
+### Titre Ier : Conflits individuels<a id=1001></a>
 
-#### Conseils de prud'hommes<a id=1001></a>
+#### Conseils de prud'hommes<a id=1002></a>
 
-##### Chapitre XI : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=1002></a>
+##### Chapitre XI : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=1003></a>
 
 ###### Article R51-11-1
 
@@ -88274,9 +88338,9 @@ _Cite_:
   - Code du travail R512-2, R512-10, R516-1 A R516-7, R516-33 A R516-35, R516-42
 
 
-##### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes<a id=1003></a>
+##### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes<a id=1004></a>
 
-##### Section 1 : Organisation et fonctionnement de la juridiction.<a id=1004></a>
+##### Section 1 : Organisation et fonctionnement de la juridiction.<a id=1005></a>
 
 ###### Article R512-3
 
@@ -88367,7 +88431,7 @@ _Cité par_:
   - Code du travail - art. R512-9 (VT)
 
 
-##### Section 2 : Organisation et fonctionnement du secrétariat-greffe.<a id=1005></a>
+##### Section 2 : Organisation et fonctionnement du secrétariat-greffe.<a id=1006></a>
 
 ###### Article R512-35
 
@@ -88397,9 +88461,9 @@ _Créé par_:
   - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
 
 
-### Titre Ier : Conflits individuels - Conseils de prud'hommes<a id=1006></a>
+### Titre Ier : Conflits individuels - Conseils de prud'hommes<a id=1007></a>
 
-#### Chapitre Ier : Attributions et institution des conseils de prud'hommes.<a id=1007></a>
+#### Chapitre Ier : Attributions et institution des conseils de prud'hommes.<a id=1008></a>
 
 ###### Article R511-1
 
@@ -88447,9 +88511,9 @@ _Nouveaux textes_:
   - Code du travail - art. R1422-2 (V)
 
 
-#### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes<a id=1008></a>
+#### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes<a id=1009></a>
 
-##### Section 1 : Organisation et fonctionnement de la juridiction.<a id=1009></a>
+##### Section 1 : Organisation et fonctionnement de la juridiction.<a id=1010></a>
 
 ###### Article R512-1
 
@@ -88657,7 +88721,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1423-33 (M)
 
 
-##### Section 2 : Organisation et fonctionnement du secrétariat-greffe.<a id=1010></a>
+##### Section 2 : Organisation et fonctionnement du secrétariat-greffe.<a id=1011></a>
 
 ###### Article R512-18
 
@@ -88991,7 +89055,7 @@ _Cité par_:
   - Arrêté du 19 décembre 2005 - art. Annexe (V)
 
 
-#### Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.<a id=1011></a>
+#### Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.<a id=1012></a>
 
 ###### Article R515-1
 
@@ -89077,7 +89141,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1454-24 (V)
 
 
-#### Chapitre VI : Procédure devant les conseils de prud'hommes.<a id=1012></a>
+#### Chapitre VI : Procédure devant les conseils de prud'hommes.<a id=1013></a>
 
 ###### Article R516-0
 
@@ -89099,7 +89163,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1451-1 (V)
 
 
-##### Section 1 : Recevabilité des demandes.<a id=1013></a>
+##### Section 1 : Recevabilité des demandes.<a id=1014></a>
 
 ###### Article R516-1
 
@@ -89118,7 +89182,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1452-6 (VT)
 
 
-##### Section 2 : Assistance et représentation des parties.<a id=1014></a>
+##### Section 2 : Assistance et représentation des parties.<a id=1015></a>
 
 ###### Article R516-4
 
@@ -89219,7 +89283,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1453-4 (M)
 
 
-##### Section 3 : Saisine du conseil des prud'hommes.<a id=1015></a>
+##### Section 3 : Saisine du conseil des prud'hommes.<a id=1016></a>
 
 ###### Article R516-8
 
@@ -89272,7 +89336,7 @@ _Cite_:
   - Code du travail - art. R516-8
 
 
-##### Section 5 : Le conseiller rapporteur.<a id=1016></a>
+##### Section 5 : Le conseiller rapporteur.<a id=1017></a>
 
 ###### Article R516-22
 
@@ -89426,7 +89490,7 @@ _Cite_:
   - Décret n°1974-09-12 ART. 4
 
 
-##### Section 6 : Le jugement.<a id=1017></a>
+##### Section 6 : Le jugement.<a id=1018></a>
 
 ###### Article R516-28
 
@@ -89446,7 +89510,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1454-23 (V)
 
 
-##### Section 7 : Le référé prud'homal.<a id=1018></a>
+##### Section 7 : Le référé prud'homal.<a id=1019></a>
 
 ###### Article R516-30
 
@@ -89514,7 +89578,7 @@ _Cite_:
   - Code du travail - art. R517-9
 
 
-##### Section 8 : L'exécution des jugements.<a id=1019></a>
+##### Section 8 : L'exécution des jugements.<a id=1020></a>
 
 ###### Article R516-36
 
@@ -89531,7 +89595,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1454-27 (V)
 
 
-##### Section 9 : Dispositions générales et diverses.<a id=1020></a>
+##### Section 9 : Dispositions générales et diverses.<a id=1021></a>
 
 ###### Article R516-38
 
@@ -89587,9 +89651,9 @@ _Anciens textes_:
   - Code du travail - art. R516-13 (M)
 
 
-#### Chapitre VII : Compétence des conseils de prud'hommes et voies de recours contre leurs décisions<a id=1021></a>
+#### Chapitre VII : Compétence des conseils de prud'hommes et voies de recours contre leurs décisions<a id=1022></a>
 
-##### Section 1 : Compétence.<a id=1022></a>
+##### Section 1 : Compétence.<a id=1023></a>
 
 ###### Article R517-1
 
@@ -89655,7 +89719,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1423-7 (M)
 
 
-##### Section 2 : Ouverture des voies de recours.<a id=1023></a>
+##### Section 2 : Ouverture des voies de recours.<a id=1024></a>
 
 ###### Article R517-4
 
@@ -89696,7 +89760,7 @@ _Anciens textes_:
   - Code du travail - art. R517-7 (M)
 
 
-##### Section 4 : L'appel.<a id=1024></a>
+##### Section 4 : L'appel.<a id=1025></a>
 
 ###### Article R517-7
 
@@ -89779,7 +89843,7 @@ _Cité par_:
   - Code du travail - art. R851-3 (VT)
 
 
-##### Section 5 : Le pourvoi en cassation.<a id=1025></a>
+##### Section 5 : Le pourvoi en cassation.<a id=1026></a>
 
 ###### Article R517-10
 
@@ -89811,7 +89875,7 @@ _Anciens textes_:
   - Code du travail R517-13 (1973)
 
 
-#### Chapitre VIII : Récusations.<a id=1026></a>
+#### Chapitre VIII : Récusations.<a id=1027></a>
 
 ###### Article R518-1
 
@@ -89861,9 +89925,9 @@ _Cité par_:
   - Code du travail - art. R851-3 (VT)
 
 
-#### Chapitre IX : Emoluments, indemnités et droits alloués aux huissiers et témoins<a id=1027></a>
+#### Chapitre IX : Emoluments, indemnités et droits alloués aux huissiers et témoins<a id=1028></a>
 
-##### Section 1 : Huissiers de justice.<a id=1028></a>
+##### Section 1 : Huissiers de justice.<a id=1029></a>
 
 ###### Article R519-1
 
@@ -89881,7 +89945,7 @@ _Nouveaux textes_:
   - Code du travail - art. R1423-53 (V)
 
 
-##### Section 2 : Témoins.<a id=1029></a>
+##### Section 2 : Témoins.<a id=1030></a>
 
 ###### Article R519-2
 
@@ -89905,11 +89969,11 @@ _Cité par_:
   - Code du travail - art. R519-3 (Ab)
 
 
-### Titre II : Conflits collectifs<a id=1030></a>
+### Titre II : Conflits collectifs<a id=1031></a>
 
-#### Chapitre III : Conciliation<a id=1031></a>
+#### Chapitre III : Conciliation<a id=1032></a>
 
-##### Section 3 : Composition des commissions de conciliation<a id=1032></a>
+##### Section 3 : Composition des commissions de conciliation<a id=1033></a>
 
 ###### Article R523-4
 
@@ -89959,7 +90023,7 @@ _Cité par_:
   - Code du travail - art. R523-26 (T)
 
 
-##### Section 4 : Fonctionnement des commissions de conciliation.<a id=1033></a>
+##### Section 4 : Fonctionnement des commissions de conciliation.<a id=1034></a>
 
 ###### Article R523-15
 
@@ -89998,7 +90062,7 @@ _Cité par_:
   - Code du travail - art. R523-26 (T)
 
 
-##### Section 5 : Commissions de conciliation dans les professions agricoles.<a id=1034></a>
+##### Section 5 : Commissions de conciliation dans les professions agricoles.<a id=1035></a>
 
 ###### Article R523-18
 
@@ -90032,9 +90096,9 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-#### Chapitre IV : Médiation<a id=1035></a>
+#### Chapitre IV : Médiation<a id=1036></a>
 
-##### Section 1 : Procédure de médiation.<a id=1036></a>
+##### Section 1 : Procédure de médiation.<a id=1037></a>
 
 ###### Article R524-3
 
@@ -90066,11 +90130,11 @@ _Cite_:
   - Code du travail - art. R524-1 (M)
 
 
-### Titre III : Pénalités<a id=1037></a>
+### Titre III : Pénalités<a id=1038></a>
 
-#### Chapitre II : Conflits collectifs<a id=1038></a>
+#### Chapitre II : Conflits collectifs<a id=1039></a>
 
-##### Section 2 : Exécution des sentences arbitrales et des accords intervenus au cours de procédures de conciliation ou de médiation.<a id=1039></a>
+##### Section 2 : Exécution des sentences arbitrales et des accords intervenus au cours de procédures de conciliation ou de médiation.<a id=1040></a>
 
 ###### Article R532-2
 
@@ -90110,11 +90174,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES<a id=1040></a>
+## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES<a id=1041></a>
 
-### LES SYNDICATS PROFESSIONNELS<a id=1041></a>
+### LES SYNDICATS PROFESSIONNELS<a id=1042></a>
 
-#### EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .<a id=1042></a>
+#### EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .<a id=1043></a>
 
 ###### Article R412-1
 
@@ -90188,7 +90252,7 @@ _Anciens textes_:
   - Décret n°68-1183 1968-12-30 ART. 3
 
 
-### LES DELEGUES DU PERSONNEL .<a id=1043></a>
+### LES DELEGUES DU PERSONNEL .<a id=1044></a>
 
 ###### Article R420-1
 
@@ -90434,11 +90498,11 @@ _Codifié par_:
   - PEREMPTION: Décret n°83-470 1983-06-08 ART. 2 JORF 11 JUIN 1983
 
 
-### LES COMITES D'ENTREPRISE<a id=1044></a>
+### LES COMITES D'ENTREPRISE<a id=1045></a>
 
-#### ATTRIBUTIONS ET POUVOIRS DANS LE DOMAINE SOCIAL<a id=1045></a>
+#### ATTRIBUTIONS ET POUVOIRS DANS LE DOMAINE SOCIAL<a id=1046></a>
 
-##### PERSONNALITE CIVILE .<a id=1046></a>
+##### PERSONNALITE CIVILE .<a id=1047></a>
 
 ###### Article R432-1
 
@@ -90473,7 +90537,7 @@ _Cité par_:
   - Code du travail - art. R432-12 (T)
 
 
-##### INSTITUTIONS SOCIALES D'ENTREPRISES .<a id=1047></a>
+##### INSTITUTIONS SOCIALES D'ENTREPRISES .<a id=1048></a>
 
 ###### Article R432-2
 
@@ -90555,7 +90619,7 @@ _Cite_:
   - Code du travail R250-1 A R250-10
 
 
-##### GESTION DES OEUVRES SOCIALES .<a id=1048></a>
+##### GESTION DES OEUVRES SOCIALES .<a id=1049></a>
 
 ###### Article R432-4
 
@@ -90720,7 +90784,7 @@ _Cite_:
   - Code du travail - art. L432-4 (T)
 
 
-##### COMITES INTERENTREPRISES .<a id=1049></a>
+##### COMITES INTERENTREPRISES .<a id=1050></a>
 
 ###### Article R432-9
 
@@ -90860,7 +90924,7 @@ _Anciens textes_:
   - Ordonnance 1945-02-22
 
 
-##### FINANCEMENT DES OEUVRES SOCIALES .<a id=1050></a>
+##### FINANCEMENT DES OEUVRES SOCIALES .<a id=1051></a>
 
 ###### Article R432-12
 
@@ -91043,7 +91107,7 @@ _Nouveaux textes_:
   - Code du travail - art. R432-16 (V)
 
 
-#### COMPOSITION ET ELECTIONS .<a id=1051></a>
+#### COMPOSITION ET ELECTIONS .<a id=1052></a>
 
 ###### Article R433-1
 
@@ -91254,7 +91318,7 @@ _Nouveaux textes_:
   - Code du travail - art. R433-4 (Ab)
 
 
-#### CONDITIONS DE LICENCIEMENT DES MEMBRES DES COMITES D'ENTREPRISE  ET DES DELEGUES DU PERSONNEL .<a id=1052></a>
+#### CONDITIONS DE LICENCIEMENT DES MEMBRES DES COMITES D'ENTREPRISE  ET DES DELEGUES DU PERSONNEL .<a id=1053></a>
 
 ###### Article R436-1
 
@@ -91431,11 +91495,11 @@ _Cite_:
   - Code du travail R436-2 ET S.
 
 
-### INTERESSEMENT ET PARTICIPATION<a id=1053></a>
+### INTERESSEMENT ET PARTICIPATION<a id=1054></a>
 
-#### ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE<a id=1054></a>
+#### ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE<a id=1055></a>
 
-##### CONTRAT D'INTERESSEMENT OU D'ASSOCIATION .<a id=1055></a>
+##### CONTRAT D'INTERESSEMENT OU D'ASSOCIATION .<a id=1056></a>
 
 ###### Article R441-5
 
@@ -91522,11 +91586,11 @@ _Cite_:
   - Code du travail - art. R442-20 (M)
 
 
-#### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES<a id=1056></a>
+#### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES<a id=1057></a>
 
-##### RESERVE SPECIALE DE PARTICIPATION DES TRAVAILLEURS<a id=1057></a>
+##### RESERVE SPECIALE DE PARTICIPATION DES TRAVAILLEURS<a id=1058></a>
 
-##### MODALITES DE CALCUL DE LA RESERVE SPECIALE .<a id=1058></a>
+##### MODALITES DE CALCUL DE LA RESERVE SPECIALE .<a id=1059></a>
 
 ###### Article R442-2
 
@@ -91618,7 +91682,7 @@ _Anciens textes_:
   - Ordonnance 67-693 1967-04-17
 
 
-##### MODALITES DE GESTION DE LA RESERVE SPECIALE .<a id=1059></a>
+##### MODALITES DE GESTION DE LA RESERVE SPECIALE .<a id=1060></a>
 
 ###### Article R442-11
 
@@ -91748,9 +91812,9 @@ _Cité par_:
   - Code du travail - art. R442-7 (Ab)
 
 
-#### PLAN D'EPARGNE D'ENTREPRISE<a id=1060></a>
+#### PLAN D'EPARGNE D'ENTREPRISE<a id=1061></a>
 
-##### COMPOSITION ET GESTION DU PORTEFEUILLE .<a id=1061></a>
+##### COMPOSITION ET GESTION DU PORTEFEUILLE .<a id=1062></a>
 
 ###### Article R443-10
 
@@ -91771,11 +91835,11 @@ _Cite_:
   - Code du travail - art. R442-11 (M)
 
 
-## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1062></a>
+## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1063></a>
 
-### Titre Ier : Services de contrôle<a id=1063></a>
+### Titre Ier : Services de contrôle<a id=1064></a>
 
-#### Chapitre Ier : Inspection du travail.<a id=1064></a>
+#### Chapitre Ier : Inspection du travail.<a id=1065></a>
 
 ###### Article R611-1
 
@@ -91873,7 +91937,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-### Titre II : Obligations des employeurs.<a id=1065></a>
+### Titre II : Obligations des employeurs.<a id=1066></a>
 
 ###### Article R620-1
 
@@ -92033,9 +92097,9 @@ _Cite_:
   - Code du travail - art. L231-1
 
 
-### Titre III : Pénalités<a id=1066></a>
+### Titre III : Pénalités<a id=1067></a>
 
-#### Chapitre Ier : Services de contrôle<a id=1067></a>
+#### Chapitre Ier : Services de contrôle<a id=1068></a>
 
 ###### Article R631-1
 
@@ -92059,7 +92123,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 11
 
 
-#### Chapitre II : OBLIGATIONS DES EMPLOYEURS<a id=1068></a>
+#### Chapitre II : OBLIGATIONS DES EMPLOYEURS<a id=1069></a>
 
 ###### Article R632-1
 
@@ -92134,13 +92198,13 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. R632-1 (V)
 
 
-## Livre VII : Dispositions particulières à certaines professions<a id=1069></a>
+## Livre VII : Dispositions particulières à certaines professions<a id=1070></a>
 
-### Titre Ier : Energie - Industries extractives<a id=1070></a>
+### Titre Ier : Energie - Industries extractives<a id=1071></a>
 
-#### Chapitre Ier : Mines et carrières<a id=1071></a>
+#### Chapitre Ier : Mines et carrières<a id=1072></a>
 
-##### Section 1 : Conditions de travail.<a id=1072></a>
+##### Section 1 : Conditions de travail.<a id=1073></a>
 
 ###### Article R711-1
 
@@ -92275,11 +92339,11 @@ _Cité par_:
   - Code du travail - art. R711-1 (VT)
 
 
-#### Chapitre II : Délégués mineurs<a id=1073></a>
+#### Chapitre II : Délégués mineurs<a id=1074></a>
 
-##### Section 1 : Délégués mineurs du fond<a id=1074></a>
+##### Section 1 : Délégués mineurs du fond<a id=1075></a>
 
-##### Paragraphe 1 : Fonctions des délégués mineurs.<a id=1075></a>
+##### Paragraphe 1 : Fonctions des délégués mineurs.<a id=1076></a>
 
 ###### Article R712-1
 
@@ -92394,7 +92458,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 2 : Circonscriptions.<a id=1076></a>
+##### Paragraphe 2 : Circonscriptions.<a id=1077></a>
 
 ###### Article R712-9
 
@@ -92503,7 +92567,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 3 : Elections.<a id=1077></a>
+##### Paragraphe 3 : Elections.<a id=1078></a>
 
 ###### Article R712-13
 
@@ -92736,7 +92800,7 @@ _Cité par_:
   - Code du travail - art. R712-59 (VT)
 
 
-##### Paragraphe 4 : Dispositions spéciales.<a id=1078></a>
+##### Paragraphe 4 : Dispositions spéciales.<a id=1079></a>
 
 ###### Article R712-23
 
@@ -92774,9 +92838,9 @@ _Cité par_:
   - Code du travail - art. R712-53 (VT)
 
 
-##### Section 2 : Délégués mineurs de la surface<a id=1079></a>
+##### Section 2 : Délégués mineurs de la surface<a id=1080></a>
 
-##### Paragraphe 1 : Fonctions des délégués mineurs de la surface.<a id=1080></a>
+##### Paragraphe 1 : Fonctions des délégués mineurs de la surface.<a id=1081></a>
 
 ###### Article R712-25
 
@@ -92984,7 +93048,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 2 : Circonscriptions.<a id=1081></a>
+##### Paragraphe 2 : Circonscriptions.<a id=1082></a>
 
 ###### Article R712-36
 
@@ -93093,7 +93157,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 3 : Elections.<a id=1082></a>
+##### Paragraphe 3 : Elections.<a id=1083></a>
 
 ###### Article R712-40
 
@@ -93566,7 +93630,7 @@ _Cité par_:
   - Code du travail - art. R712-59 (VT)
 
 
-##### Paragraphe 4 : Dispositions spéciales.<a id=1083></a>
+##### Paragraphe 4 : Dispositions spéciales.<a id=1084></a>
 
 ###### Article R712-57
 
@@ -93584,9 +93648,9 @@ _Cite_:
   - Code du travail
 
 
-##### Section 3 : Dispositions communes aux délégués mineurs du fond et aux délégués de la surface<a id=1084></a>
+##### Section 3 : Dispositions communes aux délégués mineurs du fond et aux délégués de la surface<a id=1085></a>
 
-##### Paragraphe 1 : Généralités.<a id=1085></a>
+##### Paragraphe 1 : Généralités.<a id=1086></a>
 
 ###### Article R712-58
 
@@ -93646,7 +93710,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 2 : Application de l'alinéa final de l'article L. 712-13.<a id=1086></a>
+##### Paragraphe 2 : Application de l'alinéa final de l'article L. 712-13.<a id=1087></a>
 
 ###### Article R712-61
 
@@ -93853,11 +93917,11 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-### Titre II : Industries de transformation et d'élaboration<a id=1087></a>
+### Titre II : Industries de transformation et d'élaboration<a id=1088></a>
 
-#### Chapitre Ier : Travailleurs à domicile<a id=1088></a>
+#### Chapitre Ier : Travailleurs à domicile<a id=1089></a>
 
-##### Section 1 : Dispositions générales.<a id=1089></a>
+##### Section 1 : Dispositions générales.<a id=1090></a>
 
 ###### Article R721-3
 
@@ -93927,7 +93991,7 @@ _Nouveaux textes_:
   - Code du travail - art. R7413-3 (V)
 
 
-##### Section 2 : Contrat de travail.<a id=1090></a>
+##### Section 2 : Contrat de travail.<a id=1091></a>
 
 ###### Article R721-5
 
@@ -93954,7 +94018,7 @@ _Nouveaux textes_:
   - Code du travail - art. R7413-4 (V)
 
 
-##### Section 3 : Salaires.<a id=1091></a>
+##### Section 3 : Salaires.<a id=1092></a>
 
 ###### Article R721-6
 
@@ -94082,7 +94146,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code du travail - art. R792-1 (V)
 
 
-##### Section 4 : Règlement des litiges.<a id=1092></a>
+##### Section 4 : Règlement des litiges.<a id=1093></a>
 
 ###### Article R721-10
 
@@ -94124,7 +94188,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-##### Section 5 : Dispositions spéciales à l'agriculture.<a id=1093></a>
+##### Section 5 : Dispositions spéciales à l'agriculture.<a id=1094></a>
 
 ###### Article R721-12
 
@@ -94155,7 +94219,7 @@ _Anciens textes_:
   - Code du travail 1033 D, 1033 E, 1033 F
 
 
-##### Section 6 : Hygiène et sécurité.<a id=1094></a>
+##### Section 6 : Hygiène et sécurité.<a id=1095></a>
 
 ###### Article R721-13
 
@@ -94201,9 +94265,9 @@ _Nouveaux textes_:
   - Code du travail - art. R7424-2 (V)
 
 
-#### Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, de blanchiment et apprêts des étoffes<a id=1095></a>
+#### Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, de blanchiment et apprêts des étoffes<a id=1096></a>
 
-##### Section 1 : Tissage et bobinage.<a id=1096></a>
+##### Section 1 : Tissage et bobinage.<a id=1097></a>
 
 ###### Article R722-1
 
@@ -94508,7 +94572,7 @@ _Anciens textes_:
   - Code du travail 1039 AL. 1
 
 
-##### Section 2 : Coupe du velours de coton, teinture, blanchiment et apprêts des étoffes<a id=1097></a>
+##### Section 2 : Coupe du velours de coton, teinture, blanchiment et apprêts des étoffes<a id=1098></a>
 
 ###### Article R722-9
 
@@ -94619,7 +94683,7 @@ _Anciens textes_:
   - Code du travail 1042
 
 
-#### Chapitre III : Règlements de comptes entre les maîtres d'atelier et les négociants.<a id=1098></a>
+#### Chapitre III : Règlements de comptes entre les maîtres d'atelier et les négociants.<a id=1099></a>
 
 ###### Article R723-1
 
@@ -94803,9 +94867,9 @@ _Cite_:
   - Code du travail R723-1 A R723-7
 
 
-### Titre III : Bâtiment et travaux publics<a id=1099></a>
+### Titre III : Bâtiment et travaux publics<a id=1100></a>
 
-#### Chapitre Ier : Indemnisation des travailleurs du bâtiment et des travaux publics privés d'emploi par suite d'intempéries.<a id=1100></a>
+#### Chapitre Ier : Indemnisation des travailleurs du bâtiment et des travaux publics privés d'emploi par suite d'intempéries.<a id=1101></a>
 
 ###### Article R731-1
 
@@ -95466,13 +95530,13 @@ _Nouveaux textes_:
   - Code du travail - art. D5424-42 (V)
 
 
-### Titre IV : Transports et télécommunications.<a id=1101></a>
+### Titre IV : Transports et télécommunications.<a id=1102></a>
 
-#### Chapitre II : Marins.<a id=1102></a>
+#### Chapitre II : Marins.<a id=1103></a>
 
-##### Section 1 : Conventions relatives au travail.<a id=1103></a>
+##### Section 1 : Conventions relatives au travail.<a id=1104></a>
 
-##### PARAGRAPHE 1 : CONVENTIONS COLLECTIVES DE TRAVAIL .<a id=1104></a>
+##### PARAGRAPHE 1 : CONVENTIONS COLLECTIVES DE TRAVAIL .<a id=1105></a>
 
 ###### Article R742-1
 
@@ -95787,9 +95851,9 @@ _Cite_:
   - Code du travail R742-1 AL. 2, R742-2 AL. 2
 
 
-##### SECTION 3 : REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL<a id=1105></a>
+##### SECTION 3 : REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL<a id=1106></a>
 
-##### PARAGRAPHE 1 : CONCILIATION .<a id=1106></a>
+##### PARAGRAPHE 1 : CONCILIATION .<a id=1107></a>
 
 ###### Article R742-10
 
@@ -96242,7 +96306,7 @@ _Nouveaux textes_:
   - Code du travail - art. R742-18 (V)
 
 
-##### PARAGRAPHE 2 : MEDIATION .<a id=1107></a>
+##### PARAGRAPHE 2 : MEDIATION .<a id=1108></a>
 
 ###### Article R742-23
 
@@ -96612,7 +96676,7 @@ _Abrogé par_:
   - Décret n°85-1256 1985-11-04 art. 15 JORF 30 novembre 1985
 
 
-##### PARAGRAPHE 3 : ARBITRAGE .<a id=1108></a>
+##### PARAGRAPHE 3 : ARBITRAGE .<a id=1109></a>
 
 ###### Article R742-36
 
@@ -96656,7 +96720,7 @@ _Anciens textes_:
   - Décret n°1950-03-31 art. 39
 
 
-##### SECTION 4 : CONTROLE .<a id=1109></a>
+##### SECTION 4 : CONTROLE .<a id=1110></a>
 
 ###### Article R742-37
 
@@ -96683,7 +96747,7 @@ _Cite_:
   - Code du travail L521-1 A L526-4
 
 
-##### Section 6 : Aide publique aux marins privés d'emploi.<a id=1110></a>
+##### Section 6 : Aide publique aux marins privés d'emploi.<a id=1111></a>
 
 ###### Article R742-38
 
@@ -96717,9 +96781,9 @@ _Modifié par_:
   - Décret n°85-1255 1985-11-04 art. 1 JORF 30 novembre 1985
 
 
-#### Chapitre III : Personnels des entreprises de manutention des ports<a id=1111></a>
+#### Chapitre III : Personnels des entreprises de manutention des ports<a id=1112></a>
 
-##### Section 2 : Participation des salariés des entreprises de manutention des ports maritimes aux fruits de l'expansion.<a id=1112></a>
+##### Section 2 : Participation des salariés des entreprises de manutention des ports maritimes aux fruits de l'expansion.<a id=1113></a>
 
 ###### Article R743-2
 
@@ -96819,9 +96883,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-##### Section 3 : Amélioration des conditions de travail<a id=1113></a>
+##### Section 3 : Amélioration des conditions de travail<a id=1114></a>
 
-##### Paragraphe 1 : Commission paritaire spéciale.<a id=1114></a>
+##### Paragraphe 1 : Commission paritaire spéciale.<a id=1115></a>
 
 ###### Article R743-6
 
@@ -96991,13 +97055,13 @@ _Anciens textes_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-### SECTION 3 : TRANSPORTS ET TELECOMMUNICATIONS<a id=1115></a>
+### SECTION 3 : TRANSPORTS ET TELECOMMUNICATIONS<a id=1116></a>
 
-#### Chapitre II : MARINS<a id=1116></a>
+#### Chapitre II : MARINS<a id=1117></a>
 
-##### SECTION 3 : REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL<a id=1117></a>
+##### SECTION 3 : REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL<a id=1118></a>
 
-##### PARAGRAPHE 1 : CONCILIATION .<a id=1118></a>
+##### PARAGRAPHE 1 : CONCILIATION .<a id=1119></a>
 
 ###### Article R742-12
 
@@ -97040,7 +97104,7 @@ _Nouveaux textes_:
   - Code du travail - art. R742-10 (V)
 
 
-##### PARAGRAPHE 2 : MEDIATION .<a id=1119></a>
+##### PARAGRAPHE 2 : MEDIATION .<a id=1120></a>
 
 ###### Article R742-32
 
@@ -97070,7 +97134,7 @@ _Abrogé par_:
   - Décret n°85-1256 1985-11-04 art. 15 JORF 30 novembre 1985
 
 
-### Titre V : Voyageurs, représentants et placiers du commerce et de l'industrie.<a id=1120></a>
+### Titre V : Voyageurs, représentants et placiers du commerce et de l'industrie.<a id=1121></a>
 
 ###### Article R751-1
 
@@ -97198,11 +97262,11 @@ _Nouveaux textes_:
   - Code du travail - art. D7312-9 (V)
 
 
-### Titre VI : Journalistes, artistes, mannequins<a id=1121></a>
+### Titre VI : Journalistes, artistes, mannequins<a id=1122></a>
 
-#### Chapitre Ier : Journalistes professionnels<a id=1122></a>
+#### Chapitre Ier : Journalistes professionnels<a id=1123></a>
 
-##### Section 2 : Résiliation de contrat.<a id=1123></a>
+##### Section 2 : Résiliation de contrat.<a id=1124></a>
 
 ###### Article R761-1
 
@@ -97231,7 +97295,7 @@ _Cite_:
   - Code du travail - art. L761-5
 
 
-##### Section 3 : Rémunération et congés.<a id=1124></a>
+##### Section 3 : Rémunération et congés.<a id=1125></a>
 
 ###### Article R761-2
 
@@ -97253,9 +97317,9 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L761-10 (AbD)
 
 
-##### Section 4 : Carte d'identité professionnelle<a id=1125></a>
+##### Section 4 : Carte d'identité professionnelle<a id=1126></a>
 
-##### Paragraphe 1 : Carte d'identité de journaliste professionnel.<a id=1126></a>
+##### Paragraphe 1 : Carte d'identité de journaliste professionnel.<a id=1127></a>
 
 ###### Article R761-3
 
@@ -97448,7 +97512,7 @@ _Cité par_:
   - Code du travail - art. R761-23 (VT)
 
 
-##### Paragraphe 2 : Carte d'identité de journaliste professionnel honoraire<a id=1127></a>
+##### Paragraphe 2 : Carte d'identité de journaliste professionnel honoraire<a id=1128></a>
 
 ###### Article R761-19
 
@@ -97538,11 +97602,11 @@ _Cite_:
   - Code du travail - art. R761-18
 
 
-#### Chapitre II : Artistes, auteurs, compositeurs, gens de lettres<a id=1128></a>
+#### Chapitre II : Artistes, auteurs, compositeurs, gens de lettres<a id=1129></a>
 
-##### Section 2 : Artistes du spectacle<a id=1129></a>
+##### Section 2 : Artistes du spectacle<a id=1130></a>
 
-##### Paragraphe 3 : Placement.<a id=1130></a>
+##### Paragraphe 3 : Placement.<a id=1131></a>
 
 ###### Article R762-2
 
@@ -97924,9 +97988,9 @@ _Cite_:
   - Code du travail - art. R762-4
 
 
-### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison<a id=1131></a>
+### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison<a id=1132></a>
 
-#### Chapitre Ier : Congés annuels.<a id=1132></a>
+#### Chapitre Ier : Congés annuels.<a id=1133></a>
 
 ###### Article R771-1
 
@@ -98171,7 +98235,7 @@ _Nouveaux textes_:
   - Code du travail - art. R7213-8 (V)
 
 
-#### Chapitre II : Litiges nés du contrat de travail.<a id=1133></a>
+#### Chapitre II : Litiges nés du contrat de travail.<a id=1134></a>
 
 ###### Article R772-1
 
@@ -98224,9 +98288,9 @@ _Nouveaux textes_:
   - Code du travail - art. R7215-3 (Ab)
 
 
-#### Chapitre III : Surveillance médicale<a id=1134></a>
+#### Chapitre III : Surveillance médicale<a id=1135></a>
 
-##### Section 1 : Organisation de la surveillance médicale.<a id=1135></a>
+##### Section 1 : Organisation de la surveillance médicale.<a id=1136></a>
 
 ###### Article R773-1
 
@@ -98375,7 +98439,7 @@ _Nouveaux textes_:
   - Code du travail - art. R7214-8 (V)
 
 
-##### Section 2 : Examens médicaux.<a id=1136></a>
+##### Section 2 : Examens médicaux.<a id=1137></a>
 
 ###### Article R773-7
 
@@ -98514,11 +98578,11 @@ _Nouveaux textes_:
   - Code du travail - art. R7214-15 (Ab)
 
 
-### Titre IX : Pénalités<a id=1137></a>
+### Titre IX : Pénalités<a id=1138></a>
 
-#### Chapitre Ier : Energie, industries extractives<a id=1138></a>
+#### Chapitre Ier : Energie, industries extractives<a id=1139></a>
 
-##### Section 1 : Mines et carrières.<a id=1139></a>
+##### Section 1 : Mines et carrières.<a id=1140></a>
 
 ###### Article R791-1
 
@@ -98618,7 +98682,7 @@ _Cite_:
   - Code du travail R711-6 A R711-11
 
 
-##### Section 2 : Délégués mineurs.<a id=1140></a>
+##### Section 2 : Délégués mineurs.<a id=1141></a>
 
 ###### Article R791-3
 
@@ -98658,9 +98722,9 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 13
 
 
-#### Chapitre II : Industries de transformation<a id=1141></a>
+#### Chapitre II : Industries de transformation<a id=1142></a>
 
-##### Section 1 : Travailleurs à domicile<a id=1142></a>
+##### Section 1 : Travailleurs à domicile<a id=1143></a>
 
 ###### Article R792-1
 
@@ -98717,7 +98781,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 6
 
 
-##### Section 2 : Moyens de constater les conventions relatives aux salaires en matière de tissage, bobinage, de coupe de velours, de coton, de teinture, blanchiment et apprêts des étoffes<a id=1143></a>
+##### Section 2 : Moyens de constater les conventions relatives aux salaires en matière de tissage, bobinage, de coupe de velours, de coton, de teinture, blanchiment et apprêts des étoffes<a id=1144></a>
 
 ###### Article R792-2
 
@@ -98767,7 +98831,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 9
 
 
-#### Chapitre III : Bâtiment et travaux publics.<a id=1144></a>
+#### Chapitre III : Bâtiment et travaux publics.<a id=1145></a>
 
 ###### Article R793-1
 
@@ -98814,7 +98878,7 @@ _Cite_:
   - Code du travail - art. L731-11 (AbD)
 
 
-#### Chapitre V : Voyageurs, représentants et placiers.<a id=1145></a>
+#### Chapitre V : Voyageurs, représentants et placiers.<a id=1146></a>
 
 ###### Article R795-1
 
@@ -98843,9 +98907,9 @@ _Cite_:
   - Code du travail - art. L751-13 (Ab)
 
 
-#### Chapitre VI : Journalistes, artistes, mannequins<a id=1146></a>
+#### Chapitre VI : Journalistes, artistes, mannequins<a id=1147></a>
 
-##### Section 1 : Journalistes professionnels.<a id=1147></a>
+##### Section 1 : Journalistes professionnels.<a id=1148></a>
 
 ###### Article R796-1
 
@@ -98878,7 +98942,7 @@ _Cite_:
   - Code du travail - art. L761-13 (AbD)
 
 
-##### Section 2 : Artistes, auteurs, compositeurs, gens de lettres.<a id=1148></a>
+##### Section 2 : Artistes, auteurs, compositeurs, gens de lettres.<a id=1149></a>
 
 ###### Article R796-2
 
@@ -98944,7 +99008,7 @@ _Cite_:
   - Code du travail - art. R762-13 (V)
 
 
-#### Chapitre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison.<a id=1149></a>
+#### Chapitre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison.<a id=1150></a>
 
 ###### Article R797-1
 
@@ -98983,7 +99047,7 @@ _Cite_:
   - Code du travail L771-8, L771-9, L772-2, R773-1 à R773-12
 
 
-#### Chapitre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises (Halles de Paris)<a id=1150></a>
+#### Chapitre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises (Halles de Paris)<a id=1151></a>
 
 ###### Article R798-1
 
@@ -99019,15 +99083,15 @@ _Cite_:
   - Code du travail L783-1 A L783-8
 
 
-## DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS<a id=1151></a>
+## DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS<a id=1152></a>
 
-### ENERGIE - INDUSTRIES EXTRACTIVES<a id=1152></a>
+### ENERGIE - INDUSTRIES EXTRACTIVES<a id=1153></a>
 
-#### MINES ET CARRIERES<a id=1153></a>
+#### MINES ET CARRIERES<a id=1154></a>
 
-##### HYGIENE ET SECURITE<a id=1154></a>
+##### HYGIENE ET SECURITE<a id=1155></a>
 
-##### COMITES D'HYGIENE ET DE SECURITE.<a id=1155></a>
+##### COMITES D'HYGIENE ET DE SECURITE.<a id=1156></a>
 
 ###### Article R711-6
 
@@ -99273,13 +99337,13 @@ _Cite_:
   - Code du travail - art. R711-8 (M)
 
 
-### ENERGIE - INDUSTRIES EXCTRACTIVES<a id=1156></a>
+### ENERGIE - INDUSTRIES EXCTRACTIVES<a id=1157></a>
 
-#### MINES ET CARRIERES<a id=1157></a>
+#### MINES ET CARRIERES<a id=1158></a>
 
-##### HYGIENE ET SECURITE<a id=1158></a>
+##### HYGIENE ET SECURITE<a id=1159></a>
 
-##### COMITES D'HYGIENE ET DE SECURITE.<a id=1159></a>
+##### COMITES D'HYGIENE ET DE SECURITE.<a id=1160></a>
 
 ###### Article R711-7
 
@@ -99315,9 +99379,9 @@ _Cite_:
   - Code du travail - art. R711-6 (M)
 
 
-### BATIMENT ET TRAVAUX PUBLICS<a id=1160></a>
+### BATIMENT ET TRAVAUX PUBLICS<a id=1161></a>
 
-#### INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .<a id=1161></a>
+#### INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .<a id=1162></a>
 
 ###### Article R731-20
 
@@ -99344,13 +99408,13 @@ _Anciens textes_:
   - Décret  1949-03-01 ART. 3
 
 
-### TRANSPORTS ET TELECOMMUNICATIONS<a id=1162></a>
+### TRANSPORTS ET TELECOMMUNICATIONS<a id=1163></a>
 
-#### MARINS<a id=1163></a>
+#### MARINS<a id=1164></a>
 
-##### REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL<a id=1164></a>
+##### REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL<a id=1165></a>
 
-##### CONCILIATION .<a id=1165></a>
+##### CONCILIATION .<a id=1166></a>
 
 ###### Article R742-9
 
@@ -99384,11 +99448,11 @@ _Nouveaux textes_:
   - Code du travail - art. R742-7 (V)
 
 
-### JOURNALISTES PROFESSIONNELS<a id=1166></a>
+### JOURNALISTES PROFESSIONNELS<a id=1167></a>
 
-#### CARTE D'IDENTITE PROFESSIONNELLE<a id=1167></a>
+#### CARTE D'IDENTITE PROFESSIONNELLE<a id=1168></a>
 
-##### CARTE D'IDENTITE DE JOURNALISTE PROFESSIONNEL .<a id=1168></a>
+##### CARTE D'IDENTITE DE JOURNALISTE PROFESSIONNEL .<a id=1169></a>
 
 ###### Article R761-5
 
@@ -99695,7 +99759,7 @@ _Anciens textes_:
   - Décret  1936-01-17 ART. 10 AL. 6, 7
 
 
-##### CARTE D'IDENTITE DE JOURNALISTE PROFESSIONNEL HONORAIRE .<a id=1169></a>
+##### CARTE D'IDENTITE DE JOURNALISTE PROFESSIONNEL HONORAIRE .<a id=1170></a>
 
 ###### Article R761-20
 
@@ -99739,11 +99803,11 @@ _Cite_:
   - Code du travail - art. L761-2 (M)
 
 
-## Livre VIII : Dispositions spéciales aux départements d'outre-mer<a id=1170></a>
+## Livre VIII : Dispositions spéciales aux départements d'outre-mer<a id=1171></a>
 
-### Titre III : Placement et emploi<a id=1171></a>
+### Titre III : Placement et emploi<a id=1172></a>
 
-#### Chapitre Ier : Dispositions particulières à la main-d'oeuvre étrangère.<a id=1172></a>
+#### Chapitre Ier : Dispositions particulières à la main-d'oeuvre étrangère.<a id=1173></a>
 
 ###### Article R831-1
 
@@ -99818,7 +99882,7 @@ _Cité par_:
   - Code du travail - art. R883-1 (VT)
 
 
-#### Chapitre III : Garantie de ressources des travailleurs sans emploi.<a id=1173></a>
+#### Chapitre III : Garantie de ressources des travailleurs sans emploi.<a id=1174></a>
 
 ###### Article R833-1
 
@@ -100041,9 +100105,9 @@ _Cite_:
   - Code du travail - art. R833-2
 
 
-### Titre VIII : Pénalités<a id=1174></a>
+### Titre VIII : Pénalités<a id=1175></a>
 
-#### Chapitre Ier : Conventions relatives au travail<a id=1175></a>
+#### Chapitre Ier : Conventions relatives au travail<a id=1176></a>
 
 ###### Article R881-1
 
@@ -100136,7 +100200,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 3
 
 
-#### Chapitre II : Réglementation du travail<a id=1176></a>
+#### Chapitre II : Réglementation du travail<a id=1177></a>
 
 ###### Article R882-1
 
@@ -100172,7 +100236,7 @@ _Anciens textes_:
   - Décret n°72-985 1972-10-24 art. 38
 
 
-#### Chapitre III : Placement et emploi<a id=1177></a>
+#### Chapitre III : Placement et emploi<a id=1178></a>
 
 ###### Article R883-1
 
@@ -100206,11 +100270,11 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. R831-2 (Ab)
 
 
-## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1178></a>
+## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1179></a>
 
-### CONFLITS DU TRAVAIL<a id=1179></a>
+### CONFLITS DU TRAVAIL<a id=1180></a>
 
-#### EMOLUMENTS, INDEMNITES, DROITS ALLOUES AUX GREFFIERS EN CHEF, HUISSIERS ET TEMOINS.<a id=1180></a>
+#### EMOLUMENTS, INDEMNITES, DROITS ALLOUES AUX GREFFIERS EN CHEF, HUISSIERS ET TEMOINS.<a id=1181></a>
 
 ###### Article R851-1
 
@@ -100239,9 +100303,9 @@ _Modifié par_:
   - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 JANVIER 1979
 
 
-## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1181></a>
+## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1182></a>
 
-### Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale.<a id=1182></a>
+### Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale.<a id=1183></a>
 
 ###### Article R910-2
 
@@ -100467,7 +100531,7 @@ _Anciens textes_:
   - Décret n°67-55 1967-01-18 ART. 12
 
 
-### Titre IV.<a id=1183></a>
+### Titre IV.<a id=1184></a>
 
 ###### Article R940-1
 
@@ -100576,9 +100640,9 @@ _Nouveaux textes_:
   - Code du travail - art. R941-3 (V)
 
 
-### Titre VII : Modalités d'application des articles L. 970-1, L. 970-2, L. 970-3<a id=1184></a>
+### Titre VII : Modalités d'application des articles L. 970-1, L. 970-2, L. 970-3<a id=1185></a>
 
-#### Section 1 : Modalités d'application des dispositions de l'article L. 970-1.<a id=1185></a>
+#### Section 1 : Modalités d'application des dispositions de l'article L. 970-1.<a id=1186></a>
 
 ###### Article R970-1
 
@@ -100920,7 +100984,7 @@ _Cite_:
   - Code du travail R970-3, R970-6 A R970-8
 
 
-#### Section 2 : Modalités d'application des dispositions de l'article L. 970-2.<a id=1186></a>
+#### Section 2 : Modalités d'application des dispositions de l'article L. 970-2.<a id=1187></a>
 
 ###### Article R970-10
 
@@ -100960,7 +101024,7 @@ _Cite_:
   - Code du travail R970-10 A R970-21
 
 
-##### Sous-section 1 : Actions de formation organisées à l'initiative de l'administration en vue de la formation professionnelle continue des fonctionnaires.<a id=1187></a>
+##### Sous-section 1 : Actions de formation organisées à l'initiative de l'administration en vue de la formation professionnelle continue des fonctionnaires.<a id=1188></a>
 
 ###### Article R970-11
 
@@ -101060,7 +101124,7 @@ _Abrogé par_:
   - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
 
 
-##### Sous-section 2 : Cycles de formation, stages ou autres actions offerts ou agréés par l'administration en vue de la préparation aux concours administratifs.<a id=1188></a>
+##### Sous-section 2 : Cycles de formation, stages ou autres actions offerts ou agréés par l'administration en vue de la préparation aux concours administratifs.<a id=1189></a>
 
 ###### Article R970-14
 
@@ -101162,7 +101226,7 @@ _Abrogé par_:
   - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
 
 
-##### Sous-section 3 : Actions de formation choisies par les fonctionnaires en vue de leur formation personnelle.<a id=1189></a>
+##### Sous-section 3 : Actions de formation choisies par les fonctionnaires en vue de leur formation personnelle.<a id=1190></a>
 
 ###### Article R970-18
 
@@ -101265,7 +101329,7 @@ _Cite_:
   - Code du travail - art. R970-3 (Ab)
 
 
-#### Section 3 : Modalités d'application de l'article L. 970-3.<a id=1190></a>
+#### Section 3 : Modalités d'application de l'article L. 970-3.<a id=1191></a>
 
 ###### Article R970-22
 
@@ -101293,7 +101357,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Sous-section 1 : Actions de formation organisées à l'initiative de l'administration.<a id=1191></a>
+##### Sous-section 1 : Actions de formation organisées à l'initiative de l'administration.<a id=1192></a>
 
 ###### Article R970-23
 
@@ -101397,7 +101461,7 @@ _Cite_:
   - Code du travail - art. R970-23
 
 
-##### Sous-section 2 : Participation des agents non titulaires aux cycles ou stages offerts ou agréés par l'administration en vue de la préparation aux concours administratifs et aux examens professionnels.<a id=1192></a>
+##### Sous-section 2 : Participation des agents non titulaires aux cycles ou stages offerts ou agréés par l'administration en vue de la préparation aux concours administratifs et aux examens professionnels.<a id=1193></a>
 
 ###### Article R970-27
 
@@ -101458,9 +101522,9 @@ _Cite_:
   - Code du travail
 
 
-## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1193></a>
+## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1194></a>
 
-### COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .<a id=1194></a>
+### COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .<a id=1195></a>
 
 ###### Article R910-1
 
@@ -101708,7 +101772,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-### DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.<a id=1195></a>
+### DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.<a id=1196></a>
 
 ###### Article R930-1
 
@@ -101804,7 +101868,7 @@ _Cite_:
   - Code du travail L930-1 A L930-1-12
 
 
-### DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-2.<a id=1196></a>
+### DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-2.<a id=1197></a>
 
 ###### Article R930-4
 
@@ -101901,7 +101965,7 @@ _Cité par_:
   - Code du travail - art. R941-3 (VT)
 
 
-### MESURES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-11.<a id=1197></a>
+### MESURES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-11.<a id=1198></a>
 
 ###### Article R930-7
 
@@ -102008,7 +102072,7 @@ _Cite_:
   - Code du travail L930-1 A L930-1-11
 
 
-### MESURES D'APPLICATION DE L'ARTICLE L930-2 .<a id=1198></a>
+### MESURES D'APPLICATION DE L'ARTICLE L930-2 .<a id=1199></a>
 
 ###### Article R930-13
 
@@ -102181,7 +102245,7 @@ _Nouveaux textes_:
   - Code du travail - art. R931-19 (V)
 
 
-### MESURES D'APPLICATION DE L'ARTICLE L. 930-1-12.<a id=1199></a>
+### MESURES D'APPLICATION DE L'ARTICLE L. 930-1-12.<a id=1200></a>
 
 ###### Article R930-10
 
@@ -102270,7 +102334,7 @@ _Nouveaux textes_:
   - Code du travail - art. R931-12 (Ab)
 
 
-### MESURE D'APPLICATION DE L'ARTICLE L. 930-2<a id=1200></a>
+### MESURE D'APPLICATION DE L'ARTICLE L. 930-2<a id=1201></a>
 
 ###### Article R930-14
 
@@ -102300,9 +102364,9 @@ _Nouveaux textes_:
   - Code du travail - art. R931-14 (V)
 
 
-### MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10<a id=1201></a>
+### MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10<a id=1202></a>
 
-#### DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA  FORMATION PROFESSIONNELLE CONTINUE .<a id=1202></a>
+#### DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA  FORMATION PROFESSIONNELLE CONTINUE .<a id=1203></a>
 
 ###### Article R950-3
 
@@ -102664,7 +102728,7 @@ _Nouveaux textes_:
   - Code du travail - art. R950-17 (T)
 
 
-#### CONSULTATION DU COMITE D'ENTREPRISE .<a id=1203></a>
+#### CONSULTATION DU COMITE D'ENTREPRISE .<a id=1204></a>
 
 ###### Article R950-14
 
@@ -102720,7 +102784,7 @@ _Nouveaux textes_:
   - Code du travail - art. R950-18 (V)
 
 
-#### DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU  FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .<a id=1204></a>
+#### DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU  FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .<a id=1205></a>
 
 ###### Article R950-15
 
@@ -102953,7 +103017,7 @@ _Nouveaux textes_:
   - Code du travail - art. R950-22 (M)
 
 
-#### CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .<a id=1205></a>
+#### CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .<a id=1206></a>
 
 ###### Article R950-19
 
@@ -103062,9 +103126,9 @@ _Nouveaux textes_:
   - Code du travail - art. R950-25 (Ab)
 
 
-### MODALITES D'APPLICATION DE L'ARTICLE L970-3<a id=1206></a>
+### MODALITES D'APPLICATION DE L'ARTICLE L970-3<a id=1207></a>
 
-#### PARTICIPATION DES AGENTS NON TITULAIRES AUX CYCLES OU STAGES  OFFERTS OU AGREES PAR L'ADMINISTRATION EN VUE DE LA PREPARATION AUX  CONCOURS ADMINISTRATIFS ET AUX EXAMENS PROFESSIONNELS .<a id=1207></a>
+#### PARTICIPATION DES AGENTS NON TITULAIRES AUX CYCLES OU STAGES  OFFERTS OU AGREES PAR L'ADMINISTRATION EN VUE DE LA PREPARATION AUX  CONCOURS ADMINISTRATIFS ET AUX EXAMENS PROFESSIONNELS .<a id=1208></a>
 
 ###### Article R970-29
 
@@ -103097,7 +103161,7 @@ _Créé par_:
   - TXT_SOURCE: Code du travail - art. L970-3 (M)
 
 
-#### ACTIONS CHOISIES PAR LES AGENTS NON TITULAIRES EN VUE DE LEUR  FORMATION PERSONNELLE .<a id=1208></a>
+#### ACTIONS CHOISIES PAR LES AGENTS NON TITULAIRES EN VUE DE LEUR  FORMATION PERSONNELLE .<a id=1209></a>
 
 ###### Article R970-30
 
@@ -103321,7 +103385,7 @@ _Cite_:
   - TXT_SOURCE: Code du travail - art. L970-3 (M)
 
 
-#### PARTICIPATION DES AGENTS NON TITULAIRES EXERCANT A PLEIN TEMPS  DES FONCTIONS PERMANENTES AUX STAGES DE CONVERSION OU DE PROMOTION  PROFESSIONNELLE .<a id=1209></a>
+#### PARTICIPATION DES AGENTS NON TITULAIRES EXERCANT A PLEIN TEMPS  DES FONCTIONS PERMANENTES AUX STAGES DE CONVERSION OU DE PROMOTION  PROFESSIONNELLE .<a id=1210></a>
 
 ###### Article R970-35
 
@@ -103444,9 +103508,9 @@ _Créé par_:
   - TXT_SOURCE: Code du travail - art. L970-3 (M)
 
 
-### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER<a id=1210></a>
+### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER<a id=1211></a>
 
-#### APPLICATION DES DISPOSITIONS DES ARTICLES L. 930-1 A L. 930-2 ET L. 950-1 A L. 950-10.<a id=1211></a>
+#### APPLICATION DES DISPOSITIONS DES ARTICLES L. 930-1 A L. 930-2 ET L. 950-1 A L. 950-10.<a id=1212></a>
 
 ###### Article R980-1
 
@@ -103567,7 +103631,7 @@ _Nouveaux textes_:
   - Code du travail - art. R990-3 (T)
 
 
-### MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10<a id=1212></a>
+### MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10<a id=1213></a>
 
 ###### Article R980-5
 
@@ -103634,7 +103698,7 @@ _Nouveaux textes_:
   - Code du travail - art. R981-5 (V)
 
 
-#### REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.<a id=1213></a>
+#### REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.<a id=1214></a>
 
 ###### Article R980-4
 
@@ -103723,11 +103787,11 @@ _Nouveaux textes_:
   - Code du travail - art. R990-8 (T)
 
 
-## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1214></a>
+## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1215></a>
 
-### Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10<a id=1215></a>
+### Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10<a id=1216></a>
 
-#### SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .<a id=1216></a>
+#### SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .<a id=1217></a>
 
 ###### Article R950-1
 
@@ -103767,15 +103831,15 @@ _Cite_:
   - Code du travail - art. L950-1 (M)
 
 
-# Partie réglementaire ancienne - Décrets simples<a id=1217></a>
+# Partie réglementaire ancienne - Décrets simples<a id=1218></a>
 
-## Livre Ier : Conventions relatives au travail<a id=1218></a>
+## Livre Ier : Conventions relatives au travail<a id=1219></a>
 
-### Titre Ier : Contrats d'apprentissage<a id=1219></a>
+### Titre Ier : Contrats d'apprentissage<a id=1220></a>
 
-#### Dispositions applicables aux contrats conclus à partir du 1er juillet 1972<a id=1220></a>
+#### Dispositions applicables aux contrats conclus à partir du 1er juillet 1972<a id=1221></a>
 
-##### Chapitre VII : Salaire de l'apprenti.<a id=1221></a>
+##### Chapitre VII : Salaire de l'apprenti.<a id=1222></a>
 
 ###### Article D117-4
 
@@ -103800,11 +103864,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-### Titre Ier : CONTRAT D'APPRENTISSAGE<a id=1222></a>
+### Titre Ier : CONTRAT D'APPRENTISSAGE<a id=1223></a>
 
-#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972<a id=1223></a>
+#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972<a id=1224></a>
 
-##### Chapitre VII : SALAIRE DE L'APPRENTI .<a id=1224></a>
+##### Chapitre VII : SALAIRE DE L'APPRENTI .<a id=1225></a>
 
 ###### Article D117-2
 
@@ -103832,9 +103896,9 @@ _Cité par_:
   - Code du travail - art. D811 (M)
 
 
-### Titre II : CONTRAT DE TRAVAIL<a id=1225></a>
+### Titre II : CONTRAT DE TRAVAIL<a id=1226></a>
 
-#### Chapitre IV : Travail temporaire.<a id=1226></a>
+#### Chapitre IV : Travail temporaire.<a id=1227></a>
 
 ###### Article D124-2
 
@@ -103861,9 +103925,9 @@ _Cite_:
   - Code du travail L223-11 AL. 1
 
 
-### Titre III : Conventions collectives de travail<a id=1227></a>
+### Titre III : Conventions collectives de travail<a id=1228></a>
 
-#### Chapitre IV : Conventions collectives dans les entreprises publiques.<a id=1228></a>
+#### Chapitre IV : Conventions collectives dans les entreprises publiques.<a id=1229></a>
 
 ###### Article D134-1
 
@@ -103938,11 +104002,11 @@ _Cite_:
   - Code du travail - art. L134-1 (M)
 
 
-### Titre IV : Salaire<a id=1229></a>
+### Titre IV : Salaire<a id=1230></a>
 
-#### Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale<a id=1230></a>
+#### Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale<a id=1231></a>
 
-##### Section 1 : Dispositions générales.<a id=1231></a>
+##### Section 1 : Dispositions générales.<a id=1232></a>
 
 ###### Article D141-1
 
@@ -104058,7 +104122,7 @@ _Nouveaux textes_:
   - Code du travail - art. R*3231-2 (V)
 
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.<a id=1232></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.<a id=1233></a>
 
 ###### Article D141-5
 
@@ -104153,7 +104217,7 @@ _Nouveaux textes_:
   - Code du travail - art. D3231-14 (V)
 
 
-##### Section 3 : Dispositions spéciales aux salariés agricoles.<a id=1233></a>
+##### Section 3 : Dispositions spéciales aux salariés agricoles.<a id=1234></a>
 
 ###### Article D141-11
 
@@ -104186,11 +104250,11 @@ _Cite_:
   - Code du travail - art. L141-8
 
 
-#### Chapitre Ier : Salaire minimum de croissance<a id=1234></a>
+#### Chapitre Ier : Salaire minimum de croissance<a id=1235></a>
 
-##### Rémunération mensuelle minimale<a id=1235></a>
+##### Rémunération mensuelle minimale<a id=1236></a>
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.<a id=1236></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.<a id=1237></a>
 
 ###### Article D141-7
 
@@ -104242,7 +104306,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-#### Chapitre II : Rémunération des heures supplémentaires - Primes de transport - Conversion de certains avantages en nature.<a id=1237></a>
+#### Chapitre II : Rémunération des heures supplémentaires - Primes de transport - Conversion de certains avantages en nature.<a id=1238></a>
 
 ###### Article D142-1
 
@@ -104301,9 +104365,9 @@ _Cite_:
   - Code du travail - art. D142-1
 
 
-#### Chapitre III : PAIEMENT DU SALAIRE<a id=1238></a>
+#### Chapitre III : PAIEMENT DU SALAIRE<a id=1239></a>
 
-##### SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .<a id=1239></a>
+##### SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .<a id=1240></a>
 
 ###### Article D143-1
 
@@ -104350,13 +104414,13 @@ _Cite_:
   - Code du travail - art. L143-11-6 (T)
 
 
-## CONVENTIONS RELATIVES AU TRAVAIL<a id=1240></a>
+## CONVENTIONS RELATIVES AU TRAVAIL<a id=1241></a>
 
-### CONTRAT D'APPRENTISSAGE<a id=1241></a>
+### CONTRAT D'APPRENTISSAGE<a id=1242></a>
 
-#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972<a id=1242></a>
+#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972<a id=1243></a>
 
-##### SALAIRE DE L'APPRENTI .<a id=1243></a>
+##### SALAIRE DE L'APPRENTI .<a id=1244></a>
 
 ###### Article D117-1
 
@@ -104431,9 +104495,9 @@ _Cite_:
   - Code du travail - art. L117-9 (M)
 
 
-### CONTRAT DE TRAVAIL<a id=1244></a>
+### CONTRAT DE TRAVAIL<a id=1245></a>
 
-#### TRAVAIL TEMPORAIRE .<a id=1245></a>
+#### TRAVAIL TEMPORAIRE .<a id=1246></a>
 
 ###### Article D124-1
 
@@ -104456,11 +104520,11 @@ _Cite_:
   - Code du travail - art. L124-5 (M)
 
 
-## Livre II : Réglementation du travail<a id=1246></a>
+## Livre II : Réglementation du travail<a id=1247></a>
 
-### Titre Ier : Conditions du travail<a id=1247></a>
+### Titre Ier : Conditions du travail<a id=1248></a>
 
-#### Chapitre Ier : Age d'admission.<a id=1248></a>
+#### Chapitre Ier : Age d'admission.<a id=1249></a>
 
 ###### Article D211-1
 
@@ -104600,9 +104664,9 @@ _Nouveaux textes_:
   - Code du travail - art. D4153-7 (V)
 
 
-#### Chapitre II : DUREE DU TRAVAIL<a id=1249></a>
+#### Chapitre II : DUREE DU TRAVAIL<a id=1250></a>
 
-##### SECTION 1 : RECUPERATION DES HEURES PERDUES.<a id=1250></a>
+##### SECTION 1 : RECUPERATION DES HEURES PERDUES.<a id=1251></a>
 
 ###### Article D212-1
 
@@ -104705,7 +104769,7 @@ _Nouveaux textes_:
   - Code du travail - art. R3122-7 (V)
 
 
-##### Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.<a id=1251></a>
+##### Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.<a id=1252></a>
 
 ###### Article D212-5
 
@@ -104988,9 +105052,9 @@ _Cite_:
   - Code du travail - art. D212-6 (V)
 
 
-### Titre II : Repos et congés<a id=1252></a>
+### Titre II : Repos et congés<a id=1253></a>
 
-#### Chapitre III : Congés annuels.<a id=1253></a>
+#### Chapitre III : Congés annuels.<a id=1254></a>
 
 ###### Article D223-1
 
@@ -105142,9 +105206,9 @@ _Nouveaux textes_:
   - Code du travail - art. D3141-7 (VT)
 
 
-### Titre III : Hygiène et sécurité<a id=1254></a>
+### Titre III : Hygiène et sécurité<a id=1255></a>
 
-#### Chapitre III : Sécurité.<a id=1255></a>
+#### Chapitre III : Sécurité.<a id=1256></a>
 
 ###### Article D233-1
 
@@ -105457,11 +105521,11 @@ _Cite_:
   - Code du travail
 
 
-## Livre III : Placement et emploi<a id=1256></a>
+## Livre III : Placement et emploi<a id=1257></a>
 
-### Titre Ier : Placement<a id=1257></a>
+### Titre Ier : Placement<a id=1258></a>
 
-#### Chapitre Ier : Service public du placement.<a id=1258></a>
+#### Chapitre Ier : Service public du placement.<a id=1259></a>
 
 ###### Article D311-1
 
@@ -105546,9 +105610,9 @@ _Nouveaux textes_:
   - Code du travail - art. R5332-2 (V)
 
 
-### Titre II : Emploi<a id=1259></a>
+### Titre II : Emploi<a id=1260></a>
 
-#### Chapitre Ier : Contrôle de l'emploi.<a id=1260></a>
+#### Chapitre Ier : Contrôle de l'emploi.<a id=1261></a>
 
 ###### Article D321-1
 
@@ -105676,11 +105740,11 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-#### Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=1261></a>
+#### Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=1262></a>
 
-##### Section 2 : Travailleurs handicapés<a id=1262></a>
+##### Section 2 : Travailleurs handicapés<a id=1263></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=1263></a>
+##### Sous-section 1 : Dispositions générales.<a id=1264></a>
 
 ###### Article D323-3-1
 
@@ -106055,7 +106119,7 @@ _Cité par_:
   - Code du travail - art. R323-50 (Ab)
 
 
-##### Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail.<a id=1264></a>
+##### Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail.<a id=1265></a>
 
 ###### Article D323-4
 
@@ -106221,7 +106285,7 @@ _Nouveaux textes_:
   - Code du travail - art. D5213-21 (Ab)
 
 
-##### Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.<a id=1265></a>
+##### Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.<a id=1266></a>
 
 ###### Article D323-11
 
@@ -106417,7 +106481,7 @@ _Cite_:
   - Code du travail - art. L323-24 (M)
 
 
-##### Sous-section 4 : Travail protégé.<a id=1266></a>
+##### Sous-section 4 : Travail protégé.<a id=1267></a>
 
 ###### Article D323-19
 
@@ -106565,7 +106629,7 @@ _Cite_:
   - Code du travail L141-1 et suivants
 
 
-##### Section 3 : Emploi obligatoire des pères de famille.<a id=1267></a>
+##### Section 3 : Emploi obligatoire des pères de famille.<a id=1268></a>
 
 ###### Article D323-26
 
@@ -106871,7 +106935,7 @@ _Abrogé par_:
   - Décret n°2006-152 du 13 février 2006 - art. 4 () JORF 14 février 2006 en vigueur le 1er janvier 2006
 
 
-#### Chapitre IV : Cumuls d'emplois et travail clandestin.<a id=1268></a>
+#### Chapitre IV : Cumuls d'emplois et travail clandestin.<a id=1269></a>
 
 ###### Article D324-1
 
@@ -106932,7 +106996,7 @@ _Cite_:
   - Code du travail - art. L324-4
 
 
-### Titre III : Agence nationale pour l'emploi.<a id=1269></a>
+### Titre III : Agence nationale pour l'emploi.<a id=1270></a>
 
 ###### Article D330-1
 
@@ -106946,11 +107010,11 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-### Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale<a id=1270></a>
+### Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale<a id=1271></a>
 
-#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère<a id=1271></a>
+#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère<a id=1272></a>
 
-##### Section 1 : Travailleurs étrangers.<a id=1272></a>
+##### Section 1 : Travailleurs étrangers.<a id=1273></a>
 
 ###### Article D341-2
 
@@ -107002,7 +107066,7 @@ _Abrogé par_:
   - Décret n°85-155 du 31 janvier 1985 - art. 1 ()
 
 
-#### Chapitre II : Protection de la main-d'oeuvre nationale.<a id=1273></a>
+#### Chapitre II : Protection de la main-d'oeuvre nationale.<a id=1274></a>
 
 ###### Article D342-1
 
@@ -107292,11 +107356,11 @@ _Cite_:
   - Code du travail - art. L342-2
 
 
-### Titre V : Travailleurs privés d'emploi<a id=1274></a>
+### Titre V : Travailleurs privés d'emploi<a id=1275></a>
 
-#### Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi<a id=1275></a>
+#### Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi<a id=1276></a>
 
-##### Section 1 : Privation totale d'emploi.<a id=1276></a>
+##### Section 1 : Privation totale d'emploi.<a id=1277></a>
 
 ###### Article D351-1
 
@@ -107362,7 +107426,7 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. D351-1 (V)
 
 
-##### Section 2 : PRIVATION PARTIELLE D'EMPLOI.<a id=1277></a>
+##### Section 2 : PRIVATION PARTIELLE D'EMPLOI.<a id=1278></a>
 
 ###### Article D351-3
 
@@ -107392,7 +107456,7 @@ _Cite_:
   - Code du travail - art. L351-19 (MMN)
 
 
-##### Section 5 : Création d'entreprises par les salariés privés d'emploi.<a id=1278></a>
+##### Section 5 : Création d'entreprises par les salariés privés d'emploi.<a id=1279></a>
 
 ###### Article D351-4
 
@@ -107567,7 +107631,7 @@ _Cite_:
   - Code du travail - art. L351-22 (M)
 
 
-#### Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.<a id=1279></a>
+#### Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.<a id=1280></a>
 
 ###### Article D352-1
 
@@ -107831,9 +107895,9 @@ _Nouveaux textes_:
   - Code du travail - art. D5427-15 (V)
 
 
-## EMPLOI<a id=1280></a>
+## EMPLOI<a id=1281></a>
 
-### FONDS NATIONAL DE L'EMPLOI - PRIME DE MOBILITE DES JEUNES .<a id=1281></a>
+### FONDS NATIONAL DE L'EMPLOI - PRIME DE MOBILITE DES JEUNES .<a id=1282></a>
 
 ###### Article D322-1
 
@@ -107906,7 +107970,7 @@ _Cité par_:
   - Code du travail - art. D322-4 (VT)
 
 
-### FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .<a id=1282></a>
+### FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .<a id=1283></a>
 
 ###### Article D322-11
 
@@ -108209,11 +108273,11 @@ _Cite_:
   - Code du travail - art. D322-14 (M)
 
 
-### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS<a id=1283></a>
+### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS<a id=1284></a>
 
-#### TRAVAILLEURS HANDICAPES<a id=1284></a>
+#### TRAVAILLEURS HANDICAPES<a id=1285></a>
 
-##### TRAVAIL PROTEGE .<a id=1285></a>
+##### TRAVAIL PROTEGE .<a id=1286></a>
 
 ###### Article D323-17
 
@@ -108280,13 +108344,13 @@ _Abrogé par_:
   - Décret n°84-292 1984-04-16 ART. 1 JORF 21 AVRIL 1984
 
 
-## Livre III : EMPLOI<a id=1286></a>
+## Livre III : EMPLOI<a id=1287></a>
 
-### Titre II : EMPLOI<a id=1287></a>
+### Titre II : EMPLOI<a id=1288></a>
 
-#### Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=1288></a>
+#### Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=1289></a>
 
-##### SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE.<a id=1289></a>
+##### SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE.<a id=1290></a>
 
 ###### Article D323-1
 
@@ -108380,9 +108444,9 @@ _Codifié par_:
   - TXT_ASSOCIE: Décret n°88-77 du 22 janvier 1988 - art. annexe 1 (V)
 
 
-##### SECTION 2 : TRAVAILLEURS HANDICAPES<a id=1290></a>
+##### SECTION 2 : TRAVAILLEURS HANDICAPES<a id=1291></a>
 
-##### SOUS-SECTION 4 : TRAVAIL PROTEGE.<a id=1291></a>
+##### SOUS-SECTION 4 : TRAVAIL PROTEGE.<a id=1292></a>
 
 ###### Article D323-25-3
 
@@ -108458,11 +108522,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-## PLACEMENT ET EMPLOI<a id=1292></a>
+## PLACEMENT ET EMPLOI<a id=1293></a>
 
-### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=1293></a>
+### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=1294></a>
 
-#### TRAVAILLEURS ETRANGERS .<a id=1294></a>
+#### TRAVAILLEURS ETRANGERS .<a id=1295></a>
 
 ###### Article D341-1
 
@@ -108519,11 +108583,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 quinquies (P)
 
 
-## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES<a id=1295></a>
+## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES<a id=1296></a>
 
-### LES SYNDICATS PROFESSIONNELS<a id=1296></a>
+### LES SYNDICATS PROFESSIONNELS<a id=1297></a>
 
-#### EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .<a id=1297></a>
+#### EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .<a id=1298></a>
 
 ###### Article D412-1
 
@@ -108558,9 +108622,9 @@ _Cite_:
   - Code du travail - art. L412-14 (M)
 
 
-### LES COMITES D'ENTREPRISE<a id=1298></a>
+### LES COMITES D'ENTREPRISE<a id=1299></a>
 
-#### COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .<a id=1299></a>
+#### COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .<a id=1300></a>
 
 ###### Article D435-1
 
@@ -108613,9 +108677,9 @@ _Cité par_:
   - Code du travail - art. L435-5 (AbD)
 
 
-### INTERESSEMENT ET PARTICIPATION .<a id=1300></a>
+### INTERESSEMENT ET PARTICIPATION .<a id=1301></a>
 
-#### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .<a id=1301></a>
+#### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .<a id=1302></a>
 
 ###### Article D442-1
 
@@ -108673,11 +108737,11 @@ _Cite_:
   - Code du travail - art. R442-28 (Ab)
 
 
-## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1302></a>
+## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1303></a>
 
-### Titre III : Les comités d'entreprise<a id=1303></a>
+### Titre III : Les comités d'entreprise<a id=1304></a>
 
-#### Chapitre VII : Amélioration des conditions de travail.<a id=1304></a>
+#### Chapitre VII : Amélioration des conditions de travail.<a id=1305></a>
 
 ###### Article D437-1
 
@@ -108757,11 +108821,11 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-## Livre V : Conflits du travail<a id=1305></a>
+## Livre V : Conflits du travail<a id=1306></a>
 
-### Titre II : Conflits collectifs<a id=1306></a>
+### Titre II : Conflits collectifs<a id=1307></a>
 
-#### Chapitre IV : Médiation.<a id=1307></a>
+#### Chapitre IV : Médiation.<a id=1308></a>
 
 ###### Article D524-1
 
@@ -108872,11 +108936,11 @@ _Nouveaux textes_:
   - Code du travail - art. R2523-20 (V)
 
 
-## CONFLITS DU TRAVAIL<a id=1308></a>
+## CONFLITS DU TRAVAIL<a id=1309></a>
 
-### CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES<a id=1309></a>
+### CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES<a id=1310></a>
 
-#### DEPENSES DES CONSEILS DE PRUD'HOMMES .<a id=1310></a>
+#### DEPENSES DES CONSEILS DE PRUD'HOMMES .<a id=1311></a>
 
 ###### Article D51-10-1
 
@@ -108974,11 +109038,11 @@ _Codifié par_:
   - Décret n°73-1047 1973-11-15
 
 
-## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1311></a>
+## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1312></a>
 
-### Titre Ier : Services de contrôle<a id=1312></a>
+### Titre Ier : Services de contrôle<a id=1313></a>
 
-#### Chapitre Ier : Inspection du travail.<a id=1313></a>
+#### Chapitre Ier : Inspection du travail.<a id=1314></a>
 
 ###### Article D611-1
 
@@ -109000,7 +109064,7 @@ _Cite_:
   - Code du travail - art. L611-11
 
 
-#### Chapitre II : Inspection médicale du travail.<a id=1314></a>
+#### Chapitre II : Inspection médicale du travail.<a id=1315></a>
 
 ###### Article D612-1
 
@@ -109038,13 +109102,13 @@ _Cite_:
   - Code du travail - art. L241-1
 
 
-## Livre VII : Dispositions particulières à certaines professions<a id=1315></a>
+## Livre VII : Dispositions particulières à certaines professions<a id=1316></a>
 
-### Titre Ier : Energie - Industries extractives<a id=1316></a>
+### Titre Ier : Energie - Industries extractives<a id=1317></a>
 
-#### Chapitre Ier : Mines et carrières<a id=1317></a>
+#### Chapitre Ier : Mines et carrières<a id=1318></a>
 
-##### Section 2 : Hygiène et sécurité - Services médicaux.<a id=1318></a>
+##### Section 2 : Hygiène et sécurité - Services médicaux.<a id=1319></a>
 
 ###### Article D711-1
 
@@ -109063,7 +109127,7 @@ _Cite_:
   - Code du travail
 
 
-##### Paragraphe 1 : Organisation générale.<a id=1319></a>
+##### Paragraphe 1 : Organisation générale.<a id=1320></a>
 
 ###### Article D711-2
 
@@ -109158,7 +109222,7 @@ _Cite_:
   - Code du travail - art. D711-4
 
 
-##### Paragraphe 2 : Obligations des médecins du travail.<a id=1320></a>
+##### Paragraphe 2 : Obligations des médecins du travail.<a id=1321></a>
 
 ###### Article D711-6
 
@@ -109453,7 +109517,7 @@ _Cite_:
   - Code de la sécurité sociale.
 
 
-##### Paragraphe 3 : Personnel - Locaux et matériels.<a id=1321></a>
+##### Paragraphe 3 : Personnel - Locaux et matériels.<a id=1322></a>
 
 ###### Article D711-17
 
@@ -109472,7 +109536,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 4 : Incompatibilités.<a id=1322></a>
+##### Paragraphe 4 : Incompatibilités.<a id=1323></a>
 
 ###### Article D711-18
 
@@ -109493,7 +109557,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 5 : Qualification des médecins du travail<a id=1323></a>
+##### Paragraphe 5 : Qualification des médecins du travail<a id=1324></a>
 
 ###### Article D711-19
 
@@ -109507,7 +109571,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 6 : Dispositions diverses.<a id=1324></a>
+##### Paragraphe 6 : Dispositions diverses.<a id=1325></a>
 
 ###### Article D711-20
 
@@ -109527,7 +109591,7 @@ _Cite_:
   - Code du travail - art. D711-4
 
 
-#### Chapitre II : Délégués mineurs.<a id=1325></a>
+#### Chapitre II : Délégués mineurs.<a id=1326></a>
 
 ###### Article D712-1
 
@@ -109680,9 +109744,9 @@ _Cite_:
   - Code du travail
 
 
-### Titre III : Bâtiment et travaux publics<a id=1326></a>
+### Titre III : Bâtiment et travaux publics<a id=1327></a>
 
-#### Chapitre II : Congés payés des professions du bâtiment et des travaux publics.<a id=1327></a>
+#### Chapitre II : Congés payés des professions du bâtiment et des travaux publics.<a id=1328></a>
 
 ###### Article D732-1
 
@@ -109987,9 +110051,9 @@ _Nouveaux textes_:
   - Code du travail - art. D732-11 (V)
 
 
-### Titre IV : Transports et télécommunications<a id=1328></a>
+### Titre IV : Transports et télécommunications<a id=1329></a>
 
-#### Chapitre Ier : Travailleurs intermittents des transports : congés payés.<a id=1329></a>
+#### Chapitre Ier : Travailleurs intermittents des transports : congés payés.<a id=1330></a>
 
 ###### Article D741-1
 
@@ -110183,11 +110247,11 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-#### Chapitre II : Marins<a id=1330></a>
+#### Chapitre II : Marins<a id=1331></a>
 
-##### Section 1 : Conventions relatives au travail<a id=1331></a>
+##### Section 1 : Conventions relatives au travail<a id=1332></a>
 
-##### Paragraphe 2 : Salaires.<a id=1332></a>
+##### Paragraphe 2 : Salaires.<a id=1333></a>
 
 ###### Article D742-1
 
@@ -110228,7 +110292,7 @@ _Cite_:
   - Code du travail - art. D742-1
 
 
-##### Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.<a id=1333></a>
+##### Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.<a id=1334></a>
 
 ###### Article D742-3
 
@@ -110382,9 +110446,9 @@ _Cite_:
   - Code du travail - art. L436-1
 
 
-##### Section 3 : Règlement des conflits collectifs de travail<a id=1334></a>
+##### Section 3 : Règlement des conflits collectifs de travail<a id=1335></a>
 
-##### Paragraphe 2 : Médiation.<a id=1335></a>
+##### Paragraphe 2 : Médiation.<a id=1336></a>
 
 ###### Article D742-12
 
@@ -110478,7 +110542,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-#### Chapitre III : Personnels des entreprises de manutention des ports : congés payés.<a id=1336></a>
+#### Chapitre III : Personnels des entreprises de manutention des ports : congés payés.<a id=1337></a>
 
 ###### Article D743-2
 
@@ -110544,7 +110608,7 @@ _Anciens textes_:
   - Loi   1936-06-20
 
 
-#### Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.<a id=1337></a>
+#### Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.<a id=1338></a>
 
 ###### Article D744-1
 
@@ -110603,9 +110667,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-### Titre III : Transports et télécommunications<a id=1338></a>
+### Titre III : Transports et télécommunications<a id=1339></a>
 
-#### Chapitre III : Personnels des entreprises de manutention des ports : congés payés.<a id=1339></a>
+#### Chapitre III : Personnels des entreprises de manutention des ports : congés payés.<a id=1340></a>
 
 ###### Article D743-1
 
@@ -110722,7 +110786,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-### Titre V : Voyageurs, représentants et placiers.<a id=1340></a>
+### Titre V : Voyageurs, représentants et placiers.<a id=1341></a>
 
 ###### Article D751-1
 
@@ -111002,11 +111066,11 @@ _Nouveaux textes_:
   - Code du travail - art. D7312-21 (V)
 
 
-### Titre VI : Journalistes, artistes, mannequins<a id=1341></a>
+### Titre VI : Journalistes, artistes, mannequins<a id=1342></a>
 
-#### Chapitre II : Artistes, compositeurs, gens de lettres<a id=1342></a>
+#### Chapitre II : Artistes, compositeurs, gens de lettres<a id=1343></a>
 
-##### Section 2 : Artistes du spectacle : congés payés.<a id=1343></a>
+##### Section 2 : Artistes du spectacle : congés payés.<a id=1344></a>
 
 ###### Article D762-1
 
@@ -111342,11 +111406,11 @@ _Nouveaux textes_:
   - Code du travail - art. D7121-30 (V)
 
 
-### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison<a id=1344></a>
+### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison<a id=1345></a>
 
-#### Chapitre III : Assistantes maternelles<a id=1345></a>
+#### Chapitre III : Assistantes maternelles<a id=1346></a>
 
-##### Section 1 : Dispositions générales.<a id=1346></a>
+##### Section 1 : Dispositions générales.<a id=1347></a>
 
 ###### Article D773-1
 
@@ -111390,7 +111454,7 @@ _Cite_:
   - Code du travail - art. L773-5 (M)
 
 
-##### Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.<a id=1347></a>
+##### Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.<a id=1348></a>
 
 ###### Article D773-3
 
@@ -111435,9 +111499,9 @@ _Cite_:
   - Code du travail - art. L773-15 (M)
 
 
-### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises<a id=1348></a>
+### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises<a id=1349></a>
 
-#### Chapitre III : Halles centrales de Paris.<a id=1349></a>
+#### Chapitre III : Halles centrales de Paris.<a id=1350></a>
 
 ###### Article D783-1
 
@@ -111466,17 +111530,17 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L783-7 (Ab)
 
 
-## Livre VIII : Dispositions spéciales aux départements d'outre-mer<a id=1350></a>
+## Livre VIII : Dispositions spéciales aux départements d'outre-mer<a id=1351></a>
 
-### Titre Ier : Conventions relatives au travail<a id=1351></a>
+### Titre Ier : Conventions relatives au travail<a id=1352></a>
 
-#### Chapitre Ier : Apprentissage<a id=1352></a>
+#### Chapitre Ier : Apprentissage<a id=1353></a>
 
-##### Section 1 : Des centres de formation d'apprentis<a id=1353></a>
+##### Section 1 : Des centres de formation d'apprentis<a id=1354></a>
 
-##### Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis<a id=1354></a>
+##### Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis<a id=1355></a>
 
-##### Dispositions générales.<a id=1355></a>
+##### Dispositions générales.<a id=1356></a>
 
 ###### Article D811-1
 
@@ -111574,7 +111638,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### De l'organisation des centres.<a id=1356></a>
+##### De l'organisation des centres.<a id=1357></a>
 
 ###### Article D811-4
 
@@ -111757,7 +111821,7 @@ _Cité par_:
   - Code du travail - art. D811-72 (Ab)
 
 
-##### Du fonctionnement pédagogique des centres.<a id=1357></a>
+##### Du fonctionnement pédagogique des centres.<a id=1358></a>
 
 ###### Article D811-9
 
@@ -111922,7 +111986,7 @@ _Cité par_:
   - Code du travail - art. D811-12 (Ab)
 
 
-##### De l'organisation financière des centres.<a id=1358></a>
+##### De l'organisation financière des centres.<a id=1359></a>
 
 ###### Article D811-14
 
@@ -112006,7 +112070,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Paragraphe 2 : De la conclusion et du renouvellement des conventions.<a id=1359></a>
+##### Paragraphe 2 : De la conclusion et du renouvellement des conventions.<a id=1360></a>
 
 ###### Article D811-17
 
@@ -112197,7 +112261,7 @@ _Cité par_:
   - Code du travail - art. D811-20 (Ab)
 
 
-##### Paragraphe 3 : Du personnel des centres de formation d'apprentis.<a id=1360></a>
+##### Paragraphe 3 : Du personnel des centres de formation d'apprentis.<a id=1361></a>
 
 ###### Article D811-23
 
@@ -112387,7 +112451,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Paragraphe 4 : Du contrôle des centres de formation d'apprentis.<a id=1361></a>
+##### Paragraphe 4 : Du contrôle des centres de formation d'apprentis.<a id=1362></a>
 
 ###### Article D811-28
 
@@ -112536,9 +112600,9 @@ _Cite_:
   - Code du travail L811-30
 
 
-##### Section 2 : Du contrat d'apprentissage<a id=1362></a>
+##### Section 2 : Du contrat d'apprentissage<a id=1363></a>
 
-##### De l'agrément de l'employeur.<a id=1363></a>
+##### De l'agrément de l'employeur.<a id=1364></a>
 
 ###### Article D811-32
 
@@ -112696,7 +112760,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### De la durée de l'apprentissage.<a id=1364></a>
+##### De la durée de l'apprentissage.<a id=1365></a>
 
 ###### Article D811-37
 
@@ -112799,9 +112863,9 @@ _Cite_:
   - Code du travail - art. L117-13 (M)
 
 
-##### Avis d'orientation<a id=1365></a>
+##### Avis d'orientation<a id=1366></a>
 
-##### Certificat médical.<a id=1366></a>
+##### Certificat médical.<a id=1367></a>
 
 ###### Article D811-40
 
@@ -112834,7 +112898,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Du contenu des contrats d'apprentissage.<a id=1367></a>
+##### Du contenu des contrats d'apprentissage.<a id=1368></a>
 
 ###### Article D811-41
 
@@ -112920,7 +112984,7 @@ _Cite_:
   - Code du travail - art. D811-55 (Ab)
 
 
-##### De l'enregistrement du contrat d'apprentissage.<a id=1368></a>
+##### De l'enregistrement du contrat d'apprentissage.<a id=1369></a>
 
 ###### Article D811-44
 
@@ -113024,7 +113088,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Cas de l'apprenti employé par un ascendant.<a id=1369></a>
+##### Cas de l'apprenti employé par un ascendant.<a id=1370></a>
 
 ###### Article D811-47
 
@@ -113090,7 +113154,7 @@ _Cite_:
   - Code du travail - art. D811-45 (Ab)
 
 
-##### Constatation de l'aptitude de l'apprenti.<a id=1370></a>
+##### Constatation de l'aptitude de l'apprenti.<a id=1371></a>
 
 ###### Article D811-49
 
@@ -113151,7 +113215,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.<a id=1371></a>
+##### Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.<a id=1372></a>
 
 ###### Article D811-51
 
@@ -113212,7 +113276,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Section 4 : Dispositions financières.<a id=1372></a>
+##### Section 4 : Dispositions financières.<a id=1373></a>
 
 ###### Article D811-53
 
@@ -113460,11 +113524,11 @@ _Cité par_:
   - Code du travail - art. D811-80 (Ab)
 
 
-##### Section 5 : Dispositions provisoires<a id=1373></a>
+##### Section 5 : Dispositions provisoires<a id=1374></a>
 
-##### Paragraphe 1 : Des accords provisoires<a id=1374></a>
+##### Paragraphe 1 : Des accords provisoires<a id=1375></a>
 
-##### Dispositions générales.<a id=1375></a>
+##### Dispositions générales.<a id=1376></a>
 
 ###### Article D811-61
 
@@ -113605,7 +113669,7 @@ _Cite_:
   - Code du travail - art. D811-31 (Ab)
 
 
-##### Des accords simples.<a id=1376></a>
+##### Des accords simples.<a id=1377></a>
 
 ###### Article D811-65
 
@@ -113703,7 +113767,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Des accords de transformation.<a id=1377></a>
+##### Des accords de transformation.<a id=1378></a>
 
 ###### Article D811-68
 
@@ -113886,7 +113950,7 @@ _Cite_:
   - Code du travail D811-14 A D811-16
 
 
-##### Dispositions relatives au personnel.<a id=1378></a>
+##### Dispositions relatives au personnel.<a id=1379></a>
 
 ###### Article D811-74
 
@@ -114057,7 +114121,7 @@ _Cite_:
   - Code du travail - art. D811-74 (Ab)
 
 
-##### Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.<a id=1379></a>
+##### Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.<a id=1380></a>
 
 ###### Article D811-79
 
@@ -114091,7 +114155,7 @@ _Cite_:
   - Code du travail - art. L117-5 (M)
 
 
-##### Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.<a id=1380></a>
+##### Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.<a id=1381></a>
 
 ###### Article D811-80
 
@@ -114131,9 +114195,9 @@ _Cite_:
   - Code du travail D811-57 a , D811-59, D811-60
 
 
-#### Chapitre IV : Salaire<a id=1381></a>
+#### Chapitre IV : Salaire<a id=1382></a>
 
-##### Section 1 : Salaire minimum de croissance.<a id=1382></a>
+##### Section 1 : Salaire minimum de croissance.<a id=1383></a>
 
 ###### Article D814-1
 
@@ -114157,7 +114221,7 @@ _Cite_:
   - Code du travail
 
 
-##### Section 2 : Règles particulières à la répartition des pourboires.<a id=1383></a>
+##### Section 2 : Règles particulières à la répartition des pourboires.<a id=1384></a>
 
 ###### Article D814-4
 
@@ -114185,11 +114249,11 @@ _Cite_:
   - Code du travail - art. R147-2
 
 
-### Titre II : Réglementation du travail<a id=1384></a>
+### Titre II : Réglementation du travail<a id=1385></a>
 
-#### Chapitre II : Services médicaux du travail<a id=1385></a>
+#### Chapitre II : Services médicaux du travail<a id=1386></a>
 
-##### Section 1 : Organisation et fonctionnement des services médicaux du travail.<a id=1386></a>
+##### Section 1 : Organisation et fonctionnement des services médicaux du travail.<a id=1387></a>
 
 ###### Article D822-1
 
@@ -114447,7 +114511,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe a) Les médecins du travail.<a id=1387></a>
+##### Paragraphe a) Les médecins du travail.<a id=1388></a>
 
 ###### Article D822-10
 
@@ -114517,7 +114581,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe b) Visites d'embauchage.<a id=1388></a>
+##### Paragraphe b) Visites d'embauchage.<a id=1389></a>
 
 ###### Article D822-12
 
@@ -114568,7 +114632,7 @@ _Cité par_:
   - Code du travail - art. D822-20 (Ab)
 
 
-##### Paragraphe c) Examens médicaux périodiques des salariés.<a id=1389></a>
+##### Paragraphe c) Examens médicaux périodiques des salariés.<a id=1390></a>
 
 ###### Article D822-13
 
@@ -114599,7 +114663,7 @@ _Cité par_:
   - Code du travail - art. D822-20 (Ab)
 
 
-##### Paragraphe d) Visite de reprise.<a id=1390></a>
+##### Paragraphe d) Visite de reprise.<a id=1391></a>
 
 ###### Article D822-14
 
@@ -114624,7 +114688,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe e) Examens complémentaires.<a id=1391></a>
+##### Paragraphe e) Examens complémentaires.<a id=1392></a>
 
 ###### Article D822-15
 
@@ -114670,7 +114734,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe f) Surveillance de l'hygiène des entreprises.<a id=1392></a>
+##### Paragraphe f) Surveillance de l'hygiène des entreprises.<a id=1393></a>
 
 ###### Article D822-17
 
@@ -114821,7 +114885,7 @@ _Cite_:
   - Loi   1964-10-30 ART. 73
 
 
-##### Section 3 : Infirmiers et infirmières.<a id=1393></a>
+##### Section 3 : Infirmiers et infirmières.<a id=1394></a>
 
 ###### Article D822-22
 
@@ -114944,7 +115008,7 @@ _Cite_:
   - Code du travail - art. D822-22 (Ab)
 
 
-##### Section 4 : Locaux et matériel.<a id=1394></a>
+##### Section 4 : Locaux et matériel.<a id=1395></a>
 
 ###### Article D822-26
 
@@ -114993,7 +115057,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Section 5 : Dispositions particulières.<a id=1395></a>
+##### Section 5 : Dispositions particulières.<a id=1396></a>
 
 ###### Article D822-27
 
@@ -115016,9 +115080,9 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-### Titre III : Placement et emploi<a id=1396></a>
+### Titre III : Placement et emploi<a id=1397></a>
 
-#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=1397></a>
+#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=1398></a>
 
 ###### Article D831-1
 
@@ -115048,9 +115112,9 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. R341-8 (M)
 
 
-### Titre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1398></a>
+### Titre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1399></a>
 
-#### Chapitre Ier : Inspection du travail.<a id=1399></a>
+#### Chapitre Ier : Inspection du travail.<a id=1400></a>
 
 ###### Article D861-1
 
@@ -115072,9 +115136,9 @@ _Nouveaux textes_:
   - Code du travail - art. D8322-1 (V)
 
 
-### Titre VII : Dispositions particulières à certaines professions<a id=1400></a>
+### Titre VII : Dispositions particulières à certaines professions<a id=1401></a>
 
-#### Chapitre Ier : Journalistes professionnels.<a id=1401></a>
+#### Chapitre Ier : Journalistes professionnels.<a id=1402></a>
 
 ###### Article D871-1
 
@@ -115096,13 +115160,13 @@ _Cite_:
   - Code du travail - art. R761-4
 
 
-## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1402></a>
+## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1403></a>
 
-### CONVENTIONS RELATIVES AU TRAVAIL<a id=1403></a>
+### CONVENTIONS RELATIVES AU TRAVAIL<a id=1404></a>
 
-#### APPRENTISSAGE<a id=1404></a>
+#### APPRENTISSAGE<a id=1405></a>
 
-##### DISPOSITIONS FINANCIERES .<a id=1405></a>
+##### DISPOSITIONS FINANCIERES .<a id=1406></a>
 
 ###### Article D811-52
 
@@ -115158,11 +115222,11 @@ _Cite_:
   - Code du travail - art. L117-9 (M)
 
 
-## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1406></a>
+## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1407></a>
 
-### Titre Ier : Des institutions de la formation professionnelle<a id=1407></a>
+### Titre Ier : Des institutions de la formation professionnelle<a id=1408></a>
 
-#### Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=1408></a>
+#### Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=1409></a>
 
 ###### Article D910-7
 
@@ -115743,7 +115807,7 @@ _Cité par_:
   - Code de l'éducation - art. D251-8 (M)
 
 
-#### Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.<a id=1409></a>
+#### Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.<a id=1410></a>
 
 ###### Article D910-22
 
@@ -115911,7 +115975,7 @@ _Abrogé par_:
   - Décret n°95-328 du 20 mars 1995 - art. 3 () JORF 25 mars 1995
 
 
-### Titre IV : De l'aide de l'Etat.<a id=1410></a>
+### Titre IV : De l'aide de l'Etat.<a id=1411></a>
 
 ###### Article D940-1
 
@@ -116033,7 +116097,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-### Titre V : De la participation des employeurs au financement de la formation professionnelle continue.<a id=1411></a>
+### Titre V : De la participation des employeurs au financement de la formation professionnelle continue.<a id=1412></a>
 
 ###### Article D950-1
 
@@ -116175,11 +116239,11 @@ _Cite_:
   - Code du travail - art. L900-3 (M)
 
 
-## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1412></a>
+## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1413></a>
 
-### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1413></a>
+### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1414></a>
 
-#### ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .<a id=1414></a>
+#### ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .<a id=1415></a>
 
 ###### Article D910-1
 
@@ -116348,7 +116412,7 @@ _Cité par_:
   - Code du travail - art. D910-5 (M)
 
 
-### AIDE DE L'ETAT .<a id=1415></a>
+### AIDE DE L'ETAT .<a id=1416></a>
 
 ###### Article D940-5
 
@@ -116374,11 +116438,11 @@ _Cite_:
   - Code du travail - art. D940-2 (V)
 
 
-## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1416></a>
+## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1417></a>
 
-### Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1417></a>
+### Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1418></a>
 
-#### SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.<a id=1418></a>
+#### SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.<a id=1419></a>
 
 ###### Article D910-2
 
@@ -116437,15 +116501,15 @@ _Anciens textes_:
   - Décret n°70-827 1970-09-16 ART. 2
 
 
-# Annexes<a id=1419></a>
+# Annexes<a id=1420></a>
 
-## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1420></a>
+## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1421></a>
 
-### Titre 3 : Les comités d'entreprise<a id=1421></a>
+### Titre 3 : Les comités d'entreprise<a id=1422></a>
 
-#### Chapitre 8 : Bilan social<a id=1422></a>
+#### Chapitre 8 : Bilan social<a id=1423></a>
 
-##### Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.<a id=1423></a>
+##### Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.<a id=1424></a>
 
 ###### Article Annexe à l'article R438-1
 
