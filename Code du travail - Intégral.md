@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-02-01 00:00:01 +0100
+Version Consolidée au 1981-04-13
 ## Contenu: 
   - [Partie législative ancienne](#1)
     - [Livre Ier : Conventions relatives au travail](#2)
@@ -1196,236 +1196,234 @@ Version Consolidée au 1981-02-01 00:00:01 +0100
         - [Section 3 : Modalités d'application de l'article L. 970-3.](#1193)
           - [Sous-section 1 : Actions de formation organisées à l'initiative de l'administration.](#1194)
           - [Sous-section 2 : Participation des agents non titulaires aux cycles ou stages offerts ou agréés par l'administration en vue de la préparation aux concours administratifs et aux examens professionnels.](#1195)
-    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1196)
-      - [COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .](#1197)
-      - [DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.](#1198)
-      - [DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-2.](#1199)
-      - [MESURES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-11.](#1200)
-      - [MESURES D'APPLICATION DE L'ARTICLE L930-2 .](#1201)
-      - [MESURES D'APPLICATION DE L'ARTICLE L. 930-1-12.](#1202)
-      - [MESURE D'APPLICATION DE L'ARTICLE L. 930-2](#1203)
-      - [MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10](#1204)
-        - [DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA  FORMATION PROFESSIONNELLE CONTINUE .](#1205)
-        - [CONSULTATION DU COMITE D'ENTREPRISE .](#1206)
-        - [DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU  FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .](#1207)
-        - [CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .](#1208)
-      - [MODALITES D'APPLICATION DE L'ARTICLE L970-3](#1209)
-        - [PARTICIPATION DES AGENTS NON TITULAIRES AUX CYCLES OU STAGES  OFFERTS OU AGREES PAR L'ADMINISTRATION EN VUE DE LA PREPARATION AUX  CONCOURS ADMINISTRATIFS ET AUX EXAMENS PROFESSIONNELS .](#1210)
-        - [ACTIONS CHOISIES PAR LES AGENTS NON TITULAIRES EN VUE DE LEUR  FORMATION PERSONNELLE .](#1211)
-        - [PARTICIPATION DES AGENTS NON TITULAIRES EXERCANT A PLEIN TEMPS  DES FONCTIONS PERMANENTES AUX STAGES DE CONVERSION OU DE PROMOTION  PROFESSIONNELLE .](#1212)
-      - [DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER](#1213)
-        - [APPLICATION DES DISPOSITIONS DES ARTICLES L. 930-1 A L. 930-2 ET L. 950-1 A L. 950-10.](#1214)
-      - [MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10](#1215)
-        - [REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.](#1216)
-    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1217)
-      - [Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10](#1218)
-        - [SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .](#1219)
-  - [Partie réglementaire ancienne - Décrets simples](#1220)
-    - [Livre Ier : Conventions relatives au travail](#1221)
-      - [Titre Ier : Contrats d'apprentissage](#1222)
-        - [Dispositions applicables aux contrats conclus à partir du 1er juillet 1972](#1223)
-          - [Chapitre VII : Salaire de l'apprenti.](#1224)
-      - [Titre Ier : CONTRAT D'APPRENTISSAGE](#1225)
-        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972](#1226)
-          - [Chapitre VII : SALAIRE DE L'APPRENTI .](#1227)
-      - [Titre II : CONTRAT DE TRAVAIL](#1228)
-        - [Chapitre IV : Travail temporaire.](#1229)
-      - [Titre III : Conventions collectives de travail](#1230)
-        - [Chapitre IV : Conventions collectives dans les entreprises publiques.](#1231)
-      - [Titre IV : Salaire](#1232)
-        - [Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale](#1233)
-          - [Section 1 : Dispositions générales.](#1234)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.](#1235)
-          - [Section 3 : Dispositions spéciales aux salariés agricoles.](#1236)
-        - [Chapitre Ier : Salaire minimum de croissance](#1237)
-          - [Rémunération mensuelle minimale](#1238)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.](#1239)
-        - [Chapitre II : Rémunération des heures supplémentaires - Primes de transport - Conversion de certains avantages en nature.](#1240)
-        - [Chapitre III : PAIEMENT DU SALAIRE](#1241)
-          - [SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .](#1242)
-    - [CONVENTIONS RELATIVES AU TRAVAIL](#1243)
-      - [CONTRAT D'APPRENTISSAGE](#1244)
-        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972](#1245)
-          - [SALAIRE DE L'APPRENTI .](#1246)
-      - [CONTRAT DE TRAVAIL](#1247)
-        - [TRAVAIL TEMPORAIRE .](#1248)
-    - [Livre II : Réglementation du travail](#1249)
-      - [Titre Ier : Conditions du travail](#1250)
-        - [Chapitre Ier : Age d'admission.](#1251)
-        - [Chapitre II : DUREE DU TRAVAIL](#1252)
-          - [SECTION 1 : RECUPERATION DES HEURES PERDUES.](#1253)
-          - [Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.](#1254)
-      - [Titre II : Repos et congés](#1255)
-        - [Chapitre III : Congés annuels.](#1256)
-      - [Titre III : Hygiène et sécurité](#1257)
-        - [Chapitre III : Sécurité.](#1258)
-    - [Livre III : Placement et emploi](#1259)
-      - [Titre Ier : Placement](#1260)
-        - [Chapitre Ier : Service public du placement.](#1261)
-      - [Titre II : Emploi](#1262)
-        - [Chapitre Ier : Contrôle de l'emploi.](#1263)
-        - [Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs](#1264)
-          - [Section 2 : Travailleurs handicapés](#1265)
-          - [Sous-section 1 : Dispositions générales.](#1266)
-          - [Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail.](#1267)
-          - [Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.](#1268)
-          - [Sous-section 4 : Travail protégé.](#1269)
-          - [Section 3 : Emploi obligatoire des pères de famille.](#1270)
-        - [Chapitre IV : Cumuls d'emplois et travail clandestin.](#1271)
-      - [Titre III : Agence nationale pour l'emploi.](#1272)
-      - [Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale](#1273)
-        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère](#1274)
-          - [Section 1 : Travailleurs étrangers.](#1275)
-        - [Chapitre II : Protection de la main-d'oeuvre nationale.](#1276)
-      - [Titre V : Travailleurs privés d'emploi](#1277)
-        - [Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi](#1278)
-          - [Section 1 : Privation totale d'emploi.](#1279)
-          - [Section 2 : PRIVATION PARTIELLE D'EMPLOI.](#1280)
-          - [Section 5 : Création d'entreprises par les salariés privés d'emploi.](#1281)
-        - [Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.](#1282)
-    - [EMPLOI](#1283)
-      - [FONDS NATIONAL DE L'EMPLOI - PRIME DE MOBILITE DES JEUNES .](#1284)
-      - [FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .](#1285)
-      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS](#1286)
-        - [TRAVAILLEURS HANDICAPES](#1287)
-          - [TRAVAIL PROTEGE .](#1288)
-    - [Livre III : EMPLOI](#1289)
-      - [Titre II : EMPLOI](#1290)
-        - [Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#1291)
-          - [SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE.](#1292)
-          - [SECTION 2 : TRAVAILLEURS HANDICAPES](#1293)
-          - [SOUS-SECTION 4 : TRAVAIL PROTEGE.](#1294)
-    - [PLACEMENT ET EMPLOI](#1295)
-      - [DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#1296)
-        - [TRAVAILLEURS ETRANGERS .](#1297)
-    - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](#1298)
-      - [LES SYNDICATS PROFESSIONNELS](#1299)
-        - [EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .](#1300)
-      - [LES COMITES D'ENTREPRISE](#1301)
-        - [COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .](#1302)
-      - [INTERESSEMENT ET PARTICIPATION .](#1303)
-        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .](#1304)
-    - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1305)
-      - [Titre III : Les comités d'entreprise](#1306)
-        - [Chapitre VII : Amélioration des conditions de travail.](#1307)
-    - [Livre V : Conflits du travail](#1308)
-      - [Titre II : Conflits collectifs](#1309)
-        - [Chapitre IV : Médiation.](#1310)
-    - [CONFLITS DU TRAVAIL](#1311)
-      - [CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES](#1312)
-        - [DEPENSES DES CONSEILS DE PRUD'HOMMES .](#1313)
-    - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1314)
-      - [Titre Ier : Services de contrôle](#1315)
-        - [Chapitre Ier : Inspection du travail.](#1316)
-        - [Chapitre II : Inspection médicale du travail.](#1317)
-    - [Livre VII : Dispositions particulières à certaines professions](#1318)
-      - [Titre Ier : Energie - Industries extractives](#1319)
-        - [Chapitre Ier : Mines et carrières](#1320)
-          - [Section 2 : Hygiène et sécurité - Services médicaux.](#1321)
-          - [Paragraphe 1 : Organisation générale.](#1322)
-          - [Paragraphe 2 : Obligations des médecins du travail.](#1323)
-          - [Paragraphe 3 : Personnel - Locaux et matériels.](#1324)
-          - [Paragraphe 4 : Incompatibilités.](#1325)
-          - [Paragraphe 5 : Qualification des médecins du travail](#1326)
-          - [Paragraphe 6 : Dispositions diverses.](#1327)
-        - [Chapitre II : Délégués mineurs.](#1328)
-      - [Titre III : Bâtiment et travaux publics](#1329)
-        - [Chapitre II : Congés payés des professions du bâtiment et des travaux publics.](#1330)
-      - [Titre IV : Transports et télécommunications](#1331)
-        - [Chapitre Ier : Travailleurs intermittents des transports : congés payés.](#1332)
-        - [Chapitre II : Marins](#1333)
-          - [Section 1 : Conventions relatives au travail](#1334)
-          - [Paragraphe 2 : Salaires.](#1335)
-          - [Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.](#1336)
-          - [Section 3 : Règlement des conflits collectifs de travail](#1337)
-          - [Paragraphe 2 : Médiation.](#1338)
-        - [Chapitre III : Personnels des entreprises de manutention des ports : congés payés.](#1339)
-        - [Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.](#1340)
-      - [Titre III : Transports et télécommunications](#1341)
-        - [Chapitre III : Personnels des entreprises de manutention des ports : congés payés.](#1342)
-      - [Titre V : Voyageurs, représentants et placiers.](#1343)
-      - [Titre VI : Journalistes, artistes, mannequins](#1344)
-        - [Chapitre II : Artistes, compositeurs, gens de lettres](#1345)
-          - [Section 2 : Artistes du spectacle : congés payés.](#1346)
-      - [Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison](#1347)
-        - [Chapitre III : Assistantes maternelles](#1348)
-          - [Section 1 : Dispositions générales.](#1349)
-          - [Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.](#1350)
-      - [Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises](#1351)
-        - [Chapitre III : Halles centrales de Paris.](#1352)
-    - [Livre VIII : Dispositions spéciales aux départements d'outre-mer](#1353)
-      - [Titre Ier : Conventions relatives au travail](#1354)
-        - [Chapitre Ier : Apprentissage](#1355)
-          - [Section 1 : Des centres de formation d'apprentis](#1356)
-          - [Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis](#1357)
-          - [Dispositions générales.](#1358)
-          - [De l'organisation des centres.](#1359)
-          - [Du fonctionnement pédagogique des centres.](#1360)
-          - [De l'organisation financière des centres.](#1361)
-          - [Paragraphe 2 : De la conclusion et du renouvellement des conventions.](#1362)
-          - [Paragraphe 3 : Du personnel des centres de formation d'apprentis.](#1363)
-          - [Paragraphe 4 : Du contrôle des centres de formation d'apprentis.](#1364)
-          - [Section 2 : Du contrat d'apprentissage](#1365)
-          - [De l'agrément de l'employeur.](#1366)
-          - [De la durée de l'apprentissage.](#1367)
-          - [Avis d'orientation](#1368)
-          - [Certificat médical.](#1369)
-          - [Du contenu des contrats d'apprentissage.](#1370)
-          - [De l'enregistrement du contrat d'apprentissage.](#1371)
-          - [Cas de l'apprenti employé par un ascendant.](#1372)
-          - [Constatation de l'aptitude de l'apprenti.](#1373)
-          - [Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.](#1374)
-          - [Section 4 : Dispositions financières.](#1375)
-          - [Section 5 : Dispositions provisoires](#1376)
-          - [Paragraphe 1 : Des accords provisoires](#1377)
-          - [Dispositions générales.](#1378)
-          - [Des accords simples.](#1379)
-          - [Des accords de transformation.](#1380)
-          - [Dispositions relatives au personnel.](#1381)
-          - [Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.](#1382)
-          - [Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.](#1383)
-        - [Chapitre IV : Salaire](#1384)
-          - [Section 1 : Salaire minimum de croissance.](#1385)
-          - [Section 2 : Règles particulières à la répartition des pourboires.](#1386)
-      - [Titre II : Réglementation du travail](#1387)
-        - [Chapitre II : Services médicaux du travail](#1388)
-          - [Section 1 : Organisation et fonctionnement des services médicaux du travail.](#1389)
-          - [Paragraphe a) Les médecins du travail.](#1390)
-          - [Paragraphe b) Visites d'embauchage.](#1391)
-          - [Paragraphe c) Examens médicaux périodiques des salariés.](#1392)
-          - [Paragraphe d) Visite de reprise.](#1393)
-          - [Paragraphe e) Examens complémentaires.](#1394)
-          - [Paragraphe f) Surveillance de l'hygiène des entreprises.](#1395)
-          - [Section 3 : Infirmiers et infirmières.](#1396)
-          - [Section 4 : Locaux et matériel.](#1397)
-          - [Section 5 : Dispositions particulières.](#1398)
-      - [Titre III : Placement et emploi](#1399)
-        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.](#1400)
-      - [Titre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1401)
-        - [Chapitre Ier : Inspection du travail.](#1402)
-      - [Titre VII : Dispositions particulières à certaines professions](#1403)
-        - [Chapitre Ier : Journalistes professionnels.](#1404)
-    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#1405)
-      - [CONVENTIONS RELATIVES AU TRAVAIL](#1406)
-        - [APPRENTISSAGE](#1407)
-          - [DISPOSITIONS FINANCIERES .](#1408)
-    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](#1409)
-      - [Titre Ier : Des institutions de la formation professionnelle](#1410)
-        - [Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.](#1411)
-        - [Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.](#1412)
-      - [Titre IV : De l'aide de l'Etat.](#1413)
-      - [Titre V : De la participation des employeurs au financement de la formation professionnelle continue.](#1414)
-    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1415)
-      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1416)
-        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .](#1417)
-    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1418)
-      - [Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1419)
-        - [SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.](#1420)
-  - [Annexes](#1421)
-    - [Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1422)
-      - [Titre 3 : Les comités d'entreprise](#1423)
-        - [Chapitre 8 : Bilan social](#1424)
-          - [Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.](#1425)
+          - [Sous-section 3 : Actions choisies par les agents non titulaires en vue de leur formation personnelle.](#1196)
+          - [Sous-section 4 : Participation des agents ayant quitté l'administration à des stages de formation professionnelle continue.](#1197)
+    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1198)
+      - [COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .](#1199)
+      - [DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.](#1200)
+      - [DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-2.](#1201)
+      - [MESURES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-11.](#1202)
+      - [MESURES D'APPLICATION DE L'ARTICLE L930-2 .](#1203)
+      - [MESURES D'APPLICATION DE L'ARTICLE L. 930-1-12.](#1204)
+      - [MESURE D'APPLICATION DE L'ARTICLE L. 930-2](#1205)
+      - [MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10](#1206)
+        - [DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA  FORMATION PROFESSIONNELLE CONTINUE .](#1207)
+        - [CONSULTATION DU COMITE D'ENTREPRISE .](#1208)
+        - [DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU  FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .](#1209)
+        - [CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .](#1210)
+      - [DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER](#1211)
+        - [APPLICATION DES DISPOSITIONS DES ARTICLES L. 930-1 A L. 930-2 ET L. 950-1 A L. 950-10.](#1212)
+      - [MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10](#1213)
+        - [REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.](#1214)
+    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1215)
+      - [Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10](#1216)
+        - [SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .](#1217)
+  - [Partie réglementaire ancienne - Décrets simples](#1218)
+    - [Livre Ier : Conventions relatives au travail](#1219)
+      - [Titre Ier : Contrats d'apprentissage](#1220)
+        - [Dispositions applicables aux contrats conclus à partir du 1er juillet 1972](#1221)
+          - [Chapitre VII : Salaire de l'apprenti.](#1222)
+      - [Titre Ier : CONTRAT D'APPRENTISSAGE](#1223)
+        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972](#1224)
+          - [Chapitre VII : SALAIRE DE L'APPRENTI .](#1225)
+      - [Titre II : CONTRAT DE TRAVAIL](#1226)
+        - [Chapitre IV : Travail temporaire.](#1227)
+      - [Titre III : Conventions collectives de travail](#1228)
+        - [Chapitre IV : Conventions collectives dans les entreprises publiques.](#1229)
+      - [Titre IV : Salaire](#1230)
+        - [Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale](#1231)
+          - [Section 1 : Dispositions générales.](#1232)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.](#1233)
+          - [Section 3 : Dispositions spéciales aux salariés agricoles.](#1234)
+        - [Chapitre Ier : Salaire minimum de croissance](#1235)
+          - [Rémunération mensuelle minimale](#1236)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.](#1237)
+        - [Chapitre II : Rémunération des heures supplémentaires - Primes de transport - Conversion de certains avantages en nature.](#1238)
+        - [Chapitre III : PAIEMENT DU SALAIRE](#1239)
+          - [SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .](#1240)
+    - [CONVENTIONS RELATIVES AU TRAVAIL](#1241)
+      - [CONTRAT D'APPRENTISSAGE](#1242)
+        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972](#1243)
+          - [SALAIRE DE L'APPRENTI .](#1244)
+      - [CONTRAT DE TRAVAIL](#1245)
+        - [TRAVAIL TEMPORAIRE .](#1246)
+    - [Livre II : Réglementation du travail](#1247)
+      - [Titre Ier : Conditions du travail](#1248)
+        - [Chapitre Ier : Age d'admission.](#1249)
+        - [Chapitre II : DUREE DU TRAVAIL](#1250)
+          - [SECTION 1 : RECUPERATION DES HEURES PERDUES.](#1251)
+          - [Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.](#1252)
+      - [Titre II : Repos et congés](#1253)
+        - [Chapitre III : Congés annuels.](#1254)
+      - [Titre III : Hygiène et sécurité](#1255)
+        - [Chapitre III : Sécurité.](#1256)
+    - [Livre III : Placement et emploi](#1257)
+      - [Titre Ier : Placement](#1258)
+        - [Chapitre Ier : Service public du placement.](#1259)
+      - [Titre II : Emploi](#1260)
+        - [Chapitre Ier : Contrôle de l'emploi.](#1261)
+        - [Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs](#1262)
+          - [Section 2 : Travailleurs handicapés](#1263)
+          - [Sous-section 1 : Dispositions générales.](#1264)
+          - [Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail.](#1265)
+          - [Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.](#1266)
+          - [Sous-section 4 : Travail protégé.](#1267)
+          - [Section 3 : Emploi obligatoire des pères de famille.](#1268)
+        - [Chapitre IV : Cumuls d'emplois et travail clandestin.](#1269)
+      - [Titre III : Agence nationale pour l'emploi.](#1270)
+      - [Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale](#1271)
+        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère](#1272)
+          - [Section 1 : Travailleurs étrangers.](#1273)
+        - [Chapitre II : Protection de la main-d'oeuvre nationale.](#1274)
+      - [Titre V : Travailleurs privés d'emploi](#1275)
+        - [Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi](#1276)
+          - [Section 1 : Privation totale d'emploi.](#1277)
+          - [Section 2 : PRIVATION PARTIELLE D'EMPLOI.](#1278)
+          - [Section 5 : Création d'entreprises par les salariés privés d'emploi.](#1279)
+        - [Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.](#1280)
+    - [EMPLOI](#1281)
+      - [FONDS NATIONAL DE L'EMPLOI - PRIME DE MOBILITE DES JEUNES .](#1282)
+      - [FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .](#1283)
+      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS](#1284)
+        - [TRAVAILLEURS HANDICAPES](#1285)
+          - [TRAVAIL PROTEGE .](#1286)
+    - [Livre III : EMPLOI](#1287)
+      - [Titre II : EMPLOI](#1288)
+        - [Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS](#1289)
+          - [SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE.](#1290)
+          - [SECTION 2 : TRAVAILLEURS HANDICAPES](#1291)
+          - [SOUS-SECTION 4 : TRAVAIL PROTEGE.](#1292)
+    - [PLACEMENT ET EMPLOI](#1293)
+      - [DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](#1294)
+        - [TRAVAILLEURS ETRANGERS .](#1295)
+    - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](#1296)
+      - [LES SYNDICATS PROFESSIONNELS](#1297)
+        - [EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .](#1298)
+      - [LES COMITES D'ENTREPRISE](#1299)
+        - [COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .](#1300)
+      - [INTERESSEMENT ET PARTICIPATION .](#1301)
+        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .](#1302)
+    - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1303)
+      - [Titre III : Les comités d'entreprise](#1304)
+        - [Chapitre VII : Amélioration des conditions de travail.](#1305)
+    - [Livre V : Conflits du travail](#1306)
+      - [Titre II : Conflits collectifs](#1307)
+        - [Chapitre IV : Médiation.](#1308)
+    - [CONFLITS DU TRAVAIL](#1309)
+      - [CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES](#1310)
+        - [DEPENSES DES CONSEILS DE PRUD'HOMMES .](#1311)
+    - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1312)
+      - [Titre Ier : Services de contrôle](#1313)
+        - [Chapitre Ier : Inspection du travail.](#1314)
+        - [Chapitre II : Inspection médicale du travail.](#1315)
+    - [Livre VII : Dispositions particulières à certaines professions](#1316)
+      - [Titre Ier : Energie - Industries extractives](#1317)
+        - [Chapitre Ier : Mines et carrières](#1318)
+          - [Section 2 : Hygiène et sécurité - Services médicaux.](#1319)
+          - [Paragraphe 1 : Organisation générale.](#1320)
+          - [Paragraphe 2 : Obligations des médecins du travail.](#1321)
+          - [Paragraphe 3 : Personnel - Locaux et matériels.](#1322)
+          - [Paragraphe 4 : Incompatibilités.](#1323)
+          - [Paragraphe 5 : Qualification des médecins du travail](#1324)
+          - [Paragraphe 6 : Dispositions diverses.](#1325)
+        - [Chapitre II : Délégués mineurs.](#1326)
+      - [Titre III : Bâtiment et travaux publics](#1327)
+        - [Chapitre II : Congés payés des professions du bâtiment et des travaux publics.](#1328)
+      - [Titre IV : Transports et télécommunications](#1329)
+        - [Chapitre Ier : Travailleurs intermittents des transports : congés payés.](#1330)
+        - [Chapitre II : Marins](#1331)
+          - [Section 1 : Conventions relatives au travail](#1332)
+          - [Paragraphe 2 : Salaires.](#1333)
+          - [Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.](#1334)
+          - [Section 3 : Règlement des conflits collectifs de travail](#1335)
+          - [Paragraphe 2 : Médiation.](#1336)
+        - [Chapitre III : Personnels des entreprises de manutention des ports : congés payés.](#1337)
+        - [Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.](#1338)
+      - [Titre III : Transports et télécommunications](#1339)
+        - [Chapitre III : Personnels des entreprises de manutention des ports : congés payés.](#1340)
+      - [Titre V : Voyageurs, représentants et placiers.](#1341)
+      - [Titre VI : Journalistes, artistes, mannequins](#1342)
+        - [Chapitre II : Artistes, compositeurs, gens de lettres](#1343)
+          - [Section 2 : Artistes du spectacle : congés payés.](#1344)
+      - [Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison](#1345)
+        - [Chapitre III : Assistantes maternelles](#1346)
+          - [Section 1 : Dispositions générales.](#1347)
+          - [Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.](#1348)
+      - [Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises](#1349)
+        - [Chapitre III : Halles centrales de Paris.](#1350)
+    - [Livre VIII : Dispositions spéciales aux départements d'outre-mer](#1351)
+      - [Titre Ier : Conventions relatives au travail](#1352)
+        - [Chapitre Ier : Apprentissage](#1353)
+          - [Section 1 : Des centres de formation d'apprentis](#1354)
+          - [Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis](#1355)
+          - [Dispositions générales.](#1356)
+          - [De l'organisation des centres.](#1357)
+          - [Du fonctionnement pédagogique des centres.](#1358)
+          - [De l'organisation financière des centres.](#1359)
+          - [Paragraphe 2 : De la conclusion et du renouvellement des conventions.](#1360)
+          - [Paragraphe 3 : Du personnel des centres de formation d'apprentis.](#1361)
+          - [Paragraphe 4 : Du contrôle des centres de formation d'apprentis.](#1362)
+          - [Section 2 : Du contrat d'apprentissage](#1363)
+          - [De l'agrément de l'employeur.](#1364)
+          - [De la durée de l'apprentissage.](#1365)
+          - [Avis d'orientation](#1366)
+          - [Certificat médical.](#1367)
+          - [Du contenu des contrats d'apprentissage.](#1368)
+          - [De l'enregistrement du contrat d'apprentissage.](#1369)
+          - [Cas de l'apprenti employé par un ascendant.](#1370)
+          - [Constatation de l'aptitude de l'apprenti.](#1371)
+          - [Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.](#1372)
+          - [Section 4 : Dispositions financières.](#1373)
+          - [Section 5 : Dispositions provisoires](#1374)
+          - [Paragraphe 1 : Des accords provisoires](#1375)
+          - [Dispositions générales.](#1376)
+          - [Des accords simples.](#1377)
+          - [Des accords de transformation.](#1378)
+          - [Dispositions relatives au personnel.](#1379)
+          - [Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.](#1380)
+          - [Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.](#1381)
+        - [Chapitre IV : Salaire](#1382)
+          - [Section 1 : Salaire minimum de croissance.](#1383)
+          - [Section 2 : Règles particulières à la répartition des pourboires.](#1384)
+      - [Titre II : Réglementation du travail](#1385)
+        - [Chapitre II : Services médicaux du travail](#1386)
+          - [Section 1 : Organisation et fonctionnement des services médicaux du travail.](#1387)
+          - [Paragraphe a) Les médecins du travail.](#1388)
+          - [Paragraphe b) Visites d'embauchage.](#1389)
+          - [Paragraphe c) Examens médicaux périodiques des salariés.](#1390)
+          - [Paragraphe d) Visite de reprise.](#1391)
+          - [Paragraphe e) Examens complémentaires.](#1392)
+          - [Paragraphe f) Surveillance de l'hygiène des entreprises.](#1393)
+          - [Section 3 : Infirmiers et infirmières.](#1394)
+          - [Section 4 : Locaux et matériel.](#1395)
+          - [Section 5 : Dispositions particulières.](#1396)
+      - [Titre III : Placement et emploi](#1397)
+        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.](#1398)
+      - [Titre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1399)
+        - [Chapitre Ier : Inspection du travail.](#1400)
+      - [Titre VII : Dispositions particulières à certaines professions](#1401)
+        - [Chapitre Ier : Journalistes professionnels.](#1402)
+    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#1403)
+      - [CONVENTIONS RELATIVES AU TRAVAIL](#1404)
+        - [APPRENTISSAGE](#1405)
+          - [DISPOSITIONS FINANCIERES .](#1406)
+    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](#1407)
+      - [Titre Ier : Des institutions de la formation professionnelle](#1408)
+        - [Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.](#1409)
+        - [Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.](#1410)
+      - [Titre IV : De l'aide de l'Etat.](#1411)
+      - [Titre V : De la participation des employeurs au financement de la formation professionnelle continue.](#1412)
+    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1413)
+      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1414)
+        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .](#1415)
+    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1416)
+      - [Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1417)
+        - [SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.](#1418)
+  - [Annexes](#1419)
+    - [Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1420)
+      - [Titre 3 : Les comités d'entreprise](#1421)
+        - [Chapitre 8 : Bilan social](#1422)
+          - [Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.](#1423)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : Conventions relatives au travail<a id=2></a>
@@ -101640,6 +101638,41 @@ _Abrogé par_:
   - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
 
 
+###### Article R970-17
+
+Sauf dispositions réglementaires contraires un fonctionnaire ayant déjà bénéficié d'autorisations d'absence pour suivre
+pendant son temps de service une action de préparation aux concours administratifs ou aux examens professionnels :
+
+- en cas de succès dès la première année, ne peut bénéficier d'autorisations d'absence pour suivre un autre cycle pédagogique
+avant un délai de douze mois à compter de la fin de la session de formation ;
+
+- en cas d'échec, peut bénéficier une seconde fois d'autorisations d'absence pour suivre le même cycle mais, quel que soit le
+résultat, il ne pourra alors bénéficier d'aucune autorisation d'absence pour suivre un nouveau cycle avant vingt-quatre mois.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°81-339 1981-04-07 art. 1 JORF 13 avril 1981
+
+_Abrogé par_:
+
+  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
 ##### Sous-section 3 : Actions de formation choisies par les fonctionnaires en vue de leur formation personnelle.<a id=1192></a>
 
 ###### Article R970-18
@@ -101676,6 +101709,99 @@ _Cité par_:
 
   - Arrêté du 31 décembre 1975 - art. 4 (V)
   - Code du travail - art. R970-19 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
+###### Article R970-19
+
+Lorsque la disponibilité a été accordée à un agent en application de l'article 9-a ci-dessus, un contrat d'études peut lui
+être alloué. Le contingent annuel des contrats d'études et les modalités d'attribution font l'objet d'arrêtés du ministre du
+budget et du ministre chargé de la fonction publique.
+
+Lorsque la mise en disponibilité est accordée en application de l'article 9-b ci-dessus, pour suivre une formation ayant reçu
+l'agrément de l'Etat au titre du présent article et sous réserve qu'il ait accompli au moins trois années ou l'équivalent de
+trois années de services effectifs dans l'administration, le fonctionnaire peut percevoir une indemnité mensuelle forfaitaire
+égale à 85 p. 100 du traitement brut et de l'indemnité de résidence qu'il percevait au moment de sa mise en disponibilité. Le
+montant de cette indemnité ne peut toutefois excéder le traitement et l'indemnité de résidence afférents à l'indice brut 379
+d'un agent en fonctions à Paris.
+
+Cette indemnité est à la charge du service dont relève l'intéressé. La durée pendant laquelle elle est versée est limitée à
+douze mois. Ces douze mois peuvent être utilisés en une seule fois ou répartis au long de la carrière en stages à temps plein
+d'une durée minimale de trois mois.
+
+Un fonctionnaire ayant bénéficié d'une autorisation d'absence pour participer à une action de formation relevant du titre II
+ne peut obtenir une mise en disponibilité pour formation dans les douze mois qui suivent la fin de l'action pour laquelle
+l'autorisation lui a été accordée.
+
+L'agrément prévu à l'alinéa 2 est accordé par arrêté du ministre chargé de la fonction publique, après avis du groupe de
+coordination de la formation professionnelle continue dans la fonction publique et de la commission de la formation
+professionnelle du conseil supérieur de la fonction publique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 31 décembre 1975
+  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 6 (V)
+
+_Modifié par_:
+
+  - Décret n°81-339 1981-04-07 art. 3 JORF 13 avril 1981
+
+_Abrogé par_:
+
+  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+_Cite_:
+
+  - Code du travail - art. R970-18 (Ab)
+  - Code du travail R970-18, L960-1 A L960-16
+
+
+###### Article R970-19-1
+
+La demande de mise en disponibilité pour suivre une formation doit être formulée au plus tard soixante jours à l'avance.
+
+Elle doit indiquer la date à laquelle commence la formation, sa désignation et sa durée, ainsi que le nom de l'organisme
+responsable .
+
+Dans les trente jours qui suivent le réception de la demande, le chef de service doit faire connaître à l'intéressé sa
+décision.
+
+Le fonctionnaire mis en disponibilité pour formation est astreint à rester au service de l'Etat pendant une période dont la
+durée est égale au triple de celle pendant laquelle l'indemnité prévue à l'article 10 ci-dessus lui a été versée.
+
+Le fonctionnaire doit, à la fin de chaque mois et au moment de la reprise du travail, remettre à l'administration une
+attestation de présence effective en formation.
+
+En cas de constat d'absence sans motif valable, il est mis fin à la disponibilité de l'agent ; celui-ci doit alors rembourser
+les indemnités perçues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Créé par_:
+
+  - Décret n°81-339 1981-04-07 art. 4 JORF 13 avril 1981
 
 _Abrogé par_:
 
@@ -101936,9 +102062,361 @@ _Cite_:
   - Code du travail
 
 
-## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1196></a>
+###### Article R970-29
 
-### COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .<a id=1197></a>
+Sauf dispositions réglementaires contraires, un agent ayant déjà bénéficié d'autorisations d'absence pour suivre pendant son
+temps de service une action de préparation aux concours administratifs ou aux examens professionnels :
+
+- en cas de succès dès la première année, ne peut bénéficier d'autorisation d'absence pour suivre un autre cycle pédagogique
+avant un délai de douze mois à compter de la fin de la session de formation ;
+
+- en cas d'échec, peut bénéficier une seconde fois d'autorisation d'absence pour suivre le même cycle mais, quel que soit le
+résultat, il ne pourra alors bénéficier d'aucune autorisation d'absence pour suivre un nouveau cycle avant vingt-quatre mois.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+  - Décret n°75-205 1975-03-26
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°81-340 1981-04-07 art. 1 JORF 13 avril 1981
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+##### Sous-section 3 : Actions choisies par les agents non titulaires en vue de leur formation personnelle.<a id=1196></a>
+
+###### Article R970-30
+
+I - Les agents non titulaires visés à l'article 1er et justifiant de trois années ou l'équivalent de trois années de services
+effectifs dans l'administration et désirant suivre, en vue de leur formation personnelle, une des actions de formation ayant
+reçu l'agrément de l'Etat au titre du présent article, ont droit sur demande adressée à leur chef de service à un congé de
+formation. Peuvent être prises en compte les interruptions de service si leur total n'excède pas deux mois au cours de la
+période considérée.
+
+Le total des périodes de congés accordées pour formation sur le fondement des dispositions du présent titre ne peut excéder
+trois ans.
+
+Un agent ayant bénéficié d'une autorisation d'absence pour participer à une action de formation relevant du titre II ne peut
+obtenir une mise en congé pour formation dans les douze mois qui suivent la fin de l'action pour laquelle l'autorisation lui
+a été accordée.
+
+II - L'agrément prévu à l'alinéa I est accordé par arrêté du ministre chargé de la fonction publique, après avis du groupe de
+coordination de la formation professionnelle continue dans la fonction publique et de la commission de formation
+professionnelle du conseil supérieur de la fonction publique.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+  - Décret n°75-205 1975-03-26
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°81-340 1981-04-07 art. 2 JORF 13 avril 1981
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+_Cité par_:
+
+  - Code du travail - art. R970-31 (M)
+  - Code du travail - art. R970-32 (M)
+
+
+###### Article R970-31
+
+L'agent mis en congé pour formation peut percevoir une indemnité mensuelle forfaitaire égale à 85 p. 100 du traitement brut
+et de l'indemnité de résidence qu'il percevait au moment de sa mise en congé.
+
+Le montant de cette indemnité ne peut toutefois excéder le traitement et l'indemnité de résidence afférents à l'indice brut
+379 d'un agent en fonctions à Paris.
+
+Cette indemnité est à la charge du service dont relève l'intéressé. La durée pendant laquelle elle est versée est limitée à
+douze mois qui peuvent être fractionnés en une ou plusieurs fois en stages à temps plein d'une durée minimale de trois mois.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+  - Décret n°75-205 1975-03-26
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°81-340 1981-04-07 art. 3 JORF 13 avril 1981
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+###### Article R970-32
+
+La demande de congé doit être formulée au plus tard soixante jours à l'avance [*délai*].
+
+Elle doit indiquer [*mentions obligatoires*] la date à laquelle commence la formation, sa désignation et sa durée ainsi que
+le nom de l'organisme responsable.
+
+Dans les trente jours qui suivent la réception de la demande, le chef de service doit faire connaître à l'intéressé son
+accord ou les raisons qui motivent le rejet ou le report de la demande.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+  - Décret n°75-205 1975-03-26
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°81-340 1981-04-07 art. 4 JORF 13 avril 1981
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+###### Article R970-33
+
+L'agent bénéficiaire du congé de formation doit, à la fin de chaque mois et au moment de la reprise du travail, remettre à
+l'administration une attestation de fréquentation effective du stage.
+
+La non-fréquentation du stage sans motif valable entraîne la suppression du congé de formation accordé à l'intéressé et le
+remboursement des rémunérations perçues.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+  - Décret n°75-205 1975-03-26
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°81-340 1981-04-07 art. 5 JORF 13 avril 1981
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+###### Article R970-34
+
+Les agents non titulaires visés à l'article 1er ont droit, pendant les trois premières années de présence dans
+l'administration et jusqu'à ce qu'ils atteignent l'âge de vingt ans révolus, à un congé pour suivre une action de formation
+ayant reçu l'agrément de l'Etat. Cet agrément est accordé par arrêté du ministre chargé de la fonction publique. Le droit à
+congé est ouvert aux intéressés dès qu'ils ont accompli six mois de services effectifs.
+
+Ce congé est assimilé à une période de service effectif.
+
+La durée de congé, qui ne peut excéder 200 heures par an, ne peut être imputée sur la durée du congé payé annuel.
+
+Les heures de congé peuvent être reportées d'une année à l'autre à la demande des agents intéressés.
+
+Le congé total peut être utilisé en une ou plusieurs fois pour suivre des stages, continus ou discontinus, à temps plein ou à
+temps partiel.
+
+La demande de congé doit être formulée dans les conditions fixées à l'article 11.
+
+La durée pendant laquelle le congé peut être reporté pour raison de service ne peut excéder trois mois.
+
+Ce report du congé ne peut entraîner sa suppression pour les agents qui atteignent l'âge de vingt ans ou une durée de trois
+ans de présence dans l'administration après le dépôt de leur demande. Ils conservent le droit de prendre le congé défini au
+premier alinéa au-delà de vingt ans ou après plus de trois ans de présence dans l'administration sans préjudice de
+l'application éventuelle de l'article 9 du présent décret.
+
+Les agents perçoivent leur rémunération pendant la durée de leur congé. Cette rémunération est à la charge du service dont
+relève l'intéressé.
+
+Le bénéficiaire d'un congé accordé en application du présent article doit, à la fin de chaque mois et au moment de la reprise
+du travail, remettre au chef de service dont il relève une attestation de fréquentation effective du stage. La non-
+fréquentation du stage sans motif valable entraîne la suppression du congé et le remboursement des rémunérations perçues. Il
+en est de même de l'exercice d'une activité rémunérée.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+  - Décret n°75-205 1975-03-26
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°81-340 1981-04-07 art. 6 JORF 13 avril 1981
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+##### Sous-section 4 : Participation des agents ayant quitté l'administration à des stages de formation professionnelle continue.<a id=1197></a>
+
+###### Article R970-35
+
+Les agents non titulaires visés à l'article 1er qui, après leur départ de l'administration, participent à une action de
+formation du type de celles définies à l'article 1er de la loi du 17 juillet 1978 peuvent bénéficier des aides financières
+accordées par l'Etat aux stagiaires de la formation professionnelle dans le cadre du chapitre II de la même loi et des textes
+réglementaires pris pour son application.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+  - Décret n°75-205 1975-03-26
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°81-340 1981-04-07 art. 8 JORF 13 avril 1981
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+_Cité par_:
+
+  - Code du travail - art. R970-35 (M)
+
+
+###### Article R970-36
+
+Les agents non titulaires visés à l'article 1er comptant au moins trois années de services effectifs dans l'administration et
+auxquels une décision de licenciement a été notifiée sont de droit mis en congé, sauf si cette décision constitue une
+sanction disciplinaire ou a pour motif l'insuffisance professionnelle, s'ils s'inscrivent, entre la date de préavis et celle
+du licenciement, à une action de formation du type de celles définies à l'article 1er de la loi du 17 juillet 1978 agréée par
+l'Etat dans les conditions fixées à l'article 10 de la loi du 17 juillet 1978.
+
+Sont prises en compte au titre des services effectifs continus les interruptions de service dont le total n'excède pas deux
+mois au cours de la période considérée.
+
+Pendant cette période, l'intéressé continue à percevoir sa rémunération. Si le stage se poursuit après la date de
+licenciement, il bénéficie, jusqu'à la fin du stage, des aides financières calculées dans les conditions prévues au chapitre
+II de la loi mentionnée ci-dessus et par les textes pris pour son application.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+  - Décret n°75-205 1975-03-26
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°81-340 1981-04-07 art. 9 JORF 13 avril 1981
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+_Cité par_:
+
+  - Code du travail - art. R970-37 (VT)
+
+
+###### Article R970-37
+
+La perception d'une rémunération dans les conditions fixées à l'article R. 970-36 ne fait pas obstacle au versement de
+l'indemnité de licenciement prévue par le décret n° 72-512 du 22 juin 1972.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+  - Décret n°75-205 1975-03-26
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°81-340 1981-04-07 art. 1 JORF 13 avril 1981
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1198></a>
+
+### COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .<a id=1199></a>
 
 ###### Article R910-1
 
@@ -102117,7 +102595,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-### DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.<a id=1198></a>
+### DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.<a id=1200></a>
 
 ###### Article R930-1
 
@@ -102213,7 +102691,7 @@ _Cite_:
   - Code du travail L930-1 A L930-1-12
 
 
-### DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-2.<a id=1199></a>
+### DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-2.<a id=1201></a>
 
 ###### Article R930-4
 
@@ -102310,7 +102788,7 @@ _Cité par_:
   - Code du travail - art. R941-3 (VT)
 
 
-### MESURES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-11.<a id=1200></a>
+### MESURES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-11.<a id=1202></a>
 
 ###### Article R930-7
 
@@ -102417,7 +102895,7 @@ _Cite_:
   - Code du travail L930-1 A L930-1-11
 
 
-### MESURES D'APPLICATION DE L'ARTICLE L930-2 .<a id=1201></a>
+### MESURES D'APPLICATION DE L'ARTICLE L930-2 .<a id=1203></a>
 
 ###### Article R930-13
 
@@ -102590,7 +103068,7 @@ _Nouveaux textes_:
   - Code du travail - art. R931-19 (V)
 
 
-### MESURES D'APPLICATION DE L'ARTICLE L. 930-1-12.<a id=1202></a>
+### MESURES D'APPLICATION DE L'ARTICLE L. 930-1-12.<a id=1204></a>
 
 ###### Article R930-10
 
@@ -102679,7 +103157,7 @@ _Nouveaux textes_:
   - Code du travail - art. R931-12 (Ab)
 
 
-### MESURE D'APPLICATION DE L'ARTICLE L. 930-2<a id=1203></a>
+### MESURE D'APPLICATION DE L'ARTICLE L. 930-2<a id=1205></a>
 
 ###### Article R930-14
 
@@ -102709,9 +103187,9 @@ _Nouveaux textes_:
   - Code du travail - art. R931-14 (V)
 
 
-### MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10<a id=1204></a>
+### MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10<a id=1206></a>
 
-#### DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA  FORMATION PROFESSIONNELLE CONTINUE .<a id=1205></a>
+#### DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA  FORMATION PROFESSIONNELLE CONTINUE .<a id=1207></a>
 
 ###### Article R950-3
 
@@ -103073,7 +103551,7 @@ _Nouveaux textes_:
   - Code du travail - art. R950-17 (T)
 
 
-#### CONSULTATION DU COMITE D'ENTREPRISE .<a id=1206></a>
+#### CONSULTATION DU COMITE D'ENTREPRISE .<a id=1208></a>
 
 ###### Article R950-14
 
@@ -103129,7 +103607,7 @@ _Nouveaux textes_:
   - Code du travail - art. R950-18 (V)
 
 
-#### DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU  FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .<a id=1207></a>
+#### DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU  FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .<a id=1209></a>
 
 ###### Article R950-15
 
@@ -103362,7 +103840,7 @@ _Nouveaux textes_:
   - Code du travail - art. R950-22 (M)
 
 
-#### CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .<a id=1208></a>
+#### CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .<a id=1210></a>
 
 ###### Article R950-19
 
@@ -103471,391 +103949,9 @@ _Nouveaux textes_:
   - Code du travail - art. R950-25 (Ab)
 
 
-### MODALITES D'APPLICATION DE L'ARTICLE L970-3<a id=1209></a>
+### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER<a id=1211></a>
 
-#### PARTICIPATION DES AGENTS NON TITULAIRES AUX CYCLES OU STAGES  OFFERTS OU AGREES PAR L'ADMINISTRATION EN VUE DE LA PREPARATION AUX  CONCOURS ADMINISTRATIFS ET AUX EXAMENS PROFESSIONNELS .<a id=1210></a>
-
-###### Article R970-29
-
-Sauf dispositions réglementaires contraires, un agent ayant déjà bénéficié d'autorisations d'absence pour suivre pendant son
-temps de service une action de préparation aux concours administratifs ou aux examens professionnels ne peut prétendre au
-bénéfice d'un autre cycle pédagogique de même nature avant un délai de douze mois à compter de la fin de la session de
-formation.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-
-#### ACTIONS CHOISIES PAR LES AGENTS NON TITULAIRES EN VUE DE LEUR  FORMATION PERSONNELLE .<a id=1211></a>
-
-###### Article R970-30
-
-I. Les agents non titulaires exerçant à temps plein des fonctions permanentes comptant plus de trois ans de services
-effectifs continus [*ancienneté*] dans l'administration et qui désirent suivre, en vue de leur formation personnelle, une des
-actions de formation ayant reçu l'agrément de l'Etat, au titre du présent article ont droit, sur demande adressée à leur chef
-de service, à un congé. Peuvent être pris en compte les interruptions de service si leur total n'excède pas deux mois au
-cours de la période considérée.
-
-II. Dans chaque administration centrale, établissement public national, service départemental, régional ou interrégional
-relevant de chaque ministère, la satisfaction de certaines demandes est différée si le nombre d'heures de congé accordées en
-application de la présente sous-section dépasse 1 p. 100 du nombre total des heures de travail effectuées l'année précédente
-par l'ensemble des agents mentionnés au I ci-dessus.
-
-III. Le congé correspond à la durée du stage, sans pouvoir excéder trois mois [*limite*] s'il s'agit d'un stage continu à
-temps plein, ou 300 heures s'il s'agit de stages constituant un cycle pédagogique comportant des enseignements discontinus ou
-à temps partiel.
-
-Le stage peut toutefois excéder trois mois ou 300 heures s'il s'agit d'un stage ayant fait l'objet d'un agrément spécial.
-
-IV. L'agrément prévu au I et l'agrément spécial prévu au III du présent article sont accordés par arrêté du ministre chargé
-de la fonction publique, après avis du groupe de coordination de la formation professionnelle continue dans la fonction
-publique et de la commission de formation professionnelle du conseil supérieur de la fonction publique.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-_Cité par_:
-
-  - Code du travail - art. R970-31 (M)
-  - Code du travail - art. R970-32 (M)
-
-_Cite_:
-
-  - Code du travail R970-30 A R970-37
-
-
-###### Article R970-31
-
-Les agents bénéficiaires du congé défini à l'article R. 970-30 perçoivent une rémunération égale à 75 p. 100 de leur
-traitement brut soumis à retenue pour cotisation de sécurité sociale et augmenté de l'indemnité de résidence ; la période du
-stage pendant laquelle les agents perçoivent cette rémunération ne peut excéder [*limite*] un jour ouvrable par deux mois de
-présence effective dans l'administration, au-delà des trois premières années.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-_Cite_:
-
-  - Code du travail - art. R970-30 (M)
-
-
-###### Article R970-32
-
-I. Lorsque les dispositions de l'article R. 970-30 ne permettent pas de satisfaire toutes les demandes, la priorité est
-accordée, dans l'ordre :
-
-Aux demandes présentées et qui ont déjà été différées ;
-
-Aux demandes qui sont formulées par les agents ayant le plus d'ancienneté dans l'administration.
-
-II. Un agent ayant bénéficié d'une action ou d'un congé de formation prévu aux sous-sections I, II et III de la présente
-section ne peut prétendre au bénéfice d'un nouveau congé de formation avant un délai exprimé en mois, et dont la durée est
-égale au huitième de la durée, exprimée en heures, de l'action précédemment suivie.
-
-III. Le nombre d'heures de congé auxquelles ont droit les agents au titre de l'aricle R. 970-30 peut être reporté d'une année
-à l'autre à la demande des agents intéressés.
-
-IV. Le congé total peut être utilisé en une ou plusieurs fois pour suivre des stages, continus ou discontinus, à temps plein
-ou à temps partiel.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-_Cite_:
-
-  - Code du travail - art. R970-30 (M)
-  - Code du travail R970-22 A R970-37
-
-
-###### Article R970-33
-
-L'agent bénéficiaire du congé de formation doit [*obligation périodicité*] à la fin de chaque mois et au moment de la reprise
-du travail, remettre à l'administration une attestation de fréquentation effective du stage.
-
-La non-fréquentation du stage sans motif valable entraîne la suppression du congé de formation accordé à l'intéressé et le
-remboursement des rémunérations perçues [*sanction*].
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-
-###### Article R970-34
-
-Les agents non titulaires exerçant à temps plein des fonctions permanentes dans un service de l'Etat ou dans un établissement
-public de l'Etat n'ayant pas le caractère industriel et commercial ont droit, pendant les trois premières années de présence
-dans l'administration et jusqu'à ce qu'ils atteignent l'âge de vingt ans révolus, à un congé pour suivre une action de
-formation ayant reçu l'agrément de l'Etat au titre de l'article L. 930-2. Le droit à congé est ouvert aux intéressés dés
-qu'ils ont accompli six mois de services effectifs [*ancienneté*].
-
-Ce congé est assimilé à une période de service effectif.
-
-La durée du congé, qui ne peut excéder cent heures par an, ne peut être imputée sur la durée du congé payé annuel.
-
-Les dispositions des articles R. 930-7 à R. 930-12 sont applicables aux agents mentionnés au premier alinéa du présent
-article.
-
-Les agents perçoivent leur rémunération pendant la durée de leur congé. Cette rémunération est à la charge du service dont
-relève l'intéressé.
-
-Le bénéficiaire d'un congé accordé en application du présent article doit, à la fin de chaque mois [*date*] et au moment de
-la reprise du travail, remettre au chef de service dont il relève une attestation de fréquentation effective du stage. La
-non-fréquentation du stage sans motif valable entraîne la suppression du congé et le remboursement des rémunérations perçues.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-_Cite_:
-
-  - Code du travail - art. L930-2 (M)
-  - Code du travail R930-7 A R930-12
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-
-#### PARTICIPATION DES AGENTS NON TITULAIRES EXERCANT A PLEIN TEMPS  DES FONCTIONS PERMANENTES AUX STAGES DE CONVERSION OU DE PROMOTION  PROFESSIONNELLE .<a id=1212></a>
-
-###### Article R970-35
-
-les agents non titulaires exerçant à temps plein des fonctions permanentes qui, aprés leur départ de l'administration,
-s'inscrivent à l'un des stages de conversion ou de promotion professionnelle mentionnés à l'article L. 940-2 peuvent
-bénéficier des aides financières accordées par l'Etat aux stagiaires de formation professionnelle dans le cadre du titre VI
-du présent livre et des textes réglementaires pris pour son application.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-_Cité par_:
-
-  - Code du travail - art. R970-35 (M)
-
-_Cite_:
-
-  - Code du travail L960-1 A L960-16
-
-
-###### Article R970-36
-
-Les agents non titulaires occupant à temps plein un emploi permanent comptant au moins trois années [*ancienneté*] de
-services effectifs et continus dans l'administration et auxquels une décision de licenciement a été notifiée sont de droit
-mis en congé, sauf si cette décision constitue une sanction disciplinaire ou a pour motif l'insuffisance professionnelle,
-s'ils s'inscrivent, entre la date de préavis et celle du licenciement, à un stage de conversion ou de formation
-professionnelle agréé par l'Etat dans les conditions fixées à l'article L. 960-2.
-
-Sont prises en compte au titre des services effectifs continus les interruptions de service régulières et dont le total
-n'excède pas deux mois au cours de la période considérée.
-
-Pendant cette période, ils continuent à percevoir leur rémunération. Si le stage se poursuit après la date de licenciement,
-l'intéressé bénéficie, jusqu'à la fin du stage, des aides financières calculées dans les conditions prévues au titre VI du
-présent livre et par les textes pris pour son application.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-_Cite_:
-
-  - Code du travail - art. L960-2 (M)
-  - Code du travail L960-1 A L960-16
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-_Cité par_:
-
-  - Code du travail - art. R970-37 (VT)
-
-
-###### Article R970-37
-
-La perception d'une rémunération dans les conditions fixées à l'article R. 970-36 ne fait pas obstacle au versement de
-l'indemnité de licenciement prévue par le décret n° 72-512 du 22 juin 1972.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Cite_:
-
-  - Décret n°72-512 1972-06-22
-  - Code du travail - art. R970-36 (M)
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-
-### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER<a id=1213></a>
-
-#### APPLICATION DES DISPOSITIONS DES ARTICLES L. 930-1 A L. 930-2 ET L. 950-1 A L. 950-10.<a id=1214></a>
+#### APPLICATION DES DISPOSITIONS DES ARTICLES L. 930-1 A L. 930-2 ET L. 950-1 A L. 950-10.<a id=1212></a>
 
 ###### Article R980-1
 
@@ -103976,7 +104072,7 @@ _Nouveaux textes_:
   - Code du travail - art. R990-3 (T)
 
 
-### MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10<a id=1215></a>
+### MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10<a id=1213></a>
 
 ###### Article R980-5
 
@@ -104043,7 +104139,7 @@ _Nouveaux textes_:
   - Code du travail - art. R981-5 (V)
 
 
-#### REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.<a id=1216></a>
+#### REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.<a id=1214></a>
 
 ###### Article R980-4
 
@@ -104132,11 +104228,11 @@ _Nouveaux textes_:
   - Code du travail - art. R990-8 (T)
 
 
-## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1217></a>
+## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1215></a>
 
-### Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10<a id=1218></a>
+### Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10<a id=1216></a>
 
-#### SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .<a id=1219></a>
+#### SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .<a id=1217></a>
 
 ###### Article R950-1
 
@@ -104176,15 +104272,15 @@ _Cite_:
   - Code du travail - art. L950-1 (M)
 
 
-# Partie réglementaire ancienne - Décrets simples<a id=1220></a>
+# Partie réglementaire ancienne - Décrets simples<a id=1218></a>
 
-## Livre Ier : Conventions relatives au travail<a id=1221></a>
+## Livre Ier : Conventions relatives au travail<a id=1219></a>
 
-### Titre Ier : Contrats d'apprentissage<a id=1222></a>
+### Titre Ier : Contrats d'apprentissage<a id=1220></a>
 
-#### Dispositions applicables aux contrats conclus à partir du 1er juillet 1972<a id=1223></a>
+#### Dispositions applicables aux contrats conclus à partir du 1er juillet 1972<a id=1221></a>
 
-##### Chapitre VII : Salaire de l'apprenti.<a id=1224></a>
+##### Chapitre VII : Salaire de l'apprenti.<a id=1222></a>
 
 ###### Article D117-4
 
@@ -104209,11 +104305,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-### Titre Ier : CONTRAT D'APPRENTISSAGE<a id=1225></a>
+### Titre Ier : CONTRAT D'APPRENTISSAGE<a id=1223></a>
 
-#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972<a id=1226></a>
+#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972<a id=1224></a>
 
-##### Chapitre VII : SALAIRE DE L'APPRENTI .<a id=1227></a>
+##### Chapitre VII : SALAIRE DE L'APPRENTI .<a id=1225></a>
 
 ###### Article D117-2
 
@@ -104241,9 +104337,9 @@ _Cité par_:
   - Code du travail - art. D811 (M)
 
 
-### Titre II : CONTRAT DE TRAVAIL<a id=1228></a>
+### Titre II : CONTRAT DE TRAVAIL<a id=1226></a>
 
-#### Chapitre IV : Travail temporaire.<a id=1229></a>
+#### Chapitre IV : Travail temporaire.<a id=1227></a>
 
 ###### Article D124-2
 
@@ -104270,9 +104366,9 @@ _Cite_:
   - Code du travail L223-11 AL. 1
 
 
-### Titre III : Conventions collectives de travail<a id=1230></a>
+### Titre III : Conventions collectives de travail<a id=1228></a>
 
-#### Chapitre IV : Conventions collectives dans les entreprises publiques.<a id=1231></a>
+#### Chapitre IV : Conventions collectives dans les entreprises publiques.<a id=1229></a>
 
 ###### Article D134-1
 
@@ -104347,11 +104443,11 @@ _Cite_:
   - Code du travail - art. L134-1 (M)
 
 
-### Titre IV : Salaire<a id=1232></a>
+### Titre IV : Salaire<a id=1230></a>
 
-#### Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale<a id=1233></a>
+#### Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale<a id=1231></a>
 
-##### Section 1 : Dispositions générales.<a id=1234></a>
+##### Section 1 : Dispositions générales.<a id=1232></a>
 
 ###### Article D141-1
 
@@ -104467,7 +104563,7 @@ _Nouveaux textes_:
   - Code du travail - art. R*3231-2 (V)
 
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.<a id=1235></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.<a id=1233></a>
 
 ###### Article D141-5
 
@@ -104562,7 +104658,7 @@ _Nouveaux textes_:
   - Code du travail - art. D3231-14 (V)
 
 
-##### Section 3 : Dispositions spéciales aux salariés agricoles.<a id=1236></a>
+##### Section 3 : Dispositions spéciales aux salariés agricoles.<a id=1234></a>
 
 ###### Article D141-11
 
@@ -104595,11 +104691,11 @@ _Cite_:
   - Code du travail - art. L141-8
 
 
-#### Chapitre Ier : Salaire minimum de croissance<a id=1237></a>
+#### Chapitre Ier : Salaire minimum de croissance<a id=1235></a>
 
-##### Rémunération mensuelle minimale<a id=1238></a>
+##### Rémunération mensuelle minimale<a id=1236></a>
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.<a id=1239></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.<a id=1237></a>
 
 ###### Article D141-7
 
@@ -104651,7 +104747,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-#### Chapitre II : Rémunération des heures supplémentaires - Primes de transport - Conversion de certains avantages en nature.<a id=1240></a>
+#### Chapitre II : Rémunération des heures supplémentaires - Primes de transport - Conversion de certains avantages en nature.<a id=1238></a>
 
 ###### Article D142-1
 
@@ -104710,9 +104806,9 @@ _Cite_:
   - Code du travail - art. D142-1
 
 
-#### Chapitre III : PAIEMENT DU SALAIRE<a id=1241></a>
+#### Chapitre III : PAIEMENT DU SALAIRE<a id=1239></a>
 
-##### SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .<a id=1242></a>
+##### SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .<a id=1240></a>
 
 ###### Article D143-1
 
@@ -104759,13 +104855,13 @@ _Cite_:
   - Code du travail - art. L143-11-6 (T)
 
 
-## CONVENTIONS RELATIVES AU TRAVAIL<a id=1243></a>
+## CONVENTIONS RELATIVES AU TRAVAIL<a id=1241></a>
 
-### CONTRAT D'APPRENTISSAGE<a id=1244></a>
+### CONTRAT D'APPRENTISSAGE<a id=1242></a>
 
-#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972<a id=1245></a>
+#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972<a id=1243></a>
 
-##### SALAIRE DE L'APPRENTI .<a id=1246></a>
+##### SALAIRE DE L'APPRENTI .<a id=1244></a>
 
 ###### Article D117-1
 
@@ -104840,9 +104936,9 @@ _Cite_:
   - Code du travail - art. L117-9 (M)
 
 
-### CONTRAT DE TRAVAIL<a id=1247></a>
+### CONTRAT DE TRAVAIL<a id=1245></a>
 
-#### TRAVAIL TEMPORAIRE .<a id=1248></a>
+#### TRAVAIL TEMPORAIRE .<a id=1246></a>
 
 ###### Article D124-1
 
@@ -104865,11 +104961,11 @@ _Cite_:
   - Code du travail - art. L124-5 (M)
 
 
-## Livre II : Réglementation du travail<a id=1249></a>
+## Livre II : Réglementation du travail<a id=1247></a>
 
-### Titre Ier : Conditions du travail<a id=1250></a>
+### Titre Ier : Conditions du travail<a id=1248></a>
 
-#### Chapitre Ier : Age d'admission.<a id=1251></a>
+#### Chapitre Ier : Age d'admission.<a id=1249></a>
 
 ###### Article D211-1
 
@@ -105009,9 +105105,9 @@ _Nouveaux textes_:
   - Code du travail - art. D4153-7 (V)
 
 
-#### Chapitre II : DUREE DU TRAVAIL<a id=1252></a>
+#### Chapitre II : DUREE DU TRAVAIL<a id=1250></a>
 
-##### SECTION 1 : RECUPERATION DES HEURES PERDUES.<a id=1253></a>
+##### SECTION 1 : RECUPERATION DES HEURES PERDUES.<a id=1251></a>
 
 ###### Article D212-1
 
@@ -105114,7 +105210,7 @@ _Nouveaux textes_:
   - Code du travail - art. R3122-7 (V)
 
 
-##### Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.<a id=1254></a>
+##### Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.<a id=1252></a>
 
 ###### Article D212-5
 
@@ -105397,9 +105493,9 @@ _Cite_:
   - Code du travail - art. D212-6 (V)
 
 
-### Titre II : Repos et congés<a id=1255></a>
+### Titre II : Repos et congés<a id=1253></a>
 
-#### Chapitre III : Congés annuels.<a id=1256></a>
+#### Chapitre III : Congés annuels.<a id=1254></a>
 
 ###### Article D223-1
 
@@ -105551,9 +105647,9 @@ _Nouveaux textes_:
   - Code du travail - art. D3141-7 (VT)
 
 
-### Titre III : Hygiène et sécurité<a id=1257></a>
+### Titre III : Hygiène et sécurité<a id=1255></a>
 
-#### Chapitre III : Sécurité.<a id=1258></a>
+#### Chapitre III : Sécurité.<a id=1256></a>
 
 ###### Article D233-1
 
@@ -105866,11 +105962,11 @@ _Cite_:
   - Code du travail
 
 
-## Livre III : Placement et emploi<a id=1259></a>
+## Livre III : Placement et emploi<a id=1257></a>
 
-### Titre Ier : Placement<a id=1260></a>
+### Titre Ier : Placement<a id=1258></a>
 
-#### Chapitre Ier : Service public du placement.<a id=1261></a>
+#### Chapitre Ier : Service public du placement.<a id=1259></a>
 
 ###### Article D311-1
 
@@ -105955,9 +106051,9 @@ _Nouveaux textes_:
   - Code du travail - art. R5332-2 (V)
 
 
-### Titre II : Emploi<a id=1262></a>
+### Titre II : Emploi<a id=1260></a>
 
-#### Chapitre Ier : Contrôle de l'emploi.<a id=1263></a>
+#### Chapitre Ier : Contrôle de l'emploi.<a id=1261></a>
 
 ###### Article D321-1
 
@@ -106085,11 +106181,11 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-#### Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=1264></a>
+#### Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=1262></a>
 
-##### Section 2 : Travailleurs handicapés<a id=1265></a>
+##### Section 2 : Travailleurs handicapés<a id=1263></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=1266></a>
+##### Sous-section 1 : Dispositions générales.<a id=1264></a>
 
 ###### Article D323-3-1
 
@@ -106464,7 +106560,7 @@ _Cité par_:
   - Code du travail - art. R323-50 (Ab)
 
 
-##### Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail.<a id=1267></a>
+##### Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail.<a id=1265></a>
 
 ###### Article D323-4
 
@@ -106630,7 +106726,7 @@ _Nouveaux textes_:
   - Code du travail - art. D5213-21 (Ab)
 
 
-##### Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.<a id=1268></a>
+##### Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.<a id=1266></a>
 
 ###### Article D323-11
 
@@ -106826,7 +106922,7 @@ _Cite_:
   - Code du travail - art. L323-24 (M)
 
 
-##### Sous-section 4 : Travail protégé.<a id=1269></a>
+##### Sous-section 4 : Travail protégé.<a id=1267></a>
 
 ###### Article D323-19
 
@@ -106974,7 +107070,7 @@ _Cite_:
   - Code du travail L141-1 et suivants
 
 
-##### Section 3 : Emploi obligatoire des pères de famille.<a id=1270></a>
+##### Section 3 : Emploi obligatoire des pères de famille.<a id=1268></a>
 
 ###### Article D323-26
 
@@ -107280,7 +107376,7 @@ _Abrogé par_:
   - Décret n°2006-152 du 13 février 2006 - art. 4 () JORF 14 février 2006 en vigueur le 1er janvier 2006
 
 
-#### Chapitre IV : Cumuls d'emplois et travail clandestin.<a id=1271></a>
+#### Chapitre IV : Cumuls d'emplois et travail clandestin.<a id=1269></a>
 
 ###### Article D324-1
 
@@ -107341,7 +107437,7 @@ _Cite_:
   - Code du travail - art. L324-4
 
 
-### Titre III : Agence nationale pour l'emploi.<a id=1272></a>
+### Titre III : Agence nationale pour l'emploi.<a id=1270></a>
 
 ###### Article D330-1
 
@@ -107355,11 +107451,11 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-### Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale<a id=1273></a>
+### Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale<a id=1271></a>
 
-#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère<a id=1274></a>
+#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère<a id=1272></a>
 
-##### Section 1 : Travailleurs étrangers.<a id=1275></a>
+##### Section 1 : Travailleurs étrangers.<a id=1273></a>
 
 ###### Article D341-2
 
@@ -107411,7 +107507,7 @@ _Abrogé par_:
   - Décret n°85-155 du 31 janvier 1985 - art. 1 ()
 
 
-#### Chapitre II : Protection de la main-d'oeuvre nationale.<a id=1276></a>
+#### Chapitre II : Protection de la main-d'oeuvre nationale.<a id=1274></a>
 
 ###### Article D342-1
 
@@ -107701,11 +107797,11 @@ _Cite_:
   - Code du travail - art. L342-2
 
 
-### Titre V : Travailleurs privés d'emploi<a id=1277></a>
+### Titre V : Travailleurs privés d'emploi<a id=1275></a>
 
-#### Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi<a id=1278></a>
+#### Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi<a id=1276></a>
 
-##### Section 1 : Privation totale d'emploi.<a id=1279></a>
+##### Section 1 : Privation totale d'emploi.<a id=1277></a>
 
 ###### Article D351-1
 
@@ -107771,7 +107867,7 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. D351-1 (V)
 
 
-##### Section 2 : PRIVATION PARTIELLE D'EMPLOI.<a id=1280></a>
+##### Section 2 : PRIVATION PARTIELLE D'EMPLOI.<a id=1278></a>
 
 ###### Article D351-3
 
@@ -107801,7 +107897,7 @@ _Cite_:
   - Code du travail - art. L351-19 (MMN)
 
 
-##### Section 5 : Création d'entreprises par les salariés privés d'emploi.<a id=1281></a>
+##### Section 5 : Création d'entreprises par les salariés privés d'emploi.<a id=1279></a>
 
 ###### Article D351-4
 
@@ -107976,7 +108072,7 @@ _Cite_:
   - Code du travail - art. L351-22 (M)
 
 
-#### Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.<a id=1282></a>
+#### Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.<a id=1280></a>
 
 ###### Article D352-1
 
@@ -108240,9 +108336,9 @@ _Nouveaux textes_:
   - Code du travail - art. D5427-15 (V)
 
 
-## EMPLOI<a id=1283></a>
+## EMPLOI<a id=1281></a>
 
-### FONDS NATIONAL DE L'EMPLOI - PRIME DE MOBILITE DES JEUNES .<a id=1284></a>
+### FONDS NATIONAL DE L'EMPLOI - PRIME DE MOBILITE DES JEUNES .<a id=1282></a>
 
 ###### Article D322-1
 
@@ -108315,7 +108411,7 @@ _Cité par_:
   - Code du travail - art. D322-4 (VT)
 
 
-### FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .<a id=1285></a>
+### FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .<a id=1283></a>
 
 ###### Article D322-11
 
@@ -108618,11 +108714,11 @@ _Cite_:
   - Code du travail - art. D322-14 (M)
 
 
-### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS<a id=1286></a>
+### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS<a id=1284></a>
 
-#### TRAVAILLEURS HANDICAPES<a id=1287></a>
+#### TRAVAILLEURS HANDICAPES<a id=1285></a>
 
-##### TRAVAIL PROTEGE .<a id=1288></a>
+##### TRAVAIL PROTEGE .<a id=1286></a>
 
 ###### Article D323-17
 
@@ -108689,13 +108785,13 @@ _Abrogé par_:
   - Décret n°84-292 1984-04-16 ART. 1 JORF 21 AVRIL 1984
 
 
-## Livre III : EMPLOI<a id=1289></a>
+## Livre III : EMPLOI<a id=1287></a>
 
-### Titre II : EMPLOI<a id=1290></a>
+### Titre II : EMPLOI<a id=1288></a>
 
-#### Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=1291></a>
+#### Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=1289></a>
 
-##### SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE.<a id=1292></a>
+##### SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE.<a id=1290></a>
 
 ###### Article D323-1
 
@@ -108789,9 +108885,9 @@ _Codifié par_:
   - TXT_ASSOCIE: Décret n°88-77 du 22 janvier 1988 - art. annexe 1 (V)
 
 
-##### SECTION 2 : TRAVAILLEURS HANDICAPES<a id=1293></a>
+##### SECTION 2 : TRAVAILLEURS HANDICAPES<a id=1291></a>
 
-##### SOUS-SECTION 4 : TRAVAIL PROTEGE.<a id=1294></a>
+##### SOUS-SECTION 4 : TRAVAIL PROTEGE.<a id=1292></a>
 
 ###### Article D323-25-3
 
@@ -108867,11 +108963,11 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-## PLACEMENT ET EMPLOI<a id=1295></a>
+## PLACEMENT ET EMPLOI<a id=1293></a>
 
-### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=1296></a>
+### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE<a id=1294></a>
 
-#### TRAVAILLEURS ETRANGERS .<a id=1297></a>
+#### TRAVAILLEURS ETRANGERS .<a id=1295></a>
 
 ###### Article D341-1
 
@@ -108928,11 +109024,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 quinquies (P)
 
 
-## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES<a id=1298></a>
+## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES<a id=1296></a>
 
-### LES SYNDICATS PROFESSIONNELS<a id=1299></a>
+### LES SYNDICATS PROFESSIONNELS<a id=1297></a>
 
-#### EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .<a id=1300></a>
+#### EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .<a id=1298></a>
 
 ###### Article D412-1
 
@@ -108967,9 +109063,9 @@ _Cite_:
   - Code du travail - art. L412-14 (M)
 
 
-### LES COMITES D'ENTREPRISE<a id=1301></a>
+### LES COMITES D'ENTREPRISE<a id=1299></a>
 
-#### COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .<a id=1302></a>
+#### COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .<a id=1300></a>
 
 ###### Article D435-1
 
@@ -109022,9 +109118,9 @@ _Cité par_:
   - Code du travail - art. L435-5 (AbD)
 
 
-### INTERESSEMENT ET PARTICIPATION .<a id=1303></a>
+### INTERESSEMENT ET PARTICIPATION .<a id=1301></a>
 
-#### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .<a id=1304></a>
+#### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .<a id=1302></a>
 
 ###### Article D442-1
 
@@ -109082,11 +109178,11 @@ _Cite_:
   - Code du travail - art. R442-28 (Ab)
 
 
-## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1305></a>
+## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1303></a>
 
-### Titre III : Les comités d'entreprise<a id=1306></a>
+### Titre III : Les comités d'entreprise<a id=1304></a>
 
-#### Chapitre VII : Amélioration des conditions de travail.<a id=1307></a>
+#### Chapitre VII : Amélioration des conditions de travail.<a id=1305></a>
 
 ###### Article D437-1
 
@@ -109166,11 +109262,11 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-## Livre V : Conflits du travail<a id=1308></a>
+## Livre V : Conflits du travail<a id=1306></a>
 
-### Titre II : Conflits collectifs<a id=1309></a>
+### Titre II : Conflits collectifs<a id=1307></a>
 
-#### Chapitre IV : Médiation.<a id=1310></a>
+#### Chapitre IV : Médiation.<a id=1308></a>
 
 ###### Article D524-1
 
@@ -109281,11 +109377,11 @@ _Nouveaux textes_:
   - Code du travail - art. R2523-20 (V)
 
 
-## CONFLITS DU TRAVAIL<a id=1311></a>
+## CONFLITS DU TRAVAIL<a id=1309></a>
 
-### CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES<a id=1312></a>
+### CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES<a id=1310></a>
 
-#### DEPENSES DES CONSEILS DE PRUD'HOMMES .<a id=1313></a>
+#### DEPENSES DES CONSEILS DE PRUD'HOMMES .<a id=1311></a>
 
 ###### Article D51-10-1
 
@@ -109383,11 +109479,11 @@ _Codifié par_:
   - Décret n°73-1047 1973-11-15
 
 
-## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1314></a>
+## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1312></a>
 
-### Titre Ier : Services de contrôle<a id=1315></a>
+### Titre Ier : Services de contrôle<a id=1313></a>
 
-#### Chapitre Ier : Inspection du travail.<a id=1316></a>
+#### Chapitre Ier : Inspection du travail.<a id=1314></a>
 
 ###### Article D611-1
 
@@ -109409,7 +109505,7 @@ _Cite_:
   - Code du travail - art. L611-11
 
 
-#### Chapitre II : Inspection médicale du travail.<a id=1317></a>
+#### Chapitre II : Inspection médicale du travail.<a id=1315></a>
 
 ###### Article D612-1
 
@@ -109447,13 +109543,13 @@ _Cite_:
   - Code du travail - art. L241-1
 
 
-## Livre VII : Dispositions particulières à certaines professions<a id=1318></a>
+## Livre VII : Dispositions particulières à certaines professions<a id=1316></a>
 
-### Titre Ier : Energie - Industries extractives<a id=1319></a>
+### Titre Ier : Energie - Industries extractives<a id=1317></a>
 
-#### Chapitre Ier : Mines et carrières<a id=1320></a>
+#### Chapitre Ier : Mines et carrières<a id=1318></a>
 
-##### Section 2 : Hygiène et sécurité - Services médicaux.<a id=1321></a>
+##### Section 2 : Hygiène et sécurité - Services médicaux.<a id=1319></a>
 
 ###### Article D711-1
 
@@ -109472,7 +109568,7 @@ _Cite_:
   - Code du travail
 
 
-##### Paragraphe 1 : Organisation générale.<a id=1322></a>
+##### Paragraphe 1 : Organisation générale.<a id=1320></a>
 
 ###### Article D711-2
 
@@ -109567,7 +109663,7 @@ _Cite_:
   - Code du travail - art. D711-4
 
 
-##### Paragraphe 2 : Obligations des médecins du travail.<a id=1323></a>
+##### Paragraphe 2 : Obligations des médecins du travail.<a id=1321></a>
 
 ###### Article D711-6
 
@@ -109862,7 +109958,7 @@ _Cite_:
   - Code de la sécurité sociale.
 
 
-##### Paragraphe 3 : Personnel - Locaux et matériels.<a id=1324></a>
+##### Paragraphe 3 : Personnel - Locaux et matériels.<a id=1322></a>
 
 ###### Article D711-17
 
@@ -109881,7 +109977,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 4 : Incompatibilités.<a id=1325></a>
+##### Paragraphe 4 : Incompatibilités.<a id=1323></a>
 
 ###### Article D711-18
 
@@ -109902,7 +109998,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 5 : Qualification des médecins du travail<a id=1326></a>
+##### Paragraphe 5 : Qualification des médecins du travail<a id=1324></a>
 
 ###### Article D711-19
 
@@ -109916,7 +110012,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 6 : Dispositions diverses.<a id=1327></a>
+##### Paragraphe 6 : Dispositions diverses.<a id=1325></a>
 
 ###### Article D711-20
 
@@ -109936,7 +110032,7 @@ _Cite_:
   - Code du travail - art. D711-4
 
 
-#### Chapitre II : Délégués mineurs.<a id=1328></a>
+#### Chapitre II : Délégués mineurs.<a id=1326></a>
 
 ###### Article D712-1
 
@@ -110089,9 +110185,9 @@ _Cite_:
   - Code du travail
 
 
-### Titre III : Bâtiment et travaux publics<a id=1329></a>
+### Titre III : Bâtiment et travaux publics<a id=1327></a>
 
-#### Chapitre II : Congés payés des professions du bâtiment et des travaux publics.<a id=1330></a>
+#### Chapitre II : Congés payés des professions du bâtiment et des travaux publics.<a id=1328></a>
 
 ###### Article D732-1
 
@@ -110396,9 +110492,9 @@ _Nouveaux textes_:
   - Code du travail - art. D732-11 (V)
 
 
-### Titre IV : Transports et télécommunications<a id=1331></a>
+### Titre IV : Transports et télécommunications<a id=1329></a>
 
-#### Chapitre Ier : Travailleurs intermittents des transports : congés payés.<a id=1332></a>
+#### Chapitre Ier : Travailleurs intermittents des transports : congés payés.<a id=1330></a>
 
 ###### Article D741-1
 
@@ -110592,11 +110688,11 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-#### Chapitre II : Marins<a id=1333></a>
+#### Chapitre II : Marins<a id=1331></a>
 
-##### Section 1 : Conventions relatives au travail<a id=1334></a>
+##### Section 1 : Conventions relatives au travail<a id=1332></a>
 
-##### Paragraphe 2 : Salaires.<a id=1335></a>
+##### Paragraphe 2 : Salaires.<a id=1333></a>
 
 ###### Article D742-1
 
@@ -110637,7 +110733,7 @@ _Cite_:
   - Code du travail - art. D742-1
 
 
-##### Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.<a id=1336></a>
+##### Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.<a id=1334></a>
 
 ###### Article D742-3
 
@@ -110791,9 +110887,9 @@ _Cite_:
   - Code du travail - art. L436-1
 
 
-##### Section 3 : Règlement des conflits collectifs de travail<a id=1337></a>
+##### Section 3 : Règlement des conflits collectifs de travail<a id=1335></a>
 
-##### Paragraphe 2 : Médiation.<a id=1338></a>
+##### Paragraphe 2 : Médiation.<a id=1336></a>
 
 ###### Article D742-12
 
@@ -110887,7 +110983,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-#### Chapitre III : Personnels des entreprises de manutention des ports : congés payés.<a id=1339></a>
+#### Chapitre III : Personnels des entreprises de manutention des ports : congés payés.<a id=1337></a>
 
 ###### Article D743-2
 
@@ -110953,7 +111049,7 @@ _Anciens textes_:
   - Loi   1936-06-20
 
 
-#### Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.<a id=1340></a>
+#### Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.<a id=1338></a>
 
 ###### Article D744-1
 
@@ -111012,9 +111108,9 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
-### Titre III : Transports et télécommunications<a id=1341></a>
+### Titre III : Transports et télécommunications<a id=1339></a>
 
-#### Chapitre III : Personnels des entreprises de manutention des ports : congés payés.<a id=1342></a>
+#### Chapitre III : Personnels des entreprises de manutention des ports : congés payés.<a id=1340></a>
 
 ###### Article D743-1
 
@@ -111131,7 +111227,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-### Titre V : Voyageurs, représentants et placiers.<a id=1343></a>
+### Titre V : Voyageurs, représentants et placiers.<a id=1341></a>
 
 ###### Article D751-1
 
@@ -111411,11 +111507,11 @@ _Nouveaux textes_:
   - Code du travail - art. D7312-21 (V)
 
 
-### Titre VI : Journalistes, artistes, mannequins<a id=1344></a>
+### Titre VI : Journalistes, artistes, mannequins<a id=1342></a>
 
-#### Chapitre II : Artistes, compositeurs, gens de lettres<a id=1345></a>
+#### Chapitre II : Artistes, compositeurs, gens de lettres<a id=1343></a>
 
-##### Section 2 : Artistes du spectacle : congés payés.<a id=1346></a>
+##### Section 2 : Artistes du spectacle : congés payés.<a id=1344></a>
 
 ###### Article D762-1
 
@@ -111751,11 +111847,11 @@ _Nouveaux textes_:
   - Code du travail - art. D7121-30 (V)
 
 
-### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison<a id=1347></a>
+### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison<a id=1345></a>
 
-#### Chapitre III : Assistantes maternelles<a id=1348></a>
+#### Chapitre III : Assistantes maternelles<a id=1346></a>
 
-##### Section 1 : Dispositions générales.<a id=1349></a>
+##### Section 1 : Dispositions générales.<a id=1347></a>
 
 ###### Article D773-1
 
@@ -111799,7 +111895,7 @@ _Cite_:
   - Code du travail - art. L773-5 (M)
 
 
-##### Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.<a id=1350></a>
+##### Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.<a id=1348></a>
 
 ###### Article D773-3
 
@@ -111844,9 +111940,9 @@ _Cite_:
   - Code du travail - art. L773-15 (M)
 
 
-### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises<a id=1351></a>
+### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises<a id=1349></a>
 
-#### Chapitre III : Halles centrales de Paris.<a id=1352></a>
+#### Chapitre III : Halles centrales de Paris.<a id=1350></a>
 
 ###### Article D783-1
 
@@ -111875,17 +111971,17 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L783-7 (Ab)
 
 
-## Livre VIII : Dispositions spéciales aux départements d'outre-mer<a id=1353></a>
+## Livre VIII : Dispositions spéciales aux départements d'outre-mer<a id=1351></a>
 
-### Titre Ier : Conventions relatives au travail<a id=1354></a>
+### Titre Ier : Conventions relatives au travail<a id=1352></a>
 
-#### Chapitre Ier : Apprentissage<a id=1355></a>
+#### Chapitre Ier : Apprentissage<a id=1353></a>
 
-##### Section 1 : Des centres de formation d'apprentis<a id=1356></a>
+##### Section 1 : Des centres de formation d'apprentis<a id=1354></a>
 
-##### Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis<a id=1357></a>
+##### Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis<a id=1355></a>
 
-##### Dispositions générales.<a id=1358></a>
+##### Dispositions générales.<a id=1356></a>
 
 ###### Article D811-1
 
@@ -111983,7 +112079,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### De l'organisation des centres.<a id=1359></a>
+##### De l'organisation des centres.<a id=1357></a>
 
 ###### Article D811-4
 
@@ -112166,7 +112262,7 @@ _Cité par_:
   - Code du travail - art. D811-72 (Ab)
 
 
-##### Du fonctionnement pédagogique des centres.<a id=1360></a>
+##### Du fonctionnement pédagogique des centres.<a id=1358></a>
 
 ###### Article D811-9
 
@@ -112331,7 +112427,7 @@ _Cité par_:
   - Code du travail - art. D811-12 (Ab)
 
 
-##### De l'organisation financière des centres.<a id=1361></a>
+##### De l'organisation financière des centres.<a id=1359></a>
 
 ###### Article D811-14
 
@@ -112415,7 +112511,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Paragraphe 2 : De la conclusion et du renouvellement des conventions.<a id=1362></a>
+##### Paragraphe 2 : De la conclusion et du renouvellement des conventions.<a id=1360></a>
 
 ###### Article D811-17
 
@@ -112606,7 +112702,7 @@ _Cité par_:
   - Code du travail - art. D811-20 (Ab)
 
 
-##### Paragraphe 3 : Du personnel des centres de formation d'apprentis.<a id=1363></a>
+##### Paragraphe 3 : Du personnel des centres de formation d'apprentis.<a id=1361></a>
 
 ###### Article D811-23
 
@@ -112796,7 +112892,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Paragraphe 4 : Du contrôle des centres de formation d'apprentis.<a id=1364></a>
+##### Paragraphe 4 : Du contrôle des centres de formation d'apprentis.<a id=1362></a>
 
 ###### Article D811-28
 
@@ -112945,9 +113041,9 @@ _Cite_:
   - Code du travail L811-30
 
 
-##### Section 2 : Du contrat d'apprentissage<a id=1365></a>
+##### Section 2 : Du contrat d'apprentissage<a id=1363></a>
 
-##### De l'agrément de l'employeur.<a id=1366></a>
+##### De l'agrément de l'employeur.<a id=1364></a>
 
 ###### Article D811-32
 
@@ -113105,7 +113201,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### De la durée de l'apprentissage.<a id=1367></a>
+##### De la durée de l'apprentissage.<a id=1365></a>
 
 ###### Article D811-37
 
@@ -113208,9 +113304,9 @@ _Cite_:
   - Code du travail - art. L117-13 (M)
 
 
-##### Avis d'orientation<a id=1368></a>
+##### Avis d'orientation<a id=1366></a>
 
-##### Certificat médical.<a id=1369></a>
+##### Certificat médical.<a id=1367></a>
 
 ###### Article D811-40
 
@@ -113243,7 +113339,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Du contenu des contrats d'apprentissage.<a id=1370></a>
+##### Du contenu des contrats d'apprentissage.<a id=1368></a>
 
 ###### Article D811-41
 
@@ -113329,7 +113425,7 @@ _Cite_:
   - Code du travail - art. D811-55 (Ab)
 
 
-##### De l'enregistrement du contrat d'apprentissage.<a id=1371></a>
+##### De l'enregistrement du contrat d'apprentissage.<a id=1369></a>
 
 ###### Article D811-44
 
@@ -113433,7 +113529,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Cas de l'apprenti employé par un ascendant.<a id=1372></a>
+##### Cas de l'apprenti employé par un ascendant.<a id=1370></a>
 
 ###### Article D811-47
 
@@ -113499,7 +113595,7 @@ _Cite_:
   - Code du travail - art. D811-45 (Ab)
 
 
-##### Constatation de l'aptitude de l'apprenti.<a id=1373></a>
+##### Constatation de l'aptitude de l'apprenti.<a id=1371></a>
 
 ###### Article D811-49
 
@@ -113560,7 +113656,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.<a id=1374></a>
+##### Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.<a id=1372></a>
 
 ###### Article D811-51
 
@@ -113621,7 +113717,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Section 4 : Dispositions financières.<a id=1375></a>
+##### Section 4 : Dispositions financières.<a id=1373></a>
 
 ###### Article D811-53
 
@@ -113869,11 +113965,11 @@ _Cité par_:
   - Code du travail - art. D811-80 (Ab)
 
 
-##### Section 5 : Dispositions provisoires<a id=1376></a>
+##### Section 5 : Dispositions provisoires<a id=1374></a>
 
-##### Paragraphe 1 : Des accords provisoires<a id=1377></a>
+##### Paragraphe 1 : Des accords provisoires<a id=1375></a>
 
-##### Dispositions générales.<a id=1378></a>
+##### Dispositions générales.<a id=1376></a>
 
 ###### Article D811-61
 
@@ -114014,7 +114110,7 @@ _Cite_:
   - Code du travail - art. D811-31 (Ab)
 
 
-##### Des accords simples.<a id=1379></a>
+##### Des accords simples.<a id=1377></a>
 
 ###### Article D811-65
 
@@ -114112,7 +114208,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Des accords de transformation.<a id=1380></a>
+##### Des accords de transformation.<a id=1378></a>
 
 ###### Article D811-68
 
@@ -114295,7 +114391,7 @@ _Cite_:
   - Code du travail D811-14 A D811-16
 
 
-##### Dispositions relatives au personnel.<a id=1381></a>
+##### Dispositions relatives au personnel.<a id=1379></a>
 
 ###### Article D811-74
 
@@ -114466,7 +114562,7 @@ _Cite_:
   - Code du travail - art. D811-74 (Ab)
 
 
-##### Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.<a id=1382></a>
+##### Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.<a id=1380></a>
 
 ###### Article D811-79
 
@@ -114500,7 +114596,7 @@ _Cite_:
   - Code du travail - art. L117-5 (M)
 
 
-##### Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.<a id=1383></a>
+##### Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.<a id=1381></a>
 
 ###### Article D811-80
 
@@ -114540,9 +114636,9 @@ _Cite_:
   - Code du travail D811-57 a , D811-59, D811-60
 
 
-#### Chapitre IV : Salaire<a id=1384></a>
+#### Chapitre IV : Salaire<a id=1382></a>
 
-##### Section 1 : Salaire minimum de croissance.<a id=1385></a>
+##### Section 1 : Salaire minimum de croissance.<a id=1383></a>
 
 ###### Article D814-1
 
@@ -114566,7 +114662,7 @@ _Cite_:
   - Code du travail
 
 
-##### Section 2 : Règles particulières à la répartition des pourboires.<a id=1386></a>
+##### Section 2 : Règles particulières à la répartition des pourboires.<a id=1384></a>
 
 ###### Article D814-4
 
@@ -114594,11 +114690,11 @@ _Cite_:
   - Code du travail - art. R147-2
 
 
-### Titre II : Réglementation du travail<a id=1387></a>
+### Titre II : Réglementation du travail<a id=1385></a>
 
-#### Chapitre II : Services médicaux du travail<a id=1388></a>
+#### Chapitre II : Services médicaux du travail<a id=1386></a>
 
-##### Section 1 : Organisation et fonctionnement des services médicaux du travail.<a id=1389></a>
+##### Section 1 : Organisation et fonctionnement des services médicaux du travail.<a id=1387></a>
 
 ###### Article D822-1
 
@@ -114856,7 +114952,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe a) Les médecins du travail.<a id=1390></a>
+##### Paragraphe a) Les médecins du travail.<a id=1388></a>
 
 ###### Article D822-10
 
@@ -114926,7 +115022,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe b) Visites d'embauchage.<a id=1391></a>
+##### Paragraphe b) Visites d'embauchage.<a id=1389></a>
 
 ###### Article D822-12
 
@@ -114977,7 +115073,7 @@ _Cité par_:
   - Code du travail - art. D822-20 (Ab)
 
 
-##### Paragraphe c) Examens médicaux périodiques des salariés.<a id=1392></a>
+##### Paragraphe c) Examens médicaux périodiques des salariés.<a id=1390></a>
 
 ###### Article D822-13
 
@@ -115008,7 +115104,7 @@ _Cité par_:
   - Code du travail - art. D822-20 (Ab)
 
 
-##### Paragraphe d) Visite de reprise.<a id=1393></a>
+##### Paragraphe d) Visite de reprise.<a id=1391></a>
 
 ###### Article D822-14
 
@@ -115033,7 +115129,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe e) Examens complémentaires.<a id=1394></a>
+##### Paragraphe e) Examens complémentaires.<a id=1392></a>
 
 ###### Article D822-15
 
@@ -115079,7 +115175,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe f) Surveillance de l'hygiène des entreprises.<a id=1395></a>
+##### Paragraphe f) Surveillance de l'hygiène des entreprises.<a id=1393></a>
 
 ###### Article D822-17
 
@@ -115230,7 +115326,7 @@ _Cite_:
   - Loi   1964-10-30 ART. 73
 
 
-##### Section 3 : Infirmiers et infirmières.<a id=1396></a>
+##### Section 3 : Infirmiers et infirmières.<a id=1394></a>
 
 ###### Article D822-22
 
@@ -115353,7 +115449,7 @@ _Cite_:
   - Code du travail - art. D822-22 (Ab)
 
 
-##### Section 4 : Locaux et matériel.<a id=1397></a>
+##### Section 4 : Locaux et matériel.<a id=1395></a>
 
 ###### Article D822-26
 
@@ -115402,7 +115498,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Section 5 : Dispositions particulières.<a id=1398></a>
+##### Section 5 : Dispositions particulières.<a id=1396></a>
 
 ###### Article D822-27
 
@@ -115425,9 +115521,9 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-### Titre III : Placement et emploi<a id=1399></a>
+### Titre III : Placement et emploi<a id=1397></a>
 
-#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=1400></a>
+#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=1398></a>
 
 ###### Article D831-1
 
@@ -115457,9 +115553,9 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. R341-8 (M)
 
 
-### Titre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1401></a>
+### Titre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1399></a>
 
-#### Chapitre Ier : Inspection du travail.<a id=1402></a>
+#### Chapitre Ier : Inspection du travail.<a id=1400></a>
 
 ###### Article D861-1
 
@@ -115481,9 +115577,9 @@ _Nouveaux textes_:
   - Code du travail - art. D8322-1 (V)
 
 
-### Titre VII : Dispositions particulières à certaines professions<a id=1403></a>
+### Titre VII : Dispositions particulières à certaines professions<a id=1401></a>
 
-#### Chapitre Ier : Journalistes professionnels.<a id=1404></a>
+#### Chapitre Ier : Journalistes professionnels.<a id=1402></a>
 
 ###### Article D871-1
 
@@ -115505,13 +115601,13 @@ _Cite_:
   - Code du travail - art. R761-4
 
 
-## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1405></a>
+## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1403></a>
 
-### CONVENTIONS RELATIVES AU TRAVAIL<a id=1406></a>
+### CONVENTIONS RELATIVES AU TRAVAIL<a id=1404></a>
 
-#### APPRENTISSAGE<a id=1407></a>
+#### APPRENTISSAGE<a id=1405></a>
 
-##### DISPOSITIONS FINANCIERES .<a id=1408></a>
+##### DISPOSITIONS FINANCIERES .<a id=1406></a>
 
 ###### Article D811-52
 
@@ -115567,11 +115663,11 @@ _Cite_:
   - Code du travail - art. L117-9 (M)
 
 
-## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1409></a>
+## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1407></a>
 
-### Titre Ier : Des institutions de la formation professionnelle<a id=1410></a>
+### Titre Ier : Des institutions de la formation professionnelle<a id=1408></a>
 
-#### Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=1411></a>
+#### Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=1409></a>
 
 ###### Article D910-7
 
@@ -116152,7 +116248,7 @@ _Cité par_:
   - Code de l'éducation - art. D251-8 (M)
 
 
-#### Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.<a id=1412></a>
+#### Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.<a id=1410></a>
 
 ###### Article D910-22
 
@@ -116320,7 +116416,7 @@ _Abrogé par_:
   - Décret n°95-328 du 20 mars 1995 - art. 3 () JORF 25 mars 1995
 
 
-### Titre IV : De l'aide de l'Etat.<a id=1413></a>
+### Titre IV : De l'aide de l'Etat.<a id=1411></a>
 
 ###### Article D940-1
 
@@ -116462,7 +116558,7 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-### Titre V : De la participation des employeurs au financement de la formation professionnelle continue.<a id=1414></a>
+### Titre V : De la participation des employeurs au financement de la formation professionnelle continue.<a id=1412></a>
 
 ###### Article D950-1
 
@@ -116604,11 +116700,11 @@ _Cite_:
   - Code du travail - art. L900-3 (M)
 
 
-## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1415></a>
+## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1413></a>
 
-### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1416></a>
+### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1414></a>
 
-#### ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .<a id=1417></a>
+#### ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .<a id=1415></a>
 
 ###### Article D910-1
 
@@ -116777,11 +116873,11 @@ _Cité par_:
   - Code du travail - art. D910-5 (M)
 
 
-## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1418></a>
+## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1416></a>
 
-### Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1419></a>
+### Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1417></a>
 
-#### SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.<a id=1420></a>
+#### SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.<a id=1418></a>
 
 ###### Article D910-2
 
@@ -116840,15 +116936,15 @@ _Anciens textes_:
   - Décret n°70-827 1970-09-16 ART. 2
 
 
-# Annexes<a id=1421></a>
+# Annexes<a id=1419></a>
 
-## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1422></a>
+## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1420></a>
 
-### Titre 3 : Les comités d'entreprise<a id=1423></a>
+### Titre 3 : Les comités d'entreprise<a id=1421></a>
 
-#### Chapitre 8 : Bilan social<a id=1424></a>
+#### Chapitre 8 : Bilan social<a id=1422></a>
 
-##### Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.<a id=1425></a>
+##### Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.<a id=1423></a>
 
 ###### Article Annexe à l'article R438-1
 
