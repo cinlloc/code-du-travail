@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-01-05
+Version Consolidée au 1980-01-06
 ## Contenu: 
   - [Partie législative ancienne](#1)
     - [Livre Ier : Conventions relatives au travail](#2)
@@ -346,37 +346,37 @@ Version Consolidée au 1980-01-05
         - [STATUT DES CONSEILLERS PRUD'HOMMES](#343)
         - [BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE](#344)
         - [DEPENSES DES CONSEILS DE PRUD'HOMMES](#345)
-        - [DISPOSITIONS APPLICABLES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE](#346)
-        - [DISPOSITIONS FINALES](#347)
-      - [CONFLITS COLLECTIFS](#348)
-        - [LA GREVE .](#349)
-          - [GREVE DANS LES SERVICES PUBLICS .](#350)
-        - [DISPOSITIONS GENERALES CONCERNANT LES PROCEDURES DE REGLEMENT DES  CONFLITS COLLECTIFS DU TRAVAIL .](#351)
-        - [CONCILIATION .](#352)
-          - [CONCILIATION DANS CERTAINS ETABLISSEMENTS PUBLICS ET DANS LES  ENTREPRISES PUBLIQUES A STATUT .](#353)
-        - [MEDIATION .](#354)
-        - [ARBITRAGE](#355)
-          - [L'ARBITRE .](#356)
-          - [LA COUR SUPERIEURE D'ARBITRAGE .](#357)
-        - [EXECUTION DES ACCORDS DE CONCILIATION ET DES SENTENCES ARBITRALES .](#358)
-      - [PENALITES](#359)
-        - [CONFLITS COLLECTIFS .](#360)
-    - [Livre V : Conflits du travail](#361)
-      - [Titre Ier : Conflits individuels - Conseils de prud'hommes](#362)
-        - [Chapitre Ier : Attributions et institution des conseils de prud'hommes.](#363)
-        - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.](#364)
-        - [Chapitre III : Election des conseillers prud'hommes](#365)
-          - [Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.](#366)
-        - [Chapitre IV : Statut des conseillers prud'hommes.](#367)
-        - [Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.](#368)
-        - [Chapitre VI : Procédure devant les conseils de prud'hommes.](#369)
-        - [Chapitre VIII : Récusation.](#370)
-        - [Chapitre X : Dépenses des conseils de prud'hommes.](#371)
-      - [Titre Ier : Conflits individuels](#372)
-        - [Conseils de prud'hommes](#373)
-          - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.](#374)
-          - [Chapitre IV : Statut des conseillers prud'hommes.](#375)
-          - [Chapitre VI : Procédure devant les conseils de prud'hommes.](#376)
+        - [DISPOSITIONS FINALES](#346)
+      - [CONFLITS COLLECTIFS](#347)
+        - [LA GREVE .](#348)
+          - [GREVE DANS LES SERVICES PUBLICS .](#349)
+        - [DISPOSITIONS GENERALES CONCERNANT LES PROCEDURES DE REGLEMENT DES  CONFLITS COLLECTIFS DU TRAVAIL .](#350)
+        - [CONCILIATION .](#351)
+          - [CONCILIATION DANS CERTAINS ETABLISSEMENTS PUBLICS ET DANS LES  ENTREPRISES PUBLIQUES A STATUT .](#352)
+        - [MEDIATION .](#353)
+        - [ARBITRAGE](#354)
+          - [L'ARBITRE .](#355)
+          - [LA COUR SUPERIEURE D'ARBITRAGE .](#356)
+        - [EXECUTION DES ACCORDS DE CONCILIATION ET DES SENTENCES ARBITRALES .](#357)
+      - [PENALITES](#358)
+        - [CONFLITS COLLECTIFS .](#359)
+    - [Livre V : Conflits du travail](#360)
+      - [Titre Ier : Conflits individuels - Conseils de prud'hommes](#361)
+        - [Chapitre Ier : Attributions et institution des conseils de prud'hommes.](#362)
+        - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.](#363)
+        - [Chapitre III : Election des conseillers prud'hommes](#364)
+          - [Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.](#365)
+        - [Chapitre IV : Statut des conseillers prud'hommes.](#366)
+        - [Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.](#367)
+        - [Chapitre VI : Procédure devant les conseils de prud'hommes.](#368)
+        - [Chapitre VIII : Récusation.](#369)
+        - [Chapitre X : Dépenses des conseils de prud'hommes.](#370)
+      - [Titre Ier : Conflits individuels](#371)
+        - [Conseils de prud'hommes](#372)
+          - [Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.](#373)
+          - [Chapitre IV : Statut des conseillers prud'hommes.](#374)
+          - [Chapitre VI : Procédure devant les conseils de prud'hommes.](#375)
+          - [Chapitre XI : Dispositions applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](#376)
       - [Titre II : Conflits collectifs](#377)
         - [Chapitre Ier : La grève](#378)
           - [Section 2 : Grève dans les services publics.](#379)
@@ -37496,43 +37496,7 @@ _Cite_:
   - Code du travail - art. L515-3 (M)
 
 
-#### DISPOSITIONS APPLICABLES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE<a id=346></a>
-
-###### Article L51-11-1
-
-Sans préjudice des dispositions particulières aux départements du Bas-rhin, du Haut-rhin et de la Moselle concernant les
-conseils de prud'hommes industriels et les conseils de prud'hommes commerciaux, les articles L. 512-5 et L. 512-6, L. 513-2 à
-L. 513-9, L. 514-1 à L. 514-10 sont applicables dans les départements du Haut-rhin, du Bas-rhin et de la Moselle.
-
-Les assesseurs des conseils de prud'hommes existant dans ces départements ont la qualité des conseillers prud'hommes au sens
-du présent titre.
-
-Les dépenses de fonctionnement mentionnées à l'article L. 51-10-2 et relatives aux conseils existant à la date du 1er janvier
-1978 dans les départements du Haut-rhin, du Bas-rhin et de la Moselle seront prises en charge par l'Etat à une date fixée par
-décret.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°79-394 du 17 mai 1979 - art. 27 (V)
-  - Décret n°79-800 du 17 septembre 1979 - art. 81 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
-
-_Cite_:
-
-  - Code du travail - art. L51-10-2 (M)
-  - Code du travail - art. L512-5 (M)
-  - Code du travail - art. L512-6 (M)
-  - Code du travail L512-5, L512-6, L513-2 A L513-9, L514-1 A L514-10
-
-
-#### DISPOSITIONS FINALES<a id=347></a>
+#### DISPOSITIONS FINALES<a id=346></a>
 
 ###### Article L51-12-1
 
@@ -37545,9 +37509,9 @@ _Abrogé par_:
   - Loi n°82-372 du 6 mai 1982 - art. 31 () JORF 7 MAI 1982
 
 
-### CONFLITS COLLECTIFS<a id=348></a>
+### CONFLITS COLLECTIFS<a id=347></a>
 
-#### LA GREVE .<a id=349></a>
+#### LA GREVE .<a id=348></a>
 
 ###### Article L521-1
 
@@ -37575,7 +37539,7 @@ _Nouveaux textes_:
   - Code du travail - art. L2511-1 (VD)
 
 
-##### GREVE DANS LES SERVICES PUBLICS .<a id=350></a>
+##### GREVE DANS LES SERVICES PUBLICS .<a id=349></a>
 
 ###### Article L521-2
 
@@ -37679,7 +37643,7 @@ _Nouveaux textes_:
   - Code du travail - art. L2512-5 (VD)
 
 
-#### DISPOSITIONS GENERALES CONCERNANT LES PROCEDURES DE REGLEMENT DES  CONFLITS COLLECTIFS DU TRAVAIL .<a id=351></a>
+#### DISPOSITIONS GENERALES CONCERNANT LES PROCEDURES DE REGLEMENT DES  CONFLITS COLLECTIFS DU TRAVAIL .<a id=350></a>
 
 ###### Article L522-1
 
@@ -37747,7 +37711,7 @@ _Cite_:
   - Code du travail L131-1 A L136-4
 
 
-#### CONCILIATION .<a id=352></a>
+#### CONCILIATION .<a id=351></a>
 
 ###### Article L523-1
 
@@ -38007,7 +37971,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code du travail R523-1 A R523-26
 
 
-##### CONCILIATION DANS CERTAINS ETABLISSEMENTS PUBLICS ET DANS LES  ENTREPRISES PUBLIQUES A STATUT .<a id=353></a>
+##### CONCILIATION DANS CERTAINS ETABLISSEMENTS PUBLICS ET DANS LES  ENTREPRISES PUBLIQUES A STATUT .<a id=352></a>
 
 ###### Article L523-9
 
@@ -38141,7 +38105,7 @@ _Cite_:
   - Code du travail L523-9 A L523-12
 
 
-#### MEDIATION .<a id=354></a>
+#### MEDIATION .<a id=353></a>
 
 ###### Article L524-1
 
@@ -38268,9 +38232,9 @@ _Cité par_:
   - Code du travail - art. R742-29 (T)
 
 
-#### ARBITRAGE<a id=355></a>
+#### ARBITRAGE<a id=354></a>
 
-##### L'ARBITRE .<a id=356></a>
+##### L'ARBITRE .<a id=355></a>
 
 ###### Article L525-1
 
@@ -38378,7 +38342,7 @@ _Cite_:
   - Code du travail - art. L525-5 (AbD)
 
 
-##### LA COUR SUPERIEURE D'ARBITRAGE .<a id=357></a>
+##### LA COUR SUPERIEURE D'ARBITRAGE .<a id=356></a>
 
 ###### Article L525-9
 
@@ -38400,7 +38364,7 @@ _Nouveaux textes_:
   - Code du travail - art. L2524-10 (VD)
 
 
-#### EXECUTION DES ACCORDS DE CONCILIATION ET DES SENTENCES ARBITRALES .<a id=358></a>
+#### EXECUTION DES ACCORDS DE CONCILIATION ET DES SENTENCES ARBITRALES .<a id=357></a>
 
 ###### Article L526-1
 
@@ -38516,9 +38480,9 @@ _Cite_:
   - Code du travail L526-1 A L526-4
 
 
-### PENALITES<a id=359></a>
+### PENALITES<a id=358></a>
 
-#### CONFLITS COLLECTIFS .<a id=360></a>
+#### CONFLITS COLLECTIFS .<a id=359></a>
 
 ###### Article L532-1
 
@@ -38557,11 +38521,11 @@ _Cité par_:
   - Code du travail - art. R524-8 (VT)
 
 
-## Livre V : Conflits du travail<a id=361></a>
+## Livre V : Conflits du travail<a id=360></a>
 
-### Titre Ier : Conflits individuels - Conseils de prud'hommes<a id=362></a>
+### Titre Ier : Conflits individuels - Conseils de prud'hommes<a id=361></a>
 
-#### Chapitre Ier : Attributions et institution des conseils de prud'hommes.<a id=363></a>
+#### Chapitre Ier : Attributions et institution des conseils de prud'hommes.<a id=362></a>
 
 ###### Article L511-2
 
@@ -38592,7 +38556,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1411-5 (VD)
 
 
-#### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.<a id=364></a>
+#### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.<a id=363></a>
 
 ###### Article L512-1
 
@@ -38776,9 +38740,9 @@ _Nouveaux textes_:
   - Code du travail R1423-15
 
 
-#### Chapitre III : Election des conseillers prud'hommes<a id=365></a>
+#### Chapitre III : Election des conseillers prud'hommes<a id=364></a>
 
-##### Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.<a id=366></a>
+##### Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.<a id=365></a>
 
 ###### Article L513-5
 
@@ -38811,7 +38775,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1441-31 (VD)
 
 
-#### Chapitre IV : Statut des conseillers prud'hommes.<a id=367></a>
+#### Chapitre IV : Statut des conseillers prud'hommes.<a id=366></a>
 
 ###### Article L514-4
 
@@ -39037,7 +39001,7 @@ _Cité par_:
   - Code du travail - art. R512-6 (VT)
 
 
-#### Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.<a id=368></a>
+#### Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.<a id=367></a>
 
 ###### Article L515-2
 
@@ -39107,7 +39071,7 @@ _Nouveaux textes_:
   - Code du travail R1423-14
 
 
-#### Chapitre VI : Procédure devant les conseils de prud'hommes.<a id=369></a>
+#### Chapitre VI : Procédure devant les conseils de prud'hommes.<a id=368></a>
 
 ###### Article L516-1
 
@@ -39137,7 +39101,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1453-1 (VD)
 
 
-#### Chapitre VIII : Récusation.<a id=370></a>
+#### Chapitre VIII : Récusation.<a id=369></a>
 
 ###### Article L518-1
 
@@ -39183,7 +39147,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1457-1 (VD)
 
 
-#### Chapitre X : Dépenses des conseils de prud'hommes.<a id=371></a>
+#### Chapitre X : Dépenses des conseils de prud'hommes.<a id=370></a>
 
 ###### Article L51-10-1
 
@@ -39211,11 +39175,11 @@ _Nouveaux textes_:
   - Code du travail - art. L1423-14 (VD)
 
 
-### Titre Ier : Conflits individuels<a id=372></a>
+### Titre Ier : Conflits individuels<a id=371></a>
 
-#### Conseils de prud'hommes<a id=373></a>
+#### Conseils de prud'hommes<a id=372></a>
 
-##### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.<a id=374></a>
+##### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.<a id=373></a>
 
 ###### Article L512-6
 
@@ -39238,7 +39202,7 @@ _Cité par_:
   - Code du travail - art. R512-2 (M)
 
 
-##### Chapitre IV : Statut des conseillers prud'hommes.<a id=375></a>
+##### Chapitre IV : Statut des conseillers prud'hommes.<a id=374></a>
 
 ###### Article L514-5
 
@@ -39282,7 +39246,7 @@ _Nouveaux textes_:
   - Code du travail - art. L1442-9 (VD)
 
 
-##### Chapitre VI : Procédure devant les conseils de prud'hommes.<a id=376></a>
+##### Chapitre VI : Procédure devant les conseils de prud'hommes.<a id=375></a>
 
 ###### Article L516-2
 
@@ -39298,6 +39262,43 @@ _Codifié par_:
 _Nouveaux textes_:
 
   - Code du travail - art. L1454-1 (VD)
+
+
+##### Chapitre XI : Dispositions applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=376></a>
+
+###### Article L51-11-1
+
+Sans préjudice des dispositions particulières aux départements du Bas-rhin, du Haut-rhin et de la Moselle concernant les
+conseils de prud'hommes industriels et les conseils de prud'hommes commerciaux, les articles L. 512-5 et L. 512-6, L. 513-2 à
+L. 513-9, L. 514-1 à L. 514-10 et L. 51-10-2 sont applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la
+Moselle.
+
+Les assesseurs des conseils de prud'hommes existant dans ces départements ont la qualité des conseillers prud'hommes au sens
+du présent titre.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°79-394 du 17 mai 1979 - art. 27 (V)
+  - Décret n°79-800 du 17 septembre 1979 - art. 81 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°82-372 du 6 mai 1982 - art. 42 (V) JORF 7 mai 1982 en vigueur le 15 janvier 1983
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
+
+_Cite_:
+
+  - Code du travail - art. L51-10-2 (M)
+  - Code du travail - art. L512-5 (M)
+  - Code du travail - art. L512-6 (M)
+  - Code du travail L512-5, L512-6, L513-2 A L513-9, L514-1 A L514-10
 
 
 ### Titre II : Conflits collectifs<a id=377></a>
