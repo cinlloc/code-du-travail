@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-01-25
+Version Consolidée au 1981-01-25 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne](#1)
     - [Livre Ier : Conventions relatives au travail](#2)
@@ -106442,13 +106442,13 @@ contrôle exercé par la collectivité publique [*document obligatoire*].
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D5213-56 (V)
 
 
 ###### Article D323-22
@@ -106467,13 +106467,15 @@ indépendante ainsi qu'à exercer personnellement la profession libérale en vue
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D5213-57 (V)
+  - Code du travail - art. D5213-58 (V)
+  - Code du travail - art. D5213-59 (V)
 
 
 ###### Article D323-23
@@ -106484,13 +106486,13 @@ l'intéressé.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D5213-60 (V)
 
 
 ###### Article D323-24
