@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-07-01
+Version Consolidée au 1979-07-06
 ## Contenu: 
   - [Partie législative ancienne](#1)
     - [Livre Ier : Conventions relatives au travail](#2)
@@ -1384,45 +1384,46 @@ Version Consolidée au 1979-07-01
           - [Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.](#1381)
         - [Chapitre IV : Salaire](#1382)
           - [Section 1 : Salaire minimum de croissance.](#1383)
-      - [Titre II : Réglementation du travail](#1384)
-        - [Chapitre II : Services médicaux du travail](#1385)
-          - [Section 1 : Organisation et fonctionnement des services médicaux du travail.](#1386)
-          - [Paragraphe a) Les médecins du travail.](#1387)
-          - [Paragraphe b) Visites d'embauchage.](#1388)
-          - [Paragraphe c) Examens médicaux périodiques des salariés.](#1389)
-          - [Paragraphe d) Visite de reprise.](#1390)
-          - [Paragraphe e) Examens complémentaires.](#1391)
-          - [Paragraphe f) Surveillance de l'hygiène des entreprises.](#1392)
-          - [Section 3 : Infirmiers et infirmières.](#1393)
-          - [Section 4 : Locaux et matériel.](#1394)
-          - [Section 5 : Dispositions particulières.](#1395)
-      - [Titre III : Placement et emploi](#1396)
-        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.](#1397)
-      - [Titre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1398)
-        - [Chapitre Ier : Inspection du travail.](#1399)
-      - [Titre VII : Dispositions particulières à certaines professions](#1400)
-        - [Chapitre Ier : Journalistes professionnels.](#1401)
-    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#1402)
-      - [CONVENTIONS RELATIVES AU TRAVAIL](#1403)
-        - [APPRENTISSAGE](#1404)
-          - [DISPOSITIONS FINANCIERES .](#1405)
-    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](#1406)
-      - [Titre Ier : Des institutions de la formation professionnelle](#1407)
-        - [Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.](#1408)
-        - [Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.](#1409)
-      - [Titre IV : De l'aide de l'Etat.](#1410)
-    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1411)
-      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1412)
-        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .](#1413)
-      - [AIDE DE L'ETAT .](#1414)
-    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1415)
-      - [Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1416)
-        - [SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.](#1417)
-  - [Annexes](#1418)
-    - [Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1419)
-      - [Titre 3 : Les comités d'entreprise](#1420)
-        - [Chapitre 8 : Bilan social](#1421)
-          - [Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.](#1422)
+          - [Section 2 : Règles particulières à la répartition des pourboires.](#1384)
+      - [Titre II : Réglementation du travail](#1385)
+        - [Chapitre II : Services médicaux du travail](#1386)
+          - [Section 1 : Organisation et fonctionnement des services médicaux du travail.](#1387)
+          - [Paragraphe a) Les médecins du travail.](#1388)
+          - [Paragraphe b) Visites d'embauchage.](#1389)
+          - [Paragraphe c) Examens médicaux périodiques des salariés.](#1390)
+          - [Paragraphe d) Visite de reprise.](#1391)
+          - [Paragraphe e) Examens complémentaires.](#1392)
+          - [Paragraphe f) Surveillance de l'hygiène des entreprises.](#1393)
+          - [Section 3 : Infirmiers et infirmières.](#1394)
+          - [Section 4 : Locaux et matériel.](#1395)
+          - [Section 5 : Dispositions particulières.](#1396)
+      - [Titre III : Placement et emploi](#1397)
+        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.](#1398)
+      - [Titre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1399)
+        - [Chapitre Ier : Inspection du travail.](#1400)
+      - [Titre VII : Dispositions particulières à certaines professions](#1401)
+        - [Chapitre Ier : Journalistes professionnels.](#1402)
+    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#1403)
+      - [CONVENTIONS RELATIVES AU TRAVAIL](#1404)
+        - [APPRENTISSAGE](#1405)
+          - [DISPOSITIONS FINANCIERES .](#1406)
+    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](#1407)
+      - [Titre Ier : Des institutions de la formation professionnelle](#1408)
+        - [Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.](#1409)
+        - [Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.](#1410)
+      - [Titre IV : De l'aide de l'Etat.](#1411)
+    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1412)
+      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1413)
+        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .](#1414)
+      - [AIDE DE L'ETAT .](#1415)
+    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1416)
+      - [Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1417)
+        - [SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.](#1418)
+  - [Annexes](#1419)
+    - [Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1420)
+      - [Titre 3 : Les comités d'entreprise](#1421)
+        - [Chapitre 8 : Bilan social](#1422)
+          - [Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.](#1423)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : Conventions relatives au travail<a id=2></a>
@@ -113107,11 +113108,35 @@ _Cite_:
   - Code du travail
 
 
-### Titre II : Réglementation du travail<a id=1384></a>
+##### Section 2 : Règles particulières à la répartition des pourboires.<a id=1384></a>
 
-#### Chapitre II : Services médicaux du travail<a id=1385></a>
+###### Article D814-4
 
-##### Section 1 : Organisation et fonctionnement des services médicaux du travail.<a id=1386></a>
+Les modalités d'application dans les départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique, de la
+Réunion et de Saint-Pierre-et-Miquelon des dispositions de l'article R. 147-2 prévues par catégories professionnelles par
+voie de convention collective ou de décret en conseil d'état pris après consultation des organisations d'employeurs et de
+travailleurs sont déterminées par arrêté préfectoral.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°48-592 1948-03-30 ART. 2 AL. 1
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cité par_:
+
+  - Décret n°79-559 du 30 juin 1979 - art. 1 (V)
+
+
+### Titre II : Réglementation du travail<a id=1385></a>
+
+#### Chapitre II : Services médicaux du travail<a id=1386></a>
+
+##### Section 1 : Organisation et fonctionnement des services médicaux du travail.<a id=1387></a>
 
 ###### Article D822-1
 
@@ -113369,7 +113394,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe a) Les médecins du travail.<a id=1387></a>
+##### Paragraphe a) Les médecins du travail.<a id=1388></a>
 
 ###### Article D822-10
 
@@ -113439,7 +113464,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe b) Visites d'embauchage.<a id=1388></a>
+##### Paragraphe b) Visites d'embauchage.<a id=1389></a>
 
 ###### Article D822-12
 
@@ -113490,7 +113515,7 @@ _Cité par_:
   - Code du travail - art. D822-20 (Ab)
 
 
-##### Paragraphe c) Examens médicaux périodiques des salariés.<a id=1389></a>
+##### Paragraphe c) Examens médicaux périodiques des salariés.<a id=1390></a>
 
 ###### Article D822-13
 
@@ -113521,7 +113546,7 @@ _Cité par_:
   - Code du travail - art. D822-20 (Ab)
 
 
-##### Paragraphe d) Visite de reprise.<a id=1390></a>
+##### Paragraphe d) Visite de reprise.<a id=1391></a>
 
 ###### Article D822-14
 
@@ -113546,7 +113571,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe e) Examens complémentaires.<a id=1391></a>
+##### Paragraphe e) Examens complémentaires.<a id=1392></a>
 
 ###### Article D822-15
 
@@ -113592,7 +113617,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe f) Surveillance de l'hygiène des entreprises.<a id=1392></a>
+##### Paragraphe f) Surveillance de l'hygiène des entreprises.<a id=1393></a>
 
 ###### Article D822-17
 
@@ -113743,7 +113768,7 @@ _Cite_:
   - Loi   1964-10-30 ART. 73
 
 
-##### Section 3 : Infirmiers et infirmières.<a id=1393></a>
+##### Section 3 : Infirmiers et infirmières.<a id=1394></a>
 
 ###### Article D822-22
 
@@ -113866,7 +113891,7 @@ _Cite_:
   - Code du travail - art. D822-22 (Ab)
 
 
-##### Section 4 : Locaux et matériel.<a id=1394></a>
+##### Section 4 : Locaux et matériel.<a id=1395></a>
 
 ###### Article D822-26
 
@@ -113915,7 +113940,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Section 5 : Dispositions particulières.<a id=1395></a>
+##### Section 5 : Dispositions particulières.<a id=1396></a>
 
 ###### Article D822-27
 
@@ -113938,9 +113963,9 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-### Titre III : Placement et emploi<a id=1396></a>
+### Titre III : Placement et emploi<a id=1397></a>
 
-#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=1397></a>
+#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=1398></a>
 
 ###### Article D831-1
 
@@ -113970,9 +113995,9 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. R341-8 (M)
 
 
-### Titre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1398></a>
+### Titre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1399></a>
 
-#### Chapitre Ier : Inspection du travail.<a id=1399></a>
+#### Chapitre Ier : Inspection du travail.<a id=1400></a>
 
 ###### Article D861-1
 
@@ -113994,9 +114019,9 @@ _Nouveaux textes_:
   - Code du travail - art. D8322-1 (V)
 
 
-### Titre VII : Dispositions particulières à certaines professions<a id=1400></a>
+### Titre VII : Dispositions particulières à certaines professions<a id=1401></a>
 
-#### Chapitre Ier : Journalistes professionnels.<a id=1401></a>
+#### Chapitre Ier : Journalistes professionnels.<a id=1402></a>
 
 ###### Article D871-1
 
@@ -114018,13 +114043,13 @@ _Cite_:
   - Code du travail - art. R761-4
 
 
-## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1402></a>
+## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1403></a>
 
-### CONVENTIONS RELATIVES AU TRAVAIL<a id=1403></a>
+### CONVENTIONS RELATIVES AU TRAVAIL<a id=1404></a>
 
-#### APPRENTISSAGE<a id=1404></a>
+#### APPRENTISSAGE<a id=1405></a>
 
-##### DISPOSITIONS FINANCIERES .<a id=1405></a>
+##### DISPOSITIONS FINANCIERES .<a id=1406></a>
 
 ###### Article D811-52
 
@@ -114080,11 +114105,11 @@ _Cite_:
   - Code du travail - art. L117-9 (M)
 
 
-## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1406></a>
+## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1407></a>
 
-### Titre Ier : Des institutions de la formation professionnelle<a id=1407></a>
+### Titre Ier : Des institutions de la formation professionnelle<a id=1408></a>
 
-#### Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=1408></a>
+#### Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=1409></a>
 
 ###### Article D910-7
 
@@ -114665,7 +114690,7 @@ _Cité par_:
   - Code de l'éducation - art. D251-8 (M)
 
 
-#### Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.<a id=1409></a>
+#### Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.<a id=1410></a>
 
 ###### Article D910-22
 
@@ -114833,7 +114858,7 @@ _Abrogé par_:
   - Décret n°95-328 du 20 mars 1995 - art. 3 () JORF 25 mars 1995
 
 
-### Titre IV : De l'aide de l'Etat.<a id=1410></a>
+### Titre IV : De l'aide de l'Etat.<a id=1411></a>
 
 ###### Article D940-1
 
@@ -114955,11 +114980,11 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1411></a>
+## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1412></a>
 
-### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1412></a>
+### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1413></a>
 
-#### ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .<a id=1413></a>
+#### ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .<a id=1414></a>
 
 ###### Article D910-1
 
@@ -115108,7 +115133,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-### AIDE DE L'ETAT .<a id=1414></a>
+### AIDE DE L'ETAT .<a id=1415></a>
 
 ###### Article D940-5
 
@@ -115134,11 +115159,11 @@ _Cite_:
   - Code du travail - art. D940-2 (V)
 
 
-## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1415></a>
+## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1416></a>
 
-### Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1416></a>
+### Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1417></a>
 
-#### SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.<a id=1417></a>
+#### SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.<a id=1418></a>
 
 ###### Article D910-2
 
@@ -115197,15 +115222,15 @@ _Anciens textes_:
   - Décret n°70-827 1970-09-16 ART. 2
 
 
-# Annexes<a id=1418></a>
+# Annexes<a id=1419></a>
 
-## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1419></a>
+## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1420></a>
 
-### Titre 3 : Les comités d'entreprise<a id=1420></a>
+### Titre 3 : Les comités d'entreprise<a id=1421></a>
 
-#### Chapitre 8 : Bilan social<a id=1421></a>
+#### Chapitre 8 : Bilan social<a id=1422></a>
 
-##### Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.<a id=1422></a>
+##### Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.<a id=1423></a>
 
 ###### Article Annexe à l'article R438-1
 
