@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-08-06
+Version Consolidée au 1980-08-15
 ## Contenu: 
   - [Partie législative ancienne](#1)
     - [Livre Ier : Conventions relatives au travail](#2)
@@ -66094,29 +66094,6 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Décret  1913-07-10 ART. 10 a
-
-
-###### Article R233-44
-
-Les règlements d'ateliers doivent interdire aux ouvriers de coucher sur les fours à plâtre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1913-07-10 ART. 10 c
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Abrogé par_:
-
-  - Décret n°80-649 1980-08-07 ART. 1 JORF 15 AOUT
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNESA L'ARTICLE L231-1
 
 
 ##### Section 5 : Mesures d'application.<a id=717></a>
