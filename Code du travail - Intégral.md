@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-12-23
+Version Consolidée au 1978-12-27
 ## Contenu: 
   - [Partie législative ancienne](#1)
     - [Livre Ier : Conventions relatives au travail](#2)
@@ -1348,70 +1348,65 @@ Version Consolidée au 1978-12-23
           - [Section 2 : Du contrat d'apprentissage](#1345)
           - [De l'agrément de l'employeur.](#1346)
           - [De la durée de l'apprentissage.](#1347)
-          - [Du contenu des contrats d'apprentissage.](#1348)
-          - [De l'enregistrement du contrat d'apprentissage.](#1349)
-          - [Cas de l'apprenti employé par un ascendant.](#1350)
-          - [Constatation de l'aptitude de l'apprenti.](#1351)
-          - [Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.](#1352)
-          - [Section 4 : Dispositions financières.](#1353)
-          - [Section 5 : Dispositions provisoires](#1354)
-          - [Paragraphe 1 : Des accords provisoires](#1355)
-          - [Dispositions générales.](#1356)
-          - [Des accords simples.](#1357)
-          - [Des accords de transformation.](#1358)
-          - [Dispositions relatives au personnel.](#1359)
-          - [Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.](#1360)
-        - [Chapitre IV : Salaire](#1361)
-          - [Section 1 : Salaire minimum de croissance.](#1362)
-      - [Titre II : Réglementation du travail](#1363)
-        - [Chapitre II : Services médicaux du travail](#1364)
-          - [Section 1 : Organisation et fonctionnement des services médicaux du travail.](#1365)
-          - [Paragraphe a) Les médecins du travail.](#1366)
-          - [Paragraphe b) Visites d'embauchage.](#1367)
-          - [Paragraphe c) Examens médicaux périodiques des salariés.](#1368)
-          - [Paragraphe d) Visite de reprise.](#1369)
-          - [Paragraphe e) Examens complémentaires.](#1370)
-          - [Paragraphe f) Surveillance de l'hygiène des entreprises.](#1371)
-          - [Section 3 : Infirmiers et infirmières.](#1372)
-          - [Section 4 : Locaux et matériel.](#1373)
-          - [Section 5 : Dispositions particulières.](#1374)
-      - [Titre III : Placement et emploi](#1375)
-        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.](#1376)
-      - [Titre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1377)
-        - [Chapitre Ier : Inspection du travail.](#1378)
-      - [Titre VII : Dispositions particulières à certaines professions](#1379)
-        - [Chapitre Ier : Journalistes professionnels.](#1380)
-    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#1381)
-      - [CONVENTIONS RELATIVES AU TRAVAIL](#1382)
-        - [APPRENTISSAGE](#1383)
-          - [CONTRAT D'APPRENTISSAGE](#1384)
-          - [AGREMENT DE L'EMPLOYEUR .](#1385)
-          - [AVIS D'ORIENTATION .](#1386)
-          - [CONTENU DES CONTRATS D'APPRENTISSAGE .](#1387)
-          - [DISPOSITIONS FINANCIERES .](#1388)
-          - [DISPOSITIONS PROVISOIRES](#1389)
-          - [ACCORDS PROVISOIRES .](#1390)
-          - [ACCORDS DE TRANSFORMATION .](#1391)
-          - [DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS .](#1392)
-    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](#1393)
-      - [Titre Ier : Des institutions de la formation professionnelle](#1394)
-        - [Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.](#1395)
-        - [Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.](#1396)
-      - [Titre IV : De l'aide de l'Etat.](#1397)
-      - [Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18](#1398)
-        - [Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires.](#1399)
-    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1400)
-      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1401)
-        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .](#1402)
-      - [AIDE DE L'ETAT .](#1403)
-    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1404)
-      - [Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1405)
-        - [SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.](#1406)
-  - [Annexes](#1407)
-    - [Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1408)
-      - [Titre 3 : Les comités d'entreprise](#1409)
-        - [Chapitre 8 : Bilan social](#1410)
-          - [Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.](#1411)
+          - [Avis d'orientation](#1348)
+          - [Certificat médical.](#1349)
+          - [Du contenu des contrats d'apprentissage.](#1350)
+          - [De l'enregistrement du contrat d'apprentissage.](#1351)
+          - [Cas de l'apprenti employé par un ascendant.](#1352)
+          - [Constatation de l'aptitude de l'apprenti.](#1353)
+          - [Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.](#1354)
+          - [Section 4 : Dispositions financières.](#1355)
+          - [Section 5 : Dispositions provisoires](#1356)
+          - [Paragraphe 1 : Des accords provisoires](#1357)
+          - [Dispositions générales.](#1358)
+          - [Des accords simples.](#1359)
+          - [Des accords de transformation.](#1360)
+          - [Dispositions relatives au personnel.](#1361)
+          - [Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.](#1362)
+          - [Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.](#1363)
+        - [Chapitre IV : Salaire](#1364)
+          - [Section 1 : Salaire minimum de croissance.](#1365)
+      - [Titre II : Réglementation du travail](#1366)
+        - [Chapitre II : Services médicaux du travail](#1367)
+          - [Section 1 : Organisation et fonctionnement des services médicaux du travail.](#1368)
+          - [Paragraphe a) Les médecins du travail.](#1369)
+          - [Paragraphe b) Visites d'embauchage.](#1370)
+          - [Paragraphe c) Examens médicaux périodiques des salariés.](#1371)
+          - [Paragraphe d) Visite de reprise.](#1372)
+          - [Paragraphe e) Examens complémentaires.](#1373)
+          - [Paragraphe f) Surveillance de l'hygiène des entreprises.](#1374)
+          - [Section 3 : Infirmiers et infirmières.](#1375)
+          - [Section 4 : Locaux et matériel.](#1376)
+          - [Section 5 : Dispositions particulières.](#1377)
+      - [Titre III : Placement et emploi](#1378)
+        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.](#1379)
+      - [Titre VI : Contrôle de l'application de la législation et de la réglementation du travail](#1380)
+        - [Chapitre Ier : Inspection du travail.](#1381)
+      - [Titre VII : Dispositions particulières à certaines professions](#1382)
+        - [Chapitre Ier : Journalistes professionnels.](#1383)
+    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](#1384)
+      - [CONVENTIONS RELATIVES AU TRAVAIL](#1385)
+        - [APPRENTISSAGE](#1386)
+          - [DISPOSITIONS FINANCIERES .](#1387)
+    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](#1388)
+      - [Titre Ier : Des institutions de la formation professionnelle](#1389)
+        - [Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.](#1390)
+        - [Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.](#1391)
+      - [Titre IV : De l'aide de l'Etat.](#1392)
+      - [Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18](#1393)
+        - [Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires.](#1394)
+    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](#1395)
+      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1396)
+        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .](#1397)
+      - [AIDE DE L'ETAT .](#1398)
+    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](#1399)
+      - [Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE](#1400)
+        - [SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.](#1401)
+  - [Annexes](#1402)
+    - [Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](#1403)
+      - [Titre 3 : Les comités d'entreprise](#1404)
+        - [Chapitre 8 : Bilan social](#1405)
+          - [Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.](#1406)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : Conventions relatives au travail<a id=2></a>
@@ -58734,6 +58729,44 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
+###### Article R119-35
+
+La demande d'agrément, prévue à l'article L. 117-5, de l'employeur, accompagnée de l'avis du comité d'entreprise, s'il en
+existe un, est adressée au secrétariat du comité départemental de la formation professionnelle, de la promotion sociale et de
+l'emploi par l'intermédiaire soit de la chambre de métiers, soit de la chambre de commerce et d'industrie, soit de la chambre
+d'agriculture dont relève l'employeur. Cet organisme assure l'instruction de la demande et y joint son avis qui porte
+notamment sur la possibilité pour l'employeur de former simultanément le nombre d'apprentis mentionné par lui.
+
+Les plafonds d'emploi simultané d'apprentis prévu à l'article R. 117-1 sont fixés par le comité départemental de la formation
+professionnelle, de la promotion sociale et de l'emploi après avis soit de la chambre des métiers, soit de la chambre de
+commerce et d'industrie soit de la chambre d'agriculture intéressée.
+
+Ces plafonds sont déterminés par métiers, en tenant compte, d'une part et s'il y a lieu des différents types d'entreprise
+existant dans le métier considéré et, d'autre part, de la relation qui doit être maintenue au sein de l'entreprise ou de
+l'établissement entre le nombre des apprentis et le nombre des personnes qualifiées dans le métier faisant l'objet de la
+formation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+  - Décret n°72-1208 du 27 décembre 1972 - art. 5 ()
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cite_:
+
+  - Code du travail - art. L117-5 (M)
+  - Code du travail - art. R117-1 (M)
+
+_Cité par_:
+
+  - Code du travail - art. R119-36 (M)
+
+
 ###### Article R119-36
 
 L'agrément [*par le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi*] prévu à
@@ -58828,6 +58861,46 @@ _Cite_:
 
   - Code du travail - art. L115-2 (M)
   - Code du travail - art. R117-6 (M)
+
+
+###### Article R119-39
+
+L'employeur doit transmettre les exemplaires originaux du contrat d'apprentissage à la chambre de métiers, à la chambre de
+commerce et d'industrie ou à la chambre d'agriculture dont il relève. La chambre compétente rassemble les contrats de ses
+ressortissants, à charge pour elle de recueillir le visa du directeur du centre de formation d'apprentis valant l'attestation
+de l'inscription de l'apprenti, d'examiner la conformité de ces contrats à la loi et aux règlements et de les soumettre,
+
+avec son avis, à l'enregistrement de la direction départementale du travail et de la main-d'oeuvre, de l'inspection
+départementale des lois sociales en agriculture, ou de l'administration chargée du contrôle de la législation du travail et
+des lois sociales pour les branches d'activité qui ne relèvent pas des directions ou inspections susénoncées.
+
+Les originaux du contrat doivent parvenir au service chargé de l'enregistrement au plus tard dans le délai de deux mois à
+compter de la date du début de l'apprentissage.
+
+Pour tenir compte des circonstances locales, le contrat type mentionné à l'article R. 117-11 prévoit la mention du métier
+pour l'apprentissage duquel le contrat est proposé et celle de l'avis selon le cas de la chambre de commerce et d'industrie,
+
+de la chambre de métiers ou de la chambre d'agriculture.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+  - Décret n°72-1208 du 27 décembre 1972 - art. 9 ()
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cité par_:
+
+  - Décret n°80-912 du 21 novembre 1980 - art. 9 (V)
+  - Code du travail - art. R119-36 (VT)
+
+_Cite_:
+
+  - Code du travail - art. R117-11 (M)
 
 
 ###### Article R119-40
@@ -111334,6 +111407,48 @@ _Cite_:
 
 ##### De l'agrément de l'employeur.<a id=1346></a>
 
+###### Article D811-32
+
+L'agrément prévu à l'article L. 117-5 est demandé par l'employeur au préfet du département du siège de l'entreprise ou de
+l'établissement. Cette demande précise    : 
+
+a) Les nom et prénoms de l'employeur ou la dénomination de l'entreprise quand celle-ci est une société ; 
+
+b) Le nombre de salariés de l'entreprise, autres que les apprentis ; 
+
+c) Les noms et qualifications professionnelles des personnes responsables de la formation des apprentis ; 
+
+d) Le nombre d'apprentis que l'employeur est à même d'accueillir simultanément, dans la limite du plafonnement prévu à
+l'alinéa suivant. 
+
+En vue d'assurer la qualité de la formation pratique donnée aux apprentis, le comité départemental de la formation
+professionnelle, de la promotion sociale et de l'emploi fixe, pour chaque branche professionnelle, un ou des plafonds
+d'emploi simultané d'apprentis, après consultation soit de la chambre de métiers, soit de la chambre de commerce et de
+l'industrie, soit de la chambre d'agriculture intéressée. 
+
+Ces plafonds sont déterminés en tenant compte d'une part, et s'il y a lieu, des différents types d'entreprises existant dans
+la branche considérée, d'autre part de la relation qui doit être maintenue au sein de l'entreprise ou de l'établissement
+entre le nombre des apprentis et le nombre des personnes qualifiées dans le métier faisant l'objet de la formation.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+_Cite_:
+
+  - Code du travail - art. L117-5 (M)
+
+
 ###### Article D811-33
 
 La demande, accompagnée de l'avis du comité d'entreprise, s'il en existe un, est adressée au secrétariat du comité
@@ -111551,7 +111666,89 @@ _Cite_:
   - Code du travail - art. L117-13 (M)
 
 
-##### Du contenu des contrats d'apprentissage.<a id=1348></a>
+##### Avis d'orientation<a id=1348></a>
+
+##### Certificat médical.<a id=1349></a>
+
+###### Article D811-40
+
+Le contrat d'apprentissage doit être accompagné du certificat de la visite médicale d'embauche et de l'avis d'orientation
+[*formalité obligatoire, examen médical*] prévu à l'article L. 117-3 (alinéa 2). Cet avis est délivré, à la suite d'un examen
+individuel, par un centre public d'information et d'orientation ou par un centre créé en application de l'article 39 du code
+de l'artisanat. Il porte notamment sur l'aptitude de l'apprenti à suivre la formation envisagée.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+_Cité par_:
+
+  - Code du travail - art. D811-42 (M)
+
+_Cite_:
+
+  - Code du travail L117-3 AL. 2
+  - Code de l'artisanat - art. 39 (M)
+
+
+##### Du contenu des contrats d'apprentissage.<a id=1350></a>
+
+###### Article D811-41
+
+Le contrat d'apprentissage fait l'objet d'un écrit sous seing privé établi en trois [*nombre*] exemplaires originaux. Chacun
+des exemplaires originaux doit être signé par l'employeur, par l'apprenti ainsi que par le représentant légal de celui-ci
+[*conditions de forme*].
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+###### Article D811-42
+
+Le contrat d'apprentissage doit contenir les stipulations et indications obligatoires contenues dans le contrat type annexé
+au présent titre (1).
+
+(1) Le contrat type est publié au Journal officiel (NC) de ce jour.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+_Cité par_:
+
+  - Code du travail - art. D811-47 (Ab)
+
 
 ###### Article D811-43
 
@@ -111590,7 +111787,7 @@ _Cite_:
   - Code du travail - art. D811-55 (Ab)
 
 
-##### De l'enregistrement du contrat d'apprentissage.<a id=1349></a>
+##### De l'enregistrement du contrat d'apprentissage.<a id=1351></a>
 
 ###### Article D811-44
 
@@ -111694,7 +111891,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Cas de l'apprenti employé par un ascendant.<a id=1350></a>
+##### Cas de l'apprenti employé par un ascendant.<a id=1352></a>
 
 ###### Article D811-47
 
@@ -111760,7 +111957,7 @@ _Cite_:
   - Code du travail - art. D811-45 (Ab)
 
 
-##### Constatation de l'aptitude de l'apprenti.<a id=1351></a>
+##### Constatation de l'aptitude de l'apprenti.<a id=1353></a>
 
 ###### Article D811-49
 
@@ -111821,7 +112018,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.<a id=1352></a>
+##### Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.<a id=1354></a>
 
 ###### Article D811-51
 
@@ -111882,7 +112079,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Section 4 : Dispositions financières.<a id=1353></a>
+##### Section 4 : Dispositions financières.<a id=1355></a>
 
 ###### Article D811-53
 
@@ -112130,11 +112327,11 @@ _Cité par_:
   - Code du travail - art. D811-80 (Ab)
 
 
-##### Section 5 : Dispositions provisoires<a id=1354></a>
+##### Section 5 : Dispositions provisoires<a id=1356></a>
 
-##### Paragraphe 1 : Des accords provisoires<a id=1355></a>
+##### Paragraphe 1 : Des accords provisoires<a id=1357></a>
 
-##### Dispositions générales.<a id=1356></a>
+##### Dispositions générales.<a id=1358></a>
 
 ###### Article D811-61
 
@@ -112171,6 +112368,80 @@ _Cite_:
   - Code du travail D811-1 A D811-80
 
 
+###### Article D811-62
+
+Les accords provisoires conclus par le préfet de département ont pour objet d'habiliter les organismes mentionnés à l'article
+ci-dessus à accueillir les apprentis ayant souscrit un contrat d'apprentissage avant une date qui sera fixée par chaque
+accord et qui ne pourra être postérieure au 1er octobre 1979 [*date limite*].
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+_Cite_:
+
+  - Code du travail - art. D811-61 (Ab)
+
+
+###### Article D811-63
+
+Les accords provisoires peuvent être soit des accords simples, soit des accords de transformation.
+
+Les accords simples prévoient et organisent le maintien du fonctionnement de cours professionnels ou d'autres organismes de
+formation en attendant la mise en place d'un centre de formation d'apprentis susceptible d'accueillir les apprentis du
+secteur intéressé.
+
+Les accords de transformation prévoient la conclusion, avant le 1er octobre 1979, d'une convention comportant la
+transformation d'un ou de plusieurs cours professionnels, ou organismes de formation préexistants, en un centre de formation
+d'apprentis, ou l'intégration desdits cours ou organismes dans un centre de formation d'apprentis déjà créé ou en cours de
+création.
+
+Dans l'attente de la conclusion de l'un de ces accords, ou de la convention régie par les dispositions de la section I du
+présent chapitre, les organismes visés à l'article D. 811-61 peuvent être autorisés pour la période du 1er octobre 1973 au 30
+juin 1974 à continuer la formation des apprentis selon les mêmes modalités que pendant l'année scolaire 1972-1973.
+
+La demande d'autorisation doit être adressée au préfet de département avant le 1er octobre 1973 [*date limite*].
+L'autorisation est réputée accordée si une décision de refus n'a pas été notifiée au demandeur dans le mois suivant la
+réception de cette demande.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+_Cite_:
+
+  - Code du travail - art. D811-61 (Ab)
+  - Code du travail D811-1 A D811-50, D811-61
+
+
 ###### Article D811-64
 
 Le préfet peut dénoncer les accords provisoires [*sanction*] , après mise en demeure non suivie d'effet, pour méconnaissance
@@ -112201,7 +112472,7 @@ _Cite_:
   - Code du travail - art. D811-31 (Ab)
 
 
-##### Des accords simples.<a id=1357></a>
+##### Des accords simples.<a id=1359></a>
 
 ###### Article D811-65
 
@@ -112299,7 +112570,43 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Des accords de transformation.<a id=1358></a>
+##### Des accords de transformation.<a id=1360></a>
+
+###### Article D811-68
+
+L'accord de transformation définit les conditions dans lesquelles les cours ou organismes de formation sont appelés à une
+date fixée par ledit accord et qui ne peut être postérieure au 1er octobre 1979 [*date limite*] :
+
+Soit à être transformés en centres de formation d'apprentis ;
+
+Soit à être intégrés dans un ou des centres déjà créés ou à créer.
+
+Dans ce dernier cas, le ou les organismes signataires de l'accord s'engagent soit à passer avec le ou les gestionnaires de ce
+ou de ces centres une convention organisant cette intégration, soit à participer à la constitution du ou des organismes
+gestionnaires du ou des nouveaux centres.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+_Cité par_:
+
+  - Code du travail - art. D811-78 (Ab)
+
 
 ###### Article D811-69
 
@@ -112446,7 +112753,7 @@ _Cite_:
   - Code du travail D811-14 A D811-16
 
 
-##### Dispositions relatives au personnel.<a id=1359></a>
+##### Dispositions relatives au personnel.<a id=1361></a>
 
 ###### Article D811-74
 
@@ -112617,7 +112924,41 @@ _Cite_:
   - Code du travail - art. D811-74 (Ab)
 
 
-##### Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.<a id=1360></a>
+##### Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.<a id=1362></a>
+
+###### Article D811-79
+
+A compter du 1er octobre 1973 et jusqu'au 1er octobre 1979 [*période*] les employeurs ne pourront souscrire des contrats
+d'apprentissage que s'ils ont [*condition*] préalablement déposé la demande d'agrément prévue à l'article L. 117-5.
+
+Le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi devra statuer sur cette
+demande dans le délai d'un an. Eventuellement, en cas de refus d'agrément, il précisera si les contrats en cours peuvent être
+exécutés jusqu'à leur terme.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+_Cite_:
+
+  - Code du travail - art. L117-5 (M)
+
+
+##### Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.<a id=1363></a>
 
 ###### Article D811-80
 
@@ -112657,9 +112998,9 @@ _Cite_:
   - Code du travail D811-57 a , D811-59, D811-60
 
 
-#### Chapitre IV : Salaire<a id=1361></a>
+#### Chapitre IV : Salaire<a id=1364></a>
 
-##### Section 1 : Salaire minimum de croissance.<a id=1362></a>
+##### Section 1 : Salaire minimum de croissance.<a id=1365></a>
 
 ###### Article D814-1
 
@@ -112683,11 +113024,11 @@ _Cite_:
   - Code du travail
 
 
-### Titre II : Réglementation du travail<a id=1363></a>
+### Titre II : Réglementation du travail<a id=1366></a>
 
-#### Chapitre II : Services médicaux du travail<a id=1364></a>
+#### Chapitre II : Services médicaux du travail<a id=1367></a>
 
-##### Section 1 : Organisation et fonctionnement des services médicaux du travail.<a id=1365></a>
+##### Section 1 : Organisation et fonctionnement des services médicaux du travail.<a id=1368></a>
 
 ###### Article D822-1
 
@@ -112945,7 +113286,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe a) Les médecins du travail.<a id=1366></a>
+##### Paragraphe a) Les médecins du travail.<a id=1369></a>
 
 ###### Article D822-10
 
@@ -113015,7 +113356,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe b) Visites d'embauchage.<a id=1367></a>
+##### Paragraphe b) Visites d'embauchage.<a id=1370></a>
 
 ###### Article D822-12
 
@@ -113066,7 +113407,7 @@ _Cité par_:
   - Code du travail - art. D822-20 (Ab)
 
 
-##### Paragraphe c) Examens médicaux périodiques des salariés.<a id=1368></a>
+##### Paragraphe c) Examens médicaux périodiques des salariés.<a id=1371></a>
 
 ###### Article D822-13
 
@@ -113097,7 +113438,7 @@ _Cité par_:
   - Code du travail - art. D822-20 (Ab)
 
 
-##### Paragraphe d) Visite de reprise.<a id=1369></a>
+##### Paragraphe d) Visite de reprise.<a id=1372></a>
 
 ###### Article D822-14
 
@@ -113122,7 +113463,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe e) Examens complémentaires.<a id=1370></a>
+##### Paragraphe e) Examens complémentaires.<a id=1373></a>
 
 ###### Article D822-15
 
@@ -113168,7 +113509,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe f) Surveillance de l'hygiène des entreprises.<a id=1371></a>
+##### Paragraphe f) Surveillance de l'hygiène des entreprises.<a id=1374></a>
 
 ###### Article D822-17
 
@@ -113319,7 +113660,7 @@ _Cite_:
   - Loi   1964-10-30 ART. 73
 
 
-##### Section 3 : Infirmiers et infirmières.<a id=1372></a>
+##### Section 3 : Infirmiers et infirmières.<a id=1375></a>
 
 ###### Article D822-22
 
@@ -113442,7 +113783,7 @@ _Cite_:
   - Code du travail - art. D822-22 (Ab)
 
 
-##### Section 4 : Locaux et matériel.<a id=1373></a>
+##### Section 4 : Locaux et matériel.<a id=1376></a>
 
 ###### Article D822-26
 
@@ -113491,7 +113832,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Section 5 : Dispositions particulières.<a id=1374></a>
+##### Section 5 : Dispositions particulières.<a id=1377></a>
 
 ###### Article D822-27
 
@@ -113514,9 +113855,9 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-### Titre III : Placement et emploi<a id=1375></a>
+### Titre III : Placement et emploi<a id=1378></a>
 
-#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=1376></a>
+#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=1379></a>
 
 ###### Article D831-1
 
@@ -113546,9 +113887,9 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. R341-8 (M)
 
 
-### Titre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1377></a>
+### Titre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1380></a>
 
-#### Chapitre Ier : Inspection du travail.<a id=1378></a>
+#### Chapitre Ier : Inspection du travail.<a id=1381></a>
 
 ###### Article D861-1
 
@@ -113570,9 +113911,9 @@ _Nouveaux textes_:
   - Code du travail - art. D8322-1 (V)
 
 
-### Titre VII : Dispositions particulières à certaines professions<a id=1379></a>
+### Titre VII : Dispositions particulières à certaines professions<a id=1382></a>
 
-#### Chapitre Ier : Journalistes professionnels.<a id=1380></a>
+#### Chapitre Ier : Journalistes professionnels.<a id=1383></a>
 
 ###### Article D871-1
 
@@ -113594,149 +113935,13 @@ _Cite_:
   - Code du travail - art. R761-4
 
 
-## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1381></a>
+## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1384></a>
 
-### CONVENTIONS RELATIVES AU TRAVAIL<a id=1382></a>
+### CONVENTIONS RELATIVES AU TRAVAIL<a id=1385></a>
 
-#### APPRENTISSAGE<a id=1383></a>
+#### APPRENTISSAGE<a id=1386></a>
 
-##### CONTRAT D'APPRENTISSAGE<a id=1384></a>
-
-##### AGREMENT DE L'EMPLOYEUR .<a id=1385></a>
-
-###### Article D811-32
-
-L'agrément prévu à l'article L. 117-5 est demandé par l'employeur au préfet du département du siège de l'entreprise ou de
-l'établissement. Cette demande [*contenu*] précise notamment :
-
-Le nombre d'apprentis que l'employeur est susceptible d'accueillir simultanément ;
-
-Sur la base d'une liste établie par le comité départemental de la formation professionnelle, de la promotion sociale et de
-l'emploi, les éléments de nature à établir que l'équipement de l'entreprise, ses techniques d'exploitation et les conditions
-d'emploi de la main-d'oeuvre sont susceptibles de permettre,
-
-dans des conditions satisfaisantes, la formation pratique des apprentis ;
-
-Les noms et qualifications professionnelles de la ou des personnes responsables de la formation des apprentis.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-576 1971-07-16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Cite_:
-
-  - Code du travail - art. L117-5 (M)
-
-
-##### AVIS D'ORIENTATION .<a id=1386></a>
-
-###### Article D811-40
-
-L'avis d'orientation [*contenu*] prévu par l'article L. 117-3 (alinéa 2) est délivré, à la suite d'un examen individuel, par
-un centre public d'information et d'orientation ou par un centre créé en application de l'article 39 du code de l'artisanat.
-Il porte notamment sur l'aptitude de l'apprenti à suivre la formation envisagée. Il doit être accompagné d'un certificat
-établi par le médecin du centre ou par un médecin du travail ou de la santé scolaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-576 1971-07-16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Cité par_:
-
-  - Code du travail - art. D811-42 (M)
-
-_Cite_:
-
-  - Code du travail L117-3 AL.  2
-  - Code de l'artisanat - art. 39 (M)
-
-
-##### CONTENU DES CONTRATS D'APPRENTISSAGE .<a id=1387></a>
-
-###### Article D811-41
-
-Le contrat d'apprentissage est constaté par un écrit sous seing privé et est établi au moins en trois exemplaires originaux
-[*nombre minimum*]. Chacun des exemplaires originaux doit être signé par l'employeur et par l'apprenti ainsi que par le
-représentant légal de celui-ci [*condition de forme*] .
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-576 1971-07-16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-
-###### Article D811-42
-
-Doivent obligatoirement figurer dans le contrat d'apprentissage les mentions suivantes :
-
-Les nom et prénoms de l'employeur ou la raison sociale de l'entreprise, l'adresse du siège de l'entreprise et celle de
-l'établissement où s'effectue l'apprentissage ;
-
-La désignation de la formation assurée par la mention du diplôme de l'enseignement technologique auquel conduit cette
-formation ;
-
-La date de l'agrément accordé par le comité départemental de la formation professionnelle, de la promotion sociale et de
-l'emploi ;
-
-Les nom, prénoms, date de naissance et domicile de l'apprenti ;
-
-Les nom, prénoms, domicile de ses père et mère ou de son représentant légal ;
-
-La désignation de l'organisme qui a délivré l'avis d'orientation prévu à l'article D. 811-40 ;
-
-La mention du dernier établissement scolaire fréquenté et la date de fin des études ;
-
-La date de début de l'apprentissage et la durée du contrat ;
-
-La dénomination et l'adresse du centre de formation d'apprentis auquel a été inscrit le titulaire du contrat ainsi que
-l'identification de la section assurant la formation définie au contrat ;
-
-Lorsqu'une dérogation a été demandée en application de l'article D. 811-39, l'indication de la date de la décision intervenue
-ou, en cas de décision implicite, de celle à laquelle la demande de dérogation a été reçue par l'autorité désignée audit
-article ;
-
-Lorsque le contrat constitue la prorogation d'un contrat antérieur, la date de l'avis circonstancié du directeur du centre de
-formation d'apprentis que prévoit l'article L. 117-9.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-576 1971-07-16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Cite_:
-
-  - Code du travail - art. D811-39 (Ab)
-  - Code du travail - art. D811-40 (M)
-  - Code du travail - art. L117-9 (M)
-
-_Cité par_:
-
-  - Code du travail - art. D811-47 (Ab)
-
-
-##### DISPOSITIONS FINANCIERES .<a id=1388></a>
+##### DISPOSITIONS FINANCIERES .<a id=1387></a>
 
 ###### Article D811-52
 
@@ -113792,129 +113997,11 @@ _Cite_:
   - Code du travail - art. L117-9 (M)
 
 
-##### DISPOSITIONS PROVISOIRES<a id=1389></a>
+## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1388></a>
 
-##### ACCORDS PROVISOIRES .<a id=1390></a>
+### Titre Ier : Des institutions de la formation professionnelle<a id=1389></a>
 
-###### Article D811-62
-
-Les accords provisoires conclus par le préfet de département ont pour objet d'habiliter les organismes mentionnés à l'article
-ci-dessus à accueillir les apprentis ayant souscrit un contrat d'apprentissage avant une date qui sera fixée par chaque
-accord et qui ne pourra être postérieure au 1er octobre 1977 [*date limite*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-576 1971-07-16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Cite_:
-
-  - Code du travail - art. D811-61 (Ab)
-
-
-###### Article D811-63
-
-Les accords provisoires peuvent être soit des accords simples, soit des accords de transformation.
-
-Les accords simples prévoient et organisent le maintien du fonctionnement de cours professionnels ou d'autres organismes de
-formation en attendant la mise en place d'un centre de formation d'apprentis susceptible d'accueillir les apprentis du
-secteur intéressé.
-
-Les accords de transformation prévoient la conclusion, avant le 1er octobre 1977, d'une convention comportant la
-transformation d'un ou de plusieurs cours professionnels, ou organismes de formation préexistants, en un centre de formation
-d'apprentis, ou l'intégration desdits cours ou organismes dans un centre de formation d'apprentis déjà créé ou en cours de
-création.
-
-Dans l'attente de la conclusion de l'un de ces accords, ou de la convention régie par les dispositions de la section I du
-présent chapitre, les organismes visés à l'article D. 811-61 peuvent être autorisés pour la période du 1er octobre 1973 au 30
-juin 1974 à continuer la formation des apprentis selon les mêmes modalités que pendant l'année scolaire 1972-1973.
-
-La demande d'autorisation doit être adressée au préfet de département avant le 1er octobre 1973 [*date limite*].
-L'autorisation est réputée accordée si une décision de refus n'a pas été notifiée au demandeur dans le mois suivant la
-réception de cette demande.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-576 1971-07-16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Cite_:
-
-  - Code du travail - art. D811-61 (Ab)
-  - Code du travail D811-1 A D811-50, D811-61
-
-
-##### ACCORDS DE TRANSFORMATION .<a id=1391></a>
-
-###### Article D811-68
-
-L'accord de transformation définit les conditions dans lesquelles les cours ou organismes de formation sont appelés à une
-date fixée par ledit accord et qui ne peut être postérieure au 1er octobre 1977 [*date limite*] :
-
-Soit à être transformés en centres de formation d'apprentis ;
-
-Soit à être intégrés dans un ou des centres déjà créés ou à créer.
-
-Dans ce dernier cas, le ou les organismes signataires de l'accord s'engagent soit à passer avec le ou les gestionnaires de ce
-ou de ces centres une convention organisant cette intégration, soit à participer à la constitution du ou des organismes
-gestionnaires du ou des nouveaux centres.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-576 1971-07-16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Cité par_:
-
-  - Code du travail - art. D811-78 (Ab)
-
-
-##### DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS .<a id=1392></a>
-
-###### Article D811-79
-
-A compter du 1er octobre 1973 et jusqu'au 1er octobre 1977 [*période*] les employeurs ne pourront souscrire des contrats
-d'apprentissage que s'ils ont [*condition*] préalablement déposé la demande d'agrément prévue à l'article L. 117-5.
-
-Le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi devra statuer sur cette
-demande dans le délai d'un an. Eventuellement, en cas de refus d'agrément, il précisera si les contrats en cours peuvent être
-exécutés jusqu'à leur terme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-576 1971-07-16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Cite_:
-
-  - Code du travail - art. L117-5 (M)
-
-
-## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1393></a>
-
-### Titre Ier : Des institutions de la formation professionnelle<a id=1394></a>
-
-#### Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=1395></a>
+#### Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=1390></a>
 
 ###### Article D910-7
 
@@ -114495,7 +114582,7 @@ _Cité par_:
   - Code de l'éducation - art. D251-8 (M)
 
 
-#### Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.<a id=1396></a>
+#### Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.<a id=1391></a>
 
 ###### Article D910-22
 
@@ -114663,7 +114750,7 @@ _Abrogé par_:
   - Décret n°95-328 du 20 mars 1995 - art. 3 () JORF 25 mars 1995
 
 
-### Titre IV : De l'aide de l'Etat.<a id=1397></a>
+### Titre IV : De l'aide de l'Etat.<a id=1392></a>
 
 ###### Article D940-1
 
@@ -114785,9 +114872,9 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-### Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18<a id=1398></a>
+### Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18<a id=1393></a>
 
-#### Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires.<a id=1399></a>
+#### Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires.<a id=1394></a>
 
 ###### Article D981-1
 
@@ -114943,11 +115030,11 @@ _Cite_:
   - Code du travail R960-11 A R960-14
 
 
-## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1400></a>
+## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1395></a>
 
-### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1401></a>
+### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1396></a>
 
-#### ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .<a id=1402></a>
+#### ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .<a id=1397></a>
 
 ###### Article D910-1
 
@@ -115096,7 +115183,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-### AIDE DE L'ETAT .<a id=1403></a>
+### AIDE DE L'ETAT .<a id=1398></a>
 
 ###### Article D940-5
 
@@ -115122,11 +115209,11 @@ _Cite_:
   - Code du travail - art. D940-2 (V)
 
 
-## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1404></a>
+## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1399></a>
 
-### Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1405></a>
+### Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1400></a>
 
-#### SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.<a id=1406></a>
+#### SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.<a id=1401></a>
 
 ###### Article D910-2
 
@@ -115185,15 +115272,15 @@ _Anciens textes_:
   - Décret n°70-827 1970-09-16 ART. 2
 
 
-# Annexes<a id=1407></a>
+# Annexes<a id=1402></a>
 
-## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1408></a>
+## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1403></a>
 
-### Titre 3 : Les comités d'entreprise<a id=1409></a>
+### Titre 3 : Les comités d'entreprise<a id=1404></a>
 
-#### Chapitre 8 : Bilan social<a id=1410></a>
+#### Chapitre 8 : Bilan social<a id=1405></a>
 
-##### Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.<a id=1411></a>
+##### Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.<a id=1406></a>
 
 ###### Article Annexe à l'article R438-1
 
