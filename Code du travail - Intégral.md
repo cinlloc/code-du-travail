@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-07-13
+Version Consolidée au 1982-08-05
 ## Contenu: 
   - [Partie législative ancienne](#1)
     - [Livre Ier : Conventions relatives au travail](#2)
@@ -92047,7 +92047,7 @@ _Cité par_:
 
 ###### Article R513-11
 
-En vue de l'établissement de la liste électorale, chaque employeur adresse au plus tard le 31 juillet de l'année de
+En vue de l'établissement de la liste électorale, chaque employeur adresse au plus tard le 10 septembre de l'année de
 l'élection générale, aux maires compétents, des états distincts énumérant respectivement :
 
 - les cadres qui sont électeurs employeurs au sens du cinquième alinéa de l'article L. 513-1 du code du travail, avec
@@ -92058,7 +92058,7 @@ l'indication de la section dans laquelle ils sont inscrits ;
 - les autres salariés.
 
 Toutefois, par dérogation à l'alinéa précédent, lorsque les salariés recensés par l'employeur exercent leurs activités dans
-plusieurs communes ou lorsqu'ils travaillent en dehors de tout établissement, leurs noms sont portés sur des états distincts.
+plusieurs communes ou lorsqu'ils travaillent en dehors de tout établissement, leurs noms sont portés sur ces états distincts.
 
 Sont portés sur un état distinct les salariés qui déclarent dépendre de plusieurs employeurs. Sont présumés dépendre de
 plusieurs employeurs, sauf déclaration contraire de leur part, les salariés qui travaillent moins de vingt heures par semaine
@@ -92072,10 +92072,6 @@ Lorsque l'entreprise comprend plusieurs établissements les états mentionnés a
 _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
 
 _Cité par_:
 
@@ -92093,6 +92089,10 @@ _Cité par_:
   - Code du travail - art. R513-18 (M)
   - Code du travail - art. R513-30 (Ab)
   - Code du travail - art. R531-1 (VT)
+
+_Modifié par_:
+
+  - Décret n°82-687 du 30 juillet 1982 - art. 1 (V) JORF 5 AOUT 1982
 
 _Cite_:
 
@@ -92178,8 +92178,8 @@ _Cite_:
 
 ###### Article R513-14
 
-Les états et les observations mentionnés à l'article R. 513-12 doivent être adressés au plus tard le 31 juillet de l'année de
-l'élection générale [*date limite*] aux maires compétents :
+Les états et les observations mentionnés à l'article R. 513-12 doivent être adressés au plus tard le 10 septembre de l'année
+de l'élection générale [*date limite*] aux maires compétents :
 
 S'il s'agit des états mentionnés au premier alinéa de l'article R. 513-11, au maire de la commune dans le ressort de laquelle
 l'entreprise ou l'établissement a son siège [*autorité compétente*] ;
@@ -92195,7 +92195,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+  - Décret n°82-687 du 30 juillet 1982 - art. 1 (V) JORF 5 AOUT 1982
 
 _Cité par_:
 
@@ -92216,7 +92216,7 @@ _Cite_:
 
 ###### Article R513-15
 
-Chaque employeur adresse, au plus tard le 31 juillet de l'année de l'élection générale [*date limite*], au maire de la
+Chaque employeur adresse, au plus tard le 10 septembre de l'année de l'élection générale [*date limite*], au maire de la
 commune où il exerce son activité professionnelle principale un état en vue de sa propre inscription. Il précise la section
 dont il relève.
 
@@ -92233,10 +92233,6 @@ _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
 
-_Modifié par_:
-
-  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
-
 _Cité par_:
 
   - Décret n°82-491 du 9 juin 1982 - art. 1 (V)
@@ -92247,6 +92243,10 @@ _Cité par_:
   - Code du travail - art. R513-16 (M)
   - Code du travail - art. R513-18 (M)
   - Code du travail - art. R513-30 (M)
+
+_Modifié par_:
+
+  - Décret n°82-687 du 30 juillet 1982 - art. 1 (V) JORF 5 AOUT 1982
 
 _Cite_:
 
@@ -92285,8 +92285,8 @@ _Cité par_:
 ###### Article R513-17
 
 Les salariés involontairement privés d'emploi [*chômeurs*] au 31 mai de l'année de l'élection générale demandent, au plus
-tard le 31 juillet de cette même année [*date limite*], leur inscription sur la liste électorale de la mairie du lieu de leur
-domicile.
+tard le 10 septembre de cette même année [*date limite*], leur inscription sur la liste électorale de la mairie du lieu de
+leur domicile.
 
 A cet effet, ils joignent, à leur demande présentée sur un état particulier, leur dernier bulletin de paie ou indiquent,
 
@@ -92301,10 +92301,6 @@ _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
 
-_Créé par_:
-
-  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
-
 _Cité par_:
 
   - Décret n°82-491 du 9 juin 1982 - art. 1 (V)
@@ -92316,6 +92312,10 @@ _Cité par_:
   - Code du travail - art. R513-16 (M)
   - Code du travail - art. R513-18 (M)
   - Code du travail - art. R513-30 (Ab)
+
+_Modifié par_:
+
+  - Décret n°82-687 du 30 juillet 1982 - art. 1 (V) JORF 5 AOUT 1982
 
 
 ###### Article R513-18
